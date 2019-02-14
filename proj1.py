@@ -13,13 +13,13 @@ def filter(toFilter):
 class wordTrack:
     def __init__(self, wordAdd, wordNum):
         self.word = wordAdd
-        self.num = wordNum
+        self.num = int(wordNum)
     def __lt__(self, other):
         return self.num < other.num
     def __repr__(self):
-        return (self.word + " : " + self.num)
+        return (self.word + " : " + str(self.num))
     def __str__(self):
-        return (self.word+ " : " + self.num)
+        return (self.word+ " : " + str(self.num))
 
 class wordList:
     def __init__(self):
@@ -47,7 +47,7 @@ allText = ""
 seperators = [' ', ',', '.', '?', '!', ':', '(', ')', '[', ']', ';', '@', '+', '-','"']
 stopFile = open("stopWords.txt", 'r')
 tempStop = stopFile.read()
-stopWords = tempStop.split()
+stopWords = set(tempStop.split())
 stopFile.close()
 #print(stopWords)
 table = str.maketrans({key: " " for key in string.punctuation})
@@ -90,22 +90,23 @@ for i in dirs1:
 allText = allText.translate(table)
 allText = allText.lower()
 tokens = nltk.tokenize.word_tokenize(allText)
+filteredTokens = []
 for x in tokens:
-    #if x in stopWords or x in string.punctuation:
-    #    tokens.remove(x)
+    if x not in stopWords:
+        x = porter.stem(x)
+        filteredTokens.append(x)
     #else:
     #    x = porter.stem(x)
     #    x = x.lower()
     #    print(x)
-    x = porter.stem(x)
-freq = nltk.FreqDist(tokens)
+freq = nltk.FreqDist(filteredTokens)
 wordList = []
 for key,val in freq.items():
     wordList.append(wordTrack(str(key), str(val)))
     #print(str(key) + ':' + str(val)
+wordList = sorted(wordList)
 for x in wordList:
     print(x)
-wordList.sort()
 #print(wordList)
 #for x in wordList
 #allWords.print()
