@@ -1,0 +1,143 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:31:08 GMT
+Content-Type: text/html
+Content-Length: 2297
+Last-Modified: Thursday, 31-Oct-96 05:28:42 GMT
+
+
+
+Transaction Server - Bart
+
+
+
+
+Transaction Server
+
+
+Libby Lin, Sunil Srivastava, Eric Vitrano
+
+
+Write-Up:  1
+
+Goal:
+
+
+The goal of our project is to create a fault tolerant Transaction Server 
+for multiple clients using TCPIP as the basis for communication.    
+
+
+
+Interfaces:
+
+
+We will be providing service to the ECash Application, who will be using our function
+stubs, and we will be using the services of Stable Storage, Encryption and possibly 
+Private Email.
+
+
+
+Schedule:
+
+
+The schedule with appropriate methods for achieving the desired goals is as follows :
+
+
+
+
+
+
+Week
+
+
+Goals
+
+
+Methods
+
+
+
+
+1.
+
+
+Single Client and Single Server
+
+Fault Tolerance.
+
+
+2 or 3 Phase Commit.
+TCPIP with encryption layered on top of it.
+
+
+
+
+2.
+
+
+Multiple Client and Single Server
+
+
+
+Forking on the Server side.
+
+
+
+
+3.
+
+
+Multiple Client and Multiple Server
+
+
+
+Randomized load balancing on the client's side.
+i.e. Clients will randomly choose a Transaction Server.
+
+
+
+
+4.
+
+
+Testing/Debugging.  *
+
+
+
+
+
+
+
+5.
+
+
+Preparation for Presentation.  *
+
+
+
+
+
+
+* If time permits, we may implement a Private Email communication with
+ECash.
+
+
+
+Design Decisions:
+
+
+Communication Protocol - TCPIP was chosen to be the communication protocol between our
+function stubs and transaction servers because SSL is not fully standardized, and may have legal problems
+with RSA.  Privte Email is our secondary choice because of excessive overhead, but may be implemented
+later to provide a higher degree of service.
+
+
+
+References:
+
+
+Dale Skeen and Michael Stonebraker.  A Formal Model Crash Recovery in a Distributed System. IEEE Transaction of Software Engineering, May 1983.
+
+
+
+

@@ -1,0 +1,67 @@
+Date: Tue, 10 Dec 1996 03:21:33 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+The Chaos Router Simulator
+
+
+ 
+ The Chaos Router Simulator
+
+ 
+
+
+
+The Chaos Router Simulator simulates a detailed model of k-ary n-cube
+networks.  These include such common topologies as multi-dimensional mesh
+and torus networks and hypercube networks.  It supports both packet- and wormhole-switched
+networks, and routes packets using either Chaotic adaptive routing or
+dimension-order oblivious routing using a variety of traffic patterns.
+
+In batch mode, the simulator runs until the statistics collected converge.  
+Statistics are reported on throughput, latency, and many other interesting
+aspects of the simulation.  Networks of arbitrary dimension can be simulated.  However,
+because the simulations are detailed, networks of more than 4096 nodes require
+a very long time to simulate.  (There are  exceptions to this.)
+
+In animated mode, real-time  animation   of the progress of the simulation is displayed.
+A graphical user-interface is provided which allows run-time choices of 
+many simulation details.  This can be really interesting to watch, and must be seen to
+be believed!
+
+ 
+ Getting your own copy 
+
+The Chaos Router Simulator is available via anonymous ftp from
+
+shrimp.cs.washington.edu.  To get your own copy, get the
+files 
+INSTALL  and 
+chaosSim.tar.Z .  Copy both of these to the directory you'd like the simulator to appear
+in, and type "INSTALL."  Move into the "chaosSim" directory and enter "configSim" to create
+a simulator executable.  This will appear in the "bin" directory, and can be executed directly.
+
+
+Sample binaries for 
+
+Alpha  and 
+
+MIPS  and 
+Sparc  machines are available.
+
+
+ Requirements:  The simulator is known to work under unix-like operating
+systems on DEC AXP (Alpha) workstations, Sun Sparcs, and DECstations (MIPS) using X-windows.
+The graphical interface requires the Motif extensions to X-windows.  The defaults are to
+compile the program using "gcc", but "cc" should work as well.
+
+
+ Back to the Chaotic Routing Home Page 
+
+
+
+kwb@cs.washington.edu
+
+

@@ -1,0 +1,112 @@
+Date: Mon, 11 Nov 1996 17:57:22 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 30 Apr 1996 23:02:58 GMT
+Content-length: 6953
+
+
+
+CS 110 Section 2 - Program #4
+
+
+ Program #4 - Array of Numbers
+
+
+Due Date:
+   Friday 5/10/96, 1:00 pm
+Grade:
+   25% of your final grade.
+Text Covered:
+   Chp. 1, 2, 3, 4, 6 and 7.
+Problem Description:
+   For this program you will read in a list of 10 INTEGER values from the user, entered one per line.  These values will be read into an array of integers. After reading in all the numbers your program will perform a series of operations on the array.  The operations that you will implement are:
+
+Find the minimum and maximum value in the array.
+Count the number of prime numbers in the array. That is, how many numbers are only divisible by themselves and 1.
+Print whether the array is in strictly ascending or descending order, or neither.  That is, check each adjacent pair of numbers in the array to see if they are in order.
+
+
+This assignment uses user-defined functions and user-defined subroutines (Chp 6) and one-dimensional arrays (Chp 7).  All the input will be read from the keyboard and the results will be written directly to the screen (i.e. no files).
+Example:
+   If the user enters the following 10 INTEGER values
+
+	14
+	9
+	5
+	21
+	35
+	10
+	16
+	11
+	66
+	65
+
+
+then your program should display (hint: use this to check your results)
+
+	The minimum value is   5
+	The maximum value is  66
+	There are  2 prime numbers
+	The numbers are neither ascending nor descending
+
+
+Program Design:
+
+To find the minimum and maximum number in the array, assume the first number in the array is the current min/max and then go through the rest of the array and compare each number with the current min/max and re-assign these values accordingly (e.g. similar to finding the minimum time in Program #2).  Note: the numbers can be both positive and negative INTEGERs.
+
+To count the number of primes go through the array and for each number check to see if it is a prime number or not; i.e. see if any value besides 1 and the number itself evenly divides into it.  If the number turns out to be prime then increment a counter accordingly.
+
+To determine if the list of numbers is in strictly ascending or descending order, go through each pair of numbers in the array.  If the second number is greater than or equal to the first then the list must necessarily not be in descending order. If the second number is less than or equal to the first then the list must necessarily not be in ascending order. Not: it only takes one pair of numbers in the wrong order to make the whole list not ascending/descending.
+Program Structure:
+   Your program must first read in the 10 numbers into a one-dimensional array using a DO loop.  After reading in the array then pass the array to the relevant user-defined function/subroutine to calculate the results.  Each operation will be performed by a separate user-defined function/subroutine.  They are:
+
+MINMAX:
+   Find the minimum and maximum value in the array.  This subroutine is passed in the array of integers and passes out both the minimum and maximum value.
+PRIME:
+   Counts the number of prime numbers in the array. This function is passed in the array of integers and returns the total number of primes.
+UPDOWN:
+   Determines whether the array is in strictly ascending order, strictly descending order or neither.  Note: two adjacent numbers that are the same are not considered ascending nor descending.  This function is passed in the array of integers and returns whether the numbers are ascending, descending or neither.
+
+
+
+  I suggest writing the MINMAX function first because it is the easiest, then PRIME which is a little harder, and finally UPDOWN because it requires the most thought.  Once you have debugged each function/subroutine and got it working then move on to the next one.  Don't attempt to write everything and debug it all at once; instead do it one piece at a time.  This one of the biggest advantages of writing user-defined functions and subroutines!
+What to Hand In:
+   Hand in this assignment online by copying your FORTRAN source code file (e.g. "program4.for") and the compiled executable file (e.g. "program4.exe") to your handin directory.  You also have to hand in a printed copy of your FORTRAN source code file and the screen output when your program is run with the four sets of test data given in the gradesheet.
+Gradesheet:
+   The following gradesheet will be used to grade this assignment.  Please take a close look at it to make sure you do everything that is required.  Note that you will be graded on correct output for the input values given below, so before handing it in you must run your program with these values and manually check that your program gives the correct results in every case.
+
+Correct Output                                        [20]
+   5,11,20,31,44,60,79,99,123,148               [5]
+   148,123,99,79,60,44,31,20,11,5               [5]
+   10,73,-32,34,86,27,36,-1,2,92                [5]
+   55,99,34,-8,52,28,-44,17,50,86               [5]
+
+User Interface                                        [4]
+   Useful prompts for each number               [2]
+   Meaningful display of results                [2]
+
+Implementation                                        [18]
+   Correct use of functions, subroutines
+        and arguments                           [4]
+   Correct use of arrays                        [4]
+   Correct use of IF/THEN/ELSE/END IF statement [3]
+   Correct use of DO/END DO loop                [3]
+   Meaningful variable names                    [2]
+   Indenting and neatness                       [2]
+
+Documentation                                         [8]
+   Program description                          [3]
+   Function and subroutine descriptions         [3]
+   Variable and argument definitions            [2]
+__________________________________________________________
+
+Total (25%)                                           [50]
+   
+
+
+
+
+
+Copyright © 1996 Gareth S. Bestor (bestor@cs.wisc.edu).  Last modified April 30, 1996.
+
+

@@ -1,0 +1,148 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:22:23 GMT
+Content-Type: text/html
+Content-Length: 8952
+Last-Modified: Saturday, 03-Aug-96 23:30:29 GMT
+
+
+
+
+ Hypertext C-code 
+
+
+  Hypertext C-code Experiment 
+
+  This experiment grew out of the observation that the  etags
+ command (used in conjunction with  emacs  tags
+functions) builds a general function and type definition cross
+reference for a body of c-code. This tags file can be used to generate
+hypertext versions of the source code. 
+  This page is a demonstration of the  tags2html  utility
+that I wrote. I took a small program, obtained a flow graph (using the
+ cflow  command ) and then generated hypertext versions of
+the source and flow graph automatically. 
+  For more information, send me mail at sammy@cs.utexas.edu 
+
+flow-graph
+
+
+1	display_tree: () void, <bdd_graphics.c 27>
+2		printf: () int, <>
+3		is_leaf: () int, <tree.h 74>
+4	redraw_bdd_cb: () void, <tree.h 232>
+5		redraw_bdd: () void, <tree.h 186>
+6			XSetLineAttributes: () int, <>
+7			XmStringExtent: () int, <>
+8			XmStringDraw: () int, <>
+9			XDrawRectangle: () int, <>
+10			is_leaf: 3
+11			XDrawLine: () int, <>
+12	go_away_cb: () void, <bdd_graphics.c 243>
+13		XtParent: () int, <>
+14		XtUnrealizeWidget: () int, <>
+15		cleanup: () void, <tree.h 129>
+16			is_top: () int, <tree.h 65>
+17			split: () void, <tree.h 49>
+18			cfree: () int, <>
+19	build_bdd_cb: () void, <bdd_graphics.c 252>
+20		XmTextGetString: () int, <>
+21		parse_and_build_bdd: () * struct, <bdd_grammer.y 68>
+22			yyparse: () int, <bdd_grammer.y 299>
+23				yyerror: () int, <bdd_grammer.y 83>
+24					printf: 2
+25				yylex: () int, <lex.yy.c 114>
+26					setlocale: () * char, <>
+27					yylook: () int, <lex.yy.c 512>
+28						yywinput: () int, <lex.yy.c 913>
+29							mbsinvalid: () int, <>
+30							mbtowc: () int, <>
+31						yywunput: () void, <lex.yy.c 933>
+32							wctomb: () int, <>
+33						yyback: () int, <lex.yy.c 823>
+34						yywreturn: () int, <lex.yy.c 942>
+35							wcstombs: () unsigned long, <>
+36						yywoutput: () void, <lex.yy.c 928>
+37							wctomb: 32
+38					yywrap: () int, <>
+39					new: () * struct, <tree.h 15>
+40						calloc: () int, <>
+41					atoi: () int, <>
+42					var_tree: () * struct, <tree.h 154>
+43						new: 39
+44						insert: () void, <tree.h 39>
+45					fprintf: () int, <>
+46				combine_bdd: () * struct, <tree.h 130>
+47					combine: () * struct, <tree.h 78>
+48						is_leaf: 3
+49						apply_op: () int, <tree.h 96>
+50							fprintf: 45
+51						new: 39
+52						level: () int, <tree.h 84>
+53							is_leaf: 3
+54						insert: 44
+55					reduce_by_equality: () int, <tree.h 33>
+56						is_leaf: 3
+57						find_reduce_equals: () int, <tree.h 10>
+58							is_leaf: 3
+59							eq: () int, <tree.h 195>
+60							replace: () void, <tree.h 173>
+61								split: 17
+62								insert: 44
+63							cleanup: 15
+64					reduce_by_redundancy: () int, <bdd_core.c 53>
+65						is_leaf: 3
+66						replace: 60
+67						cleanup: 15
+68					cleanup: 15
+69				new: 39
+70			cleanup: 15
+71		XtAppCreateShell: () int, <>
+72		XtVaCreateManagedWidget: () int, <>
+73		XtAddCallback: () int, <>
+74		XtRealizeWidget: () int, <>
+75		build_graphics_info: () void, <tree.h 152>
+76			count_levels: () int, <bdd_graphics.c 55>
+77				is_leaf: 3
+78				level: 52
+79			count_by_level: () int, <tree.h 73>
+80				level: 52
+81				is_leaf: 3
+82			assign_by_level: () void, <tree.h 100>
+83				level: 52
+84				is_leaf: 3
+85				XmStringCreateSimple: () int, <>
+86				sprintf: () int, <>
+87		printf: 2
+88		XtSetKeyboardFocus: () int, <>
+89	exit_cb: () void, <bdd_graphics.c 286>
+90		exit: () int, <>
+91	main: () int, <bdd_graphics.c 291>
+92		XtAppInitialize: () int, <>
+93		XtVaCreateManagedWidget: 72
+94		XtAddCallback: 73
+95		XtRealizeWidget: 74
+96		XtSetKeyboardFocus: 88
+97		XtDisplay: () int, <>
+98		XLoadQueryFont: () int, <>
+99		printf: 2
+100		XmFontListCreate: () int, <>
+101		XtAppMainLoop: () int, <>
+102	bdd_input: () char, <lex.yy.c 67>
+103		printf: 2
+104	bdd_unput: () int, <lex.yy.c 81>
+105		printf: 2
+106	yyinput: () int, <lex.yy.c 955>
+107	yyoutput: () void, <lex.yy.c 959>
+108	yyunput: () void, <lex.yy.c 963>
+109	yymbinput: () int, <lex.yy.c 967>
+110		yywinput: 28
+111	yymboutput: () void, <lex.yy.c 971>
+112		yywoutput: 36
+113	yymbunput: () void, <lex.yy.c 975>
+114		yywunput: 31
+115	yymbreturn: () int, <lex.yy.c 979>
+116		yywreturn: 34
+    
+
+

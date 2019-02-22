@@ -1,0 +1,492 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:54:06 GMT
+Content-Type: text/html
+Content-Length: 28767
+Last-Modified: Monday, 06-May-96 23:26:29 GMT
+
+
+
+Fine-Grain Parallel CM RIVL
+
+Fine-Grain Parallel CM RIVL:  A Step 
+Towards Real-Time Multimedia Processing
+
+Jonathan Barber (barber@cs.cornell.edu)
+Sugata Mukhopadhyay (sugata@cs.cornell.edu)
+CS516 Final Project
+Professor Thorsten von Eicken
+Department of Computer Science
+Cornell University
+
+
+
+
+0.0 Table of Contents
+
+1.0 Abstract
+2.0 Introduction
+3.0 RIVL and the Generic Parallel Paradigm
+3.1 The RIVL Graph
+3.2 Parallelizing RIVL
+3.3 Continuous Media Parallel RIVL
+
+4.0 Implementations
+4.1 Shared Memory Implementation
+4.2 Networked Implementation
+4.3 Implementation Caveats
+
+5.0 Performance Results
+6.0 Extensions and Robustness
+7.0 Conclusions
+8.0 References
+
+
+
+
+Go Back
+1.0  Abstract 
+
+Any form of multimedia processing is typically computationally expensive.  An even 
+harder problem is performing some form of multimedia processing on multiple real-time 
+continuous streams of data.  In such a paradigm, each frame in a sequence of images 
+incurs a very large computational expense.  An obvious yet difficult solution is to divide 
+up the problem, and compute the solution in parallel. This paper details the nature of the 
+problems and the solutions for dealing with parallel multimedia processing in both shared 
+memory and distributed environments.
+Click here to view a slide-show presentation of this paper.
+
+
+Go Back
+2.0  Introduction:  The Evolution of RIVL
+
+Over the course of the past two years, a large effort has been mounted to develop applications 
+that can efficiently and reliably process multimedia data.  The effort manifested itself 
+with the construction of RIVL (A Resolution Independent Video Language).  RIVL is a 
+multimedia processing package that given a set of images (or a set of a sequence of 
+images), can efficiently process these multimedia streams and generate an outgoing image 
+(or a sequence of images).  RIVL is implemented as a tcl extension that is capable of performing 
+common image operations such as overlay, smoothing, clipping, cropping, etc.  
+The tcl interface simplifies the process of coding an image processing script.  
+
+Recently, RIVL has been extended to process continuous streams of multimedia data, and 
+generate a corresponding output stream of images.  The extended RIVL package, called 
+CM RIVL, was made possible by treating RIVL evaluation as a midpoint in a continuous media object.  This work was facilitated by using CMT (The Continuous Media Toolkit).  
+
+Image processing continuous streams of media in real-time is a very hard problem, considering 
+today's current state of computer technology.  Performing even a simple image oper-
+ation over a single sequence of images, and outputting the resultant image[s] in real-time 
+requires on the order of a million CPU cycles.  To approach a real-time image-processing 
+frame-rate of 30 frames per second, which is the standard frame-rate for perceiving continuous 
+motion, would require one of the following items to be true:
+
+to be able to perform image processing operations in less than linear time on a single 
+processor
+to be able to utilize high-performance technology that does not yet exist
+to be able to divide up the work, and perform the image processing in parallel to 
+achieve less than linear time performance
+
+
+Since we have little or no control over the first two items, we have focused our efforts on 
+the third.  Most image processing routines can be performed in super-linear time if the 
+work is divided among an array[s] of parallel processors.  This is true for RIVL, and also 
+for CM RIVL.
+Bearing this in mind, we established the project goal to develop an easy-to-use, fast, 
+and inexpensive, real-time multimedia processing application.
+
+In Section 3.0, we describe a generic method for parallelizing most of the image operations 
+in RIVL, by exploiting the way that RIVL processes an inputted set of images.  In 
+Section 4.0, we describe two implementations of Parallel CM RIVL (PRIVL).  The first 
+version is designed to run on shared memory machines.  The second version is designed to 
+run over a cluster of Workstations.  In Section 5.0, we present an analysis of performance 
+results.  In Section 6.0, we describe some improvements to our implementations.   Finally, 
+in Section 7.0, we draw some conclusions and analyze our progress.
+
+
+Go Back
+3.0  RIVL and the Generic Parallel Paradigm
+
+Go Back
+3.1  The RIVL Graph
+
+We begin our discussion of RIVL by introducing the RIVL Evaluation Graph.
+
+
+In order for RIVL to execute, it requires a set of multimedia input data, and a control 
+RIVL script.  The RIVL script is a sequence of tcl-rivl commands that specify what image 
+processing operations should occur on the input data.  Once RIVL is invoked, the RIVL 
+script is translated into the RIVL graph, as pictured above.  Each node corresponds to 
+some image operator (e.g. im_smooth, im_canny, etc.), and each edge or signal 
+corresponds to the actual image data.  Those nodes lying inside of the illustrated rectangle 
+above correspond to true image operators.  Those nodes lying outside of the rectangle are 
+the RIVL I/O nodes.  The nodes outside and to the left of the rectangle correspond to read 
+nodes (i.e. one read/node per image [or stream]), and the node to right of the rectangle 
+corresponds to the write node.     
+
+We want to emphasize that construction of the RIVL graph does not compute on any 
+multimedia data.  The RIVL graph is merely the control-flow structure through which 
+each inputted sequence of data must propagate to generate the outputted, processed image.  
+
+There are two phases in processing data using the RIVL graph once it has been constructed.  
+The first phase manifests itself in a graph traversal from right-to-left.  This is 
+what makes RIVL an efficient image processing mechanism.  The first node that is evaluated 
+is the Write node (the right-most node).  By traversing the graph in reverse-order, 
+RIVL decides at each node exactly how much data the output signal requires from the 
+input signal.  The evaluation is reverse-propagated from the write node, through the graph, 
+and back to every read node.  Once the reverse-propagation completes, every node in the 
+graph knows exactly how much data from each input signal is required to compute the 
+node's corresponding output signal.  The multimedia data is then processed on the second 
+traversal, which conforms to a left-to-right traversal of the RIVL graph, propagating the 
+input data forwards through the graph, only operating on data that is relevant to the final 
+output image.
+
+Go Back
+3.2  Parallelizing RIVL
+
+We can summarize the preceding section into the statement that, the amount of data that is 
+fetched from each Read node is exactly a function of the output of the 
+Write node.  Combining 
+this notion with the fact that most of the image processing operations in RIVL do 
+not create dependencies from one pixel to another in a given input image, we can derive a 
+simple for mechanism for "dividing up the work", and parallelizing RIVL.  
+
+Instead of running RIVL on a single processor, we spawn multiple RIVL processes on different 
+processors, and have each process work towards computing a different segment of 
+the output data.  We define the notion of a single Master RIVL process, and multiple 
+slave RIVL processes.  Each slave process is started on a different processor.  Once 
+started, the slave process sits idle, listening for instructions from a Master process.  After 
+the slave processes have been started, a Master process is created.  The Master Process 
+determines how many slaves are "available for work".  Once a control connection is established 
+between the Master and every Slave, the Master assigns each slave a logical ID# 
+(the Master ID# is 0, the Slave's ID# ranges from 1 to N slaves).  After each slave is 
+assigned an ID#, the Master sends each slave the total number of processes "available for 
+work", followed by a copy of the RIVL script.  Once each slave (and the master) receives 
+the RIVL script, they each generate a copy of the RIVL graph, and perform the right-to-
+left traversal independently.
+
+The difference between the right-to-left traversal now, is that the logical ID# for the current 
+processor and the total number of processes becomes a factor in determining how 
+much computation gets done for each process.
+
+
+According the figure above, the amount of data fetched from each read node is no longer a 
+function of the output of the write node, but is now a function of:
+
+the process's Logical ID#
+the total number of processes
+and, is a function of the write node's output
+
+
+That is, each RIVL process  is responsible for computing a different, independent portion 
+of the final output data, which is based on the above parameters.  Hence the term "Fine-Grain 
+Parallel CM RIVL".  Our approach is fine-grained in that each RIVL process performs 
+the same set of computations, on different data.
+
+Actual data computation (the left-to-right graph traversal) occurs when the master says 
+"go".  Each slave and the master process computes their appropriated portion of the output 
+image.
+
+Go Back
+3.3  Continuous Media Parallel RIVL
+
+
+The model of parallelization for RIVL just described maps smoothly to CM RIVL.  With 
+CM RIVL, there is an initial setup phase for each slave process and the master process, as 
+previously described  (the Master process sends each slave its logical ID#, the total number 
+of processes, and a copy of the RIVL script.  Each RIVL process then computes the 
+RIVL graph and makes the  right-to-left traversal).  
+
+The image processing for computing each output frame in a continuous media stream 
+occurs as follows:
+
+There is a CMO (Continuous Media Object), which captures and manages continuous 
+streams of data, and resides as part of the Master Process.
+When the CMO has captured all of its input data for a single output image, it contacts 
+the master's Parallel Synchronization Device, and tells each RIVL process (slaves and 
+the Master) that data is ready to be fetched, and that computation can begin ASAP.
+Each RIVL process then fetches only the input data it needs to generate its segment of 
+the output data, and makes the left-to-right traversal through the graph.
+The output data from each RIVL process is then written back to a buffer within the  
+CMO, where the data is re-assembled into a single data-output object.
+Each RIVL process then blocks, listening for further instructions from the CMO as to 
+when another image will be ready for processing.
+
+
+Using this method, for a given stream of multimedia data, the construction of the RIVL 
+graph and a reverse-traversal of the graph are performed only once at setup-time.  The 
+actual image processing only requires one traversal of the graph on each RIVL process, 
+where the computation area is distributed among all of the RIVL processes.
+
+
+Go Back
+4.0   Implementations
+
+Based on the generic parallelization scheme described in the preceding section, we have 
+developed two implementations of Parallel CM RIVL.  Each implementation has its own 
+synchronization mechanism for parallelizing the independent RIVL processes, and its own 
+mechanism for transferring data.
+
+Go Back
+4.1  Shared Memory Implementation
+
+
+The shared-memory implementation is illustrated above.  Each RIVL process resides on a 
+different processor, but each processor resides on the same machine, which has access to 
+the same shared memory segment.  
+
+This implementation mirrors the generic parallel model  described in Section 3.
+
+Implementation Details:
+
+The initial setup is facilitated by using TCP-IP multi-cast via Tcl-DP.
+The Process synchronization is facilitated using UNIX semaphores.
+The Data Transfer is facilitated using shared-memory reads and writes via UNIX-IPC.
+The Program was compiled for a SparcStation running SunOS.
+
+
+This model operates as follows:  
+
+Following the initial setup phase, the CMO works at capturing all data necessary to compute 
+a single RIVL output frame.  Once the CMO captures all the necessary data, it tells 
+each RIVL process to begin processing by means of an entry semaphore.  Each RIVL process 
+then reads only the data relevant to its own output via a shared-memory read.  Once 
+the left-to-right evaluation of the RIVL graph completes, the RIVL process then performs 
+a shared-memory write to the memory region containing the output image that is accessible 
+by the CMO.  The RIVL process then blocks at an exit semaphore until all of the 
+RIVL processes complete computation for the same frame of data.  Once every RIVL process 
+blocks, the master RIVL process un-sets the exit semaphore, and each RIVL process 
+waits again at the entry semaphore, until the CMO again releases it.
+
+Go Back
+4.2  Networked Implementation
+
+
+The networked implementation is illustrated above.  Each RIVL process resides on a different 
+processor, and each processor resides on a different machine.  
+
+This implementation also mirrors the generic parallel model described in Section 3.
+
+Implementation Details:
+
+The initial setup is again facilitated by using TCP-IP multi-cast via Tcl-DP.
+The Data Transfer is facilitated using Active-Messages over U-Net.
+The Synchronization Mechanism is implicit via the Active-Messages paradigm.
+The Program was compiled for a SparcStation running SunOS.
+
+
+This model operates as follows:
+
+Like its shared-memory counterpart, this model performs the initial setup using IP multicast 
+to establish the Active Message connections from the master to each slave RIVL process.  
+The CMO works at capturing all data necessary to compute a single RIVL output 
+frame.  This model differs from the generic-model in that the master process knows 
+exactly what portion of the input data each RIVL process needs to evaluate their RIVL 
+graph.  Once the CMO captures all the necessary data, it tells each RIVL process to begin 
+processing by issuing a gam_store() to each RIVL process.  Once the message is received 
+by each RIVL process, a handler is invoked which tells the RIVL process that it can begin 
+evaluating its RIVL graph on the transferred data.  Once the output data is computed, the 
+RIVL process then issues a gam_store() to the Master process, specifying exactly where 
+the sent data should be stored in the final output image buffer managed by the CMO.  
+Eventually, a handler routine in the Master process will update a "received-from list".   
+Once the Master receives data from each RIVL process, the CMO outputs the computed 
+frame, and begins processing the next multimedia frame.
+
+The process synchronization mechanism is implicit with the actual data-transfer, in that, a 
+RIVL process cannot begin evaluating its graph on a given frame segment, until it receives 
+an Active-message from the Master process.  Similarly, the Master process cannot move 
+on to the next multimedia image until it receives an Active-message from each slave process.
+
+Another subtle point is that by having the Master determine how much of the input data 
+each RIVL process requires, rather than having the RIVL process itself determine this 
+information, we reduce the round-trip communication rate from master to slave.  Having 
+each RIVL process compute its own region, would require a gam_request(), followed by 
+a gam_reply() by the Master process.  Instead, the Master decides how much data each 
+RIVL process needs and simply issues a single gam_store().
+
+Go Back
+4.3  Implementation Caveats
+
+Our actual executables are not SPMD.  There is a separate executable for the Master process, 
+and another executable for each Slave process.  This didn't cause any problems when 
+developing the shared-memory implementation.  However, since Active-Messages ver 1.1 
+assumes a SPMD model, we ran into problems when specifying AM handlers in both the 
+Master process and the Slave processes.  
+
+When the Master process received active-messages from any slave process, the slave process 
+attempted to invoke an AM handler in the Master that existed in the slave, but not in 
+the handler.  The situation was the same when a slave process received an Active Message 
+from the Master.  
+
+We overcame this shortcoming in  by modifying the Active-Message's source code.  The 
+modification allows an application  to register a handler with Active-Messages by calling
+hid uam_reg_handler(handler_t handler)  
+
+"Handler_t handler" corresponds to the handler's 
+virtual address.  The process returns an "hid", which is an integer, but stands for 
+"handler ID#".   In our implementation, since only the Master executable and slave executable 
+are different, the Master and each slave must register their handlers with the Active-
+Message's library.  Now, when a process sends an Active Message (from slave to master 
+and vice versa), it no longer ships the processes's virtual address of the handler, but rather, 
+ships a logical ID#, corresponding to the handler to be invoked.  The Active-Message's 
+library maintains a look-up table that is indexed by the logical ID#.  The logical ID# corresponds 
+to a process handler's virtual address, which is then invoked from Active-Messages.
+
+
+Go Back
+5.0  Performance Results
+
+We ran our shared-memory experiments on a Quad-Processor SparcStation 10 running SunOS.  
+Our Networked Implementation was tested by using 4 ATM-connected SparcStation 20s running SunOS.    
+
+We constructed two different test cases, named Test 1 and Test 2.  The two 
+tests perform the following image operations:
+
+Test 1:There are 2 input sequences of images.  The first image sequence (IM1) 
+is scaled, rotated, and copied four times.  The resulting output is then overlayed onto 
+the second image sequence (IM2), and then output.
+Test 2:There are 2 input sequences of images.  IM1 is scaled, rotated, and copied
+four times.  IM2 is smoothed.  The output from IM1 is then overlayed ontop of the output for
+IM2.
+
+
+Overall, Test 2 is a more computationally expensive set of operations than Test 1.  
+This fact is illustrated by our experimental results.
+
+
+From our graphed results above, the shared-memory implementation performs
+somewhat better than our Networked implementation.  Both implementations, however, perform better 
+than their serial counterparts (the green bar graph). One observation was that the networked
+implementation exhibited a large spread of timings for different frames, and this we attributed
+to our process getting preempted. The behavior was not visible on the shared memory implementation
+as our process was sleeping, waiting for the semaphores to change, while the process in the network
+implementation busy-waits. Hopefully, an interrupt driven implementation of active messages
+would cure this.
+Note:  In all tests, the processor speed is relatively equal.
+
+Results:
+
+Shared Memory:  In both tests 1 and 2, the performance gains exhibited the following
+patterns:
+
+From 1 to 2 Processors:  Performance is nearly doubled.
+From 2 to 3 Processors:  Again, our performance is nearly doubled.
+From 3 to 4 Processors:  The performance increase is negligble.  
+Performance is not increasing either because the communication overhead exceeds 
+the performance gain, or because the processors are un-optimally load-balanced (probably the latter).
+
+
+Networked Implementation: 
+
+From 1 to 2 Processors:  Performance is nearly doubled.
+From 2 to 3 Processors:  There is a small improvement in performance, however, the shared 
+memory implementation appears to do a little better.
+From 3 to 4 Processors:  The performance increase is again negligble.  The explanation for 
+this is probably the same as in the shared memory experiment.
+
+
+
+Go Back
+6.0  Extensions & Robustness
+
+There are a number of improvements that can and should be made to improve overall 
+performance and robustness of our parallelization scheme.
+
+Improve the Load-Balance:  The largest improvement involves improving the 
+load-balance among all of the RIVL-processes by using a "Hungry Puppy Strategy" for 
+dividing up the work.  Our current implementations statically allocate work to each RIVL 
+process.  The location and the amount of data that is needed for each RIVL process is 
+determined as a function of the number of processes and the process ID.  As indicated 
+from our experimental results, there is no significant boost from 3 to 4 RIVL processes 
+using our shared-memory implementation.  We can partly attribute this problem to an 
+un-optimal load balance.  
+
+Modifying the Networked implementation should prove more trouble-some, and while 
+improving the overall load-balance, will probably increase the communication overhead, 
+as more Active-Message will have to be sent and processed.
+
+Modifying the Shared-Memory version should be easier.  The current synchronization 
+mechanism is implemented by using UNIX semaphores.  No RIVL process is allowed to 
+begin executing the next frame until all RIVL processes have completed execution of the 
+current frame.  The output-image is currently divided up by the number processes available 
+for work.  We could improve the load-balance for this implementation by doing two 
+things:  (1)  by dividing up the output-image work regions into more numerous smaller 
+segments; and (2) for a current frame, allow RIVL processes to complete executing their 
+output segment, and grab another segment from the Still-Need-to-be-Computed Queue 
+residing on the Master process.  This implementation will improve load-balance by allowing 
+less-busy processes to contribute equally to the entire output image, while giving 
+busier processors the time they need to compute their data without becoming a bottleneck 
+for the entire output image.
+Improve Reliability and Fault-Tolerance:  In real-time systems, it is not uncommon 
+for things to go wrong.  Specifically, what should happen in the even that a slave RIVL 
+process crashes?  Our current implementations do not account for such mishaps.  If a process 
+were to malfunction, due to either hardware or communication failure, our implementation 
+would fail.
+Port our ATM-Sparc Implementations over to Fast Ethernet PC:  In designing any 
+system, cost is always an issue.  The purpose for implementing PRIVL over Active-Messages 
+was to utilize the lower cost of workstations and networks as compared to expensive 
+parallel machines.  The cost of higher performance PCs is rapidly on the decline.  Adapting 
+our implementations to Fast Ethernet is a natural step in reducing the cost of high-performance 
+CM PRIVL.  The actual transition from ATM-Sparc to Fast Ethernet-PC is 
+merely a matter of getting Active-Messages to work over Fast Ethernet.
+
+
+
+Go Back
+7.0  Conclusions
+
+We were looking for significant speedups in Parallel CM RIVL as we moved from 1 to N 
+processors (N being no more than 4).  Our results are definitely encouraging.  In both our 
+shared-memory implementation and our networked implementation, we obtained good speedups
+up to four processors. In order to process real-time data, we need to approach a frame-processing
+rate of close to 30 frames per second, or rougly 33 ms per frame.  For the operations we have tested,
+we will require upwards of 30 similar processors to achieve the desired frame rate.  
+
+We do not have results for more than four processors. However, by examining our results, we can
+determine that under the current implementations, the processes running Parallel CM RIVL
+will not be load-balanced.  
+
+Unfortunately, we must conclude that our implemenations as they stand will not scale 
+to upwards of 30 processors to achieve the desired frame rate.  However, further work is under 
+way to address this load-balancing problem.  Furthermore, a "Hungry-Puppy" 
+object-tracking algorithm is currently being incorporated into PRIVL.  
+The experimental results from this should be available shortly.
+
+We have however made significant progress in parallelizing CM RIVL.  CM RIVL is a non-trivial 
+application, and our parallelization scheme works for most of the standard RIVL image operations.
+
+
+Go Back
+8.0  References
+
+ Jonathan Swartz, Brian C.  Smith
+    
+A Resolution Independent Video Language 
+    Proc. of the Third ACM International Conference on Multimedia, San
+    Francisco, CA, November 5-9, 1995. 
+ Lawrence A. Rowe, Brian C. Smith,
+	Continuous Media Player,
+	Third International Workshop on Network and Operating Systems Support
+	for Digital Audio and Video, Nov. 12-13, 1992, San Diego, CA.
+ Brian C. Smith, Lawrence A. Rowe, Stephen C. Yen
+	
+Tcl Distributed Programming,
+	Proc. of the 1993 Tcl/TK Workshop, Berkeley, CA, June 1993.
+ von Eicken, T., D. E. Culler, S. C. Goldstein, and K. E. Schauser,
+	
+Active Messages: a Mechanism for Integrated Communication and
+	Computation.
+	Proceedings of the 19th Int'l Symp. on Computer Architecture,
+	May 1992, Gold Coast, Australia.
+ Anindya Basu, Vineet Buch, Werner Vogels, Thorsten von Eicken,
+	
+U-Net: A User-Level Network Interface
+	for Parallel and Distributed Computing,
+	Proc. of the 15th ACM Symposium on Operating Systems Principles,
+	Copper Mountain, Colorado, December 3-6, 1995.
+ Sugata Mukhopadhyay, Arun Verma, 
+	
+CMRivL - A Programmable Video Gateway,
+	Cornell University, Spring '96
+
+
+

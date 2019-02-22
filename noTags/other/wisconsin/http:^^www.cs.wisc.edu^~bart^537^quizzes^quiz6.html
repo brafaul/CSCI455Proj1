@@ -1,0 +1,89 @@
+Date: Mon, 11 Nov 1996 17:25:10 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 29 Mar 1996 23:16:54 GMT
+Content-length: 1643
+
+
+
+CS 537 - Quiz #6
+
+
+
+
+
+UNIVERSITY OF WISCONSIN-MADISON
+
+Computer Sciences Department
+
+
+
+
+CS 537
+
+Spring 1996 
+Bart Miller
+
+
+Quiz #6
+
+Wednesday, March 27
+
+
+Paging and Segmentation
+Consider a virtual memory architecture with the following parameters:
+
+
+64 bit words
+
+64 bit virtual addresses
+
+8K byte page size
+
+512K segments in a virtual address
+
+4 gigabytes of real memory
+
+page tables are stored in real memory
+
+page tables can start on any byte boundary
+
+
+Show how a virtual address gets mapped into a real address.
+Be sure to show
+
+
+how the various fields of each address are interpreted,
+
+the size of each field (in bits),
+
+the maximum number of entries each table could hold,
+and
+
+the maximum size possible for each table (in bytes).
+
+
+Draw and label a diagram to answer this question.
+
+
+
+
+
+
+
+
+The Segment Table has 512K entries times 64 bits (8 bytes), so has a
+maximum size of 4 MB.
+
+Each Page Table has 4G entries times 19 bits (rounded up to 24 bits or 3 bytes),
+so has a maximum size of 12 GB.  Note that the extra bits in each PTE might
+be used for R/W control or valid bits.
+
+
+
+Last modified:
+Fri Mar 29 13:14:23 CST 1996
+by
+bart
+
+

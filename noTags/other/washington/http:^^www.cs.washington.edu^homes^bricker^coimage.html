@@ -1,0 +1,193 @@
+Date: Tue, 10 Dec 1996 17:44:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 22 Nov 1996 00:43:13 GMT
+Content-length: 8562
+
+
+
+CoImage: Activities using Cooperatively Controlled Objects
+
+
+
+
+
+
+
+
+
+    CoImage: Activities using Cooperatively Controlled Objects
+    
+
+Lauren Bricker, Marla Baker, and Steve Tanimoto
+
+Department of Computer Science & Engineering, 
+University of Washington, Box 352350, 
+Seattle, WA 98195-2350 USA
+    
+
+
+
+
+Project Goal
+ 
+The goal of this project is to design and develop a software
+package to support the implementation of collaborative learning
+activities.  This package will include a shell application, an
+application program interface (API), and a hierarchy of objects.  The
+package supports the development of end-user educational programs that
+enforce a tightly synchronized interaction and facilitate
+communication and cooperation between two or more users.
+
+What is a Cooperatively Controlled Object?
+Definition of a Cooperatively Controlled Object
+
+In object-oriented terminology, an object contains state and has
+behavior.  We define a controlled object to be an object containing
+methods which allows users to manipulate properties of that object.  A
+cooperatively controlled object (CCO) is a controlled object which may
+be simultaneously manipulated by one or more users.  CCOs may be
+manipulated using general methods, such as constraints between user
+inputs and application objects.
+
+  
+A CCO differs from a fine-grained shared object (FGSO) in a
+number of ways.  One major difference is the nature of the
+relationship between the object and how it is controlled.  The more
+complicated this relationship, the more the object is Cooperatively
+Controlled.  One method for quantifying how complicated the control of
+an object is, is by measuring the input degrees of freedom required
+for moving the object.  Thus a CCO has requires more inputs than a
+FGSO.
+
+Example
+
+Figure 1 shows an example where a point is controlled by decomposing
+it into its x and y coordinates which are modified by separate users.
+A cooperatively controlled point, on the other hand, may involve a
+more general functional relationship between user inputs and
+controlled properties.  For example, the controlled point could be
+determined by the intersection of two lines controlled by four users,
+each user directly manipulating the location of one of two points on a
+line with a mouse.
+
+
+
+  
+Figure 1.  Controlling the location of a point using a fine-grained
+sharing technique.
+
+
+
+
+Figure 2.  Cooperatively controlling the location of a point.
+
+Discussion
+ CCOs and FGSOs are different in how synchronous the actions of
+the users must be.  The interaction between users of a FGSO is not, by
+definition, synchronous.  A CCO, on the other hand, may require more
+than one user to synchronously manipulate the object.  A good example
+of this is a symphony orchestra.  One person could, in principle, record
+the various orchestra parts of a symphony track by track, but the are
+more subtle interactions when a whole group plays the music
+simultaneously.  In order to ensure that users control an object
+synchronously, all users must be informed that their input is needed
+in the manipulation of that object.  For example, if a user wishes to
+manipulate an object, they would select a specific tool and use that
+to modify that object. In the our current design, the user colored
+cursor changes shape to indicate which tool is being used and the
+object will sprout "handles" which matching the user's color to
+signify which users need to "help."
+
+CoImage Activities
+ 
+We have currently designed and partially implemented three collaborative 
+activities.  The first one was based on the Mathematics Experiences Through Image Processing (METIP)
+Image 
+Warper.  The interface looks very similar, but students can cooperatively 
+interact with a line by each selecting an endpoint and moving them 
+simultaneously.
+
+ 
+
+ 
+Our second activity, designed by 
+Marla Baker, is a 
+collaborative puzzle activity.  Currently each puzzle piece is modified
+by a single user (although users can work simultaneously), but eventually
+users will be forced to rotate each piece together.
+
+ 
+
+ 
+Our third activity is the cooperative Etch-a-sketch(tm).  In this activity, 
+users manipulate a point to draw a picture on the screen.  Currently the
+point is shared by scroll bars controlling the x and y coordinates, but we will
+soon implement other cooperative control of the drawing point.
+
+ 
+
+CoImage on the internet
+ 
+The CCOs described here are not limited to a co-present
+situation.  Eventually these objects will be implemented for distance,
+internet based collaboration.  Until then, you can use a single user version
+of CoImage across the internet by following 
+these
+ instructions.
+
+Previous work
+
+METIP/MultiIn Multiplayer Activities. 
+
+Lauren's generals paper entitled Designs for
+Computer-Supported Cooperative Learning in Mathematics.    
+
+An accepted to 
+CSCL '95  entitled Multiplayer 
+Activities that Develop Mathematical Coordination.
+
+Lauren's attempt to categorize  CSCW/CSCL.
+
+An analysis of a number of collaborative applications from which
+Lauren has derived a list of features they support, and,
+from this, a list of features we'd like to support.
+
+Our paper to Ed Media '96  entitled CoImage - a Cooperatively Controlled Image Warper
+
+
+Interesting related web sites
+
+Computer Supported
+Collaborative Learning (CSCL)  conference web page.
+
+The unOfficial
+Yellow Pages of CSCW
+Readings in Groupware and Computer-Supported Cooperative Work: Assisting Human-Human Collaboration
+The CoVis Web Server
+The Ilog Server and the Ilog Brocker.
+
+The CSCW Research Group
+The CSCW web page from TUM Informatik
+Boy the University of Calgary has been busy in this area
+
+
+The Grouplab project
+Comparing Constructions through the Web
+WebGrid: a WWW PCP Server
+
+Computer Supported Collaborative Learning Workshop
+The wOrlds Project
+
+ 
+CoImage is supported in part by the Washington Technology Center
+and Ark Interface II, a Packard Bell 
+Company.
+
+
+ 
+
+bricker@cs.washington.edu    
+  Last modified: Fri Mar 30 1995 3:15:00pm pdt
+
+

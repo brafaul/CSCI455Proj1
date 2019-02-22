@@ -1,0 +1,146 @@
+Date: Mon, 11 Nov 1996 17:01:17 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 01 Oct 1996 20:08:43 GMT
+Content-length: 4065
+
+
+
+ Printing Output from Outside the Lab 
+
+
+ Printing Output from Outside the Lab 
+
+I've had several people ask me about printing the output for their program
+on a compiler that doesn't support the handy "Print" option in the
+Output Window.  If you're trying to do the homeworks from someplace other
+than the lab, and you can't get the output to go the printer, here's my
+advice:
+
+ Printing from a Unix System 
+
+If you're on a Unix system (probably using g++ or CC), use the "script"
+command if you have it.  It copies all input and output of the program
+to a file called "typescript" ... then you can simply print the file.
+Here is an example:
+
+
+
+/usr/home/jdoe# g++ -o prog1 prog1.cpp
+/usr/home/jdoe# script
+Script started, file is typescript
+/usr/home/jdoe# prog1
+Welcome to John Doe's program ...
+ ... etc ...
+/usr/home/jdoe# exit
+Script done, file is typescript
+/usr/home/jdoe# lpr -Pmylaser typescript
+
+
+
+Warning: If you use the script command, don't forget to type exit when you
+are done!  And don't "nest" script commands.
+
+ Printing from a DOS (non-Windows) System 
+
+If you're on a DOS system (not running Windows), you can redirect the output
+of your program to a file.  For example, if you've compiled your program
+into an executable called PROG1.EXE, you can redirect the output to
+a file "output.txt" using the following DOS command:
+
+
+   prog1 >output.txt
+
+
+Also, you can "append" the output of your program to a previous run with
+two greater-than signs:
+
+
+   prog1 >>output.txt
+
+
+
+This has two disadvantages, however.  First, since the output is going to
+a file, you can't see it on the screen!  So you have to "know" what the
+expected input is beforehand.  Second, the input you type is not redirected
+to the file.  Thus you need to modify your program to "echo" the input
+so that it appears in the file too.  For example:
+
+
+
+#include <iostream.h>
+
+int main ()
+{
+   int num_apples;
+   cout << "How many apples do you want?";
+   cin >> num_apples;
+   cout << num_apples << endl; // ECHO INPUT FOR REDIRECTION
+   return 0;
+}
+
+ Printing on Any System 
+
+If you're printing from any other system that doesn't have a "Print Output"
+command or doesn't support redirection, you can use the following techinque.
+This should work on any system: Windows, Mac, Unix, etc.
+
+
+
+The idea is to modify the program so that all the output goes to a file
+instead of a screen.  Thus this method suffers the same problems as the
+DOS method above: output is not displayed on the screen (i.e. you can't
+see the prompts) and input is not redirected to the file (thus you have
+to echo the input in your program).  For example, consider the following
+program:
+
+
+
+#include <iostream.h>
+
+int main ()
+{
+   int num_apples;
+   cout << "How many apples do you want?";
+   cin >> num_apples;
+   return 0;
+}
+
+
+
+To make this program's input and output go to a file named "output.txt",
+we could modify it like this (note the extra #include directive):
+
+
+#include <iostream.h>
+#include <fstream.h>
+
+int main ()
+{
+   ofstream fout = "output.txt";  // Open a file for writing
+   cout = fout;                   // Redirect cout to the file
+
+   int num_apples;
+   cout << "How many apples do you want?";
+   cin >> num_apples;
+   cout << num_apples << endl;    // Echo input for redirection
+   return 0;
+}
+
+
+
+Once you have the program's output saved in a file, you can use almost
+any means to print that file out.  Under Windows you can use the Notepad,
+for example.
+
+ If All Else Fails 
+
+If, for some reason, all of the above methods fail for you (the last one
+_should_ work), you will have to print the output from the Vectra lab.
+Put the source code on a floppy disk, go to the lab, compile the program,
+and print the output.
+
+
+mbirk@cs.wisc.edu
+
+

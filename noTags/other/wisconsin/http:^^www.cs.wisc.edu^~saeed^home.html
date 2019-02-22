@@ -1,0 +1,105 @@
+Date: Tue, 05 Nov 1996 21:21:18 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 01 Oct 1996 05:38:13 GMT
+Content-length: 2538
+
+
+
+My Sweet Home at Lucknow 
+
+
+
+<!-- Clock in Java Script .. Cameron Gregory cameron@local.com
+// http://www.bloke.com/
+// http://www.bloke.com/javascript/Clock/serverclock.html
+speed=1000;
+len=28;
+tid = 0;
+num=0;
+clockA = new Array();
+offsetA = new Array();
+dd = new Date();
+
+function doDate(x)
+{
+  for (i=0;i<num;i++) {
+    dt = new Date();
+  
+    if (offsetA[i] != 0) {
+      gt = dt.getTime();
+      gt = gt + offsetA[i];
+      dt.setTime(gt);
+      }
+  
+    clockA[i].date.value = dt;
+    }
+
+  tid=window.setTimeout("doDate()",speed);
+}
+
+function start() {
+  clockA[num] = document.forms[num];
+  offsetA[num] = 0;
+  if (num == 0)  
+    tid=window.setTimeout("doDate()",speed);
+  num++;
+}
+
+function startLong(diff) {
+  clockA[num] = document.forms[num];
+  offsetA[num] = (diff - dd.getTimezoneOffset())*60*1000;
+  if (num == 0)  
+    tid=window.setTimeout("doDate()",speed);
+  num++;
+}
+
+function cleartid() {
+  window.clearTimeout(tid);
+}
+ 
+// for some reason on some pages this crashes netscape
+function Clock()
+{
+  document.write('<!WA0><FORM name=form'+num+'><input name=date size=')
+  document.write(len)
+  document.write(' value="Clock: Requires Javascript"></FORM>')
+  start();
+}
+ 
+// for some reason on some pages this crashes netscape
+function ServerClock(diff)
+{
+  document.write('<FORM name=form'+num+'><input name=date size=')
+  // we chop the end, because it would be the wrong timezone
+  document.write(19)
+  document.write(' value="Clock: Javascript"></FORM>')
+  startLong(diff);
+}
+// end-->
+
+
+  
+
+ My sweet home is in the beautiful city of Nawabs.
+ Home address 
+E-III/172, Sector H,  Aliganj. Lucknow-226020.  INDIA 
+ The time in India at present is 
+
+ServerClock(930);
+
+ 
+
+
+
+
+ For suggestions send    to me.   
+
+
+ Back to my home page  
+
+ 
+Last updated 
+ 
+
+

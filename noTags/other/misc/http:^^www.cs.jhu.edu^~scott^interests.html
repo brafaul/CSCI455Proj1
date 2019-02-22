@@ -1,0 +1,142 @@
+Date: Wed, 15 Jan 1997 00:18:02 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 15 Dec 1995 17:24:12 GMT
+Content-type: text/html
+Content-length: 6373
+
+ Scott Smith's Research Interests 
+ Scott Smith's Research Interests 
+
+
+There has been a large body of important foundational research done in
+the area of programming language semantics.  My goal is the practical
+application of this work to full-featured programming languages,
+languages that have features such as memories, object-orientedness,
+rich notions of type, exceptions, and concurrency.  Such a theory
+should include as its products a rich theory of equivalence on
+programs, as well as logics of programs.
+
+
+
+There are three reasons why this line of research is important.  First
+and most obviously, it allows full-featured languages to be
+unambiguously specified and remove flaws from their design.  I do not
+believe we will ever be able to prove all programs correct, but we
+certainly should be able to prove all language designs sound.  Second,
+a semantic approach can effectively be used to clean up
+inconsistencies in language design, and to provide compiler writers
+and programmers with concrete notions of program equivalence and
+logical assertions about programs to clarify their activities.  Lastly
+(and the topic that interests me most now), novel ideas in language
+design and analysis can be effectively pursued in this framework,
+because it is possible to carefully develop the ideas for extremely
+small languages and scale them up, something that is not possible if a
+working compiler must always be an objective.
+
+
+
+Some of the big challenges remaining beyond scaling up existing
+results include modelling dynamic systems (those which dynamically
+allocate new memory or other objects), open systems (a system where
+not all of the computation is occurring locally), and object-oriented
+systems.
+
+
+
+ Active Research Areas 
+
+Constrained Types for Object-Oriented Programming Languages
+My main research interest now is in the area of constrained typing.
+Constrained types are particularly interesting because
+
+
+ They naturally generalize Hindley-Milner type inference to a form
+based subtyping instead of type equality.
+
+ The types inferred are very expressive: they appropriately type
+binary methods in object-oriented programming languages.
+
+
+Our  OOPSLA '95
+paper introduces constrained types with some examples; for the
+full technical details, see our  MFPS paper.
+
+
+More details on this work may be found on the  Hopkins Objects Group home page.
+
+Distributed Object-Oriented Programming 
+
+Another project I have been involved with concerns
+distributed/concurrent object-oriented computation.  This project has
+been performed in collaboration with Gul Agha, Ian Mason, and Carolyn
+Talcott.  Here are a few features of what we have accomplished thus
+far.
+
+
+ A rigorous reworking of the Actor model of computation
+ Operational semantics of executions given.
+ Only fair executions considered, for unfair executions never
+arise in practice.
+ Observational equivalence and methods for proving observational
+equivalence in the presence of fairness are defined.
+ Explicit, dynamic modeling of external agents and their
+interactions. 
+
+
+The latter two are, we believe, the key contributions, as little
+current research addresses these issues. 
+ Here is 
+a paper on this topic.
+
+
+ Less Active Research Areas 
+Semantics for Typed Object-Oriented Programming Developing
+a sound semantics for typed notions of inheritence is a long-standing
+research problem.  We believe state is a critical component of OOP,
+and we thus directly model objects with state.  Most of the current
+research in typing OOP has been for purely functional languages.
+Although this gives a good first approximation to the problem, enough
+progress has been made in this arena that it is time to work directly
+over a language with state.  Our paper in Lisp and
+Symbolic Computation represents our (final?) statement on
+this topic.
+
+
+Towards Complete Operational Semantics The aim of this
+project is to accomplish a degree of unification between operational
+and denotational approaches to programming language semantics by
+recasting classic denotational concepts inside a purely operational
+framework.  These concepts include notions of ordering a <=
+b, directed set, complete partial order, monotonicity,
+continuity, least fixed point principle, finite element,
+omega-algebraicity, and fixed point induction.  The purpose of this
+approach is to give full faithful semantics to languages for which
+denotational semantics fails.  To date this approach has been
+developed for functional languages, and preliminary extensions to
+languages with memories have shown possibilities.  The problem of
+finite elements for languages with memories is currently open,
+however.  
+Here is a paper on this topic.
+
+Asynchronous Digital Circuit Synthesis 
+
+In collaboration with Amy Zwarico we have defined a formal language
+for specifying asynchronous digital circuits that is based on Hoare's
+CSP, and verified a translation of these circuits to hardware devices
+(collections of gates).  The translation was proven correct by
+defining a formal operational notion of equivalence, and incrementally
+translating the specification to the circuit in small steps that
+preserve equivalence.  Numerous informal arguments of correctness of
+similar synthesis methods exist, but this work is the first complete,
+rigorous proof of correctness of such a method.  Some other features
+of this work include the following.
+
+
+ The translation is defined by a set of rewrite rules, broken into five phases.
+ A new notion of "translational equivalence" is defined to state how 
+a translation preserves meaning when the language itself is changing.
+ Only fair executions considered, for gates are inherently fair.  
+This is some of the first work in circuit theory to consider fairness.
+
+  Here
+ is a paper on this topic.

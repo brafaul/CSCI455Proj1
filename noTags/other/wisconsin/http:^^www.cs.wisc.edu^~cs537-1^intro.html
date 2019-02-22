@@ -1,0 +1,368 @@
+Date: Tue, 05 Nov 1996 20:57:09 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 21:38:52 GMT
+Content-length: 11952
+
+
+
+CS 537 - Introduction
+
+
+
+CS 537Lecture NotesIntroduction
+
+
+Contents
+
+     History
+         What is an OS For?
+     Bottom-up View
+     Top-Down View
+     Course Outline
+
+
+  History  
+
+Once computers were expensive and rare.
+    Now they are cheap (or expensive!) and ubiquitous.
+    Hardware trends:
+    
+vacuum tubes, core memory, punched cards
+            
+-> transistors, magnetic tapes
+            -> integrated circuits, disks
+            -> VLSI (computer on a chip)
+            
+main frame ($1 million and up)
+            
+-> mini $50K - $1M; workstation $10K - $50K
+            -> micro (pc) $1K - $10K
+            -> network computer $500 and up (??)
+            
+
+Software:
+    
+Batch system.  One user at a time.  Same person was programmer,
+            operator, and end-user (who wants something done)
+            
+-> multiprogrammed (more than one "job" at a time)
+                (to improve utilization -- e.g. spooling)
+            -> time-sharing (multiple interactive users)
+            -> single-user pc or ws (come full-circle?)
+            
+Other kinds of systems:
+            
+Transaction processing (e.g. banking, airlines)
+            Real-time (e.g., missile defense, factory control)
+            Embedded systems (a computer in every toaster)
+            
+
+
+      What is an OS For?  
+
+Beautification Principle
+
+        The goal of an OS is to make hardware look better than it is.
+        
+More regular, uniform (instead of lots of idiosyncratic devices)
+            Easier to program (e.g., don't have to worry about speeds,
+                asynchronous events)
+            Closer to what's needed for applications:
+            
+named, variable-length files, rather than disk blocks
+                multiple ``CPU's'', one for each user (in shared system)
+                    or activity (in single-user system)
+                multiple large, dynamically-growing memories (virtual
+                    memory)
+            
+
+Resource principle
+
+
+The goal of an OS is to mediate sharing of scarce resources
+            
+Q:What is a ``resource''?
+            A:Something that costs money!
+            
+Why share?
+            
+expensive devices
+            need to share data (database is an ``expensive device''!)
+            cooperation between people (community is an ``expensive device''!!)
+            
+Problems:
+            
+getting it to work at all
+            getting it to work efficiently
+                
+utilization (keeping all the devices busy)
+                throughput (getting a lot of useful work done per hour)
+                response (getting individual things done quickly)
+                
+protection
+                
+limiting the effects of bugs
+                    (preventing idiots from ruining it for everyone)
+                preventing unauthorized
+                    
+access to data
+                    modification of data
+                    use of resources
+                    
+                    (preventing bad guys from ruining it for everyone)
+                
+
+
+
+  Bottom-up View
+(starting with the hardware)
+ 
+Hardware (summary; more details later)
+
+components
+        
+one or more central processing units (CPU's)
+        main memory (RAM, core)
+        I/O devices
+        bus, or other communication mechanism connects them all together
+        
+CPU has PC pointing to next instruction to execute
+        
+fetches instructions one at a time from location specified by PC
+        increments PC after fetching instruction; branch instructions
+            can also alter the PC
+        responds to "interrupts" by jumping to a different location
+            (like an unscheduled procedure call)
+        
+Memory responds to "load" and "store" requests from the CPU, one at
+        a time.
+    I/O device
+        
+Usually looks like a chunk of memory to the CPU.
+        CPU sets options and starts I/O by sending "store" requests
+            to a particular address.
+        CPU gets back status and small amounts of data by issuing "load"
+            requests.
+        Direct memory access (DMA):  Device may transfer large amounts of
+            data directly to/from memory by doing loads and stores
+            just like a CPU.
+        Issues an interrupt to the CPU to indicate that it is done.
+        
+
+Timing problem
+
+I/O devices are millions or even billions of times slower than CPU.
+    E.g.:
+        
+Typical PC is >10 million instructions/sec
+        Typical disk takes > 10 ms to get one byte from disk
+            ratio: 100,000 : 1
+        Typical typist = 60 wpm = 1 word = 5 bytes/sec = 200 ms
+            = 2 million instructions per key-stroke.  And that
+            doesn't include head-scratching time!
+        
+Solution:
+        
+start disk device
+do 100,000 instructions of other useful computation
+wait for disk to finish
+        
+Terrible program to write; debug.  And it would change with a faster
+        disk!
+    Better solution:
+
+Process 1:
+    for (;;) {
+        start I/O
+        wait for it to finish
+        use the data for something
+    }
+Process 2:
+    for (;;) {
+        do some useful computation
+    }
+
+        Operating system takes care of switching back and forth between
+            process 1 and process 2 as ``appropriate''.
+            (Question:  which process should have higher priority?)
+    
+Space problem
+
+Most of the time, a typical program is "wasting" most of the memory
+    space allocated to it.
+        
+Looping in one subroutine (wasting space allocated
+            to rest of program)
+        Fiddling with one data structure (wasting space allocated to
+            other data structures)
+        Waiting for I/O or user input (wasting all of its space)
+        
+Solution: virtual memory
+
+Keep program and data on disk (100-1000 times cheaper/byte).
+        OS automatically copies to memory pieces needed by program
+            on demand.
+        
+
+
+  Top-Down View
+(what does it look like to various kinds of users?)
+ 
+
+End user.
+        
+Wants to get something done (bill customers, write a love letter,
+            play a game, design a bomb).
+        Doesn't know what an OS is (or care!)
+            May not even realize there is a computer there.
+        
+Application programmer.
+        
+Writes software for end users.  Uses ``beautified'' virtual machine
+            
+named files of unlimited size
+            unlimited memory
+            read/write returns immediately
+            
+Calls library routines
+            
+some really are just subroutines written by someone else
+                
+sort an array
+                solve a differential equation
+                search a string for a character
+                
+others call the operating system 
+                
+read/write
+                create process
+                get more memory
+                
+
+
+Systems programmer (you, at the end of this course)
+        
+Creates abstractions for application programmers
+        Deals with real devices
+        
+
+  Course Outline  
+
+ Processes.
+        
+What processes are.
+        Using processes
+            
+synchronization and communication
+                
+semaphores, critical regions, monitors, conditions,
+                messages, pipes
+                
+process structures
+                
+pipelines, producer/consumer, remote procedure call
+                
+deadlock
+            
+Implementing processes
+            
+mechanism
+                
+critical sections
+                process control block
+                process swap
+                semaphores, monitors
+                
+policy (short-term scheduling)
+                
+fcfs, round-robin, shortest-job next, multilevel queues
+                
+
+
+ Memory
+        
+Main-memory allocation
+        Swapping, overlays
+        Stack allocation (implementation of programming languages)
+        Virtual memory hardware
+            
+paging, segmentation, translation lookaside buffer
+            
+policy
+            
+page-replacement algorithms
+                
+random, fifo, lru, clock, working set
+                
+
+
+ I/O devices
+        
+device drivers, interrupt handlers
+        disks
+            
+hardware characteristics
+            disk scheduling
+                
+elevator algorithm
+                
+
+
+ File systems
+        
+file naming
+        file structure (user's view)
+            
+flat (array of bytes)
+            record-structured
+            indexed
+            random-access
+            metadata
+            mapped files
+            
+implementation
+            
+structure
+                
+linked, tree-structured, B-tree
+                
+inodes
+            directories
+            free-space management
+            
+
+ Protection and security
+        
+threats
+        access policy
+            
+capabilities, access-control lists
+            
+implementation
+            
+authentication/determination/enforcement
+            encryption
+                
+conventional
+                public-key
+                digital signatures
+                
+
+
+
+
+
+
+
+solomon@cs.wisc.edu
+
+
+Thu Oct 31 15:38:51 CST 1996
+
+
+
+Copyright © 1996 by Marvin Solomon.  All rights reserved.
+
+
+

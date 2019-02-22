@@ -1,0 +1,322 @@
+Date: Wed, 20 Nov 1996 22:48:47 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 9945
+Last-modified: Wed, 20 Nov 1996 19:48:35 GMT
+
+
+
+Systems Programming Home Page
+
+
+Systems Programming Home Page
+66-431 Fall, 1996
+
+
+Last updated November 20, 1996
+
+ The optional final exam for this course is scheduled for
+Monday Afternoon, Dec. 16. at 2:00 PM.  It will be 
+75 minutes, open book/open notes.
+
+ Alert:  I have made some modifications to the spec for
+project 6.  Read the changes by clicking 
+ here 
+
+Contents
+
+Course Information
+Grading
+Schedule
+Projects
+Sample programs from first half of class
+Sample Motif programs
+Code from the Text
+Other Motif and X resources
+Exam information
+ Kerberos resources
+AFS Notes
+Miscellaneous resources
+
+
+  Course Information 
+
+Instructor: 
+Robert Ingalls, Executive Officer, Computer Science Dept.
+            133 Amos Eaton
+            Phone 518-276-2819
+	    email: ingalr@rpi.edu
+	    or ingallsr@cs.rpi.edu
+	    
+            Office Hours: Tu Th 1:30 - 3:30
+
+
+Texts: 
+
+Advanced Programming in the Unix Environment
+            by W. Richard Stevens
+            Addison Wesley, 1992
+
+ 
+The X Window System: Programming and Applications with Xt
+
+            by Douglas A. Young
+            Prentice Hall, 1994
+
+Teaching Assistants:
+Lakshmi Bhat
+    Amos Eaton 208, 518-276-8265
+    email: bhatl@cs.rpi.edu
+    Office Hours: M W 2:00-3:30
+    Corey Bufi
+    Amos Eaton 108, 518-276-6907    
+    email: bufic@cs.rpi.edu
+    Office Hours: M W 12:00 - 2:00
+
+
+This course introduces students to the basic concepts of systems
+programming, including system calls, files and I/O, process
+management, interprocess communication, networking, concurrent
+programming, and graphics using X windows.  Particular
+emphasis will be placed on the implementation of these concepts in
+Unix, but other operating system implementations will also be covered.
+
+Prerequisites: Students are assumed to be able to program in C and
+to have a basic understanding of data structures and assembler language
+programming.
+
+Grading
+There will be two tests, and six programming
+assignments.  Each of the tests will count 24% of the course grade,
+the program assignments will be of varying weights depending on
+their degree of difficulty, but they will total 52%.
+There will be no make-up exams.  However, there will be an optional
+comprehensive final exam which can be used to replace a missing test or
+project or your lowest test or project.
+
+Academic Integrity: All programs submitted must be your own work,
+and you are expected to develop your programs independently.  You may
+receive as much help as you wish on the use of the operating system,
+text editors, debuggers, file transfer protocols and so on.  You may
+consult with other members of the class about interpreting the
+assignment, and you may get help in finding bugs, but not fixing bugs,
+but you are not allowed to look at or copy another person's code or
+discuss design decisions with others, and you cannot show your code to
+others.  Students found to be in violation of these guidelines will
+fail the project, and will be reported to the dean.
+
+Programming assignments: This is a programming intensive course,
+and students are expected to be strong C programmers.  Assignments may
+be done in either C or C++.  While you may use whatever platforms or
+compilers you wish to develop your code, all code submitted must run
+on both Sun and AIX platforms on RCS and must compile without errors
+or significant warnings using gcc -Wall .... Assignments will
+be submitted by e-mailing source code to the TA (multiple files should
+be bundled using  shar).  You must submit a make file with each
+assignment.  There will be ten point per day penalty for lateness.
+
+Schedule
+This schedule is tentative and should not be taken too literally.
+I will sometimes be ahead of this, sometimes 
+behind it, and sometimes completely off of it.
+
+Schedule of Topics
+
+Date
+Topics
+Reading
+
+
+Tu Aug 27
+Unix standards, Posix, debugging, shar
+Stevens Ch 1,2
+
+
+Th Aug 29
+Structure of a C program, compiling, linking,
+make, libraries, concept of a system call, errno
+
+Stevens, Ch. 7
+
+
+Tu Sep 3
+I/O, Files, file system calls
+Stevens, Ch 3
+
+
+Th Sep 5
+Files and directories, more system calls
+Stevens, Ch 4,5,6
+
+
+Tu Sep 10
+Process concepts fork, exec, etc.
+Stevens, Ch 8
+
+
+Th Sep 12
+process group relations, daemon processes
+Stevens, Ch 9
+
+
+Tu Sep 17
+Signals
+Stevens, Ch 10
+
+
+Th Sep 19
+Interprocess Communication, Pipes, FIFOs
+Stevens, Ch 14
+
+
+Tu Sep 24
+Concurrency Concepts
+none
+
+
+Th Sep 26
+Concurrency in Unix, semaphores, file locks, shared memory
+Stevens, Ch 14
+
+Tu Oct 1
+Examples, a postscript printer, a database library
+Stevens Ch 16, 17
+
+
+Th Oct 3
+The Client Server model, sockets
+Online reading
+
+
+Tu Oct 8
+More on sockets, the Internet, review
+none   
+
+
+Th Oct 10
+Exam
+ none  
+
+
+Th Oct 17
+ Design of Clients and Servers
+ 
+
+
+Tu Oct 22
+Intro. to networking, protocol stacks
+ 
+
+
+Th Oct 24
+The Internet, IP
+ 
+
+
+Tu Oct 29
+TCP and UDP
+ 
+
+
+Th Oct 31
+Security, Kerberos
+ 
+
+
+Tu Nov 5
+Overview of the X window system
+Young, Ch 1,2,3
+
+
+Th Nov 7
+Primitive Motif Widgets
+Young, Ch 4
+
+
+Tu Nov 12
+Manager Widgets
+Young, Ch 5
+
+
+Th Nov 14
+Menus and dialogs
+Young Ch 6,7
+
+
+Tu Nov 19
+Events
+Young, Ch 8
+
+
+Th Nov 21
+Graphics, color, fonts, bitmaps
+Young, Ch 9-13
+
+
+Tu Nov 26
+Creating your own widgets
+Young Ch 14, 15
+
+
+Tu Dec 3
+Review
+ 
+
+
+Th Dec 5
+Exam
+ 
+
+
+
+
+Projects
+General Project Guidelines  All projects should follow
+guidelines for good programming practices.  Here is my list.
+
+ Your program should have a comment at the top with your name,
+login id, a brief description of what the program is, and any
+special compiling instructions.
+ main() should be like an executive in a company; it
+should not do any work, but it should delegate work to other functions
+ Most functions should be short, and each should do only one thing.
+No function should ever be more than 50 lines.
+ Each function should have a brief comment describing what it
+does.
+ It is not necessary to comment every line, and if your code is well
+written, it should not require a lot of in-line commenting.  However,
+you should use comments to describe any unusual code or hard to follow
+code or complicated code, and describe any non-obvious variables.
+ variables and functions should have meaningful names, but you can
+use single letters like i for loop counters and such.
+ You should check the return code for any system call that can
+fail and have an appropriate error handler.
+ Your code should have enough error checking so that no matter
+what the user does, your program will not seg fault or loop forever,
+or do other strange things.  It is very hard to
+make your program idiot proof; idiots are very clever.
+ All code must be written by you and you alone, except that you
+can use and modify any sample code from the text or from class as long
+as you provide credit to the source.
+
+
+
+ About Project 1 
+ About Project 2 
+ About Project 3 
+ About Project 4 
+ About Project 5 
+ About Project 6 
+
+
+
+If you have problems or suggestions - send mail to 
+sysprog@cs.rpi.edu.
+
+Miscellaneous Resources
+
+At the request of one of the students, here is a link to 
+a list of all of the 
+RFCs (Request for Comments).  This contains protocols for many common
+network services as well as other standards for the Internet.
+

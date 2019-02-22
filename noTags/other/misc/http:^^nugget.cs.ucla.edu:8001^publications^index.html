@@ -1,0 +1,597 @@
+Date: Tue, 14 Jan 1997 18:57:59 GMT
+Server: NCSA/1.5.1
+Last-modified: Mon, 18 Nov 1996 23:43:39 GMT
+Content-type: text/html
+Content-length: 24074
+
+
+UCLA Data Mining Laboratory Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+"Mapping a Common Geoscientific Object Model to Heterogeneous Spatial
+Data Repositories",
+The 4th ACM International Workshop on Advances in Geographic
+Information Systems,
+Rockville, Maryland, Nov. 1996.
+
+ 
+"The Design of the FALCON Framework for Application Level Communication
+Optimization",
+UCLA CSD Technical Report #960039, Nov. 1996.
+
+ 
+"Mining Geophysical Data for Knowledge",
+IEEE Expert, 11(5):34-44,
+Oct. 1996.
+
+ 
+"OASIS: An EOSDIS Science Computing Facility",
+International Symposium on Optical Science, Engineering, and
+Instrumentation, Conference on Earth Observing System,
+Denver, Colorado, Aug. 1996.
+
+ 
+"Scalable Exploratory Data Mining of Distributed Geoscientific Data",
+Second International Conference on Knowledge Discovery and Data Mining,
+Portland, Oregon, Aug. 1996.
+
+ 
+"On Heterogeneous Distributed Geoscientific Query Processing",
+Sixth International Workshop on Research Issues in Data Engineering: 
+Interoperability of Nontraditional Database Systems,
+New Orleans, Louisiana, Feb. 1996.
+
+ 
+"OASIS: An Open Architecture Scientific Information System",
+Sixth International Workshop on Research Issues in Data Engineering: 
+Interoperability of Nontraditional Database Systems,
+New Orleans, Louisiana, Feb. 1996.
+
+
+
+
+ 
+"Optimization of Access to Heterogeneous Data Repositories
+in a Geoscientific Query Processing System",
+Science Information Systems Interoperability Conference,
+College Park, MD, Nov. 1995.
+
+ 
+"OASIS: An Open Architecture Scientific Information System",
+Science Information Systems Interoperability Conference,
+College Park, MD, Nov. 1995.
+
+ 
+"Fast Spatio-Temporal Data Mining of Large Geophysical Datasets",
+The First International Conference on Knowledge Discovery and Data
+Mining,Montreal, Quebec, Canada, Aug 1995. 
+
+ 
+"Integrating Distributed Object Management into EOS",
+Geo Info Systems, 5(5):58-59, May 1995.
+
+ 
+"Exploratory Data Mining and Analysis Using Conquest",
+IEEE Pacific Rim Conference on Communications, Computers, Visualization,
+and Signal Processing,
+Victoria, British Columbia, Canada, May 1995.
+
+
+
+
+ 
+"Real Time Data Mining, Management, and Visualization of GCM Output",
+Supercomputing 94 Poster,
+Washington, DC, Nov 1994.
+
+ 
+"The Conquest Modeling Framework for Geoscientific Data",
+UCLA CSD Technical Report #940039, Oct 1994.
+
+ 
+"Quest: An Environment for Content-Based Access to Geoscienitfic Datasets",
+1994 International Geoscience and Remote Sensing Symposium,
+Pasadena, CA, Aug. 1994.
+
+ 
+"QUEST: Content-based Access to Geophysical Databases",
+AAAI Workshop on AI Technologies in Environmental Applications,
+Seattle, WA, Jul-Aug 1994.
+
+ 
+"Extracting Spatio-Temporal Patterns from Geoscience Datasets",
+IEEE Workshop on Visualization and Machine Vision,
+Seattle, WA, Jun 1994.
+
+
+
+
+
+
+
+
+
+
+S. Nittel, J. Yang, and R.R. Muntz,
+
+"Mapping a Common Geoscientific Object Model to Heterogeneous Spatial
+Data Repositories",
+The 4th ACM International Workshop on Advances in Geographic
+Information Systems,
+Rockville, Maryland, Nov. 1996.
+
+
+
+Lately, a need to integrate specialized data management systems
+such as geographic information systems (GIS), or multimedia
+systems has gained importance. A large variety of different
+data sets are available in various specialized repositories, and
+users would like to access and manipulate these data sets in
+a uniform way. Additionally, it is desirable to make the
+specialized functionality provided by the individual
+repositories available to the user application through a
+homogeneous interface. At UCLA Data Mining Laboratory, we are
+developing geoPOM (geoscientific Persistent Object Manager), a
+heterogeneous geoscientific object system which provides a
+homogeneous interface to heterogeneous spatial data repositories.
+ 
+geoPOM provides an object-oriented spatial data model for
+the definition of user-defined spatial object types.
+Internally, geoPOM maps user-defined spatial object types
+to different specialized spatial data repositories, and
+employs their storage, search and spatial query capabilities.
+In this paper, we focus on the goals, problems and approach
+taken in geoPOM towards defining the spatial functionality
+of the heterogeneous geoscientific object system available 
+to the user, as well as, the mapping of the spatial object
+model to the diverse semantic and functional characteristics
+of the heterogeneous spatial data repositories.
+
+
+
+
+
+E.C. Shek, R.R. Muntz, and L. Fillion,
+
+"The Design of the FALCON Framework for Application Level Communication
+Optimization",
+UCLA CSD Technical Report #960039, Nov. 1996.
+
+
+
+There exist a wide-variety of communication-intensive applications 
+which run in networks and platforms of greatly varying characteristics.
+This implies the need for application level communication
+optimization, which is the optimization of network communication
+by exploiting application semantics as well as network and compute
+node characteristics.  
+In this paper, we propose a flexible object-oriented framework called
+FALCON for application level communication optimization by allowing
+complementary network communication optimization techniques to be
+combined in the form of matching stack layers at the endpoints of a
+communication channel.   
+Each stack layer is composed of a pair of matching modules, executed
+in the sender and receiver endpoints respectively.
+To exploit application knowledge that is only available to one of the
+communicating peers, the framework allows an executable stack layer
+module to be supplied by either of the communication peers and provides
+for safe transport to and execution at the other end of the channel.
+Automatic rule-based optimization techniques similar to those used 
+for extensible database query optimization are developed to 
+optimize the communication channel stacks based on the characteristics
+of available stack layers, required properties of the channel, and an
+application-dependent cost model. 
+In addition to providing architectural support for optimizing network
+communication, FALCON can also be used to introduce support for
+new communication and computing paradigms in high-level distributed
+computing environments.  For example, while OMG's CORBA distributed
+object management architecture adopts remote method invocation as its
+primary communication mechanism, data streaming and service migration
+can be easily accommodated within the FALCON framework. 
+
+
+
+
+
+E. Mesrobian, R.R. Muntz, E.C. Shek, S. Nittel, M. La Rouche, 
+M. Kriguer, C.R. Mechoso, J.D. Farrara, P. Stolorz, and H. Nakamura,
+"Mining Geophysical Data for Knowledge",
+IEEE Expert, 11(5):34-44,
+Oct. 1996.
+
+
+Exploratory data mining and analysis requires a computing environment
+which provides facilities for the user-friendly expression and rapid
+execution of "scientific queries". 
+OASIS exploits emerging distributed object management technologies 
+to present a flexible, extensible, and seamless
+environment for scientific data analysis,
+knowledge discovery, visualization, and collaboration.
+In this article we illustrate the use of OASIS
+for exploratory data analysis and data mining 
+of spatio-temporal phenomena from large geophysical datasets.
+
+
+
+
+
+E. Mesrobian, R.R. Muntz, E.C. Shek, S. Nittel, M. Kriguer,
+and M. LaRouche,
+
+"OASIS: An EOSDIS Science Computing Facility",
+International Symposium on Optical Science, Engineering, and
+Instrumentation, Conference on Earth Observing System,
+Denver, Colorado, Aug. 1996.
+
+
+In the course of global change studies, a scientist would often like
+to efficiently store, retrieve, analyze and interpret selected data
+sets from a large collection of scientific information scattered
+across heterogeneous computational environments, Earth Observing
+System data repositories, and to share the gleaned information with
+other scientific communities. To facilitate the above activities, we
+have developed OASIS, a flexible, extensible, and seamless environment
+for scientific data analysis, knowledge discovery, visualization, and
+collaboration. 
+
+
+
+
+
+E.C. Shek, R.R. Muntz, E. Mesrobian, and K. Ng,
+
+"Scalable Exploratory Data Mining of Distributed Geoscientific Data",
+
+Second International Conference on Knowledge Discovery and Data Mining,
+Portland, Oregon, Aug. 1996.
+
+
+
+Geoscience studies produce data from various observations,
+experiments, and simulations at an enormous rate.  
+Exploratory data mining extracts "content information" from
+massive geoscientific datasets to extract knowledge and provide 
+a compact summary of the dataset.
+In this paper, we discuss how database query processing and
+distributed object management techniques can be used to facilitate
+geoscientific data mining and analysis.  
+Some special requirements of large scale geoscientific data mining
+that are addressed include geoscientific data modeling, parallel query
+processing, and heterogeneous distributed data access. 
+
+
+
+
+
+E.C. Shek, E. Mesrobian, and R.R. Muntz,
+
+"On Heterogeneous Distributed Geoscientific Query Processing",
+
+Sixth International Workshop on Research Issues in Data Engineering: 
+Interoperability of Nontraditional Database Systems,
+New Orleans, Louisiana, Feb. 1996.
+
+
+
+Geoscience studies produce data from various observations,
+experiments, and simulations at an enormous rate.  In this paper, we
+present an overview of the Conquest parallel scientific query
+processing system that we are developing at UCLA to tackle some of the
+scientific data management problems presented by the proliferation of
+geographic applications, data formats, and storage systems, as well as
+the complexity of data and the computational requirements of
+scientific queries.  In particular, our goal is to provide the
+necessary combination of expressiveness, ease of use, flexibility, and
+efficiency to effectively support the analysis of complex
+spatio-temporal geoscientific datasets maintained by heterogeneous
+data sources in many different formats.  Conquest's data model is rich
+yet conceptually simple; it captures some important structural and
+semantic properties common to geoscientific data which influence the
+choice of query processing strategies, and is flexible enough to serve
+as the canonical model for a wide variety of scientific and
+non-scientific data.  Conquest supports a graphical dataflow
+programming environment in which scientists can interactively
+manipulate and visualize scientific data.  The extensible parallel
+query execution server supports varieties of inter- and intra-operator
+parallelism through the use of various support operators.  To provide
+a convenient heterogeneous distributed scientific data processing
+environment to scientists, the system supports a set of interfaces to
+a variety of scientific data sources including several external data
+formats and database servers.  We also report some early experiences
+with benchmarking the performance of the system.
+
+
+
+
+
+E. Mesrobian, R.R. Muntz, E. Shek, S. Nittel, M. LaRouche, and M.
+Krieger,
+
+"OASIS: An Open Architecture Scientific Information System",
+
+Sixth International Workshop on Research Issues in Data Engineering: 
+Interoperability of Nontraditional Database Systems,
+New Orleans, Louisiana, Feb. 1996.
+
+
+
+Motivated by the premise that heterogeneity of software applications and
+hardware systems is here to stay, we are developing
+OASIS, a flexible, extensible, and seamless environment for scientific data
+analysis, knowledge discovery, visualization, and collaboration. In this
+paper we discuss our OASIS design goals and present the system architecture
+and major components of our prototype environment.
+
+
+
+
+
+E.C. Shek, E. Mesrobian, and R.R. Muntz,
+
+"Optimization of Access to Heterogeneous Data Repositories
+in a Geoscientific Query Processing System",
+
+Science Information Systems Interoperability Conference,
+College Park, MD, Nov. 1995.
+
+
+
+
+
+
+E. Mesrobian, R.R. Muntz, M. LaRouche, S. Nittel, E. Shek, and M.
+Krieger,
+"OASIS: An Open Architecture Scientific Information System",
+
+Science Information Systems Interoperability Conference,
+College Park, MD, Nov. 1995.
+
+
+
+
+
+
+P. Stolorz, E. Mesrobian, R.R. Muntz, E.C. Shek, J.R. Santos, J. Yi, K. Ng, 
+S.Y. Chien, H. Nakamura, C.R. Mechoso, and J.D. Farrara,
+
+"Fast Spatio-Temporal Data Mining of Large Geophysical Datasets",
+
+The First International Conference on Knowledge Discovery and Data
+Mining,
+Montreal, Quebec, Canada, Aug 1995. 
+
+
+
+The important scientific challenge of understanding global climate
+change is one that clearly requires the application of knowledge
+discovery and data mining techniques on a massive scale.  Advances in
+parallel supercomputing technology, enabling high-resolution modeling,
+as well as in sensor technology, allowing data capture on an
+unprecedented scale, conspire to overwhelm present-day analysis
+approaches.  We present here early experiences with a prototype
+exploratory data analysis environment, CONQUEST, designed to provide
+content-based access to such massive scientific datasets.  CONQUEST
+(CONtent-based Querying in Space and Time) employs a combination of
+workstations and massively parallel processors (MPPs) to mine
+geophysical datasets possessing a prominent temporal component.  It is
+designed to enable complex multi-modal interactive querying and
+knowledge discovery, while simultaneously coping with the
+extraordinary computational demands posed the scope of the datasets
+involved.  After outlining a working prototype, we concentrate here on
+the description of several associated feature extraction algorithms
+implemented on MPP platforms, together with some typical results.
+
+
+
+
+
+R.R. Muntz, E. Mesrobian, C.R. Mechoso, D. McCleese, R. Haskins,
+R. Zurek, and T. Barnett,
+"Integrating Distributed Object Management into EOS", 
+Geo Info Systems, 5(5):58-59, May 1995.
+
+
+
+
+
+
+E. Mesrobian, R.R. Muntz, E.C. Shek, J.R. Santos, J. Yi, K. Ng, 
+S.Y. Chien, C.R. Mechoso, J.D. Farrara, P. Stolorz, and H. Nakamura,
+
+"Exploratory Data Mining and Analysis Using Conquest",
+IEEE Pacific Rim Conference on Communications, Computers, Visualization,
+and Signal Processing,
+Victoria, British Columbia, Canada, May 1995.
+
+
+
+Exploratory data mining and analysis requires an extensible environment
+which provides facilities for the user-friendly expression and rapid
+execution of "scientific queries".  In this paper we present the
+Conquest environment and illustrate its use for exploratory data analysis
+and data mining of spatio-temporal phenomena from geophysical datasets.
+
+
+
+
+
+E. Mesrobian, R.R. Muntz, E.C. Shek, C.R. Mechoso, J.D. Farrara, 
+J.A. Sphar, and P. Stolorz,
+
+"Real Time Data Mining, Management, and Visualization of GCM Output",
+Supercomputing 94 Poster,
+Washington, DC, Nov 1994.
+
+
+
+The output of simulations (e.g., global circulation models)
+can run into terabytes.
+The computational cost as well as the cost of storing and retrieving
+model data can be quite high.  Recently there have been some efforts
+to develop on-line visualization capabilities that can be used, for
+example, to monitor whether the model is behaving properly.
+There are however, many other uses for on-line data analysis including
+feature extraction, computational steering of the model, and
+controlled saving of model output (e.g., more frequent samples of
+state information under certain conditions).
+Each of these applications is a potential client of model output data.
+We present a software architecture which stresses modularity and
+flexibility and supports a variety of clients.  Some preliminary
+performance numbers are given from a prototype implementation.
+
+
+
+
+
+E.C. Shek, and R.R. Muntz,
+
+"The Conquest Modeling Framework for Geoscientific Data",
+UCLA CSD Technical Report #940039, Oct 1994.
+
+
+
+Geoscience studies produce data from various observations,
+experiments, and simulations at an enormous rate.  At UCLA, we are
+developing the Conquest parallel scientific query processing system
+to effectively support the analysis of complex spatio-temporal 
+geoscientific datasets maintained by heterogeneous data sources in 
+many different formats.
+
+In this paper, we describe the Conquest data modeling framework which
+captures some of the important semantics of geoscientific data and 
+common processing paradigms.  The central concept behind the
+Conquest data model is that of the field, which is the association of
+geometric cells in a coordinate space with dependent variable values.
+Cells with different semantics and structures can model a large
+variety of traditional and scientific datasets.  The properties of
+cells also influence the choice of data storage, indexing, and query
+optimization strategies.  In addition to providing a flexible data
+model to serve as the canonical model for a wide variety of scientific
+and non-scientific data, it is important for a system to
+be able to efficiently retrieve and operate on scientific data.
+As a result, we define an algebra for the Conquest data
+model in which queries and operations against scientific data can be
+conveniently expressed.  In addition, we present an overview of the
+Conquest architecture, and some interesting query processing issues 
+related to parallelism, extensibility and heterogeneity.
+
+
+
+
+
+E. Mesrobian, E.C. Shek, R.R. Muntz, and W. Cheng,
+"Quest: An Environment for Content-Based Access to Geoscienitfic Datasets",
+
+1994 International Geoscience and Remote Sensing Symposium,
+Pasadena, CA, Aug. 1994.
+
+
+
+Recent advances in fine and coarse-grained super computers have enable
+scientists to create models which, in the past, were computationally
+intractable. These advances have also provided scientists with the
+opportunity to greatly improve the success of their simulation results
+by allowing for finer model resolutions. Similarly, advances in sensor technology have led to instrument suites capable of
+capturing high spatial resolution, multi-spectral data at very high
+rates (e.g., Earth Observer Satellites (EOS) are expected to generate
+a terabyte of data per day). Unfortunately, software environments for
+storage, retrieval, analysis, interpretation and visualization of
+scientific information have not keep pace with their hardware counterparts. 
+
+We have developed a prototype system called QUEST to provide
+content-based query access to massive datasets. QUEST employs
+workstations as well as teraFLOP computers to analyze geoscience data
+in order to produce spatial-temporal features that are used as
+high-level indexes into terabyte datasets. Examples are presented of
+the use of QUEST for the content-based access of Global Circulation
+Model (GCM) datasets.  
+
+
+
+
+
+E. Mesrobian, R.R. Muntz, E.C. Shek, C.R. Mechoso, J.D. Farrara, 
+and P. Stolorz,
+
+"QUEST: Content-based Access to Geophysical Databases",
+AAAI Workshop on AI Technologies in Environmental Applications,
+Seattle, WA, Jul-Aug 1994.
+
+
+
+A major challenge facing geophysical science today is the unavailability
+of high-level analysis tools with which to study the massive amount of 
+data produced by sensors or long simulations of climate models.
+As part of a NASA HPCC Grand Challenge effort [Mun92], we have developed
+a prototype environment called QUEST to provide content-based query
+access to massive datasets used in geophysical applications.  QUEST
+employs workstations as well as massively parallel processors to produce
+spatio-temporal features that are used as high-level indexes into
+terabyte datasets.  This paper discusses our continued development of
+the QUEST environment.
+
+
+
+
+
+E. Mesrobian, R.R. Muntz, J.R. Santos, E.C. Shek,
+C.R. Mechoso, J.D. Farrara, and P. Stolorz,
+
+"Extracting Spatio-Temporal Patterns from Geoscience Datasets",
+IEEE Workshop on Visualization and Machine Vision,
+Seattle, WA, Jun 1994.
+
+
+
+A major challenge facing geophysical science today is the unavailability
+of high-level analysis tools with which to study the massive amount of
+data produced by sensors or long
+simulations of climate models.
+We have developed a prototype system called QUEST to provide content-based
+access to massive datasets.  QUEST employs workstations as well as teraFLOP
+computers to analyze geoscience data to produce spatial-temporal
+features that can be used as high-level indexes.
+Our first application area is global change climate modeling.
+In the initial prototype, the first features extracted are cyclones
+trajectories from the output of multi-year climate simulations produced
+by a General Circulation Model.
+We present an algorithm for cyclone extraction and 
+illustrate the use of cyclone indexes to access subsets
+of GCM data for further analysis and visualization.
+
+
+
+
+
+[General]
+[Projects]
+[People]
+[Publications]
+[Presentations]
+[Demos]
+[Related]
+
+
+
+This page Copyright © 1996; Webmaster www@nugget.cs.ucla.edu
+ Created: 5/12/95; Last Updated: 11/13/96
+
+
+

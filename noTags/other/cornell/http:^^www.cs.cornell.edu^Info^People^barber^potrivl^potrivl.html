@@ -1,0 +1,615 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:54:03 GMT
+Content-Type: text/html
+Content-Length: 34844
+Last-Modified: Saturday, 18-May-96 02:22:04 GMT
+
+
+
+An Improved-Version of a Parallel Object-Tracker in RivL
+An Improved-Version of a Parallel Object-Tracker in RivL
+
+
+http://www.cs.cornell.edu/Info/People/barber/potrivl/potrivl.html
+Sicco Tans (stans@cs.cornell.edu
+Jonathan Barber (barber@cs.cornell.edu)
+
+CS664 Final Project
+Professor Ramin Zabih
+Department of Computer Science
+Cornell University
+
+
+
+
+0.0 Table of Contents
+
+1.0 Abstract
+2.0 Introduction
+3.0 RivL and the Generic Parallel Paradigm
+3.1 The RivL Graph
+3.2 Generic Parallel RivL
+
+4.0 RivL's Object Tracker
+4.1 The Object Tracker Script
+4.2 The Algorithm behind im_search
+4.3 Parallelizing im_search
+4.4 Problems with im_search and Generic Parallel RivL
+
+5.0 Parallelizing im_search in RivL
+5.1 A Course-Grain Parallelization Scheme
+5.2 Implementation #1:  An Inefficient Parallel im_search
+
+6.0 Implementation #2:  Persisent Parallel Object Tracker
+6.1 Passing Sequence Information
+6.2 The Contents of Shared Memory
+6.3 Setting up Shared Memory
+6.4 Updating Shared Memory
+6.5 A New Semaphore
+6.6 Implementation Issues
+
+7.0 Performance Results
+8.0 Extensions & Improvements
+9.0 Conclusions
+10.0 References
+
+
+
+Go Back
+1.0  Abstract
+
+The fields of multimedia image processing and Computer Vision are converging.  At the 
+same time, a lot of work is being spent on making image/vision processing algorithms 
+more efficient, accessible, and usable to programmers.  A strong example of this merging 
+of technologies exists in RivL's Object Tracker, which has been the focus of our work.  In 
+this paper, we detail the inception and development of an efficient [parallel] Object 
+Tracker that is available with RivL.
+
+
+Go Back
+2.0  Introduction
+
+There are many similarities between the fields of multimedia image processing and 
+Computer Vision.  In many instances it is hard distinguish one from the other.  Both fields 
+involve operating on a single or a continuous stream of images.  These operations typically 
+incur a very large computational expense.  Object Tracking is an example of such a 
+multimedia/vision application.
+
+In recent years, a lot of effort has been spent in attempting to make image-processing and 
+vision-related algorithms easier to program, by adding  many layers of abstraction 
+between the image data, the image operations themselves, and the interface to the 
+programmer/user.  At the same time, these higher levels of abstraction should not add to 
+the computational complexity of the operation.   
+
+This left researchers and developers with the extraordinarily difficult problem of making 
+multimedia/vision operations fast, efficient, and easy-to-use.  The effort manifested itself 
+with the construction of RivL (A Resolution Independent Video Language) [1]. 
+RivL is a 
+multimedia software processing package that, given a set of images (or a set of a sequence 
+of images), can efficiently process these multimedia streams and generate an outgoing 
+image (or a sequence of images). RivL is implemented as a tcl extension that is capable of 
+performing common image operations such as overlay, smoothing, clipping, cropping, etc. 
+It also includes more complex vision-related image processing operations, such as object
+tracking, which has been the focus of our work.  The tcl interface simplifies the process of 
+coding an image/vision processing script.
+
+In recent months, several developers have improved RivL performance measures via a 
+fine-grained parallelization scheme using a shared memory machine and an a 
+distributed computing environment 
+[2].  The parallelization is independent of most of the 
+image operations resident in the RivL library (e.g. im_clip, im_smooth, im_canny).  
+Unfortunately, this scheme does not lend itself to more complicated computer vision 
+applications.  In particular, the scheme does not work for Object Tracking.
+Bearing this in mind, we established the project goal to develop a backwards-
+compatible parallel implementation of Object Tracking tailored for RivL.
+
+ In Section 3.0, we introduce RivL, and describe the generic parallelization scheme.
+In Section 4.0, we describe the Hausdorff-based 
+Object-Tracking algorithm implemented in RivL.  In Section 5.0, we introduce the 
+scheme for parallelizing RivL's Object Tracking operation.  In Section 6.0, we describe 
+our implementation of a parallel Object-Tracking RivL operation.  In Section 7.0 we 
+present our performance results.  In Section 8.0, we present some extensions for future 
+work and improvements in the current implementation. In Section 9.0, we draw some 
+conclusions.
+
+
+Go Back
+3.0   RivL and the Generic Parallel Paradigm
+
+Go Back
+3.1  The RivL Graph
+
+We begin our discussion of RivL by introducing the RivL Evaluation Graph.
+
+
+
+In order for RivL to execute, it requires a set of multimedia input data, and a control 
+RivL script. The RivL script is a sequence of tcl-RivL commands that specify what image 
+processing operations should occur on the input data. Once RivL is invoked, the RivL 
+script is translated into the RivL graph, as pictured above. Each node corresponds to some 
+image operator (e.g. im_smooth, im_canny, etc.), 
+and each edge or signal corresponds to 
+the actual image data. Those nodes lying inside of the illustrated rectangle above 
+correspond to true image operators. Those nodes lying outside of the rectangle are the 
+RivL I/O nodes. The nodes outside and to the left of the rectangle correspond to read 
+nodes (i.e. one read/node per image [or stream]), and the node to right of the rectangle 
+corresponds to the write node.
+
+We want to emphasize that construction of the RivL graph does not compute on any 
+multimedia data. The RivL graph is merely the control-flow structure through which each 
+inputted sequence of data must propagate to generate the outputted, processed image.
+
+There are two phases in processing data using the RivL graph once it has been 
+constructed. The first phase manifests itself in a graph traversal from right-to-left. This is 
+what makes RivL an efficient image processing mechanism. The first node that is 
+evaluated is the Write node (the right-most node). By traversing the graph in reverse-order, 
+RivL decides at each node exactly how much data the output signal requires from the 
+input signal. The evaluation is reverse-propagated from the write node, through the graph, 
+and back to every read node. Once the reverse-propagation completes, every node in the 
+graph knows exactly how much data from each input signal is required to compute the 
+node's corresponding output signal. The multimedia data is then processed on the second 
+traversal, which conforms to a left-to-right traversal of the RivL graph, propagating the 
+input data forwards through the graph, only operating on data that is relevant to the final 
+output image.
+
+
+Go Back
+3.2  Generic Parallel RivL
+
+We can summarize the preceding section into the statement that, the amount of data that is 
+fetched from each Read node is exactly a function of the output of the Write node. 
+Combining this notion with the fact that most of the image processing operations in RivL 
+do not create dependencies from one pixel to another in a given input image, we can derive 
+a simple for mechanism for "dividing up the work", and parallelizing RivL.  
+
+Instead of running RivL on a single processor, RivL spawns multiple processes on 
+different processors, and has each process work towards computing a different segment 
+of the output data. We define the notion of a single master RivL process, and multiple 
+slave RivL processes. Each slave process should run on a different processor.  Once 
+started, the slave process sits idle, listening for instructions from the master.  
+During the initial setup period, the master sends each slave process a logical ID#.  In 
+addition, each slave is aware of the total number of processes "available for work".
+
+Following the control-setup period,  the master sends each slave a copy of the RivL 
+script. Once each slave (and the master) receives the RivL script, they each generate a 
+copy of the RivL graph, and perform the right-to-left traversal independently.
+
+The difference between the right-to-left traversal now, is that the logical ID# for the 
+current processor and the total number of processes becomes a factor in determining how 
+much computation gets done for each process.
+
+
+
+According the figure above, the amount of data fetched from each read node is no longer a 
+function of the output of the write node, but is now a function of:
+
+the process's Logical ID# 
+the total number of processes 
+and, is a function of the write node's output
+
+
+That is, each RivL process is responsible for computing a different, independent portion 
+of the final output data, which is based on the above parameters.  The approach is 
+fine-grained in that each RivL process performs the same set of computations, on different 
+data. 
+
+Actual data computation (the left-to-right graph traversal) occurs when the master says 
+"go". Each slave and the master process computes their appropriated portion of the output 
+image.
+
+
+Go Back
+4.0  RivL's Object-Tracker
+
+Go Back
+4.1  The Object-Tracker Script
+
+The RivL Object Tracker is implemented as a tcl script which executes a set of RivL 
+image operations.  Given an image sequence and a model to look for, the job of the RivL 
+Object Tracker is to determine where an object model resides in a given image, for each 
+frame in a sequence of images.  The image sequence can be represented by any RivL 
+datatype (e.g. MPEG, continuous JPEG).  The model is a string of points, which is a 
+bounding-box specifying the location of the object in a given image.  
+
+The Tracker operates as follows:  it looks at adjacent images in a sequence, which I will 
+define here as Prev (for previous) and Next.  
+We want to determine where the object 
+model went from Prev to Next.  For every adjacent set of images, the Tracker performs the 
+following sequence of operations:  it first smooths (using the RivL im_smooth operation) 
+and then edge-detects (using the im_canny operator, which is a Canny Edge-Detector 
+[3]) 
+Next.  Prev was smoothed and edge-detected in the previous iteration.   
+The im_search 
+command is then invoked, which actually performs the object tracking.  The im_search 
+command extracts the actual "object to be tracked" from Prev specified by model.  
+im_search then searches for an instance of the object in Next.  
+When im_search 
+completes, it returns a new bounding-box model, which corresponds to the location of the 
+tracked object in Next.   By modifying the RivL script, we can generate an output 
+sequence of images that illustrates the object being tracked.
+
+
+
+The sequence of images above illustrates the output of RivL's Object Tracker.  
+The tracked object appears highlighted, while rest of the image is dimmed.
+
+Go Back
+4.2  The Algorithm behind im_search
+
+The search itself is based on the Hausdorff distance [4], 
+which is a measure of the 
+similarity between two different sets of points.  The im_search command compares the 
+object with different locations inside Next.  If we find a Hausdorff distance D, and it is 
+within some threshold value V, then a match is found.  If more than one D is found within 
+V, then we pick the match with the smallest Di, corresponding to the best possible match.
+
+The search utilizes a multi-resolution approach [5].
+  The image Next is evenly divided into 
+separate regions.  Each region is then pre-searched, to determine if there is "anything 
+interesting" in that region.  By interesting, we mean that there is a substantial clustering of 
+edges, again within some other threshold U.  For each region that was determined 
+interesting, it is then recursively sub-divided and pre-searched.
+
+
+
+By recursively dividing up the image and locating only "interesting" regions, the overall 
+search space is decreased   The Hausdorff distance comparisons between the model and 
+the region of interests can then proceed only on the reduced search space.
+
+Go Back
+4.3  Parallelizing im_search
+
+The multi-resolution approach lends itself to parallelization.  At each level of the 
+resolution, separate independent regions must be pre-searched.  These pre-searches can be 
+processed in parallel in a hungry-puppy fashion.  When the pre-search recursively moves 
+down to a lower level, each region is again sub-divided and pre-searched.  These searches 
+can also be done in parallel.  And so forth.
+
+Go Back
+4.4  Problems with im_search and Generic Parallel RivL
+
+As we mentioned in the introduction, the generic parallel scheme described earlier works 
+for the majority of the image operations in RivL.  Unfortunately, this is not the case for 
+im_search.  
+
+In generic parallel RivL, the output write region is sub-divided based on the process's 
+logical ID#, and the total number of processes willing to work.  In this paradigm, each 
+process is responsible for its own portion of the output region.  Computation of each 
+output region does not rely upon the output of any other regions. In generic RivL, there is 
+no communication between different processes for a given traversal of the RivL graph.  
+Each process is independent of one another.
+
+Unlike the more general operations, the output region of im_search cannot simply be 
+sub-divided into different regions and computed independently of one another.  This is true for 
+the reason that an object being tracked may overlap several write regions.  Since there is 
+no communication between processes for a given traversal of the RivL graph, im_search 
+will not work using Generic RivL.
+
+
+Go Back
+5.0  Parallelizing im_search in RivL
+
+Go Back
+5.1  A Course-Grain Parallelization Scheme
+
+In Section 4.3 we introduced a method for parallelizing im_search based on the 
+multi-resolution approach for object tracking.  This is exactly the scheme that has been 
+implemented in RivL.  Unfortunately, this scheme is currently incompatible with fine-grain 
+generic parallel RivL for the reasons described above.  Rather, parallel im_search 
+was implemented over the original sequential version of RivL.  
+
+The alternative parallelization scheme works as follows:  RivL is initially invoked on only 
+one process, the master Process.  The master constructs the RivL graph, and performs the 
+right-to-left traversal, all by itself. im_search, like any other image operation, is 
+constructed as a RivL node.  When the image sequence to be tracked is loaded and ready, 
+each image makes its left-to-right traversal through the RivL graph.  When the data 
+encounters the im_search node, the following sequence of events happens:
+
+RivL spawns n slave processes as an extension of im_search
+The master process organizes the multi-resolution pre-searches.  It maintains a high 
+priority queue, and a low priority queue.  The high-priority queue contains a list of 
+pre-searches "to-do" on the sub-divided image.  
+Each slave process pulls these jobs from the queue, 
+and performs the pre-search on each job.  If an interesting region is found, the Slave 
+process will further sub-divide that region into smaller regions, and place each 
+sub-divided region as a job "to-do" onto the low priority queue.
+
+
+
+The master can only write to the high-priority queue, and read from the low-priority 
+queue.
+The slave can only read from the high-priority queue, and write to the low-priority
+queue.
+
+
+
+
+Essentially, each slave process performs the pre-searches in a hungry-puppy fashion, to 
+narrow down the scope of the overall search region.  The master process is responsible for 
+maintaining the queues.  It initially places work onto the high-priority queue for the slaves 
+to fetch.  It then clears new pre-search jobs specified by each slave process from 
+the low-priority queue, and places them back onto the high-priority queue for the next 
+level of recursion.
+
+Once the pre-searches have concluded, the slaves have fulfilled their tasks for the current 
+iteration.  The master then computes the Hausdorff distances between the object and the 
+"interesting regions", and looks for the best possible match, if any.  If one is found, it 
+outputs the new bounding-box of the object, based on the current image, Next.
+
+Go Back
+5.2  Implementation #1:  An Inefficient Parallel im_search
+
+We discovered an implementation of the parallelized im_search RivL node.  
+Unfortunately, we are unable to give credit to the developer(s) of the implementation 
+because it is completely un-documented. The implementation utilizes the parallelization 
+scheme described in the previous section.  The design is meant to run over a shared 
+memory machine.
+
+When the left-to-right traversal of the RivL graph hits the im_search node, RivL attaches 
+the high and low priority job queue data structure to shared memory, and generates UNIX-
+IPC semaphores to govern access to this shared object to prevent race conditions, and to 
+synchronize the parallelization.  Once the shared-memory and semaphores are set up, 
+RivL then forks n slave processes.
+
+We want to emphasize that this implementation is SPMD.  The only shared data  is the job 
+queue, which is simply a data structure that contains pointers to different portions of 
+Next.  
+The object-model and image data are completely replicated in each RivL process, and 
+reside at exactly the same address in each process's address space.  The parallel 
+computation proceeds as described above.  When the slave processes are done (i.e. all 
+interesting regions have been found), the master kills each slave, and de-allocates 
+the shared-memory segment.  The master then proceeds to finish the object tracking computation.  On the next traversal of the RivL graph, the above sequence of 
+events are repeated   The master again sets up shared-memory and the 
+semaphores, re-forks, and then re-kills the slaves.
+
+We believe that this is a very wasteful implementation of im_search.  At every iteration, 
+expensive UNIX kernel system calls are generated to:
+
+setup shared-memory and the semaphores.  In doing so, expensive resources are wasted 
+in re-allocating the same memory segment.
+fork n slave processes.  This involves replicating not only the im_search node, but the 
+entire RivL address space.  This includes replicating the RivL graph, and all RivL data, 
+including the model and image data.  We believe that the developers of this 
+implementation forked new slaves every iteration to eliminate a lot of work and 
+complications involved in establishing an efficient means of communication between the 
+processes.  
+
+
+
+This wastefulness led us to develop a smarter implementation of im_search that re-uses 
+resources, and improves performance of the object tracker.
+
+
+Go Back
+6.0  Implementation #2:  Persistent Parallel im_search
+
+An improved way of implementing the object tracking algorithm seeks to reduce the 
+overhead of re-creating a shared memory segment and forking off a series of child 
+processes for each frame in an object tracking sequence. With a little information about 
+the position of the current frame in a larger tracking problem, the object tracker can keep 
+the shared memory and the child processes alive while the same sequence of images 
+continue to be tracked. This way, the master process can simply put the new image and 
+model into shared memory and wake the children up to start work on the current tracking 
+sub-problem. Only when a sequence has been completely tracked will the shared memory 
+be cleaned up and the children killed in anticipation of a new sequence to be tracked.
+
+Go Back
+6.1  Passing Sequence Information
+
+The first issue to be dealt with was the passing of sequence information into the object 
+tracker. This required information from RivL's tcl interface into the C procedures. The 
+basic idea was to figure out how many images were in the sequence being tracked and the 
+index of the current frame being processed. If the frame was the first frame in its sequence, 
+the object tracker ran the mp_startup procedure to set up a shared memory segment large 
+enough for the current image sequence and forked off the child processes. If the current 
+frame was the last frame in a sequence, the object tracker would run mp_shutdown, and 
+remove the shared memory segment and clean up the child processes after completing the 
+tracking algorithm. Any other frame position meant that the frame was somewhere in the 
+middle of the sequence and required no special action.
+
+Go Back
+6.2  The Contents of Shared Memory
+
+The master process is responsible for keeping the shared memory segment up to date with 
+the current tracking task. Because the child processes no longer contain the most recent 
+image and model information, these structures have to be explicitly maintained in shared 
+memory. Basically, shared memory is extended from the rudimentary object tracker to 
+contain a large body of additional data in addition to the basic jobs structure outlined 
+above:
+
+the points of the current model
+the points of the current image
+some distance transforms of the current image at various levels of scaling and their 
+associated image structures
+
+
+Go Back
+6.3  Setting up Shared Memory
+
+Shared memory is basically set up to contain these various data structures in one big 
+contiguous block. Certain parts of the data do not have a constant length throughout image 
+sequences. The points of the model and the image in particular have varied length 
+requiring some assumptions about the maximum number of points that might be expected 
+to be present.
+
+The remaining structures - in particular the image`s distance transforms have a consistent 
+size that is dependent on the size of the images in the sequence. In other words, knowing 
+the size of the first image in a sequence enables a single allocation that will be sufficient 
+for the entire sequence. Of course, the dependence on the size of the images in the 
+sequence is the reason that a particular shared memory segment can only be kept around 
+for one sequence of images. Making assumptions about the maximum size of a sequence 
+would enable shared memory segments and child processes to stay around for multiple 
+sequences to be tracked, but we did not make this extension.
+
+
+
+The diagram above illustratest the contents of the shared memory segment.  The segment 
+contains the main job queue data structure (the high and low priority queues).  It also
+contains vital model and image data, along with their corresponding distance transforms.
+
+Go Back
+6.4  Updating Shared Memory
+
+A convenient side-effect of the constant size of the image's distance transforms is the fact 
+that only the data portion of these structures have to be changed. In this way, updating the 
+data of these structures in shared memory was as simple as a call to  
+memset with the properly aligned position of the source and destination pointers.
+
+Go Back
+6.5  A New Semaphore
+
+The rudimentary parallel implementation had a series of semaphores to synchronize the 
+access of the children and the master process to the shared memory segment. A new 
+semaphore was required, however to synchronize the reentry of the children into their 
+main work procedure with each new tracking task.
+
+Go Back
+6.6  Implementation Issues
+
+The first concern in developing this implementation was climbing a series of learning 
+curves. These included familiarization with RivL, shared memory, and UNIX 
+semaphores. The biggest learning curve, however was understanding the existing code for  
+im_search and determining the changes that would be required to change the 
+parallelization paradigm while re-using as much of the existing code as possible.
+
+Shared memory added some significant hurdles due to the difficulty of tracing pointers 
+into and out of it. Some data structures remained unchanged from initialization in the child 
+processes and were explicitly left out of shared memory for that reason. Some of these 
+structures however, were pointed to by some structures in shared memory. The invariant 
+that had to be maintained was that the pointers in shared memory to the constant structures 
+could not be changed. The easiest way to keep track of the structures in shared memory 
+turned out to be putting them in the same order every time and maintaining some global 
+information as to the location of the structures in shared memory relative to the start of the 
+shared memory segment.
+
+
+Go Back
+7.0  Performance Results
+
+We tested our implementation of the parallel RivL object-tracker on a 24 frame MPEG-
+sequence.  In the sequence, we track a motorcycle as it hurtles through the air (courtesy of 
+Terminator 2:  Judgment Day).  An illustration of the sequence appears earlier in this 
+paper.
+
+We tested our implementation on a 50MHZ 4 processor Sparc-station running Solaris, version 
+2.5.  We tested the performance of our implementation using a master process, and 1 to 4 
+slave processes.  For comparison, we also tested the first implementation of the RivL 
+parallel object-tracker on the same sequence from 1 to 4 processors.  As a control, we also 
+tested the sequential RivL object-tracker on the same sequence, on the same machine. A 
+graph of our results appears in the following diagram.
+
+
+
+
+Unfortunately, our current performance results indicates not only that our implementation 
+is slower than the first implementation, but that it is also slower than the sequential 
+version.  However, we believe that these results are not truly indicative of the advantage of 
+our implementation over the older one.  Due to the fact that we ran out time, we were 
+unable to fully iron out the bugs and inefficiencies of our implementation, and fine-tune it 
+so that it would reach its full potential.  We believe that this is not reflective of the 
+soundness of our ideas.
+
+However, it is notable that our implementation scales better from 1 to 4 processors than 
+the previous implementation.  This implies that our implementation of the parallel object-
+tracker does significantly improve overall performance as we increase the number of slave 
+processes.
+
+
+Go Back
+8.0  Extensions & Improvements
+
+There are a number of extensions and improvements that can be made to improve the 
+overall performance and extensibility of tracking objects in parallel in RivL.
+
+Fine-tune our current implementation:  this improvement goes without saying.  Due to 
+the time constraints of this project, we were unable to get the kind of overall performance 
+results we would have liked.  We need to determine the bottleneck(s) that are killing 
+performance.  Once this is done, we would expect to see performance results greater than 
+the original parallel object-tracking implementation.
+Integrate our Parallel im_search with Generic Parallel RivL:  RivL was 
+developed with 2 goals:  (1) to make multimedia data processing easy to program; and (2) to 
+efficiently process multimedia data.  Bearing these goals in mind, the parallelization of 
+RivL should remain transparent to the tcl programmer.  In this sense, the programmer 
+should not be restricted to a generic set of image operations (i.e. excluding im_search),
+but should be able to use every RivL operator, and the processing of every node should 
+proceed in parallel.  This work involves designing a "Special Operator Detector".  The 
+generic RivL operators are run in parallel using the fine-grained generic parallel 
+approach, while complex operators such as im_search is run in parallel using our scheme.  
+The Detector would find all such special nodes in the RivL graph, and handle them 
+accordingly.
+Port our Parallel im_search over to ATM and Fast-Ethernet using a 
+Distributed Shared-Memory Extension:  
+Our current parallel implementation is restricted to a shared-memory 
+machine.  However, there are is a Distributed Shared-Memory software extension that
+ generates a shared-memory paradigm over a 
+distributed architecture [6].
+  It should not be to difficult to port our current implementation 
+over to a distributed environment using the DSM software extension.
+Incorporate our Parallel im_search to CM RivL:  
+CM RivL is a version of RivL that 
+was developed at Cornell University [7],
+which allows RivL to process sequences of 
+images feeding in from a real-time continuous media stream(s).  As object-tracking can be 
+a very useful real-time application, this makes for an interesting extension.
+
+
+
+Go Back
+9.0  Conclusions
+
+We were looking for a significant speedup in the new implementation of RivL's parallel 
+object tracker as we moved from 1 to N processors.  While the performance scaling from 
+1 to N processors is encouraging, we are disappointed thus far with our overall 
+performance results.  We were hoping that by this time, we would have a fine-tuned 
+parallel RivL object tracker, that was faster than the first attempt.
+
+We are confident that a little more work will yield the results we are looking for.  
+Intuitively, it makes sense that our implementation should run faster than the previous 
+implementation,  for the simple reason that we have significantly reduced the overhead 
+involved in setting up and running RivL in a multi-processor environment.
+
+
+Go Back
+10.0  References
+
+
+ Jonathan Swartz, Brian C.  Smith
+	
+A Resolution Independent Video Language ,
+    	Proc. of the Third ACM International Conference on Multimedia, San
+    	Francisco, CA, November 5-9, 1995. 
+
+ Jonathan Barber, Sugata Mukhopadhyay, 
+     	
+Fine-Grain Parallel CM RivL: A Step Towards Real-Time Multimedia Processing,
+     	Cornell University, NY, May, 1996. 
+
+ J.F. Canny. 
+     	A Computational Approach to Edge Detection,
+     	IEEE Trans. Pattern Analysis and Machine Intelligence, 
+	8(6):679-698, November, 1986.
+
+ Dan Huttenlocher, G.A. Klanderman, W.J. Rucklidge,
+	Comparing Images Using the Hausdorff Distance,
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 
+	15: 9 (1993), 850-863.
+
+ Dan Huttenlocher, W.J Rucklidge, 
+	A Multi-Resolution Technique for Comparing Images Using the Hausdorff Distance,
+       	Proceedings of the IEEE Computer Vision and Pattern Recognition Conference (1993),
+       	705-706 (with W.J. Rucklidge).
+
+ Eugene Ortenberg, Vijay Menon, 
+	
+Distributed Shared Memory Over ATM,
+	Cornell University, NY, May, 1995.
+
+ Sugata Mukhopadhyay, Arun Verma, 
+	
+CMRivL - A Programmable Video Gateway,
+	Cornell University, December, 1995
+
+
+
+

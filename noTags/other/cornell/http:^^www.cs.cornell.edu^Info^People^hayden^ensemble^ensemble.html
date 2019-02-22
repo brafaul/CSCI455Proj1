@@ -1,0 +1,79 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:41:39 GMT
+Content-Type: text/html
+Content-Length: 3598
+Last-Modified: Sunday, 10-Nov-96 18:28:23 GMT
+
+
+
+ Ensemble 
+
+
+ THE ENSEMBLE DISTRIBUTED COMMUNICATION SYSTEM 
+
+
+Ensemble is the next generation of the Horus group
+communication toolkit, also developed at  Cornell
+University. Visit the Horus page for more information about Horus, papers on
+group communication, and pointers to other sites with related information.
+
+Language support Note that the current distribution primarily provides
+support for applications developed in the ML programming language.  However,
+interfaces to several other languages are under developlment and will be made
+available soon.  (You can check out our roadmap for future
+development to see what our plans are.)
+
+ML: Ensemble is implemented in the Objective Caml programming language (a
+dialect of ML).  The use of ML supports a variety of optimizations that enable
+Ensemble to achieve communication latencies an order of magnitude faster than Horus
+(although the current distribution does not enable these optimizations).
+
+C: Ensemble supports an interface to C, a prototype appears in the current
+distribution.  This interface is being expanded upon to provide complete support for
+C applications.
+
+C++: Also under development are two C++ interfaces: the  Horus Object
+Tools (HOT) interface, and 
+Electra  (a Corba object request broker interface).
+
+Java: Finally, work is being to interface Ensemble to Java and to wrap Ensemble
+as a Netscape plug-in.
+
+Building applications with Ensemble For an application builder, Ensemble
+provides a library of protocols that can be used for quickly building complex
+distributed applications.  An application registers 10 or so event handlers with
+Ensemble, and then the Ensemble protocols handle the details of reliably sending and
+receiving messages, transferring state, implementing security, detecting failures,
+and managing reconfigurations in the system.
+
+A research tool For a distributed systems researcher, Ensemble is a highly
+modular and reconfigurable toolkit.  The high-level protocols provided to
+applications are really stacks of tiny protocol "layers."  These protocol layers each
+implement several simple properties: they are composed to provide sets of high-level
+properties, such as total ordering, security, virtual synchrony, etc....  Individual
+layers can be modified or rebuilt to experiment with new properties or change the
+performance characteristics of the system.  This makes Ensemble a very flexible
+platform on which to do research.
+
+Other Information
+
+
+General information about Ensemble.
+
+Find out more about Horus
+
+Our roadmap for future development of Ensemble.
+
+Transfer the distribution (after reading the license
+agreement).
+
+Peruse the tutorial.
+
+Stay in touch with us through the Horus+Ensemble 
+mailing list.
+
+
+Mark Hayden
+
+

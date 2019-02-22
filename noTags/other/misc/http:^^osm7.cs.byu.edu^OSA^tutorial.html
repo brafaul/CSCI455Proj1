@@ -1,0 +1,314 @@
+Date: Tue, 14 Jan 1997 20:09:02 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 05 Jun 1996 21:29:31 GMT
+Content-length: 14548
+
+
+
+
+
+
+OSA Tutorial
+
+
+
+
+
+
+
+
+
+
+An OSA Tutorial
+by 
+
+ Paul Black
+	(p.black@ieee.org) 
+ Lei Cao (caol@bert.cs.byu.edu)
+ Brent Goodman (mbg@byu.edu)
+ Ben Nielson (nielson@cs.byu.edu)
+ Lu Pan (pan@math.byu.edu)
+ Amalia Parra (parra@bert.cs.byu.edu)
+ Barry Roberts (barry@bert.cs.byu.edu)
+ Sean Rohead (rohead@bert.cs.byu.edu)
+ Roger Smith (rsmith@bert.cs.byu.edu)
+ Mike Steed (mrs@bert.cs.byu.edu)
+ Wei Wei (weiwei@bert.cs.byu.edu)
+ Mingkang Xu (xmk@osm7.cs.byu.edu)
+
+
+
+How to use this hyper-document
+
+This is a hyper-text tutorial and reference manual for
+OSA, an Object-oriented Systems Analysis technique.
+
+
+You can get details, further explanations, or related subjects by clicking
+on highlighted words.
+
+
+The objective of this tutorial is for you to learn
+
+ what OSA is,
+ how to use OSA to model the real world, and
+ why using OSA can lead to better systems.
+
+The first part of this page explains the
+general ideas behind and
+approaches of OSA: what does it do, when and how does one use it,
+what to expect (and not to expect), etc.  
+
+
+The second part explains the individual
+building blocks from which models are constructed.  
+
+
+The last part is reference material for OSA:
+a glossary,
+a symbolary, and
+a bibliography and URL's.
+
+
+We use markers in the text to indicate special parts of this tutorial.
+
+
+  indicates the formal basis
+	underlying the OSA model.
+
+ 	indicates changes from the
+	book, 
+	Object-Oriented Systems Analysis.
+
+  indicates that the concepts
+	are somewhat tentative, that is, that the developers are not
+	happy with it and it is likely to change.
+
+  indicates comparisons with
+	other systems analysis techniques and object-oriented languages.
+
+
+
+
+The Philosophy of OSA
+
+
+OSA is an objected-oriented systems
+analysis technique, which we understand as the study of a specific domain of interacting
+objects for the purpose of understanding and documenting their essential characteristics.
+It has the expressive power to represent reality.  Its underlying concepts are based 
+on formal definitions of system data and behavior modeling.
+
+Object-oriented vs. Process-oriented analysis
+
+Process-oriented analysis describes systems as a network of interacting processes. It includes
+descriptions of data used by processes, which are recorded in a data dictionary. This approach
+often steers the analyst away from studying system components and their interrelationships
+towards studying how the system might be designed and implemented. It is also difficult for 
+process-oriented analysis to map concepts between a network of processes and objects existing
+in a real-world system.
+As opposed to process-oriented analysis, object-oriented analysis modularizes an analysis document
+along the same object boundaries that exist in a real-world system. In addition, this approach also
+organizes all knowledge about each system object in a single logical location in the analysis document.
+Thus, information about a system object is easier to locate in object-oriented analysis than in
+other analysis methods. The object-oriented approach also encourages analysts to concentrate on 
+"what" rather than "how", which reduces the temptation to skip prematurely to design. To make it 
+easier to understand information about objects, object-oriented techniques 
+provide forms of abstraction including aggregation, generalization and classification. 
+Model-driven (vs. Method-driven) analysis
+
+A method-driven approach consists of a fixed sequence of steps to
+follow.  That is, a system is developed by some method, such as the
+waterfall method or the spiral model.  In practice, 
+these steps cannot be followed exactly.  When development problems are
+encountered, the analyst must adjust the order of steps, adapt the
+procedures, 
+and make exceptions to rules.  The analyst is left to rely 
+on experience and underlying principles, which may be undocumented and
+are poorly understood.
+
+
+A model-driven technique, on the other hand, provides a prespecified set of fundamental concepts with 
+which to model the system under study. This aids analysts in building models as best suits their needs.
+The philosophy of the model-driven technique is that the most important thing to learn is not a 
+step-by-step procedure, but rather the conceptual framework behind the analysis technique.
+Reality Representation
+
+An OSA model is designed with the idea that reality is represented instead of some particular programming
+language. Modeling components have been designed to allow analysts to capture everything of importance
+in a system. Thus, OSA encourages analysts to represent systems the way they are perceived,
+without being constrained by how it will be implemented.
+
+Formal Basis
+
+The underlying concepts of OSA are based on formal definitions of system data and behavior modeling. 
+Analysis through the construction of system models, whose modeling constructs are based on formal definitions,
+is helpful for the following reasons.
+
+1) Models based on formal definitions can provide a foundation for testing
+model integrity, and completeness of analysis. 2) Since formal model definition ensures a consistent 
+interpretation, it can provide a mechanism for communicating system understanding within the analysis
+team. 3) A model with a formal foundation can also improve communication with parties outside the analysis team.
+
+
+
+The Components of OSA
+
+OSA  has concepts to formalize just about everything one needs to model
+a real world situation.  Although OSA is an "integrated" modeling
+scheme, that is all the parts work together, it can conveniently be
+seen as consisting of three parts: ORM, 
+OBM, and OIM.
+
+
+ORM - Object-Relationship Model
+
+The  ORM  (Object-Relationship Model) is a way to
+describe or represent objects, classes of object, relationships
+between objects 
+and classes, and memberships of the real world.   
+The  ORM consists of:
+
+
+ Objects,
+
+ Object Classes,
+
+
+ Lexical Object Classes
+ Relational Object Classes
+ High-Level Object Classes
+
+ Relationships,
+
+ Relationship Sets, and the
+	special forms,
+
+
+ Generalization/Specialization
+ Roles
+ Aggregation
+ Association
+
+ Constraints,
+
+
+ Participation Constraints
+ Co-occurrence Constraints
+ Object-class Cardinality Constraints
+ Specialization Constraints
+ General Constraints
+
+ High-Level Relationship Sets, and
+
+ Notes.
+
+
+
+OBM - Object-Behavior Model
+
+The OBM (Object-Behavior Model) is a means of describing the
+behavior of objects.  It is a means of explaining an object's possible
+states (informally, what it may do) and how and why it changes state.
+
+
+The OBM may be thought of as
+detailing when and how objects join and leave object classes and
+relationships.
+
+
+The OBM consists of:
+
+ States,
+ Transitions,
+
+ Triggers, Conditions, and Events,
+ Actions,
+ Initial Transitions,
+ Final Transitions,
+
+ Exceptions,
+ Prior States,
+ Subsequent States,
+ Threads,
+ Real-Time Constraints,
+ General Constraints for Behaviors,
+ High Level States,
+ High Level Transitions, and
+ Generalization/Specialization.
+
+OIM - Object-Interaction Model
+
+Under construction
+
+
+The OIM consists of:
+
+ Specifying Interacting Objects,
+
+ Interacting with Multiple Objects,
+
+ Bidirectional Interaction,
+
+ Special Interactions,
+
+ Access
+ Modify
+ Remove and Destroy
+ Add and Create
+
+ Continuous Interaction,
+
+ Time-Constrained Interactions,
+
+ General Constraints for Interactions,
+
+ Interaction Within an Object Class,
+
+ High-Level Interactions and Views, and
+
+ Generalization/Specialization.
+
+
+
+References
+
+
+This section gives references which may be helpful while reading OSA
+models or using OSA to build models.
+
+Glossary
+
+The glossary is an alphabetical list of
+OSA terms.  Each entry has a brief definition, a
+link to the main defining page, and links to related terms.
+
+Symbolary
+
+The symbolary is a list of the symbols
+used in the graphical representation of OSA diagrams.
+
+Bibliography
+
+The bibliography is a list of books,
+papers, and URL's primarily about OSA.  There are also some references
+to other system analysis and software engineering techniques. 
+
+
+
+
+
+
+
+
+
+Updated
+Fri Nov  4 10:48:00 1994
+
+by Paul E. Black
+
+(black@lal.cs.byu.edu)
+
+
+

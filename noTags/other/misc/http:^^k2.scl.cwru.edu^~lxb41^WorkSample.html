@@ -1,0 +1,90 @@
+Date: Wed, 15 Jan 1997 01:24:20 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 02 Jul 1996 00:32:21 GMT
+Content-length: 2563
+
+
+
+
+Work Sample
+
+
+ PVM C++ Project 
+ Purpose: to implement matrix algebra for parallel computing
+ as made possible by pvm ( ...parallel virtual machine ... )
+
+
+
+
+ Classes
+ Responsibilities
+ Declarations
+ Implementations
+
+ Mtx
+ Defines a matrix and provides
+ basic sequential operations
+ Mtx.h 
+ Mtx.C 
+
+ MtxIt
+ An Iterator for a defined matrix:
+ provides various traversals
+ MtxIt.h 
+ MtxIt.C 
+
+ MtxSg
+ Defines a segment of a matrix
+ such that matrix operations are possible
+ with other segments or matrices and an
+ easy update of the original can occur
+ MtxSg.h 
+ MtxSg.C 
+
+ pvmMtx
+ Defines a parallel matrix in the
+ master process and coordinates 
+ computation in the slave processes
+ pvmMtx.h 
+ pvmMtx.C 
+
+ pvmMtxP
+ Represents the master process
+ in the slave processes
+ pvmMtxP.h 
+ pvmMtxP.C 
+
+ pvmMtxD
+ Represents a single slave process
+ in the master process
+ pvmMtxD.h 
+ pvmMtxD.C 
+
+ pvmMtxG
+ Represents all slave processes
+ as a group in the master process
+ pvmMtxG.h 
+ pvmMtxG.C 
+
+ mtxdCMO
+ Defines command objects passed
+ from the master process to the slaves
+ mtxdCMO.h 
+ mtxdCMO.C 
+
+ mtxdUDO
+ Defines an update object
+ (...a partial solution ...)
+ which is passed from the slaves 
+ to the master process for integration
+ mtxdUDO.h 
+ mtxdUDO.C 
+
+ mtxdEng
+ Represents the computational
+ engine in the slave processes
+ mtxdEng.h 
+ mtxdEng.C 
+
+

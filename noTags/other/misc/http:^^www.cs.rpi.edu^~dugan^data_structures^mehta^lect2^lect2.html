@@ -1,0 +1,425 @@
+Date: Tue, 14 Jan 1997 23:13:28 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 10029
+Last-modified: Wed, 28 Aug 1996 19:38:30 GMT
+
+
+
+
+Data Structures - Lecture 2
+
+
+
+
+
+Data Structures - Lecture 2
+
+C++ Review, Basic Data Types
+
+Topics
+
+Hello World!
+Data Types, Arrays, Pointers, Functions
+Operators, Expressions, Statements
+Input/Output
+Examples
+Conventions for C++ Programs/Projects
+(Optional) Exercises
+
+References
+
+[W] = Weiss, Algorithms, Data Structures, and Problem Solving
+with C++.
+[H] = Harbison and Steele, C: A Reference Manual, Prentice
+Hall.
+[O] = Osborne, C++: The Complete Reference.
+[M] = Musser, Saini, STL Tutorial and Reference Guide.
+
+Topics
+Hello World!
+
+Reference: [W:Appendix A.1]
+
+Hello World - Source Code
+
+/* File: Hello.cpp */
+#include <iostream.h>
+void main()
+{
+ cout << "Hello World"<< endl;
+}
+
+Hello World - Compile/Execute
+
+Compile "Hello World!":
+% g++ -o hello hello.cpp
+
+Execute "Hello World!"
+% hello 
+
+Topics
+
+Data Types, Arrays, Pointers, Functions
+Reference: [W:Chapter 1, Appendix A]; [H]
+
+Data Types - Type Categories
+Void Type
+
+Void is a special type.
+Represents the absence of a data type.
+A pointer to a void (void *) is treated as a generic pointer.
+Examples:
+
+void main () { … }
+void * generic_pointer;
+
+
+Integral Types
+
+[signed] char, [unsigned] short [int], [unsigned] int, [unsigned]
+long [int]
+unsigned char, unsigned short [int], unsigned int, unsigned
+long [int]
+Examples:
+signed int index = 7;
+unsigned long l;
+int i,j;
+
+Floating Point Types
+
+double
+float
+long double
+Examples:
+const double pi = 3.14159;
+extern float x1,y1,x2,y2;
+static double y;
+
+Enumeration Types
+
+Examples:
+enum fish { trout, carp, halibut } my_fish;
+enum boolean { true, false } success;
+success = true;
+enum color { red, green blue};
+...
+enum color my_favorite, your_favorite;
+
+Pointer Types (Example)
+
+int i = 5;
+int * ptr;
+ptr = &i;
+i = 7;
+(*ptr) = 2;
+
+Array Types (Example)
+
+double expenditure[365];
+double * ptr_expenditure = expenditure;
+expenditure[0] = 75.64;
+*ptr_expenditure = 32.45;
+expenditure[20] = 12.87;
+ptr_expenditure[20] = 17.49;
+
+
+Function Types
+
+Definition Example:
+int square (int x) { return x * x; }
+Declaration Example:
+extern int square (int x);
+static int square (int x);
+Other examples:
+extern int f(), (*fp)(), (*apf[])();
+
+Function Example
+
+int my_strlen (char * s) {
+ char * ps = s;
+ int cnt = 0;
+ if (s == NULL) { return 0; }
+ while (*ps != NULL) { cnt++; ps++; }
+ return cnt;
+}
+
+Functions in C++
+
+Overloading of Function Names
+int Max(int A, int B);
+float Max (float * floatArray, int sz)
+Default Parameters
+float Log (float x, double base=10);
+log(100) // Log 100 base 10
+log(100,2) // Log 100 base 2
+Inline Functions
+inline int Max(int A, int B) { return (A<B ? B : A); }
+
+Topics
+
+Operators, Expressions, Statements
+Reference: [W:Appendix A] [H]
+
+Operators
+
+Assignment 
+Binary
+Unary
+Relational
+Logical
+Bit
+Misc
+
+Assigment Operators
+
+Common Operators:
+=, +=, -=, *=, /=
+Examples:
+int i,j, k;
+i = 4
+j = k = 3;
+j += 4;
+i *= 2;
+
+Binary Arithmetic Operators
+
+Common Operators:
++,  -,  *,  /,  %
+Examples:
+3 + 5
+i * 2 + x / y + 10 % 3
+
+Unary Operators
+
+Common Operators:
+-, +, ++, --
+Examples:
+X = -2
+Y = -X
+Z = +X
+W = -(X++) + (--Y) + (Z++)
+
+Relational Operators
+
+==, !=, <, >, <=, >=
+Examples:
+s == 0
+a < b
+(a < b < c) // Not as expected!
+if (s=0) {…} // Not as expected!
+
+Logical Operators
+
+&&, ||, !
+Examples:
+if ((a<b) && (c<d)) { … }
+"Short Circuit" Evaluation
+if ((X!=0) && (1/X != 3)) { … }
+
+Bit Operators
+
+~,  <<,  >>,  &,  ^,  |
+~=, <<=, >>=, &=, ^=, |=
+Examples
+1 << 4  // 10000
+3 & 5  // 011 AND 101 = 001
+
+Misc. Operators
+
+Comma
+for (i=1,j=2; i<5; i++,j++)
+Conditional
+N = (s==NULL ? "<NULL>" : s)
+MIN = (X <= Y ? X : Y)
+sizeof(type)
+sizeof(int)
+
+Expressions
+
+Example: a * b + c
+l-value (updatable)
+r-value (read-only)
+Precedence
+Can call other functions
+Side effects
+
+Statements
+
+if
+while
+do
+for
+switch
+break/continue
+
+If Statement
+
+Syntax 1:
+if ( <expr> ) statement
+next statement
+Syntax 2:
+if ( < expr> ) 
+ statement
+else
+ statement
+next statement
+Example: if (x==0) x=x+1;
+
+While Statement
+
+Syntax
+while ( <expr> ) statement
+next statement
+Example
+while (*ps != NULL) { 
+ cnt++; 
+ ps++; 
+}
+
+Do Statement
+
+Syntax
+do
+ statement
+while (expression);
+Example
+do {
+ prompt_user("Enter value: ");
+ response = read_value();
+} while (! is_valid(response));
+
+For Statement
+
+for (init; test; assignment)
+ statement
+next statement
+Example
+for (i=0; i<10; i++) cout << i << endl;
+Nested Loops
+for (i=0; i<10; i++) 
+ for (j=0; j<10; j++)
+  cout << i << "," << j <<endl;
+
+Switch Statement
+
+Example
+switch (response) {
+case 'q': exit(0); // quit
+case 's': process_s(); break;
+case 'h': process_h(); break;
+default:
+ cout << "Invalid Response\n";
+ break;
+}
+
+Break/Continue
+
+break exits the innermost loop
+continue begins the next iteration
+
+
+Example:
+for (i=0; i<n; i++) {
+ if (s[i] < 0) break; // exits loop
+ if (s[i] > 0) continue;
+ cout << "s[i]=0 for i=" << i;
+}
+cout << "i>=n or s[i]<0 for i=" <<
+i;
+Topics
+
+Input/Output
+
+Input/Output
+
+#include <iostream.h>
+Predefined streams:
+cin, cout, cerr, clog
+Examples:
+int x,y;
+if (cin >> x >> y) {
+ cout << "Read: " << x << ","
+<< y;
+} else {
+ cerr << "Invalid Input!" << endl;
+}
+
+Errors in Input
+
+cin.eof() Returns true on end of file
+cin.fail()  Returns true on format error
+cin.good()  Returns true if no error
+cin.clear()  Clears an error
+
+Topics
+
+Source files for Example Program 
+
+Topics
+
+Conventions for C++ Programs/Projects
+
+
+Main 
+
+void main () { … }
+int main () { … }
+int main (int argc, char ** argv) { … }
+
+
+Example: main.cpp
+int main (int argc, char ** argv) {
+ for (int i=0; i<argc; i++) {
+  cout << "Argv[" << i << "]
+= "
+   << argv[i] << endl;
+}
+Files
+
+Put declarations in Header (.h) Files
+iostream.h, Point.h
+Only header files should be included in other files (#include)
+Put implementations in Source (.CC, .cpp, or .C) files
+main.cpp, Point.cpp
+Write Makefile to create executable
+
+Makefile Example
+
+CC = g++
+
+main: main.o Point.o
+ $(CC) -o main main.o Point.o
+Point.o: Point.h Point.cpp
+ $(CC) -c Point.cpp
+main.o: Point.h main.cpp
+ $(CC) -c main.cpp
+
+Header Files
+
+Start header file (say Point.h) with:
+#ifndef _Point_h_
+#define _Point_h_
+End each header file with:
+#endif // _Point_h_
+
+Topics
+
+(Optional) Exercises
+
+Optional Exercises
+
+Create, Compile, and Link hello.cpp
+Write Makefile for hello.cpp
+
+
+Write function rot13, to encrypt/decrypt a string.  For example,
+rot13("abxy") should return "nokl".  Note:
+use rot13.h, rot13.cpp
+
+Write a main program which rot13's the text in a file.
+[W] Problem 1.6, 1.14, 1.15
+
+
+
+

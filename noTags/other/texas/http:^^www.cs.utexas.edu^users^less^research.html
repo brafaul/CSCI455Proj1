@@ -1,0 +1,188 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:44:32 GMT
+Content-Type: text/html
+Content-Length: 11186
+Last-Modified: Friday, 13-Dec-96 15:35:10 GMT
+
+
+
+LESS Research Agenda
+
+
+
+Laboratory for Experimental Software Systems
+Research Agenda
+The Laboratory for Experimental Software
+Systems (LESS) at the University
+of Texas at Austin's Department of Computer Sciences was formed in
+September 1996 by four new faculty members --- Lorenzo Alvisi, Robert Blumofe, Mike Dahlin, and Calvin Lin --- to
+aggregate resources and promote collaboration on research in
+experimental software systems, particularly in the areas of
+programming support and fault tolerance for cluster and web-based
+applications.  This document gives a brief overview of research being
+conducted in the LESS lab.
+Fault tolerant parallel computing with distributed shared memory
+(Alvisi and Blumofe). Prior work has shown that the combination of
+a "well structured" parallel programming model, the
+randomized "work-stealing" scheduling algorithm, and the
+"dag consistency" coherence model of distributed shared
+memory (a combination that form the basis for the Cilk
+parallel language and runtime system) yields efficient and predictable
+performance both in theory and in practice.  Furthermore, we claim
+that by using an end-to-end design, algorithmic properties of
+this combination can be leveraged to make such a system fault tolerant
+with extremely low overhead and without redundant computation (except
+during recovery).
+We propose to use a combination of two new techniques ---
+"return transactions" and "causal logging of
+reconciles" --- that take advantage of the following key
+algorithmic property of the well structuring, work stealing, and dag
+consistency combination.  When a procedure activation is stolen, all
+modifications made to shared memory by the stolen activation and all
+of its descendants do not need to be seen by any other extant
+activation except for the stolen activation's parent.  Moreover, these
+modifications do not need to be seen by the parent until after the
+stolen activation returns.
+The return transactions technique uses this fact to turn
+each stolen activation into an atomic transaction.  This technique,
+coupled with uncoordinated checkpoints, has already been shown to be
+effective for a functional programming model.  In general, however,
+with distributed shared memory, this technique is not sufficient as it
+requires that all modifications to shared memory made by a stolen
+activation and all of its descendants are buffered to create an atomic
+transaction when the stolen activation returns.
+To avoid potentially huge amounts of buffering, causal logging
+of reconciles will use causal message-logging techniques to allow
+modifications to shared memory to be flushed (reconciled) to backing
+store even before the stolen activation returns.  In general, causal
+message-logging requires that extra information of a fixed size is
+piggy-backed on each message that effectively logs the message
+(without requiring a synchronous write to stable storage).  With well
+structuring, work stealing, and dag consistency however, this logging
+only needs to be done for a specific subset of the reconcile messages,
+and this overhead can be amortized against the cost of work
+stealing.
+Reliable parallel scientific subroutine libraries (Blumofe).
+Traditionally, parallel scientific subroutine libraries, such as
+various parallel implementations of the Basic Linear Algebra
+Subroutines (BLAS), have been coded by statically partitioning work
+among a static set of processes or threads.  This approach has been
+very successful for traditional parallel platforms in which each
+program runs on a static set of (effectively) dedicated processors.
+With the growing use and acceptance of SMPs and clusters for parallel
+computation, however, this assumption of dedicated resources is no
+longer valid, and it has been shown that applications and libraries
+coded with static partitioning have very unreliable performance when
+run on non-dedicated resources.  On the other hand, it has been shown
+that by using wait-free synchronization techniques and a
+dynamic partitioning (such as with work stealing), performance becomes
+very reliable.  To make this point, we propose to code and make
+available a set of libraries, including BLAS, for SMPs (and later
+clusters) that use these techniques to deliver reliable and
+predictable performance on shared resources.
+wFS: An adaptive data framework for web computing (Dahlin).
+Although an increasing amount of valuable data resides on the web,
+current "browser-centric" data-access protocols limit its
+use. This project seeks to provide stronger cache consistency and data
+update guarantees that will enable new classes of web-based
+applications.  Because the physical characteristics of the Internet
+make it expensive to provide some of these guarantees, wFS will pursue
+an adaptive and application-specific approach. The system will provide
+a range of consistency and update options with different guarantees
+and different costs, and applications will pay for only the guarantees
+that they require. For example, a web browser may emphasize
+scalability and continue to use the current read-only and weak cache
+consistency approach. Conversely, a distributed parallel computation
+may require transactional updates and strict cache consistency even if
+these guarantees limit its scalability to a few hundred nodes. Two key
+aspects of the project will be providing a framework for instantiating
+different consistency and update algorithms under a common interface
+and providing quantitative criteria that applications can use to
+select appropriate algorithms.
+Lightweight fault-tolerance (Alvisi and Vin).
+The objective of this research is to support and enable a new class of
+truly distributed and fault-tolerant applications in which distributed
+agents communicate through messages as well as files.  Our proposed
+lightweight fault-tolerance will have the following properties.
+
+It will integrate with applications in a way that is transparent
+to the application programmer.
+Its use will require few additional resources and have a
+negligible impact on performance during failure-free executions.
+Its cost will be very low for the most common failures, and it
+will scale depending on the severity and number of failures that need
+to be tolerated.
+It will address software-generated faults effectively.
+
+To achieve transparency, we plan to engineer our solution as a
+middleware.  To minimize dedicated resources, we plan to use rollback
+recovery techniques.  To minimize the impact on application
+performance and to scale the cost of our solution with the number of
+failures that need to be tolerated, we plan to use causal
+logging.
+Using current techniques, tolerating hardware-generated faults is
+possible, but at the cost of potentially forcing the application to
+block for every I/O operation while data critical to recovery are
+logged to stable storage. Specifically, one cannot assume that a file
+read during the execution will still be available in its original form
+during recovery. Hence, input from the file system must be
+synchronously logged to stable storage. Furthermore, since the file
+system in general cannot roll back, the application must delay output
+to the file system until it executes an output commit
+protocol, which requires synchronous logging to stable
+storage. Tolerating transient software-generated faults --- the
+so-called Heisenbugs --- through rollback-based techniques
+becomes more problematic as well, since frequent writes to the file
+system can limit the extent by which a process can roll back.
+To address these problems, the middleware that we plan to build
+will present the file system to the application not as a detached
+component of the external environment, but as an integrated partner
+that can be trusted to provide the data needed during recovery.  We
+expect that this will drastically reduce the costs incurred by the
+application in performing file I/O. Specifically, our solution will
+have the following benefits.
+
+Avoid synchronous logging of input data. If a client fails, the
+middleware and the file system cooperate to guarantee that during
+recovery, the client will receive the same data as it received before
+failing.
+Avoid synchronous writes to the file server due to file
+sharing. In our solution, clients can pass dirty data directly to each
+other without using the file server to make the data stable. The
+middleware guarantees that any dirty data kept in the volatile memory
+of a client c, and passed to another client without first
+being saved to the file server, can be regenerated during recovery if
+c fails.
+Avoid a synchronous output commit protocol before writing a
+file. The middleware and the file system cooperate to guarantee that,
+if the client crashes, the application's state in which the output was
+generated will never be rolled back.
+Enhance the effectiveness of rollback-based techniques for
+software fault-tolerance. The middleware allows a client that
+experiences a Heisenbug to roll back past its last write to the file
+system, increasing the likelihood of successful recovery.
+
+Parallel computing on the world-wide web with Java (Alvisi,
+Blumofe, Dahlin, and Lin). This project will use Java as the basis
+for a new parallel computing infrastructure, to be called Jem
+(pronounced "gem") for the world-wide web.  The Jem language
+will augment Java with simple primitives to express parallelism while
+maintaining the well structured property.  The Jem virtual machine
+runtime system will use work stealing and dag consistency, and it will
+provide transparent light-weight fault tolerance as described above.
+These properties in further combination with existing Java technology
+will allow Jem programs to run across heterogeneous resources and
+untrusting resources.  Thus, applications of national and
+international importance, such as climate modeling, can be coded in
+Jem and run reliably on the aggregated resources of the entire
+world-wide web, and applications of corporate importance, such as
+scheduling, data mining, and simulation, can be coded in Jem and run
+reliably on the aggregated resources of the enterprise intranet.
+
+Back to LESS
+Last modified: December 13, 1996
+Robert Blumofe
+rdb@cs.utexas.edu 
+
+

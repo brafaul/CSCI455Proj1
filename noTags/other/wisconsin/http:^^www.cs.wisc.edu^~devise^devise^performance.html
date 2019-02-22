@@ -1,0 +1,92 @@
+Date: Fri, 13 Dec 1996 17:06:26 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 30 Oct 1996 19:01:59 GMT
+Content-length: 3111
+
+
+
+DEVise Performance
+
+
+Performance
+
+DEVise is designed to handle large amounts of data from the ground up.
+The following discussion assumes that the reader is already familiar
+with the model of visualization. DEVise
+addresses performance as follows:
+
+
+I/O
+Mapping
+Drawing GData
+User Interface
+Program Design
+
+I/O
+
+Minimizing the amount of accesses to disk is the goal of improving I/O
+performance. It is not practical to rely on the virtual memory of a
+workstation because thrashing readily occurs when the amount of data
+is large. DEVise addresses I/O performance as follows:
+
+
+Buffer Manager: Ranges (not pages) of TData and
+GData are retained in memory buffers. A non-LRU replacement
+policy is used.
+Query processor: decides which ranges of GData are accessed. It 
+performs binary search for GData when sorted on the X attribute.
+It fetches those GData in overlapping views only once. When the user is idle,
+it converts TData into GData in the background. It can also
+potentially incorporate prefetching and indexing.
+mapping: reduces storage overhead by storing only those GData
+attributes that change at run time.
+
+Mapping
+
+Mapping performance is improved as follows:
+
+
+compiled mapping: reduces time/space at run time. The time
+is reduced through compilation. The space is reduced through
+storing only those GData attributes that change at run time.
+Caching: caching GData in the buffer and on disk eliminates the need to
+perform mapping.
+
+Drawing GData
+
+Drawing performance is improved as follows:
+
+
+GData that overlap are drawn just once.
+At low resolutions, GData are drawn as pixels. This is cheaper than
+drawing complex shapes.
+
+User Interface
+
+The user interface is designed to minimize the user response time:
+
+
+The layout mode (See visual query.)
+increases response time by not drawing the GData when the user
+constructs a visual query.
+Coming up for air: The query processor checks user actions periodically,
+possibly aborting existing queries to act upon new user commands.
+
+Program Design
+
+The implementation is structured for performance as follows:
+
+
+Query abort: The ability to abort query throughout the design
+of the DEVise components allows the user interface to abandon
+existing updates to act on new user commands.
+Batching: Transferring GData in batches instead of one
+at a time reduces time spent in function calls.
+Minimizing number of objects: In an object oriented environment,
+everything is instantiated as an object. This is not done in DEVise, which
+must handle large numbers of records.  Instantiating every 
+input record as a shape object impedes performance. 
+
+
+

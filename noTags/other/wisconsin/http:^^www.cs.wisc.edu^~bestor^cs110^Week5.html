@@ -1,0 +1,424 @@
+Date: Wed, 13 Nov 1996 23:16:23 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 18 Apr 1996 22:56:51 GMT
+Content-length: 13991
+
+
+
+CS 110 Section 2 Lecture Notes - Weeks 5
+
+
+ Lecture Notes - Week 5
+
+
+Topic:
+   Formatted input and output. Reading and writing files.
+Text:
+   Chp. 5.1, 5.3, 5.5 - 5.7
+Notes:
+   
+
+
+Formatted Output
+
+
+So for we have been using unformatted output.
+      
+	PRINT *, 'Total = ', TOT
+      
+      prints
+      
+	Total =      12345
+      
+      with extraneous spaces in front of the number.
+      The * specifies to use the default output format to print the items on the line.
+      Alternatively, replace the * with the label of a FORMAT statement which describes how to print the items.
+      
+	     PRINT 15, 'Total = ', TOT
+	15   FORMAT(1X, A, I5)
+      
+      prints
+      
+	Total = 12345
+      
+The FORMAT statement should immediately follow the PRINT statement.
+      The items in the FORMAT statement are called edit descriptors and describe the appearance of the line.
+      Each item in the PRINT statement has a corresponding edit descriptor in the FORMAT statement specifying how to print it.
+   
+Edit Descriptors
+
+The first item in the FORMAT statement describes the line spacing.  The most common is single spacing specified by 1X.
+      
+	15   FORMAT(1X, .... )
+      
+The edit descriptor depends on the type of the value being printed.
+      
+Iw	- INTEGER
+Fw.d	- REAL
+Aw	- CHARACTER (i.e. strings)
+         nX	- insert spaces between items
+      
+
+INTEGER - Iw
+
+INTEGERs are printed right-justified in w columns.
+      If the INTEGER is shorter than w columns wide then it is printed with leading blanks (indicated by a #).
+      
+	     TOT = 87
+	     PRINT 15, 'Total=',TOT,'cents'
+	15   FORMAT(1X, A, I4, A)
+      
+prints
+      
+	Total=##87cents
+	      ^^^^
+      
+Negative INTEGERs are printed with a leading minus "-" sign.
+      If the INTEGER is longer than w columns wide (i.e. it doesn't fit in the width specified) then "*"s are printed instead.
+      
+	     TOT = 12345
+	     PRINT 15, TOT
+	15   FORMAT(1X, I4)
+      
+      prints
+      
+	****
+      
+
+REAL - Fw.d
+
+REALs are printed right-justified in w columns and rounded to d decimal places.
+      
+	     MASS = -87.4395
+	     PRINT 15, MASS
+	15   FORMAT(1X, F8.2)
+      
+      prints
+      
+	##-87.44
+	^^^^^^^^
+      
+Be sure to allow space for the sign (if negative) and decimal place, both of which take up an additional column each.
+   
+CHARACTER - Aw
+
+CHARACTER strings are printed right-justified in w columns.
+      If the string is shorter than w columns then it is printed with leading blanks (indicated by a #).
+      
+	     CHARACTER *11 NAME
+	     NAME = 'Christopher'
+
+	     PRINT 15, NAME
+	15   FORMAT(1X, A15)
+      
+      prints
+      
+	####Christopher
+      
+If the string is longer than w columns then it is left-justified and the characters at the end are truncated.
+      
+	     PRINT 15, NAME
+	15   FORMAT(1X, A8)
+      
+      prints
+      
+	Christop
+      
+Use A with no width specified to print the string in the same number of columns as its declared length.
+      
+	     PRINT 15, NAME
+	15   FORMAT(1X, A)	(same as A11)
+      
+
+Insert Spaces - nX
+
+Spaces/blanks can be inserted between any two items in the PRINT statement.
+      
+	     PRINT 15,'Hello','there','world'
+	15   FORMAT(1X, A, 2X, A, 3X, A)
+      
+      prints
+      
+	Hello##there###world
+	     ^^     ^^^
+      
+
+PRINT Statement
+
+The edit specifiers can be inserted directly into the PRINT statement without using a separate FORMAT statement and label.
+      
+	NAME = 'Christopher'
+	PRINT '(1X, A15)', NAME
+      
+The edit descriptors are enclosed in brackets and apostrophes.
+   
+
+
+Formatted Input
+
+
+Unformatted input:
+      
+All the data on the line has to be read into variables.
+         Multiple values on the same line must be separated by spaces.
+         Strings must be entered enclosed in apostrophes.
+      
+If the format of the input data does not match these requirements then formatted input must be used instead.
+      Example: multiple values separated by a hyphen.
+      
+	Please enter today's date:
+	10-08-95
+      
+IMPORTANT - Formatted input specifies which columns are read in and which are skipped.
+      Use a FORMAT statement with edit descriptors to specify the type and width of each value to read in.
+      
+	     READ 15, MONTH, DAY, YEAR
+	15   FORMAT(I2, 1X, I2, 1X, I2)
+      
+Note: no line spacing is specified for formatted input.
+   
+Edit Descriptors
+
+Same descriptors as formatted output.
+      
+Iw	- INTEGER
+Fw.d	- REAL
+Aw	- CHARACTER (i.e. strings)
+         nX	- skip characters between values
+      
+
+INTEGER - Iw
+
+Read only the next w digits as an INTEGER value.
+      
+	     READ 15, NUM
+	15   FORMAT(I3)
+      
+	User enters
+      
+	12345				(NUM = 123)
+	^^^
+      
+	User enters
+      
+	-12345				(NUM = -12)
+	^^^
+      
+Only w digits are read. Any additional digits are ignored.
+   
+REAL - Fw.d
+
+Read only the next w digits as an REAL value, where the last d digits are to the right of the decimal point.
+      
+	     READ 15, PRICE
+	15   FORMAT(F6.2)
+      
+	User enters
+      
+	123.4567		(PRICE = 123.45)
+	^^^^^^
+      
+WARNING: The decimal place is optional. If missing, the computer uses d to determine where it should have been. User enters
+      
+	1234567		(PRICE = 1234.56 !)
+	^^^^^^
+      
+If the user does enter a decimal point then it over-rides the value of d. User enters
+      
+	12.34567		(PRICE = 12.345)
+	^^^^^^
+      
+Only d digits are read. Any additional digits are ignored.
+   
+CHARACTER - Aw
+
+Read the next w letters as a CHARACTER string and store them exactly as entered.
+      
+	     CHARACTER *10 NAME
+	     READ 15, NAME
+	15   FORMAT(A7)
+      
+	User enters
+      
+	Kilroy1994junior	(NAME='Kilroy1###')
+	^^^^^^^
+      
+If w is not specified then read in the same number of characters as the declared length of the variable.
+      
+	     READ 15, NAME
+	15   FORMAT(A)
+      
+	User enters
+      
+	Kilroy1994junior	(NAME='Kilroy1994')
+	^^^^^^^^^^
+      
+Note: The string is not enclosed by apostrophes!
+      
+	READ '(A)', NAME
+      
+	User enters
+      
+	Kilroy			(NAME='Kilroy#####')
+      
+
+Skip Characters - nX
+
+Skip over n characters in the input (e.g. a comma or hyphen).
+      
+	     CHARACTER *10 NAME
+	     READ 15, NAME, YEAR, FEES
+	15   FORMAT(A, 1X, I4, 3X, F6.2)
+      
+	User enters
+      
+	Kilroy,Joe,1997###1368.25
+	^^^^^^^^^^^^^^^^^^^^^^^^
+
+	NAME = 'Kilroy,Joe'
+	YEAR = 1997
+	FEES =  1368.2
+      
+
+
+
+Reading and Writing Files
+
+
+Interactive processing reads data from the keyboard and prints the results to the screen.
+      Batch processing reads data directly from a file on disk and stores the results in another file on disk.
+   
+OPEN Statement
+
+Before you can read or write to a file it must be opened.
+      The OPEN statement specifies the name of the file, assigns it a unit nummber and specifies whether the file will be read from or written to.
+      
+	OPEN(UNIT=1, FILE='MYDATA', STATUS='OLD')
+	OPEN(UNIT=2, FILE='RESULTS', STATUS='NEW')
+      
+To read from a file STATUS is 'OLD'.
+      To write to a file STATUS is 'NEW'.
+      Any unique number can be used for the UNIT number, except 5 and 6 which are reserved for the keyboard and screen.
+   
+Reading From Files
+
+Use a modified READ statement to read from a file rather than the keyboard. Note: no comma before the list of variables.
+      
+	READ (unit-number, *) variables
+
+	READ (1, *) X, Y, Z
+      
+Must OPEN the file before you can read from it.
+      Can also read formatted data from files.
+      
+	     READ (1, 15) X, Y, Z
+	15   FORMAT (3F6.2)
+      
+If the line contains more data than is read in then the rest of the line is ignored. e.g.
+      
+	131.92-21.67  18.412345
+	^^^^^^^^^^^^^^^^^^-----
+      
+If the line contains less data than is read in the the next line is also read in. e.g.
+      
+	131.92-21.67
+	^^^^^^^^^^^^
+	18.412345
+	^^^^^^---
+      
+
+Writing To Files
+
+Use the WRITE statement to write to a file rather than the screen. Note: no comma before list of items.
+      
+	WRITE (unit-number, *) items
+
+	WRITE (2, *) 'The answer is', 42
+      
+Must OPEN the file before you write to it.
+      Can also write formatted data to files.
+      
+	     WRITE (2, 15) X, Y, Z
+	15   FORMAT (3F6.2)
+      
+
+Batch Processing
+
+Can read/write several files at the same time. Each file must have a unique unit number.
+      
+	OPEN(UNIT=1, FILE='DATA1', STATUS='OLD')
+	OPEN(UNIT=2, FILE='DATA2', STATUS='OLD')
+	OPEN(UNIT=3, FILE='RESULT', STATUS='NEW')
+
+	READ (1,*) NUM1
+	READ (2,*) NUM2
+	WRITE (3, *) NUM1 + NUM2
+      
+Can still read from the keyboard and write to the screen at the same time.
+      
+	READ (1,*) NUM1
+	PRINT *, 'Please enter a number'
+	READ *, NUM2
+	WRITE (3, *) NUM1 + NUM2
+      
+If you are reading from a file you don't need prompts (redundant).
+   
+End-of-File (writing)
+
+When you have finished writing everything to an output file, write a special end-of-file marker at the end.
+      
+	END FILE (UNIT=3)
+      
+Must be the last thing written to the file.
+   
+CLOSE Statement
+
+When you have finished using either an input or an output file then CLOSE it.
+      
+	READ (1, *) NUM1
+	READ (2, *) NUM2
+	WRITE (3, *) NUM1 + NUM2
+	END FILE (UNIT=3)
+
+	CLOSE (UNIT=1)
+	CLOSE (UNIT=2)
+	CLOSE (UNIT=3)
+      
+Usually these are last few statements in your program before the STOP and END.
+   
+End-of-File (reading)
+
+Unlike the keyboard where the user can always keep typing, eventually all the data in a file will be read in.
+      When there's no more data to be read, the computer will reach the end-of-file marker.  Generally you want to do something special when this happens; for example, exit a loop.
+      A modified READ statement jumps to a CONTINUE statement when it reaches the end-of-file marker.
+      
+
+	      OPEN(UNIT=1, FILE='DATA', STATUS='OLD')
+	      SUM = 0
+
+	C     Add up all the numbers in the file
+	      DO WHILE (.TRUE.)
+	         READ (1, *, END=20) NUM
+	         SUM = SUM + NUM
+	      END DO
+
+	C     Reached the end-of-file so print the sum
+	 20   CONTINUE
+	      PRINT *, SUM
+
+	      CLOSE (UNIT=1)
+	      STOP
+	      END
+      
+Normally the CONTINUE is the first statement after the end of a DO/END DO loop.
+      Similar to a GOTO statement to exit the loop.
+      Exits the loop when the READ statement is re-executed and there's no more data to read; i.e. not immediately after the last number is read.
+   
+
+
+
+
+Copyright © 1996 Gareth S. Bestor (bestor@cs.wisc.edu).  Last modified April 18, 1996.
+
+

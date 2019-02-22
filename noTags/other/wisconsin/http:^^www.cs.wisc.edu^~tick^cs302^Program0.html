@@ -1,0 +1,55 @@
+Date: Wed, 11 Dec 1996 22:33:07 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 11 Sep 1996 03:00:46 GMT
+Content-length: 1645
+
+
+
+CS 302 Section 70 - Program 0
+
+
+ Program0
+
+
+Program0 requires you to do no programming of your own, nor are you required at this point to understand what the program is doing (although it may make a little more sense once you run it). It's simply intended to get you used to using the PC's, MS-DOS, and Microsoft Fortran.
+
+First, if you haven't already, check out the basics of using Fortran on the PC's. Second, you're going to need once additional piece of information: the file prog0.dat (that's prog zero) which program0 needs in the same directory that you run your program in.
+
+Here is the program to type in:
+
+C       Jeff Lampert
+C       9/5/96
+C       Program 0
+C       CS302, Section 70
+
+        PROGRAM ZERO
+        IMPLICIT NONE
+        CHARACTER NAME*128
+        CHARACTER BUFFER*20
+
+        OPEN (UNIT = 1, FILE = 'PROG0.DAT' , STATUS = 'OLD')  
+
+        PRINT *,'Please enter your name: '
+        READ '(A)',NAME
+
+2       CONTINUE
+
+           READ(1,4,END=3) BUFFER
+4          FORMAT(A)
+           PRINT *,BUFFER 
+        GOTO 2
+
+3       CONTINUE
+
+        PRINT *, NAME
+        CLOSE(UNIT=1)
+        STOP
+        END
+
+
+
+
+Copyright © 1996 Jeff Lampert (tick@cs.wisc.edu).  Last modified September 5, 1996.
+
+

@@ -1,0 +1,131 @@
+Date: Mon, 16 Dec 1996 22:10:09 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 04 Apr 1996 14:34:59 GMT
+Content-length: 5263
+
+
+
+
+
+CS418 Lab 8
+
+
+
+ 
+CS 418: Laboratory 8
+ Modeling and Scientific Visualization
+ Introduction. 
+Scientific visualization is a term which refers to the process of converting
+data into pictures. This lab will demonstrate several of the techniques
+of visualization. The techniques will be used to view a simulated landscape, 
+complete with rivers and clouds. The examples shown below are the result
+of calculating:
+
+ A height field, z=f(x,y), and displaying it as landscape.
+The blue is a flat polygon simulating a water surface.
+
+ A density field d=f(x,y,z) and displaying it as a cloud, either by
+volume rendering or by isosurface extraction followed by polygon rendering.
+
+
+ 
+ A set of rivers determined by plotting streamlines of the gradient of
+the height field. The gradient vectorfield and the streamlines are shown also.
+The vectorfield can be considered an "plan view" of the landscape slopes. 
+The third image shows a landscape with about 100 stream start locations.
+
+
+
+
+
+Procedure: 
+
+You will need to download the program
+
+ Landscape.net 
+ Landscape.cfg 
+ 
+The program caluclates a 2D field of altitudes to make a landscape.
+It also calculates a 3D scalar field of densities to use as a cloud.
+These two fields are manipulated (e.g. to derive the slope of the
+surface), then visualized. New modules which are used include the:
+
+ Isosurface module which fits polygons to points of equal
+field strength in a 3D field.
+ AutoGlyph module which constructs an arrow at every point in
+a vector field
+ Streamline module which follows a vector field in its direction of flow.
+ Refine module which interpolates points into a field.
+ Map module which allows the data in one field to be interpolated onto
+the positions of another field.
+
+You may want to look at the example programs in
+ /usr/lpp/dx/samples/programs/  for further examples that
+use these modules.
+
+  Assignment:
+
+Run the program a few times to see what it does. Try out various options
+on the control panel. Modify the program to add the following features:
+
+ Modify the colors of the rivers by mapping the magnitude of the
+gradient (the slope) onto the streamlines, then coloring them so that
+high slopes regions of the streams are white to simulate rapids, while
+lower slopes are blue. The program as given uses a Map module to map
+altitude to the streamlines. You will need to add another Map module
+and cotrol the colors based on the data component of the field.
+One possible example is shown below. 
+
+ Modify the surface color so that is green near ocean level and white
+at mountain peaks with pale yellow in between. Use the ColorMap module.
+
+ Modify the river generator to start rivers at regular grid points
+(say 5 by 5) on the surface. Use the Construct module to make a starting
+grid. See the image above with 100 stream starts for an example.
+
+ Modify the program to produce "trees" on the surface. The Glyph
+module will produce arrows when given a vector field.
+If the "type" input of the Glyph module is given a geometry (say
+a cone) it will place it at every point on the surface. If you
+use a parametric surface as an input be sure to run it through 
+a Refine module with the "level" input set to "triangles".
+Use an Include module to limit the trees to a band of elevations,
+as shown below.
+You will probably want to use a Reduce module to lower the density 
+of trees on the surface.
+
+
+
+ Modify the program to produce an animation of the cloud. The animation
+should show the cloud changing from one density distribution to another
+by interplolating between two fixed density functions.
+Make perhaps ten time steps in the sequence.
+
+
+ Some results from 1996 .
+
+You will need to demo all of the assigned functions in one modified net
+with the appropriate interactors to control the functions you have added.
+As usual, the style of the program will be graded, as will its function.
+The cloud animation may be in a separate program.
+
+The
+ Lab 8 grading guide 
+will be filled out by a consultant during section to evaluate your work.
+
+
+
+Back to Main Page
+
+
+Go to Lab 9
+
+
+Last modified, 2/26/96, B. Land.
+
+
+
+
+Copyright Statement 
+ 

@@ -1,0 +1,99 @@
+Server: Netscape-Communications/1.1
+Date: Tuesday, 14-Jan-97 22:42:35 GMT
+Last-modified: Wednesday, 28-Aug-96 16:02:10 GMT
+Content-length: 8215
+Content-type: text/html
+
+
+
+More Introduction to the Lab (hello, observe)
+More Introduction to the Lab (hello, observe)
+CS 161 - Fall 1996
+
+Goals
+
+to create a customized command to compile programs for this class
+to become familiar with the Sun environment
+to become familiar with the C++ compiler and reading its messages
+
+Overview
+We need to use some special files for this class; therefore, you will create a customized command to compile and execute your programs. This will briefly show you some command tool (shell) commands.
+Then, you will continue using the file manager, the command tool, and the edit tool. You will type in the C++ program on the second page of this lab, compile it, and execute it. You will submit that program.
+Finally, you will copy another program, make some changes to it, and report on what happens. This will give you experience reading the compiler's error messages and seeing what caused those messages.
+Creating a customized compiling command
+C++ is not completely standardized. Not all compilers include a string class. The Sun compiler does not. But a string class will be in the standard, and using it makes some problems easier. Therefore, we need to include our own string class whenever we want to use strings. This easiest way for us to do this is to create a customized command for compiling our programs. This command will call the C++ compiler but will also tell the compiler where to look for our string class and to link it in when we use it. We don't expect you to understand this part of the lab. You will not be tested on it. You'll learn these commands as time goes by.
+
+In the command tool (shell), type the following boldface commands. Note the period in the cp command. The plain text at right describes what you are doing: 
+cd                          move to home directory
+mkdir bin                   create a bin sub-directory
+cd bin                      move into bin directory
+cp /grader/katz/bin/go .    copy command to your directory
+rehash                      tell shell to see new command
+ls -l                       list files and permissions
+cd ../Labs                  go back to Labs directory
+
+You should be back at your Labs directory. Now, whenever you want to use strings in your code, you can use the go command to compile C++ programs. You can also use it for compiling all your other C++ programs for this class.
+Creating hello.cc
+Create C++ Source File in Labs folder Make sure you are in the Labs folder in the file manager and choose File->Create Document. Drag over its name and call it hello.cc. Open the file. Type in the program below (hello2.cc from the text). Include your name in the comments. Get into the habit of indenting the program as shown with three or four spaces. Programs are for people to read as much as for compilers to translate. Proofread your typing. Save the file but leave it open.
+Compile and Execute Move to the command tool. Type ls to see a listing of the files in your Labs folder. hello.cc should be there. Type 
+ go hello.cc to compile it. This will also execute the program if you have no errors. If you have errors, carefully read the messages and correct the problem by modifying the source program in the edit window. Save your changes, and then run the compiler again.
+Submit your Program In the command tool, use  submit and think about your answers to give it to your class's account as the hello lab. Note that the name to use for submitting is usually at the top of the lab handout.
+Code for hello.cc
+
+#include <iostream.h>
+
+// traditional first program with user-defined function
+// author: your name, today's date
+
+void
+Hello()
+{
+    cout << "Hello world" << endl;
+}
+
+int main()
+{
+    Hello();
+
+    return 0;
+}
+
+Modifying an Existing Program
+Create a New Program from an Existing Program The second program is in a file named /grader/katz/examples/bday.cc (bday2.cc from text). In the file manager, locate the file to copy. Double-click on it to open it in the editor. Use Save As to change its name to bdaygood.cc and put it in your Labs directory. Add your name to the comments. Save. Then use Save As again to name it bday.cc. At this point you have two copies of the file in your Labs directory. Both contain your name. You will be editing bday.cc. The other file is a backup.
+Compile and Execute the Program Compile and execute bday.cc with go bday.cc.
+Create an Observations FileTo ease your writing by hand, you'll record your observations in a file named obs.txt. Create it in the editor. Put your name at the top.
+Practice Reading Error Messages The Changes Exploration section below describes several changes to make to the program. Follow those instructions and record your observations in your file. Save your answers after each observation. Be sure to save your program changes before you try to compile and always undo the change before trying the next change. When you are done, submit your observations file as observe. Make sure you save before you submit.
+Log out Save any work before logging out. Quit any editor sessions. Use the menu mouse button over the background and choose Exit.
+
+Changes Exploration
+For this portion of the lab, you will make changes to a C++ program. Each change will break the program slightly. You will save the broken program and try to compile it. Report what you see in your observations file. Between each break, restore the program to its original state before proceeding. When you finish, make sure the program is in its correct state, save it, and turn in your observations for grading.
+
+For each change, start with the original program.
+
+For each change, answer the following questions. If there are multiple messages and lines, give the first two errors or warnings.
+
+What is the text of the error message? (first two if many) Include the line number.
+Is that the same line that you changed? (use View/Select Line at Number... )
+Did the program execute? Does the output look pretty?
+
+
+Undo the previous change and make the next change.
+
+HINT: Drag over the text of the messages you want to copy. Press the Copy button on the left side of the keyboard. Click in your observations file where you want the text to be placed. Press the Paste button.
+
+HINT: In the command tool/shell, you can repeat a command by typing an exclamation point and one of a) another exclamation to repeat the previous command, b) the desired command's number, c) enough of the beginning of the command to choose the desired one most recently used.
+Changes to Make
+
+Change CPstring.h to cpstring.h (all lowercase)
+Change int to void in int main()
+Change main to Main in int main()
+Change person to kid in Sing(string person)
+Change the first << to >>
+Delete semi-colon (;) at end of first cout statement
+Delete the closing brace (}) at bottom of program (last line of file)
+Delete return 0;
+Delete every << endl (5 of them)
+Change Sing("Grace") to Sing(Grace) (delete quotes around string in call)
+Delete four calls to Sing in main program and replace the name in the remaining call with your name (you may leave it this way)
+
+

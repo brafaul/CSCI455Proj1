@@ -1,0 +1,175 @@
+Date: Tue, 05 Nov 1996 00:27:24 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 21:38:52 GMT
+Content-length: 7405
+
+
+
+CS 537 - Programming Assignment I
+
+
+
+CS 537Programming Assignment I
+
+ Due:   September 17 at the start of class
+
+
+
+Contents
+
+         Introduction
+ Suggestions
+     Scanning
+     Commands
+     Using Threads
+     Exceptions
+     Grading
+         Other Stuff
+
+
+     Introduction  
+
+The purpose of this assignment is to introduce you to Java programming.  
+You are to implement a simple shell (command interpreter) that behaves 
+similarly to the UNIX shell. When you type in a command (in response to 
+its prompt), it will create a thread that will execute the command you 
+entered.  Multiple commands can be chained together on a single line,
+separated by `&' (ampersand) characters.  Your shell will create a
+thread for each individual command and prompt for more
+user input when they have all finished.
+
+Unlike the real shell, your program only has to deal with a handful of
+``built-in'' commands:
+
+
+ cat file ...
+ Print the contents of the named files to System.out one
+    after the other.
+
+ cmp file1 file2
+ Check whether the two files have identical contents and print an
+    appropriate message to System.out.
+
+ sort file
+ Print the lines of file in sorted (lexicographic) order.
+
+ exit
+ Terminate the program.  You should also terminate on reaching
+    end-of-file on System.in.
+
+You needn't implement 
+pipes or re-direction of standard input and standard output, but you 
+must be able to handle an arbitrary number of commands per line -- 
+each with an arbitrary number of arguments separated by arbitrary 
+amounts of white space (blanks or tabs) (although only cat
+takes more than two arguments).
+
+  Suggestions  
+
+Your public static void main() procedure in your primary class
+will be quite simple.  It will be an infinite loop that prints a prompt, reads
+a line (in other courses, a program with an infinite loop is considered a bad
+thing, but in Operating systems, it's the norm!),
+parses it (breaks it up into its constituent commands),
+starts a new thread to handle each of the different commands,
+and then waits for all the threads to finish before printing the next prompt.
+
+ Scanning  
+
+For scanning, you may find it easier to read the entire line into a String
+object.  The
+
+System.in 
+object is of type
+
+InputStream, 
+so it can read either single bytes or arrays of bytes.
+You could represent an input line as an array of bytes, but you will find
+it much easier to use a
+
+String 
+instead.  You may want to look into the class
+
+DataInputStream 
+to figure out how to read a line into a String.
+Tokenizing a String is made almost trivial using the
+
+StringTokenizer 
+class found in
+
+java.util .
+
+ Commands  
+
+For the cat command, you should look at the class  FileInputStream
+ to see how to read data from a file.  cmp will be similar to cat,
+but this time the contents of the two files will be compared.  For sort,
+an efficient sorting algorithm is not required; anything that works is ok.
+You might want to adapt the insertion sort used to introduce Java in
+the discussion sections.
+Some of the classes that might help you here are the  DataInputStream
+ class and the 
+Vector  class.
+
+ Using Threads  
+
+Your primary class will read a command from a user and then will create a
+thread to carry out the command.  It will then wait until the thread has
+finished before continuing its own execution.  There are two ways to start
+threads in Java.  The first is to derive your class from the  Thread  class and
+then override its run() function (see pp. 161-162 in  the text).  The second is to use the  Runnable 
+interface (pp. 177-178).  Here you create a class that implements this
+interface.  You then pass a reference to this class into the constructor of a
+new thread object.  The former is perhaps easier to understand
+conceptually but the latter is more general.  You may choose
+either method for this assignment.
+
+ Exceptions  
+
+Java requires you to place within a try block any methods that might
+cause an exception.  Following the try block is a catch clause
+(or catch clauses) that will
+be used to catch any exceptions that have been thrown (see chapter 7 for more
+details on the syntax of these statements).  Your code should deal with
+exceptions in an appropriate manner.  For example, exceptions such as
+attempting to open a file that does not exist should 
+result in a message to the user and the continuation of the program.  
+More serious exceptions may require an error message followed by program 
+termination (using
+
+System.exit()).
+
+ Grading  
+
+Hand in your source program and a transcript of a terminal session which demonstrates your shell's ability 
+to perform as specified (see script(1)).  Be sure that you use test data adequate to exercise 
+your program's capabilities.  You should follow all the principles of software engineering you learned in 
+CS 302 and CS 367, including top-down design, good indentation, meaningful variable names, modularity, 
+and helpful comments.  You will be graded not only on the basis of correctness, but also programming
+style and completeness of test data.
+
+     Other Stuff  
+
+For those of you writing your programs on the Solaris machines, you might consider using
+a makefile to aid in compilation.  Those of you using DOS may want to look into doskey, 
+a little program that provides for easy command manipulation.  Feel free to send any other
+work-saving methods you find to
+
+the ta, and he will distribute them to the class.
+
+
+
+
+
+solomon@cs.wisc.edu
+
+
+Thu Oct 31 15:38:52 CST 1996
+
+
+
+Copyright © 1996 by Marvin Solomon.  All rights reserved.
+
+
+

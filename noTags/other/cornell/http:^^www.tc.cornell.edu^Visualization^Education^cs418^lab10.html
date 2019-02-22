@@ -1,0 +1,149 @@
+Date: Mon, 16 Dec 1996 22:09:21 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 13 Mar 1996 13:51:25 GMT
+Content-length: 5653
+
+
+
+
+
+CS418 Lab 10
+
+
+
+ 
+CS 418: Laboratory 10
+ Physically Based Animation
+ Introduction. 
+In this lab you will use physical (i.e. forces and accelerations)
+descriptions of processes to animate objects. 
+There are several good reasons why you may want to compute motion of objects
+based on forces, rather than attempt a kinematic description of object motion.
+
+ It is often easier to write an expression for the forces on an object
+(a differential equation) than it is to directly describe the motion.
+ Dynamic systems based on forces evolve "automatically" so than the motion
+is physically correct (given the correct equations). This automatic behavior
+relieves the animator of attention to lots of boring detail.
+ For chaotic systems it is impossible to write a kinematic description.
+
+Refer to the section on
+ dynamics  in the CS 417 page for more information 
+about solving dynamic systems. Three examples are shown here of systems
+which would be difficult or impossible to animate by manual kinematic
+description.
+
+
+  
+Three-body gravitation 
+  
+Water waves 
+ 
+ Billards impact system 
+
+Assignment
+
+Download:
+
+  NbodyGravity.net 
+  NbodyGravity.cfg 
+
+  2DLinearWave.net 
+  2DLinearWave.cfg 
+
+ load macros and move to your .DXmacros directory
+  
+  NbodyGmacro.net 
+
+
+
+ Bug as of 3/4/96  
+After you donwload the NbodyGmacro.net, open it and remove the Set module, 
+then replace it with a new Set module, then reconnect it and save it. 
+(The internal state
+of the module seems to be messed up).
+
+
+Execute the programs to understand their behavior, then modify them as
+follows:
+
+
+ Modify the NbodyGravity.net to allow other force laws besides inverse square.
+Provide an interactor to set the exponent on the law from inverse first
+power to inverse fourth power. Can you make a stable orbit with just two
+gravitating bodies for inverse first power or inverse third power force
+laws?
+ Modify the linear wave equation given in program 2DLinearWave.net
+to simulate water by making the acceleration
+proportional to depth. Refer to the
+ dynamics section for more information on water
+waves.
+Make the 2D function which represents the bottom
+of the region containing the water have some variation with position, perhaps
+a gaussian hillock:
+Note correction on 3/13/96. A missing minus sign was added.
+ z = -1 + 0.7*exp(-((x-0.5)^2 + (y-0.5)^2)/0.2)  
+When the modified program is running correctly, the water wave should slow down
+over the bump, and will bounce off the bump if it is above the surface. 
+
+ Modify the water-wave program you just wrote to simulate a
+cannon firing a ball through the air and into water where it starts a
+wave. Use a Euler integrator for the ball (and the given Verlet integrator for
+the water).  The ball should have initial conditions
+of position corresponding to the muzzle of the cannon and a velocity
+consistent with the cannon's altitude (angle with the horizontal)
+and azimuth (horizontal direction).
+You should be able to set the altitude and azimuth of the cannon
+via interactors, which means you will have to detect where and when the
+ball hits the water surface (which is flat until the ball hits it). You
+will need to figure out how to notify the water simulation that the ball
+hit, perhaps by adding a sudden velocity to the water where the ball
+hit.
+  There should be interactors to set the
+force of gravity on the ball, g and the air drag coefficient, 
+r.
+For the ball assume that: 
+ax = - r*vx 
+ay = - r*vy 
+az = -g - r*vz
+
+where  [vx, vy, vz] are the components of the velocity, and 
+[ax, ay, az] the components of the accelaration.
+
+
+Be prepared to demo the two programs in section. You will also need to 
+demonstrate  mpeg  movies of final results 
+including:
+
+ An orbit (if any), in an inverse first power field.
+ One paticular cannon shot into the water.
+
+
+
+You should be able to explain your programs. You should use
+transmitters/receivers, macros, and comments 
+in the "Notation" field of each module
+so that you and the grader can understand the program. 
+Control panels, if any,
+should be well organized, labeled, and with the appropriate numeric ranges.
+
+
+Some results from 1996. 
+
+The
+ Lab 10 grading guide 
+will be filled out by a consultant during section to evaluate your work.
+
+
+
+Back to Main Page
+
+
+Last modified, 10/20/95, B. Land.
+
+
+
+
+Copyright Statement 
+ 

@@ -1,0 +1,237 @@
+Date: Wed, 08 Jan 1997 21:27:43 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+
+First Smalltalk Assignment
+
+
+
+
+
+
+
+    
+ Next:    About this document 
+  
+  CS341, Spring 1996 
+Smalltalk Assignment #0 
+Assigned 4/25, (not to hand in).
+
+
+
+The Assignment (you will be helped through this in section):
+ Log on to the NT workstation.
+ Start Smalltalk.
+ Change the path of the  changes file, and save 
+the image in your local file space.  (Instructions in the 
+lab, or on the Web.)
+ Exit Smalltalk, and re-start it, but this time use your 
+own Smalltalk image.
+ Type in the code for a very simple ``bank account''
+class, explained and listed below.
+ Test the code (in a workspace) on a couple of simple examples 
+of your own devising.
+ File out your new category.
+
+
+
+
+
+ The Scenario:
+
+For the Smalltalk part of the class we will be looking 
+at banks and bank accounts again.  With that in mind 
+we will define some very simple code for manipulating 
+bank accounts.  We will define these classes:
+  Account---an account will have a number, 
+a balance and a list of transactions.  An 
+account should be able to answer its account number, 
+to accept deposits and withdrawals, and to provide 
+a displayed list of its transactions.   For this cut 
+at the code we will do very primitive output:  we will 
+create a window for each account and let it display its
+transactions to its own window.  (You do not need to understand
+exactly how this works.)
+
+Therefore the account class will have the following instance variables:
+number, balance,  transactions, and 
+displayer.  The next available account number will be 
+stored using a class variable.  (We will talk in class about
+instance variables and class variables. For now, just notice 
+how we put them into the code.)
+
+The methods for an account will be the following:
+ number Answer the account's number.
+ deposit: anAmount on: aDate  Add the (numeric) argument
+anAmount to the account's balance.  Also add the 
+transaction to the list of transactions.
+ withdraw: anAmount on: aDate  Deduct the (numeric) argument
+anAmount from the account's balance, and add the transaction 
+to the account's transaction list.   Signal an error if the balance 
+is insufficient.
+
+
+  Transaction---this class will store the amount of the 
+transaction (deposit or withdrawal) and the date on which it occurred.
+Its instance variables will therefore be amount and date.
+The transaction class should also be able to display itself on a window.
+
+
+On the next page you will find code for the Transaction and 
+Account classes.  In section you will learn how 
+to enter these into the Smalltalk image.
+
+========================================
+This code defines the Transaction class
+========================================
+
+1.  Class definition for Transaction:
+
+   Object subclass: Transaction
+     instanceVariableNames: 'amount date'
+     classVariableNames: ''
+
+========================================
+
+2.  Class method for Transaction:
+
+    newAmount: anAmount date: aDate 
+       "Answer an instance of a transaction object
+        with the specified date and amount. 
+        Sample:
+            Transaction newAmount: 100 date: Date today."
+
+    ^self new initializeAmount: anAmount date: aDate.
+
+========================================
+
+3.  Instance methods for Transaction:
+
+    initializeAmount: anAmount date: aDate 
+      "This method is called only when a new instance is 
+       created.  It just sets the instance's variables."
+
+        amount := anAmount.
+        date := aDate.
+        ^self.
+
+   =================================
+
+   displayOn: aTextCollector 
+     "Print a single line describing this transaction."
+
+    amount < 0
+        ifTrue:  [aTextCollector show: 'Withdrawal of  $']
+        ifFalse: [aTextCollector show: 'Deposit of  $'].
+    aTextCollector show: amount printString; 
+                   show: ' on '; 
+                   show: date printString; 
+                   cr.
+
+
+========================================
+This code defines the Account class
+========================================
+
+    Object subclass: Account
+       instanceVariableNames: 'number balance displayer transactions'
+       classVariableNames: 'NextNumber '
+
+
+========================================
+1.  Class methods for Account
+========================================
+
+     new
+       "Answer a new instance of Account with next number,   
+        balance 0, and empty transactions."
+
+    ^self basicNew initialize.
+
+   =====================================
+
+     initialize
+       "To initialize the Account class we set the 
+        next account number to 1."
+
+        NextNumber := 1.
+
+
+========================================
+2.  Instance methods for Account
+========================================
+
+     initialize
+       "To initialize an instance of Account, we 
+        initialize the instance variables and open 
+        a window to display the transactions."
+
+       number := NextNumber.
+       NextNumber := NextNumber + 1.
+       balance := 0.
+       transactions := OrderedCollection new.
+            "This sets up the display window"
+       displayer := TextCollector new.
+       TextCollectorView open: displayer label: 'Account Window'.
+
+       ^self.
+
+       ===================================
+      
+      number
+        "Answer the receiver's account number"
+        ^number.
+
+       ===================================
+      
+      deposit: anAmount on: aDate
+        "To deposit, adjust the balance, and make up 
+         a new transaction object with the specified amount
+         and date."
+
+        balance := balance + anAmount.
+        transactions addLast: (Transaction newAmount: anAmount date: aDate).
+
+       ===================================
+
+       withdraw:  anAmount on: aDate 
+         "To withdraw, check to see if the balance is sufficient, 
+          if so adjust balance and generate a new transaction.
+
+         balance < anAmount ifTrue: 
+            [ self error: 'Attempt to overdraw account.'].
+         balance := balance - anAmount.
+         transactions addLast: (Transaction newAmount: anAmount negated  
+                                            date: aDate).
+
+       
+       ===================================
+
+
+        displayTransactions
+          "Display all the transactions on the account's window.
+           First print a header."
+
+          displayer show: 'Transactions for Account '; 
+                    show: number printString; 
+                    cr.
+
+          transactions do: [:trans |  displayer show: '  '.  
+                                      trans displayOn: displayer].
+
+ 
+
+    About this document ... 
+
+    
+ Next:    About this document 
+  
+ 
+
+Steve Hanks 
+Wed Apr 24 14:21:00 PDT 1996
+
+

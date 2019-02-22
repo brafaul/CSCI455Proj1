@@ -1,0 +1,204 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:07:57 GMT
+Content-Type: text/html
+Content-Length: 7129
+Last-Modified: Friday, 08-Dec-95 01:33:07 GMT
+
+
+Sound Editor
+
+Sound Editor
+
+Szu-Wen (Steven) Huang, 
+Jing (Vince) Li, Ting-Chun Janet Liu
+
+
+
+Introduction
+This project aims to implement a sampling resolution-independent digital
+audio engineering tool that can be used to create moderately complex
+special effects.  The project should sport an easy-to-use and fairly 
+portable interface across various Unix/X platforms.  The program should
+work reasonably well on all kinds of audio samples, from low-fidelity
+voice to CD quality music.  Ideally, this program should be able to
+utilize commonly-available hardware features such as mono/stereo audio
+playback and recording.
+
+
+Deliverables
+
+Working software
+Technical documentation
+
+
+Milestones
+
+Algorithms research
+Hardware support and standards research
+User interface in Tcl/Tk and C
+Time domain functions
+Frequency domain related mathematics research
+Frequency domain functions
+
+
+General Operations
+Playback
+
+The program should be able to playback the samples being edited for
+previewing purposes.  This function does not aim to interface with a
+device capable of production-quality audio synthesis.
+
+Pause
+
+The program should be able to stop in the middle of a playback.
+
+Rewind
+
+The program should be able to return to a certain sample earlier in
+time and resume playback from there.
+
+Fast Forward
+
+The program should be able to skip ahead to a certain sample later in
+time and resume playback from there.
+
+Seek
+
+The program should be able to start playback at any certain sample in
+the entire sound file, indexed by either playing time (seconds) or
+sample number.
+
+Record (Optional)
+
+If hardware support permits, this program should be able to digitize
+samples from an external audio source.  In general, however, this
+program should assume that samples are digitized by another dedicated
+platform because of quality considerations.
+
+Volume Control
+
+This program should have the ability to adjust the output volume of
+the playback function appropriately.  If possible, a decibel notation
+should be employed instead of arbitrary volume levels such as 1 to 10.
+
+Balance (Optional)
+
+This program should be able to adjust the ratio between playback output
+of the left and right channels on stereo hardware.
+
+File Operations (Optional)
+
+Currently, the Sun Audio Format (.au) is deemed most appropriate for
+reasons of portability and ease of programming.  If time permits, support
+should be provided to output resulting samples in the Microsoft Windows
+Wave (.WAV) format, Creative Labs Voice (.VOC) format, and others.
+
+
+Monitors
+The following functions do not alter the input samples in any way, but
+display them in a manner that might be visually useful (and pretty) to
+the audio engineer.
+
+Raw Waveform
+
+The program should be able to display the pulse-code modulation (PCM)
+format digitized samples as a waveform in time domain.  Multiple files
+can be open at the same time to allow simple edit operations such as
+Cut, Copy, Paste, and some others that users
+of commercial software would come to expect.
+
+Spectrum
+
+The program should display a frequency spectrum synchronized with the
+playback to show the distribution of frequencies.  Right now, we are
+split between the conventional boombox style of discrete frequency
+ranges and quantized intensity levels (dancing LED bars), or a more
+"scientific" high-resolution spectrum display possible only on video
+monitors.  Suggestions are welcome.
+
+Time/Frequency/Amplitude Histogram
+
+The program should display a time domain frequency/amplitude graph such
+that time progresses along the x-axis (towards the right side), frequency
+ranges are plotted along the z-axis ("in" and "out"), and amplitude
+plotted along the y-axis (going up).  This display would be useful in
+visualizing amplitude distributions over time.
+
+
+Time Domain Operations
+These functions modify the input waveform in the time domain, and do not
+require a Fast Fourier Transform (FFT) or its inverse to operate.
+All time domain operations can be performed on the entire file or some
+selected subset.  These operations should be resolution-independent.
+
+Echo
+
+This function digitally simulates an echo.  It will be implemented by mixing
+several copies of the sample in decreasing strength with a corresponding
+shift in time
+
+Fade
+
+These two function incrementally increase or decrease volume over a range
+in time.
+
+Mix
+
+This function is the digital simulation of mixing two input sources together,
+and will be implemented with some form of weighted averaging of the samples.
+
+Backmasking
+
+This function reverses the waveform in time, such that the last input will
+become the first input, and vice versa.  This function is useful in including
+Satanic messages into rock songs advocating suicide.
+
+Silence
+
+This function creates a range of silence.
+
+Amplitude Scaling
+
+This function is used to modify the amplitude of a range of samples to
+effect an increase or decrease in volume.
+
+Resampling
+
+This function allows an input waveform to be upsampled to a higher
+sampling frequency or downsampled to a lower.  Upsampling is probably
+accomplished by interpolation, and downsampling by tossing away samples.
+
+
+Frequency Domain Operations
+The following operations require processing in the frequency domain.
+
+Pitch Scaling
+
+This function can be used to effect a pitch shifting without affecting
+playback speed, useful in making people talk like chipmunks.
+
+Graphic Equalizer
+
+This function can be used to enhance or inhibit certain frequency ranges,
+for example, to reduce noise.  Two proposals are being reviewed here, the
+first being the traditional boombox graphic equalizer with sliders, or
+a free-form tool that will automatically curve-fit certain selected points
+and modify the spectrum accordingly.  Suggestions welcome.
+
+Addition and Subtraction
+
+This function allows the addition or subtraction of a spectrum with
+another.  This is possibly useful in noise elimination.
+
+Morphing
+
+This function can be used to transform one spectrum into another
+incrementally over time.
+
+
+
+Last updated: December 7, 1995
+Maintained by: Steven,
+Janet.
+

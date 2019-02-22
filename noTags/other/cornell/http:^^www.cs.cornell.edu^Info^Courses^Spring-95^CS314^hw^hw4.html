@@ -1,0 +1,97 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:18:52 GMT
+Content-Type: text/html
+Content-Length: 2373
+Last-Modified: Monday, 13-Mar-95 14:33:34 GMT
+
+
+
+ CS 314: Homework Number 4  
+
+
+ Homework Number 4 
+
+Date Assigned:   February 21, 1995
+Date Due:   February 28, 1995
+
+ To submit your answer 
+Drop by the consulting office (305 Upson) during consulting hours to
+get your homework graded and recorded.
+
+
+In the problems below, you are asked to write several 68000 assembly
+language routines. While it is not required, we strongly suggest that
+you use BasePak to solve this problem set. In grading this problem set,
+we will forgive minor syntactic errors, but many occurrences of the
+same error will be penalized. All programs should be well commented,
+listing any assumptions you made about the problem and how the
+registers are used. Unless otherwise specified, assume callee-save
+conventions are being used. All problems count equally in the final
+grade.
+
+ Problem 1: Bit counting
+Write a 68000 code fragment that counts the number of bits that
+are set (i.e., equal one) in the number stored in register D0. The
+result should be placed in register D1. For example, if
+ D0 = 1101 0100 1000 0011  on entry to the code fragment,
+then D1 should contain 7 on exit. The contents of D1 may be destroyed
+by the fragment.
+
+Problem 2: Machine Code 
+
+ Give the machine code representation (in hexadecimal) of the
+following instructions in 68000 assembler.
+
+
+  MOVE.L    D0,-(A6)
+
+ What 68000 assembly language instruction is encoded in the
+following machine code?
+
+  5C5F
+
+
+Problem 3: Control Structures
+For each of the following Pascal control structures, give the 68000
+assembler equivalent. Assume the variable i is stored in register D0
+and x is stored in register D1.
+
+
+ the for-loop
+
+  for i := 1 to n do begin
+    x := x + 1;
+  end;
+
+ the while loop
+
+  while (i <> 0) do begin
+    i := i-1;
+    x := x+1;
+  end;
+
+ the repeat-until loop
+
+  repeat
+    i := i-1;
+  until (i = 0);
+
+ the if-then-else structure
+
+  if (i < 0) then begin
+    x := i;
+  end else begin
+    x := -i;
+  end
+
+ the case statement
+
+  case i of
+    1:  x := -x;
+    2:  x := 0;
+    3:  x := x + 1;
+  end;
+
+
+

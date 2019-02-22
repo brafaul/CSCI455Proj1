@@ -1,0 +1,337 @@
+Date: Tue, 05 Nov 1996 00:32:21 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 16 Aug 1996 15:58:20 GMT
+Content-length: 13462
+
+
+
+ Lecture notes - Chapter 2 - SAL
+
+
+ Chapter 2 -- SAL
+
+
+ABOUT SAL
+---------
+
+MOTIVATION for SAL:
+     hiding the details of MAL, MIPS asm. lang. (on purpose!)
+     SAL code will look more like HLL code -- to make student's transition
+	  easier.
+     Introducing one more level of abstraction in order to postpone
+	  discussion of several topics.
+
+
+     HLL           SAL         assembly          machine code
+
+
+     each HLL statement maps into 1 or MORE SAL instructions
+     each SAL instruction maps into 1 or MORE MAL instructions
+
+     for this course, there is actually one more layer that
+     students will be given
+
+     HLL        SAL     MAL       TAL      MIPS RISC machine code
+
+
+
+
+SAL
+
+A subset of the functionality of most high level languages --
+     no records/structures
+     no formal arrays (see chapter 7 for their implementation)
+
+What is required by a programming language?
+  declarations
+  arithmetic operations
+  conditional execution (if then else)
+  looping control structures
+  communication w/user. . .(write statement)
+
+
+About SAL:
+ -- one instruction, declaration per line
+ -- comments are anything on a line following `#'
+    (comments may not span lines)
+
+
+
+
+DECLARATIONS
+------------
+
+  - they give information about how much memory space is needed
+  - they assign a name to the memory space
+
+  SAL has 3 basic types: integer, float (real), character
+  can build other types out of these,
+       for example, boolean is really an integer with only 2 defined values.
+  
+  Pascal:
+       var        variablename:  type;
+
+  C:
+       type     variablename;
+
+  SAL:
+       variablename:  type value
+
+
+     type is       .word      if integer
+		   .byte      if character
+		   .float     if real (floating point)
+
+     value is optional -- it gives the variable an initial value
+
+  examples:
+       flag:  .word   0
+
+       counter:   .word   0
+
+       variable3: .word
+
+       e:  .float   2.71828
+
+       uservalue:    .byte
+
+       letter:    .byte 'a'
+
+
+
+other useful rules:
+  -- one declaration per line.
+  -- default initial value is 0.
+
+
+
+DIRECTIVES
+----------
+  a way to give information to the assembler.
+
+  - all directives start with `.' (period)
+
+    examples:
+
+	 .byte
+	 .word
+	 .float
+
+	 .data       # identifies the start of the declaration section
+		     #   there can be more than 1 .data section in
+		     #   a program
+
+
+	 .text       # identifies where instructions are
+		     #   there can be more than 1 .text section in
+		     #   a program
+
+	 .asciiz  "a string.\n"  # places a string into memory
+				 # and null terminates the string.
+
+	 .ascii  "new string."   # places a string into memory
+				 # WITHOUT null termination.
+
+
+
+
+
+ARITHMETIC operations
+----------------------
+
+     SAL             Pascal             C
+
+     move x, y       x := y;           x = y;
+     add x, y, z     x := y + z;       x = y + z;
+     sub x, y, z     x := y - z;       x = y - z;
+     mul x, y, z     x := y * z;       x = y * z;
+     div x, y, z     x := y div z;     x = y / z;
+     rem x, y, z     x := y mod z;     x = y % z;
+
+   NOTES: 1. the operation result depends on the type of the variables.
+	  2. cannot increase the number of operands.
+	  3. y and/or z can be IMMEDIATES
+
+
+   examples:
+
+      move  count, 0
+
+      mult  product, mult1, mult2
+
+      add   sum, 2, addend
+
+
+NOTE:  there are other instructions that implement boolean functions,
+       but we don't cover them yet.
+
+
+
+CONDITIONAL EXECUTION
+---------------------
+  sometimes an instruction (or a set of instructions) should
+  be executed, and sometimes it (they) shouldn't.
+
+  HLL -- simplest form is a go-to.  (Always discouraged.)
+
+
+Pascal if-then-else
+  (a conditional go-to!)
+
+   if (condition) then
+       statement
+   else
+       statement;
+
+
+C if-then-else
+
+   if (condition)
+       statement;
+   else
+       statement;
+
+
+SAL 'ifs' and 'gotos'
+--------------------------------
+    SAL                  Pascal
+
+    b label             goto label;
+    bltz x, label       if x < 0 then goto label;
+    bgtz x, label       if x > 0 then goto label;
+    blez x, label       if x <= 0 then goto label;
+    bgez x, label       if x >= 0 then goto label;
+    beqz x, label       if x = 0 then goto label;
+    bnez x, label       if x <> 0 then goto label;
+    beq x, y, label     if x = y then goto label;
+    bne x, y, label     if x <> y then goto label;
+    blt x, y, label     if x < y then goto label;
+    bgt x, y, label     if x > y then goto label;
+    ble x, y, label     if x <= y then goto label;
+    bge x, y, label     if x >= y then goto label;
+
+
+
+
+EXAMPLE:
+--------
+  Pascal if-then-else:
+
+       if (count < 0) then
+       begin
+	   count := count + 1;
+       end;
+
+  C equivalent:
+
+       if (count < 0)
+	   count = count + 1;
+
+
+SAL equiv to if-then-else:
+
+                bltz count, ifstuff
+	        b endif
+      ifstuff:  add count, count, 1
+      endif:      # next program instruction goes here
+
+	 -- OR --
+
+                bgez count, endif
+	        add count, count, 1
+      endif:      # next program instruction goes here
+
+
+    WHICH ONE OF THESE IS BETTER?
+
+
+
+Structured loops can be built out of IF's and GOTO's
+                                  (test and branch)
+
+EXAMPLES:
+---------
+
+while loop example
+
+  Pascal:
+
+       while ( count > 0 ) do
+       begin
+	   a := a mod count;
+	   count := count - 1;
+       end;
+
+  BAD STYLE Pascal:
+
+       while: if  (count <= 0) then goto endwhile;
+	      a := a mod count;
+	      count := count - 1;
+	      goto while;
+       endwhile:
+
+  C:
+
+       while (count > 0) {
+	   a = a % count;
+	   count --;
+       }
+
+  SAL:
+
+      while: blez  count, endwhile
+             rem a, a, count
+             sub count, count, 1
+             b while
+      endwhile:    # next program instruction goes here
+
+
+
+
+repeat loop example
+
+  Pascal:
+
+       /* do statement until expression is TRUE */
+       repeat
+	   if (a < b) then
+	      a := a + 1;
+	   if (a > b) then
+	      a := a - 1;
+       until a = b;
+
+
+  C:
+       /* do statement while expression is TRUE */
+       /*   when expression is FALSE, exit loop */
+       do {
+	   if (a < b)
+	       a++;
+	   if (a > b)
+	       a--;
+       } while( a != b);
+
+
+  SAL:
+
+      repeat:    bge a, b, secondif
+                 add a, a, 1
+      secondif:  ble a, b, until
+	         sub a, a, 1
+      until:     bne repeat
+
+
+
+while loop example
+  Pascal:
+
+           while (count < limit) and (c = d) do
+	   begin
+	      /* loop's code goes here */
+	   end;
+
+  C:
+
+           while ( (count
+

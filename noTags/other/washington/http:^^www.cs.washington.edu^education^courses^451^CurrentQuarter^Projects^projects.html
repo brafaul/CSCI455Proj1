@@ -1,0 +1,140 @@
+Date: Mon, 02 Dec 1996 14:46:11 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 451 Projects
+
+
+
+CSE 451
+Introduction toOperating Systems
+Autumn 1996
+
+Projects
+
+NOTE: As always, you are free to work on any platform, but it
+is your responsibility to make sure what you hand in works on the CS
+instructional machines (lynx, wolf or grizzly).  The source code
+provided throughout the quarter will be written in C.  You are free to
+use C++, but it will not be supported.
+
+
+
+
+
+The turnin program is now accepting the intermdiate
+submission for Project 4 and the Java extra credit assignment.
+
+
+
+
+
+
+1. C Programming and Debugging (solution)
+This project is out Monday 9/30/96 and is due Monday 10/7/96
+
+
+2. Threads and Synchronization (solution)
+This project is out Wednesday 10/9/96 and is due Friday 10/25/96
+
+3. System Calls and Virtual Memory
+ (The project description has an accompanying Appendix) This project is out
+Thursday 10/31/96 and is due Monday 11/18/96.  There is also an
+intermediate due date Friday 11/8/96 
+4. DOS File system
+This project is out Monday 11/25/96 and is due Wednesday 12/11/96.
+There is also an intermediate due date Wednesday 12/4/96 
+5. Extra Credit Java Assignment
+This assignment is out Monday 11/25/96 and is due Friday 12/6/96 
+
+
+
+Project Solutions
+
+
+Project 1.
+
+ queue.c (here's my version of queuetest.c)
+ timegetpid.c
+
+
+Notes: When using gettimeofday, you get back a
+value in seconds and microseconds.  If you want to time something, you
+will need to call gettimeofday twice, once to get the start
+time, start_tp, and again to get the ending time,
+end_tp.  To find the elapsed time, it is not enough to
+subtract the seconds field of start_tp from the seconds field
+of end_tp and similarly with the microseconds field (you can
+get an incorrect value for the number of seconds and a negative value
+for the microseconds).  You must first convert to a common unit,
+either a floating point value of seconds or an integer value of
+microseconds, and then do the subtraction.
+
+
+  start = (double) start_tp->tv_sec + ((double) start_tp->tv_usec)*(1.0e-6);
+  end = (double) end_tp->tv_sec + ((double) end_tp->tv_usec)*(1.0e-6);
+
+  elapsed_time = end - start;
+
+
+
+Project 2.
+
+
+Below is my solution for the preemptive minithread system.  I
+implemented spinlocks and had a few extra header files.  Notice that
+if you actually destroy threads in semaphore_destroy, you
+need a special destroy routine that doesn't actually stop the thread
+(like the one you use to destroy threads in your minithread system).
+Look for minithread_destroy and
+minithread_destroy_internal in minithread.c and synch.c to see the difference.
+
+
+
+ minithread.c (minithread package)
+ synch.c (semaphore implementation)
+ my_malloc.c (safe malloc)
+ spinlock.c and spinlock.h (spinlocks)
+ and a few extra header files: panic.h (for errors), minithread_export.h (other exported routines)
+
+
+
+For the bounded buffer problem, I use three semaphores:
+empty_s and full_s to synchronize the producers and
+consumers, and pool_s to manage accesses to the buffer pool.
+In addition, I provide three command line options that enable the user
+to choose the number of producers, the number of consumers and the size
+of the buffer pool (this was not part of the assignment).
+
+
+
+ boundbuf.c
+
+
+
+For the cigarette problem, I use four semaphores: an array
+needed, one for each ingredient and empty to
+indicate that there is nothing on the table.  The way to think of this
+is that each of the three smokers (each has a different ingredient)
+P's on a semaphore that is signalled when the other two ingredients
+are there.  The agent randomly V's on one of these semaphores.  I also
+provided three command line options that allow you to control the
+agent.  In particular, by default the agent puts ingredients on the
+table, each with equal probability, i.e., in the limit, each
+smoker will smoke about the same number of cigarettes.  The ratio of
+smokers smoking is 1:1:1.  You can use the command line
+options to change this ratio (this was not part of the assignment).
+
+
+
+ cigarette.c
+
+
+
+
+
+
+cse451-webmaster@cs.washington.edu
+

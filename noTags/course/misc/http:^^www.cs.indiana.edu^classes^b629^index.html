@@ -1,0 +1,171 @@
+Date: Wed, 20 Nov 1996 22:33:00 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 5873
+Last-modified: Wed, 23 Oct 1996 16:54:25 GMT
+
+
+
+
+B629 (Spring `97) home page
+
+
+
+B629 (Spring `97) Program Transformation and Programming Environments
+
+[ General Information
+| Course Outline
+| Readings
+| Systems
+| Assignments
+| Projects
+]
+
+
+General Information
+Course description: This course is for students
+interested in advanced program manipulation techniques and supporting
+tools.  The course will present methods and techniques of program
+analysis and program transformation, techniques and algorithms for
+programming environments, as well as a survey of current systems in
+this area.  Students will implement program analyses and
+transformations and experiment with programming environments as part
+of the course.
+
+Prerequisites: one of C311 or B521, one of P423 or
+P523, and a working knowledge of C or Scheme, or instructor's
+permission | Credits: 3
+
+Instructor: Y. Annie Liu |
+Email: liu@cs.indiana.edu |
+Office: 201E Lindley Hall
+
+Hours:  MW 11:15AM-12:30PM,
+in Swain East 240 | Office Hours: by
+appointment
+
+Tentative Course Outline
+
+Introduction
+    
+Program development: an overview
+	
+goals: correctness, efficiency, productivity
+	methods: transformational programming, object-oriented programming,
+  	 step-wise refinement, composable software, ...
+	techniques: specialization, incrementalization, data optimization,
+	 ...
+	tools: compilers, language-based environments, visualization tools,
+	 tool generators, ...
+	
+Some simple examples 
+    
+Program analysis: an overview
+    
+goals: program understanding, checking, optimization, refinement,
+     composition, modification, and reuse
+    styles: static vs dynamic,
+	    forward vs backward,
+	    necessary vs sufficient
+    methods:
+	    abstract interpretation, dataflow analysis
+	    (SSA form & CDG, VFG, SESE region & PST, VDG, Slicing), 
+	    type based, projection based, set based, ...
+    applications: 
+         dead code analysis,
+	 redundancy analysis,
+	 strictness analysis,
+	 binding-time analysis,
+	 closure analysis,
+	 update analysis,
+	 sharing analysis,
+	 aliasing analysis,
+	 linearity analysis,
+	 concurrency analysis,
+	 time analysis, ...
+    
+Program transformation: an overview
+    
+kinds:
+     program synthesis, optimization, refinement, composition, 
+     modification, and reuse
+    basics techniques:
+     algebraic simplification, fold/unfold, rewriting, ...
+    program optimization (operation-driven optimization):
+        
+composition/fusion: deforestation, unrolling list, tupling, ...
+	specialization: partial evaluation, supercompilation, ...
+	incrementalization: finite differencing,
+	     inplace update,
+	     caching, memoization, tabulation, tupling,
+	     	  thining, 
+             promotion, accumulation, ...
+	
+program refinement (data-driven optimization):
+         representation selection, data localizing, staging transformation,
+	 compile-time garbage collection, ...
+    program modification and reuse:
+        parallelizing programs,
+	serializing parallel programs,
+        program integration, ...
+    
+Programming environments techniques: an overview
+    
+syntax:
+     incremental parsing, higher-order abstract syntax, ...
+    semantics/analysis:
+     incremental attribute evaluation,
+     extensions to attribute grammars, e.g.,
+       higher-order, composable, modular, coupled, ...
+    transformation/utilities:
+    second-order pattern matching, unification,
+    language for complex tree transformation,
+    tree rewriting,
+    incremental pretty printing,
+    program tree/database management, ...
+    
+Program manipulation systems: an overview
+    
+ catalog:
+    compiler construction tools, frontend and backend generators,
+    attribute grammar based systems,
+    programming environment generators,
+    program transformation systems,
+    specialized utilities
+       examples:
+      Cornell Synthesizer Generator,
+      Microsoft IP,
+      Reasoning's Refine, Kestrel's KIDS, DTRE, and  Specware,
+      NYU's APTS,
+      Munich CIP,
+      CWI's ASF+SDF,
+      Saarbrucken's OPTRAN and PROSPECTRA,
+      INRIA's Mentor and Centaur,
+      Berkeley's Pan and Ensemble, ... ...
+    
+The following topics from the above will be covered specially:
+    
+program analysis
+     
+partial evaluation
+     
+incrementalization
+     
+data driven optimization
+     
+programming environments techniques: syntax, semantics, transformation
+    environments and environments generators: SG, IP, Centaur,
+    program transformation systems: APTS, KIDS, OPTRAN,
+    
+
+
+Readings
+
+Systems
+
+Assignments
+
+Projects
+
+liu@cs.indiana.edu
+Last updated October 22, 1996

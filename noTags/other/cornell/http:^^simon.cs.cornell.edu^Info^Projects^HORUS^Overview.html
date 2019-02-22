@@ -1,0 +1,175 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 21:50:57 GMT
+Content-Type: text/html
+Content-Length: 7434
+Last-Modified: Tuesday, 19-Nov-96 20:35:46 GMT
+
+
+Overview of the Horus Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview of the Horus project
+
+
+Five years ago, 
+
+Kenneth Birman and 
+Robbert van Renesse 
+started the activity that ultimately lead to
+the design of Horus.  At the outset, the project was perceived as a redesign of
+the 
+Isis 
+group communication system.  Isis, although successful, was
+UNIX-specific, monolithic (and hence, inflexible), and used protocols
+that have subsequently been improved upon.
+Over the last five years, Horus evolved beyond these initial goals,
+becoming a sophisticated group communication system with an emphasis
+and properties considerably different from those of its "parent" system.
+
+Perhaps the best general overviews of Horus can be found in the April 1996
+issue of Communications of the ACM, and in the May 1996 issue of 
+Scientific American.  Many additional papers are available in our online
+technical reports area.
+
+Readers already familiar with group communication will best understand Horus
+as a general-purpose 
+communication architecture that also does a very good job of supporting
+the sorts of process-group applications for which Isis became popular.  
+Broadly, Horus is a flexible and extensible process-group communication
+system, in which the interfaces seen by the application can be varied
+to conceal the system behind more conventional interfaces, and in which
+the actual properties of the groups used (membership, communication, events 
+that affect the group) can be matched to the specific needs of the 
+application.  If an application contains multiple subsystems with differing
+needs, it can create multiple superimposed groups with different
+properties in each.  The resulting architecture is unique in being
+completely adaptable: the groupware developer or systems programmer pays
+only for properties that are specifically desired, and can often
+use Horus to introduce reliability or replication in a completely
+transparent manner.
+
+Users who wish to treat Horus as a prebuilt system can take advantage
+of its virtual synchrony model to introduce replication, coordination,
+and fault-tolerance into their applications.  Horus is suitable for
+building high performance groupware applications and we are now working
+on real-time applications, notably in the area of telecommunications
+switch management.  Several interfaces are available for direct use
+of Horus, including a toolkit named HOTS, oriented towards C++ programmers.
+
+For users who wish to develop new groupware protocols, Horus
+can be viewed as a group communication environment rather than as a
+collection of prebuilt groupware solutions.  It is
+UNIX-independent, and permits the use of several programming languages (C, C++,
+ML, and Python) in a single system.  Horus protocols are structured
+like stacks of Lego-blocks, hence new protocols can be developed
+by adding new layers or by recombining existing ones.
+Through dynamic run-time layering, Horus permits an application to
+adapt the protocols it runs to the environment in which it finds itself.
+
+Much of our research has been on the issues associated with
+developing layered groupware protocols.
+Over time, Horus
+layers have become much simpler than expected, and consequently
+lend themselves to
+automatic verification.  This is especially true for the Horus
+layers coded in ML, which are well suited to analysis using the
+NuPrl
+system (also a Cornell research project).
+By combining simple layers, complex semantics
+can be supported.  
+
+Existing Horus protocol layers include an implementation of 
+virtually synchronous process groups (a technique permitting consistent
+and fault-tolerant data replication), as well as protocols for
+parallel and multi-media applications.  Considerable recent work has been  
+done on protocols for secure group computing and for real-time
+applications.  Moreover, Horus is now at a point
+where the communication protocols can be upgraded underneath a running
+application, without the need to stop and restart the application.
+
+Although layered protocol architectures often carry a performance penalty,
+Horus includes a protocol accelerator that permits it to demonstrate
+excellent performance.  Horus supports a
+CORBA request broker, 
+a fault-tolerant multi-media toolkit, a fault-tolerant WWW server, and a cooperative text
+editor.  
+
+On the theoretical side, the project has contributed
+a significant body of fundamental results in
+the overall areas of distributed fault-tolerance, consistency,
+security and private communication in group-communication systems.
+Current work includes study of how properties can be proved for 
+composed stacks consisting of multiple layers, basic theoretical work
+on virtual synchrony, and study of systems that combine real-time and
+logical consistency properties.
+
+Looking to the future, we believe that Horus will be well matched to
+the replication needs of emerging Web applications such as caching
+Web proxies; Cornell students have implemented prototypes of such
+systems successfully.  Horus can be used as a Java communication
+protocol, and is appropriate for system management in complex large-scale
+internet settings.  Other likely application areas 
+include transparent fault-tolerance
+options for limited classes of applications, security and system
+monitoring, and database replication.
+
+The Horus 
+software is available for use by research
+laboratories.  Commercial use of the technology should be possible by
+late in 1996 or early 1997, through an arrangement with Stratus Computers
+Inc.
+
+
+Project funding.
+
+
+ARPA has played a significant role in the progress made by the Horus project 
+by providing long-term funding through the Office of Naval
+Research under contract N00014-92-J-1866.
+
+The Horus research effort is grateful to IBM Research, GTE, Siemens,
+Corporation and Stratus Computer Inc. for support of our effort.
+
+
+Comments to
+Werner Vogels 
+
+
+
+

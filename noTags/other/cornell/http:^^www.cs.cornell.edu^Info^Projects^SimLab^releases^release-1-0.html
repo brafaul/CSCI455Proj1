@@ -1,0 +1,73 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 25-Nov-96 00:40:11 GMT
+Content-Type: text/html
+Content-Length: 3340
+Last-Modified: Tuesday, 21-Nov-95 20:16:57 GMT
+
+SimLab Release1-0
+
+ SimLab Software Release 
+ Includes Algebra, Topology, and 2D Mesh Generator 
+ This is the initial release of the SimLab software. This release
+includes mathematical functionality for algebraic and topological
+computations (Weyl), as well as code (using Weyl) for creating
+guaranteed-quality triangulations of planar areas.
+
+  How to get the SimLab software 
+ Implemented using
+the Common Lisp Object System (CLOS) in Common Lisp, the release is
+available by ftp as a compressed (gzip) tar file (633820 bytes)
+together with a plain text file "README-1-0" (4732 bytes) that
+describes how to install the software.  These are files are available
+via FTP at the site  ftp.cs.cornell.edu in the directory 
+/pub/simlab/release/  as 
+README  and 
+simlab.tar.gz 
+ An illustration of the mesh generation application 
+
+The purpose of a  mesh generation  algorithm is to take as
+input the boundary  B  of a region of space  R , and
+create as output a triangulation of  R.   This process is
+required for a variety of numerical modeling methods, such as the 
+finite element method (FEM).  The  quality  of a given
+triangulation can be measured in a variety of ways, and is important
+for maintaining the numeric stability of the algorithm (such as FEM)
+that use the mesh.  The SimLab code for mesh generation (described 
+here), created by  Paul
+Chew, provides bounds on the minimum and maximum angles of the
+triangles of the mesh.
+
+ The process of creating a guaranteed quality mesh is illustrated in
+the following figures.  The first figure illustrates the input.  The
+boundary of the region is drawn in black, while the region for which
+a mesh is required is the area shown in green.  
+ The Input 
+ The guaranteed quality mesh created by the automatic mesh
+generator is shown below:
+ The Output 
+
+For more information on this use of the SimLab software, see the  MADEFAST  pages.
+
+
+All code is copyrighted Cornell University, 1995.
+
+
+ This code has been developed by Paul Chew, Paul Jackson, Sekhar
+Muddana, Rick Palmer, Todd Wilson and Richard Zippel in the Simlab
+group at Cornell University.  This material is  NOT in the
+Public Domain, but permission to copy this software, to redistribute
+it, and to use it for any purpose is granted, subject to the
+restrictions and understandings described in the 
+README file contained in the distribution.
+
+ This work was supported in part by the Advanced Research Projects
+Agency of the Department of Defense under ONR Contract
+N00014-92-J-1989, by ONR Contract N00014-92-J-1839, and in part by the
+U.S. Army Research Office through the Mathematical Science Institute
+of Cornell University.
+
+
+
+
+ Rick Palmer / rick@cs.cornell.edu 

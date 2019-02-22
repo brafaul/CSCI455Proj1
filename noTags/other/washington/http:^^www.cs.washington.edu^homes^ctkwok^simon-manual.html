@@ -1,0 +1,1079 @@
+Date: Tue, 10 Dec 1996 03:33:15 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 22 Nov 1995 07:59:50 GMT
+Content-length: 38848
+
+
+
+ Simon User Guide 
+
+
+
+Simon User Guide  Version 0.11
+
+
+
+Table of Contents
+
+ Introduction
+ Why Simon was Created
+ About this release
+ Starting Simon Up
+ Some simple things to try
+Terminology
+ How Simon works
+ SAL constructs
+ Miscellaneous
+ Full SAL domains
+
+Appendix
+
+Solving universal goals
+Known problems/kludges in this release
+SAL bnf
+Partial objects
+SAL tutorial
+Trouble shooting
+The tracer
+
+
+
+Introduction
+
+
+Simon is a "softbot" (a software robot) which is being developed at
+the University of Washington.  This manual contains technical
+information needed to use and work on Simon.
+
+Simon is a descendent of another softbot, "Rodney", and shares a lot
+of functionality with Rodney.  The major difference between Simon and
+Rodney is that Rodney uses a planner (called XII) to determine a
+course of action, whereas Simon's actions are controlled via a
+procedural specification expressed in the Simon Action Language (SAL).
+
+
+This manual assumes that you have read the following sections of the
+ Rodney
+manual:
+
+The Model Manager
+Goal Language
+Rodney Action Language
+Writing Operators
+
+
+A few things to bear in mind:
+
+ Wherever the planner would be invoked in Rodney (ie to achieve
+goals), Simon invokes the default mechanism outlined  below .  The rest of the Softbot architecture
+is pretty much the same.
+ Even though Simon does not use XII, it still uses the XII
+language for specifying goals, so it is important to understand the
+syntax and meaning of the goal language.
+ The do and request mechanisms are not
+yet fully functional in Simon.
+ Actions parameters in SAL do not take list-valued arguments,
+hence the all modifier is not to be used.
+Simon only understands the annotations: FIND-OUT, SATISFY,
+CONTEMPLATE and SCOPE.
+
+
+After you read those chapters, you can start profitably
+playing around with Simon, but you should also read the
+following sections before long:
+
+Model Manager Options
+Shell Interface
+Planner Interface Functions and RAL Commands
+Advanced Model Manager
+Sensor Functions
+
+
+
+Why Simon was Created
+
+
+The softbot Simon and its action language SAL (Simon Action Language)
+were created in the hopes of allowing easier and more elegant
+specification of Softbot activity.  SAL can be seen as search control
+but is perhaps better seen as an integration of a procedural control
+language with simple task reduction planning.  SAL allows for
+intuitive procedural action design while also allowing for general
+backchaining search.  The Simon kernel is very close in spirit to
+RAPS.  But unlike RAPS, we embrace complete ordering and do not
+concern ourselves with protected states or explicit checks for
+success.  The hope is that we can design a system which better matches
+the constraints and opportunities of software environments.  This
+means taking advantage of the relative rarity of goal clobbering. 
+
+
+Simon is built on top of RAL (Rodney Action Language).  All RAL constructs
+are supported in SAL.  For details on RAL,  please refer to the Rodney
+user manual.
+
+
+About this release
+
+This release of Simon is considered pre-alpha, and as such it should
+not be considered stable.  The primary purpose of this release is to
+get people acquainted with Simon, in particular on how Simon does its
+work and SAL syntax.  Although I hope people can expand the domain on
+which Simon can operate, this release is not robust enough for someone
+without intermediate knowledge about the Simon kernel to include a
+whole new domain without considerable frustration.  However it should
+not be as frustrating to modify existing domains (there are three
+existing domains in Simon: machine, people and files) or to build upon
+them.  The next release should be more robust.  If you are interested
+in building domains however, I'll try to give you as much support as I
+can.
+
+
+Starting Simon Up
+
+
+Simon is compiled on Allegro Common Lisp 4.2 (ACL) on Suns and SGIs.  
+To get into ACL in a Simon-compatible way,
+Place the following line in your .emacs file:
+(load "/projects/ai/emacs/standard.emacs-4.2.el")
+Place the following line in your .clinit.cl file:
+(load "/projects/ai/emacs/standard.clinit.cl")
+Run emacs on a Sun or SGI machine.
+Load a lisp file (anything with the suffix '.cl' will do).
+Type C-c l and respond to the prompts by pressing return,
+thus accepting the defaults.  After a bit of processing
+(during which you can verify that the correct version of LISP --
+version 4.2 -- is being loaded), you
+should see the ACL prompt, which is USER(1):
+
+(A little more information on 
+how to navigate around emacs 
+while using ACL is available.)
+
+
+
+Now load Simon by typing:
+USER(1): (require 'simon)
+You may get some  redefinition warning
+messages; you can ignore them for now.
+ 
+Next, we start up Simon.  If you're running under X-windows, just type:
+
+USER(2): :ss
+
+
+This is a pre-defined alias that start up a shell, a Tracer window (if
+you have CLIM 2.0 installed) and the Simon interface.  You can also do
+these steps individually, similar to the way Rodney is started:
+
+
+(start-shell [arguments])
+(start-tracer)   ; Only if CLIM 2.0 is available on your system.
+(simon)
+
+
+Note that the shell interface is meant to interface with a shell
+process on a Sun.  Hence, we need to make sure that shells, when
+started, are run on a Sun machine.  This can be done by either
+specifying a :host argument to the start-shell command,
+or by setting the variable *shell-default-host* to a
+reasonable value, as follows:  (start-shell :host "sun-host") or
+(setq *shell-default-host* "sun-host") 
+
+Setting the variable in your .clinit.cl is convenient
+because it allows the use of the :ss alias.  See the
+section "Shell Interface" in the Rodney User Manual for more
+information.
+If the previous step succeeded, you should now see
+the simon prompt:
+simon>
+
+To reenter Simon after a crash or after you have (quit),  
+just type (restart-simon)
+or the toplevel command :rr.
+
+USER(24): :rr
+Task aborted.
+simon>
+
+
+
+
+
+Some Simple Things To Try
+
+
+
+  SAL is an immediate descendant of RAL, so most of this things 
+demonstrated in the RAL section of the Rodney manual will work with
+Simon.  For example:
+
+simon> (display "hello world")
+hello world
+
+works fine.
+The demo does a couple of some Rodney tasks.  One is finding office phone
+and one is finding email address via uactionwin-inspecwin-inspec.  
+There is a partial object example as well.
+
+For details please look at 
+/projects/softbots/rodney/working/simon/demo.lisp.
+
+The best way to learn about using Simon is to browse through the
+existing domain definitions.  Start with a Unix operator you're
+familiar with and trace through all the definitions to see how the
+various parts are implemented.  Also, see the brief tutorial for the
+general process of adding an operator to the existing domain theories.
+
+The Tracer utility is very handy for monitoring what is happening
+under the covers in Simon.  This is quite useful when debugging
+domains, since it allows one to observe the order in which goals and
+subgoals are generated and worked on, and which actions are used for
+them.  See  Appendix G .
+
+
+
+
+Terminology
+
+A brief glossary  of selected terms
+is available.
+
+
+
+How Simon works
+
+
+As mentioned earlier, Simon decomposes goals into literals and
+operates on these literals.  The general scheme used for each literal
+is as follows:
+
+ If the predicate is a fact, then the fact lookup is done.
+ The object cache is checked for possible partial-object
+     information that would match the literal.  The object cache is an
+     attempt to address the partial-object problem ; see  Appendix D  for details.
+ The model-manager is checked for LCW and/or presence of a
+     matching literal.
+ The corresponding action is executed (except for CONTEMPLATE
+     goals).
+
+
+For FIND-OUT and SATISFY goals, Simon will use SAL actions, as
+follows.  When presented with a single term goal, Simon will map its
+predicate to an action and starts the action.  For example:
+
+     (achieve (find-out (firstname ?p ?d)))
+
+
+Here we have a one-term goal (firstname ?p ?d).  Simon's
+mapping is done by attaching ".action" at the end of the predicate.
+So in this case Simon solves the goal by calling the action called
+firstname.action.
+
+  When dealing with conjunctive goals Simon processes them in a depth-first
+manner. Here is another example:
+
+    (achieve (and (find-out (firstname ?p ?d))
+                  (find-out (lastname  ?p "etzioni"))
+                  (find-out (office.phone ?p ?num))))
+
+
+Here, Simon will start off by attempting to satisfy the first
+literal. If the firstname.action fails at this point then
+the whole conjunctive goal will fail.  Suppose for now that it
+succeeds--now Simon will start working on the second conjunct.  If
+this conjunct cannot be solved with the constraint placed on
+?p by the first conjunct, then Simon will backtrack and
+get an alternative binding for the first conjunct.  This general
+search process will continue until bindings are obtained, which
+satisfy all three conjuncts, or until there are no more alternatives
+for backtracking, in which case the goal fails.
+
+As you will see below, there is one other form of backtracking that
+Simon allows.  The SAL try statement allows the user to
+specify an explicit choice point.  That is to say, the user can
+specify a group of methods in which a given goal may be solved.  The
+general template for a SAL action is a tree of conditions which bottom
+out with try statements.  See the examples below.
+
+This framework allows Simon to efficiently handle the goal level
+backtracking discussed above.  If, for example, Simon has failed on
+the second goal conjunct above, you want Simon to attempt to find a
+NEW binding for (firstname ?p ?d) that hasn't been tried
+yet.  Assume that there are three methods for satisfying
+(firstname ?p ?d): bindings from the model, action A, and
+action B (i.e., A and B are in a try statement).  So,
+after all the possible bindings from the model have been tried, Simon
+will try action A.  And after all the ways of executing action A, have
+been tried, action B will be used.  This continues until a
+satisfactory binding has been found or, all the alternatives have been
+tried.
+
+
+SAL constructs
+
+Actions
+
+As mentioned in the previous section, Simon will map an action from a
+goal.  For example, a goal like (current.terminal.type
+"vt100"), would cause the following action to be invoked:
+
+
+(defaction current.terminal.type.action (?goal ?type)
+  (call-op (set-term ?type) ?goal))
+
+
+When invoking the action, the first parameter of the action,
+?goal here, is bound to the goal that caused the action
+to be invoked. The rest of the parameters, in this case
+?type, will be bound to the arguments to the predicate
+("vt100").  
+
+Below are some new SAL syntatic additions to RAL (see 
+Appendix C for the full BNF specs):
+
+
+CALL-OP
+You can cause an operator to be invoked.  When an an operator is
+called, Simon automatically subgoals on achieving the preconditions.
+
+
+(call-op ( *) )
+
+
+There are two ways to invoke an operator:
+
+ Call it directly (as in Rodney),  for example:
+
+(finger-firstname ?firstname ?domain)
+
+ Use the call-op construct,  for example:
+
+(call-op (finger-lastname ?lastname ?domain) ?goal)
+
+
+
+Whereas it always calls the operator in the first case, Simon will
+perform checks on the goal if you use call-op (the second case). 
+
+Specifically Simon will check the model manager to see if we have LCW
+in the model manager, or whether the goal is already true in the model
+manager.  If this is the case, Simon will not call the operator.  This
+simulates XII's way of pruning redundant sensing.  In addition, Simon
+will check the goal again after it executes the operator to see if the
+goal is satisfied.  If the goal is not satisfied, this call-op action
+will fail.
+<simon-goal> can be either a literal or a variable bound
+to a goal.  For example:
+
+
+(call-op (infer-office-phone-from-finger-rec ?officemate !phone !pt)
+				      (office.phone ?officemate !phone))
+
+If the goal is a literal, Simon will bind the variables in the literal
+using bindings returned from execution, provided the execution
+succeeds.  For example ?officemate and !phone in (office.phone
+?officemate !phone) above will be bound.  Normally, the parameters
+passed to operator execution (e.g. ?officemate, !phone and !pt) should
+also be bound, but notice that if the goal is satisfied before calling
+operator, the operator will not execute and thus the parameters will
+not be bound.  However variables in the literal will still be bound.
+For this example, this means that if the goal literal were true, !pt
+wouldn't be bound.
+
+
+
+FOREACH
+
+This action has been extended to allow for iteration over all literal 
+bindings in the model.
+
+(foreach ( ) *) |
+(foreach  *) |
+(foreach () *)  
+
+
+Examples:
+
+(setq ?x ("asd" "sdf"))
+(foreach (?y ?x) (display ?y))
+=>"asd"
+  "sdf"
+
+(foreach (userid.room ?u ?room) (find-out (lastname ?u "cs")))
+
+
+In the latter case, Simon will look into the model manager to find all
+the possible bindings for ?u and ?room, and
+iterate over them.  The semantics of the literal is a CONTEMPLATE goal
+to Simon.
+[For a more complete example see FIND below]
+
+
+FIND
+
+This new action allows for a conditional iteration over a list or
+literal bindings.  This is similar to foreach except that iteration
+will stop when the first binding has been found that allows a
+successful execution of the associated actions, and the FIND action
+fails when no such binding can be found.
+
+
+(find ( ) *) | 
+(find  *) |
+(find () *)
+
+
+Examples:
+
+(setq ?x ("asd" "sdf"))
+(find (?y ?x) (display ?y))
+=> "asd"
+
+This displays only "asd" because (display "asd") is successful so 
+(display "sdf") will not be executed.
+
+(find (userid.room ?u ?room) (achieve (find-out (lastname ?u "cs")))) 
+
+Here, Simon will try to achieve (lastname ?u "cs") by
+binding ?u and ?room to all the possible
+bindings that already exists in the model manager.
+
+A more complex example:
+
+  (find (machine.netfind.server ?machine)
+	(netfind-person ?lastname ?keywords ?machine)
+	(if (netfind.result ?keywords ?lastname !userid !domain)
+	    (progn (assert (person.domain ?p !domain))
+		   ;; do this to make sure the person is there
+		   (finger-lastname ?lastname !domain))
+	  (fail)))
+
+Here, we try different netfind servers until we successfully find the
+person's userid (because sometimes netfind servers are
+overloaded).
+
+IF
+
+(if   )
+
+        :-  |
+                       |
+                      
+
+
+This has been extended to allow more expressive conditions.  You can
+specify actions, XII goals or literals or any mixture of these 3.  All
+literals without annotations are assumed to be CONTEMPLATE goals if
+the goal is a fact, or FIND-OUT goal otherwise.  For actions,
+successful completion means the condition is true.
+
+Examples:
+
+ Using a literal:
+
+(if (publication.affiliation !pub !affil)
+    (assert (affiliation ?p !affil)))
+
+(Here, (publication.affiliation !pub !affil) is a FIND-OUT goal.)
+ Using an XII goal:
+
+(if (contemplate (is-bound ?domain) f)
+    (setq ?domain "cs.washington.edu"))
+
+ Using a mixture:
+
+(if (and (userid ?officemate ?u "cs.washington.edu")
+	 (neq ?officemate ?person)
+	 (call-op 
+	     (infer-office-phone-from-finger-rec ?officemate 
+						  !phone !pt)
+             (office.phone ?officemate !phone)))
+    ;; then
+    (assert (office.phone ?person !phone))
+  ;; else
+  (fail))
+
+
+The first example shows using a literal as a condition.  The second one
+shows an XII goal with annotation CONTEMPLATE and false truth value.
+The third example shows a combination of literals,  XII goal and 
+action inside the condition.
+
+
+
+COND
+
+(cond +)
+
+      :- (() +)
+
+
+This construct avoids cascades of if statements. This is similar to
+the Lisp counterpart, you can also have t at the last
+condition to specify a default.  Example:
+
+(defaction finger-userid-action (?goal ?person ?domain)
+  (cond ((userid ?person ?userid)
+	 (call-op (finger-userid ?userid ?domain) ?goal))
+	((lastname ?person ?last)
+	 (call-op (finger-lastname ?last ?domain) ?goal))
+	((firstname ?person ?first)
+	 (call-op (finger-firstname ?first ?domain) ?goal))
+	(t (display "Can't finger userid"))))
+
+
+CASE
+
+Again this is an attempt to make SAL more lisp like.  You can match 
+constant objects against variables.
+
+
+(case  *)
+
+      :- ( ) | (otherwise ) |
+                      ((+) )
+
+
+Example:
+
+(defaction test-case (?x)
+  (achieve (contemplate (annotation ?x ?ann)))
+  (case ?ann
+    ((satisfy find-out) (display "ASd"))
+    (contemplate (display "BDS"))
+    (otherwise (display "happy"))))
+
+
+Here we have an annotation object bound to ?ann, and we
+match it against the annotation objects inside the case statements.
+Like Lisp, we have have a list of constants (first line of the case
+statment) in the case condition.  We can also provide a default case
+with otherwise (the third line in the above example).
+
+
+TRY
+
+(try * [t]) | (try  * [t])
+
+
+This action allows for specifying an explicit action choice point.
+The sequence of actions is processed until one of them succeeds.  If a
+t is present then the TRY action will always succeed,
+otherwise it will fail if all listed actions fail.  If you provide an
+optional goal as its second argument, try will try all the statements
+until the goal is satisfied.  The goal can either be the parameter
+passed by Simon into an action (for example, ?goal), or a
+literal.  If it is a literal, Simon will also try to bind the
+variables in the literal.  See the call-op action above for
+details.
+
+Here is a simple example of how try works:
+
+(try ?goal
+	A
+	B
+	t)
+
+In this example,  Simon will try action A and see if goal ?goal is satisfied.
+If so this try action will terminate successfully,  otherwise Simon will try
+B,  if B also fail to satisfy ?goal, this try statment will still terminate
+successfully because the last action is a "t".  If it is not a "t",  then
+this try statment will fail.
+
+Here is a real example of a try statment:
+
+(defaction office.room.action (?goal ?person !room)
+  (if (is-bound ?person)
+      (try ?goal
+	   (call-op (person-office-room ?person !room) ?goal)
+	   (if (lastname ?person ?lastname)
+	       (call-op (staffdir ?lastname) ?goal)))
+    (fail)))
+
+
+FAIL 
+
+(fail)
+
+
+Just fails an action.  Usually used in conditionals.
+
+Example:
+
+(if (condition-is-true)
+    (do-something)
+  (fail))   ;; otherwise we have no method to solve the goal and fail.
+
+
+
+PROGN
+
+(progn +)
+
+This groups actions just like Lisp's progn group procedure calls.
+
+(if (firstname ?person ?firstname)
+	(progn (setq ?fi (subseq ?firstname 0 1))
+	       (assert (first.initial ?person ?fi))))))
+
+
+
+Miscellaneous
+ SAL new objects 
+
+Simon uses these new object type to distinguish between goal types (e.g.
+SATISFY or FIND-OUT goals,  true or false goals etc).
+
+SAL introduces these 2 new object types:
+
+ Goal
+These are goal objects being passed in variables.  For example,  the
+?goal parameters in most SAL actions are bound to these objects.  Literals
+are converted into goals if necessary.
+
+ Annotation
+These are annotation objects representing annotations in alits.  Simon
+understands FIND-OUT, SATISFY, CONTEMPLATE and SCOPE.  
+
+SAL new facts and predicates
+
+Usually they are used in if statments to analyse the nature of the goal 
+and perform appropriate actions.  But you can also use them to obtain
+values as well.
+
+
+
+(goal-tv  )
+ can be one of t, f or u.
+ is a goal object.
+
+
+If bool is bound:
+Satisfied if the truth value of the goal matches bool.
+
+If bool is unbound:
+Always satisfied.  A side effect is the truth value of the goal is
+bound to bool.
+
+
+universal? 
+
+Satisfied if var is universally quantified.
+
+
+annotation  
+
+If annotation is bound:
+Satisfied if the annotation of goal matches
+annotation.
+
+If annotation is unbound:
+Always satisfied.  A side effect is the annotation of
+goal is bound to annotation.
+
+The supported annotations in SAL are FIND-OUT, SATISFY, CONTEMPLATE and
+SCOPE.
+
+A comprehensive example:
+
+(defaction group.protection.file.action (?goal ?file ?protection)
+  (if (annotation ?goal satisfy)
+      (if (goal-tv ?goal f)
+	  (call-op (group-unprotect-file ?file) ?goal)
+	(call-op (group-protect-file ?file) ?goal))
+    (protection-on-file ?file !g-read !g-write !g-exec)))
+
+
+
+
+
+
+Full SAL domains
+
+Simon currently has rules for 4 domains: general, machine, files and
+people.  The most interesting should be the people domain.
+
+The examples reside in 
+
+/projects/softbots/rodney/working/simon/domains.
+The SAL actions are all included in files with -sal.lisp suffix.
+
+
+
+
+APPENDIX A Solving universally quantified goals
+
+
+By default, Simon doesn't do anything special for universally
+quantified goals.  However, in the case that there are operators with
+matching universally quantified effects, we would like to solve such
+goals by direct application of these operators.  lcw-match is useful
+in allowing us to determine the scope of a goal and thus figuring out
+which operators may be applicable.
+
+
+(lcw-match  
+           ((*) *)+)
+
+
+Consider an example:
+
+(defaction person.domain.action (?goal ?p ?domain)
+  (if (contemplate (is-bound ?domain) f)
+      (setq ?domain "cs.washington.edu"))   ;; A hack
+  (if (and (universal? ?p) (annotation ?goal scope))
+      (lcw-match ?p ?s
+                 (((lastname ?p ?l) (firstname ?p ?f)) 
+                   (progn (call-op (finger-firstname ?f ?domain) ?s)
+                          (call-op (finger-lastname ?l ?domain) ?s)))
+                 (((lastname ?p ?l)) (finger-lastname ?l ?domain))
+                 (((firstname ?p ?f)) (finger-firstname ?f ?domain))
+                 )
+    (progn 
+      ;; because the partial obj scheme is slightly broken
+      (if (and (lastname ?p ?lastname) (is-bound ?lastname))
+          (call-op (finger-lastname ?lastname ?domain) ?goal)
+        (if (and (firstname ?p ?firstname) (is-bound ?firstname))
+            (call-op (finger-firstname ?firstname ?domain) ?goal)
+          (fail))))
+    ))
+
+
+Here, ?s is bound to the scope of the universally quantified variable
+?p.  The match statement is like a case statement, and we try to
+determine which combination of literals appears in the scope.
+
+Note that the call-op would fail if the scope mentioned is more
+general than the scope in the operator's effect(s). 
+
+
+
+APPENDIX B Kludges in this release
+
+
+These are known problems/bugs/limitations in this release of Simon.  Some
+of them may be fixed in the next release but some are more open
+questions to be poundered upon.
+
+
+
+ Try statments will only backtrack if it is the last statement of
+an action.
+ The scope of undeclared variables is the block enclosing it's
+     first use. This is unwieldy if, for example, we use a new
+     variable inside a progn, and then need to reference it in the
+     code following the progn.  A workaround is to assign to the
+     variable in the outermost scope where the variable is used,
+     perhaps by doing a setq to it.
+ Cannot setq a variable to nil.  This is because the MM uses nil
+     to indicate when no bindings are available.
+ Conditions in if statments may be ignored if they are illegal.  
+ Dies too miserably if you have syntax error in your SAL code...
+ Also see Partial objects in Appendix D.  Simon solves partial object
+goals partially...
+ Universally quantified goals are working but dangerous to play with.
+ Conditional effects in operators seems to work by only checking the model
+manager.
+
+
+
+
+APPENDIX C SAL BNF
+
+
+ :-
+ |
+ |   
+ |  
+ |
+ |
+ |  
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+
+    :- ( *)
+
+        :- (do * *)
+
+   :- (request * *)
+
+    :- (select (*) *)
+
+   :- (achieve *) |
+                      (achieve )
+
+  :- (maintain * *)
+
+ :- ( :in (and +))
+
+   :- 
+(foreach ( ) *) |
+(foreach  *) |
+(foreach () *)  
+
+      :- (find  *) |
+                      (find ( ) *) | 
+		      (find () *)
+
+    :- (assert *)
+
+ :-  | (progn +)
+
+        :- (if   ) |(cond +)
+
+      :- (() +)
+
+     :- (while  *)
+
+        :-  |
+                       |
+                      
+       :- (try * [t]) | (try  * [t])
+
+      :- (case  *)
+
+      :- ( ) | (otherwise ) |
+((+) )
+
+ :- (pred *)
+ :- 
+ :-  | 
+ :- 
+(call-op ( *) ) | 
+( *)
+
+ :- (fail)
+
+ :- (assert-attribute )
+
+ :- (*)
+
+      :- ( )
+
+ :- 
+   :-  |
+                       |
+
+   :-  |
+                       |
+                       |
+                      
+        :- :when always |
+                      :when now |
+                      :when  |
+                      :when (*) |
+                      :when 
+    :- :duration once |
+                      :duration continuous |
+                      :duration  |
+                      :duration (*) |
+                      :duration 
+   :- :frequency 
+ :-  |
+                       |
+                       |
+
+            :-  |  |  | 
+             :- ( * )
+         :-  |  | 
+             :- (? ? )
+       :- a | the | all
+   :- input | output |
+
+
+
+APPENDIX D Partial objects
+
+
+
+
+Most of the time Simon will do the right thing with partial objects and
+so you don't need to worry about it.   This section documents how Simon
+solves the partial object problem.
+
+Partial objects are variables that have a set of constraints but do not
+have enough information to form or bind to an object.
+
+Example:
+
+(achieve (and (find-out (firstname ?p "Terrance"))
+	      (find-out (person.domain ?p "cs.washington.edu"))))
+
+Here we're specifying that ?p is an object that has the attributes 
+firstname and person.domain that we know about,  but we don't know the
+lastname so we cannot completely specify a person object to bind to ?p.
+Here our goal is to lookup some person ?p that has firstname Terrance and
+domain cs.
+
+Simon solves the goal by caching the conjuncts(*) of these goals into
+an object cache.  When required to lookup some facts about ?p,
+Simon will look into this cache and obtain the required information.
+For example,  in firstname.action,  we call the operator finger-firstname.
+Finger-firstname has a precondition (person.domain ?p ?d),  and Simon already
+knows (person.domain ?p "cs.washington.edu") from its object cache,  so it
+will unify ?d with "cs.washington.edu".
+
+Currently Simon relies on XII's implementation of object constraints.
+This means:
+
+one cannot have a constraint alit that has other than 2 arguments in its
+content (i.e. >2 or <2).
+e.g.
+
+(defpredicate firstname (person (firstname 1))
+  "First field is a person object.  Second field is the person's first name string.")
+
+This works because there are just 2 arguments 'person' and 'firstname',  but
+
+(defpredicate idle.time (userid machine (number 1))
+  "user is active on a machine. third parameter is user's idle time")
+
+would never got asserted into the attribute cache because there are 3 
+arguments,  namely 'userid', 'machine' and 'number'.
+
+one cannot have a constraint alit that has N N relationship.
+e.g.
+
+(defpredicate person.domain (person domain)
+  "A person and their domain.")
+
+(defpredicate lastname (person (lastname 1))
+  "First field is a person object.  Second field is the person's lastname")
+
+(defpredicate firstname (person (firstname 1))
+  "First field is a person object.  Second field is the person's firstname 
+string.")
+
+Of these 3 predicates,  lastname and firstname would get asserted.  
+Person.domain will not because it defaults to ((person N) (domain N)).
+
+.f goals are not asserted into attribute cache.
+
+
+
+(*) A limitation is that Simon cannot cache disjunctions.  So Simon will
+ignore conditions specified in dijunction and will not cache them.
+
+
+
+APPENDIX E SAL tutorial
+
+A typical sequence of writing SAL actions would be starting with operators.
+The operators produces effect terms.  We can start writing actions based on
+them. 
+For example we have the operator CD :
+
+(defoperator CD ((directory ?d) (path ?n))
+  (documentation "Change the current working directory")
+  (precond (find-out (pathname ?d ?n)))
+  (interface ((exec-func execute-unix-command)
+              (translation ("cd " ?n))
+              (error-func default-unix-error?)
+              (terminate-detect read-unix-prompt)))
+  (effect (cause (current.directory ?d))))
+
+Here we have the "current.directory" effect.
+Hence we begin by writing the rule current.directory.action.
+
+We want to see how many operators will produce this effect.  
+We can get this information from (operator-producing-pred machine.name),  
+or the toplevel function opp.
+
+USER(6): :opp current.directory
+
+(PWD CD) 
+
+This says the operators PWD and CD both have current.directory as their
+effects.  So based on your knowledge about the domain,  you decide on 
+the conditions when each of these operator would be used to solve the
+current.directory goal.
+Here is the current.directory.action:
+
+(defaction current.directory.action (?goal ?dir)
+  (if (annotation ?goal find-out)
+      (call-op (pwd ?dir) ?goal)
+    (if (contemplate (pathname ?dir ?n))
+	(call-op (cd ?dir ?n) ?goal)
+      (fail))))
+  
+It basically says if the goal is a find-out goal,  we should use PWD
+to find out the current directory.  Otherwise we will do a CD to that
+directory.  If none of these is the case,  then we'll fail.  
+
+SAL actions are developed incrementally.  Here the current.directory.action
+only solves .t goals.  We may or may not need to add additional code to
+this action to support .f goals.  But initially one just need to focus
+on the problem one wants to solved and worry about other cases when need
+arise.  In fact most of the SAL actions does not distinguish between
+find-out and satisfy goals because typically only the find-out variants
+appears.
+
+
+
+APPENDIX F Trouble Shooting
+
+
+
+I've tried to incorporate many error catching for Simon but I'm sure there
+are still a lot of holes.  If Simon crashes,  please first make sure your
+action is syntatically correct.  I've tried to check for syntax errors but
+the parser is not powerful enough to catch all the problems.  Simon can
+crash in unknown places if the action specification is syntatically incorrect.
+
+If you're sure it's my fault,  then please let me (ctkwok@cs) know.  In 
+your bug report it'd be helpful to include the actions involved,  the
+action code itself if it's written by you,  and the trace of actions 
+if there's any, or even the stack trace from :zoom if possible.
+(Believe me... I'm not trying to discourage you :-)
+
+
+
+APPENDIX G The tracer
+
+
+Under ACL 4.2 and CLIM2.0,  one can use a simple browse window to see what
+Simon is doing.  Currently the tracer is quite simple and just output
+a log of what Simon is trying to achieve as Simon moves along.  
+
+The Options button will bring up a list of options for printing out the
+log.  For example if you're only interested in certain options,  you can
+toggle them.  Ultimately you can set the default for what is interesting for
+you in a variable *print-enabled* which is a list of what is interesting,
+if you're interested you can look at interface.lisp and customize the 
+variable.
+
+The Clear button removes all the text in the window.
+
+The Save button lets you save the trace in a file.  A dialog box asks 
+you
+the name of the file to save in,  and the file will be appended with the
+trace if the file already exists.  
+
+The 3 checkboxes between menu bar and text window shows Simon's status
+(executing, thinking and Idle).  
+
+Note: Whenever you have a new action typed to Simon,  the last trace will
+be removed.  So you may want to save it if you want to reference it later.
+
+
+Questions comments? You can mail me here.
+
+
+ 
+	Cody Kwok
+   
+  Last modified: 
+	Tue Feb 14 15:07:25 PST 1995
+
+
+

@@ -1,0 +1,76 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:05:18 GMT
+Content-Type: text/html
+Content-Length: 2615
+Last-Modified: Friday, 24-Feb-95 20:49:26 GMT
+
+  TeX  
+
+			   TeX & Friends FAQ 
+
+
+
+ 1.  How do I get a .ps file? 
+ 2.  What's a good LaTeX2e book? 
+ 3.  I've made my own .fmt file, how do I get TeX to use it? 
+ 4.  How do I get TeX to use the macros in /p/lib/tex/macros? 
+ 5.  How do I get TeX and dvips to use my fonts? 
+ 6.  How do I print a .dvi file?
+
+
+  1. How do I get a .ps file? 
+Use the -o flag.
+
+  dvips foo.dvi -o  
+
+The above will create a file named foo.ps
+
+
+  2. What's a good LaTeX2e book? 
+"The LaTeX Companion" by Goossens, Mittelbach, and Samarin (ISBN
+0-201-54199-8) is a good book.  I was able to get a copy from the
+University CO-OP.
+
+If you know a better one, let me know.
+
+
+ 3. I've made my own .fmt file, how do I get TeX to use it?
+The easiest way to do this is to set the TEXFORMATS enviroment
+variable.  Let's say I keep my .fmt files in /u/pkn/tex/lib/formats,
+then I would set TEXFORMATS to:
+
+	setenv TEXFORMATS /u/pkn/tex/lib/formats:
+
+That would search my directory first and the the default directory
+(/lusr/tex/lib/tex/formats)
+
+
+ 4. How do I get TeX to use the macros in
+/p/lib/tex/macros? 
+You need to set the  TEXINPUTS  enviroment variable to
+
+	setenv TEXINPUTS /p/lib/tex/macros:
+
+That will cause TeX to look in /p first, then the current directory,
+and finally in the default directory (/lusr/tex/lib/tex/macros).  If
+you want TeX to look in /p last, put the colon before /p/lib/tex/macros
+
+
+  5. How do I get TeX and dvips to use my fonts? 
+You need to set  TEXFONTS  to the directory with the .tfm files
+in it.   dvips  need  TEXPKS  set to the directory with the .pk
+files in it.
+
+
+  6. How do I print a .dvi file? 
+With  dvips .  If you have the  PRINTER  enviroment variable
+set you can just type:
+
+	dvips filename
+
+Where  filename  is the name of the .dvi file.  If you don't have
+ PRINTER  set, use the -P printername  flag
+
+	dvips -P printername filename  
+

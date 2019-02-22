@@ -1,0 +1,45 @@
+Date: Tue, 10 Dec 1996 03:21:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+The Chaos Router Chip
+
+
+ 
+ The Chaos Router Chip
+
+ 
+
+
+ 
+The  Chaos Router chip  is a two-dimensional (mesh and torus)
+chaotic router implemented designed CMOS.  There are two versions, designed in 1.2 micron and 0.8
+micron CMOS.  The 1.2 micron version was fabricated in 1993 and consists of around
+110,000 transistors on a 10mm x 10mm die.  
+Here is a  photo  of the 1.2 micron version.  The 0.8 micron 
+version was designed in 1994 as a revision of the first chip, but was not fabricated.
+
+The chips are designed using a combination of standard cells and custom logic.
+There are five input buffers, five output buffers, and five multiqueue slots,
+each implemented with a 20-word by 16-bit fifo.  These are connected by two crossbars
+in a single unit.  
+
+The 1.2 micron chip was fabricated and operated (nearly) correctly up to speeds of 30 MHz, short
+of its designed 66MHz operation.  The 0.8 micron version included a redesign of the channel logic and
+fifos, as well as the clocking scheme.  This version operates at 170 MHz in simulations, but has
+not been fabricated.
+
+More details are available in the 
+ VLSI '93   paper and in 
+Bolding's dissertation .
+
+
+ Back to the Chaotic Routing Home Page 
+
+
+
+kwb@cs.washington.edu
+
+

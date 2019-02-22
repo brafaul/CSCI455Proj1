@@ -1,0 +1,82 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 22:03:59 GMT
+Content-Type: text/html
+Content-Length: 3307
+Last-Modified: Wednesday, 22-May-96 21:45:46 GMT
+
+
+CS514: Homework 3
+
+
+CS514: Homework 3
+Collaboration.
+Collaboration by up to three students is permitted on this assignment.
+When there is such a collaboration, a single solution should be submitted for grading and
+the solution should list the names of the collaborators.
+Other collaborations will be considered violations of Academic Integrity.
+
+Submission Procedure.
+Solutions must be submitted by email to:
+
+         cs514@cs.cornell.edu
+
+The solution may by formatted as ASCII (i.e. plain text) or postscript.
+
+Due Date.
+We must receive your email by 8:00(am) on Wed., April 3, 1996.
+Late Assignments will not be accepted.
+Problem Description 
+Read RFC 821, The Simple Mail Transfer Protocol, and RFC 822, 
+Standard for the Format of ARPA-Internet Text Messages. RFCs can be
+retrieved from rs.internic.net using anonymous ftp. A selection
+of the RFCs is available at the departemental machines in the directory
+/vol/doc/InterNet.
+
+
+ 
+Find out what a domain literal is from RFC 822. Try sending a 
+mail message to yourself using one.
+Include a copy of the message you received in your homework solution.
+Click here for additional hints concerning this part of the
+assignment.
+ 
+Excluding the connection establisment and termination, what is the
+minimum number of network round trips to send a small mail message?
+ 
+TCP is a full-duplex protocol, yet SMTP uses TCP in a half-duplex 
+fashion. The client sends a command then stops and waits for the reply.
+Why doesn't the client send multiple commands at once--for example, a single write
+that contains the HELO, MAIL, RCPT, DATA and QUIT commands
+(assuming the body isn't too large)?
+ 
+Consider an organization that is serviced by a collection of mail transfer agents.
+How can the DNS MX records and preference values be used to implement
+a load balancing scheme for incoming electronic mail?
+
+
+This assignment requires using ftp to connect to machines outside the CS
+Department firewall.
+There are two options for this:
+
+ Use ncftp, a new interface to the ftp client. It automatically
+starts a connection in anonymous user mode, so that you do not have to
+type user names and mail addresses. It also requests that the peer machine
+use passive mode when transfering data, thereby allowing data to flow back 
+over the already established TCP connection (and avoiding problems
+with the firewall).
+
+ 
+If the remote ftp server does not support passive mode (something indicated
+if you do not get any response to a "dir" or "get" request) you will
+have to resort to the second option.
+Use ftp to connect to the firewall machine (fw.cs.cornell.edu).
+When the program asks for a user name, respond with 
+"anonymous@remote.machine" but replacing remote.machine with the name of the 
+machine you want to reach. The firewall proxy server will then setup a 
+control connection and manage any future incoming data connections for your. 
+When a password is asked, do not type in your own password but instead type your 
+e-mail address.
+
+More information can be found in the tips-firewall manual page.
+

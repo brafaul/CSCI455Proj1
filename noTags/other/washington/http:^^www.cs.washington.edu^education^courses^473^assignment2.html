@@ -1,0 +1,69 @@
+Date: Mon, 02 Dec 1996 16:00:34 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+ 
+CSE 473 Assignment 2
+
+CSE 473 Assignment 2
+
+
+Due Friday, April 5 in class.
+
+
+Reading
+
+Finish reading Chapter 2.  Also read Dalton's brief
+guide to CLOS.
+
+Here is the Lisp code for the
+CLOS demonstration
+that I gave in class on Friday, April 5.
+
+
+Part 1: A Sequence Predictor
+
+Do exercise 21 at the end of Chapter 2.
+
+After you get the function NEXT to work as
+described in the book, add one of the following
+additional capabilities:
+
+ recognition of sequences that are the results
+of interleaving pairs of arithmetic or geometric
+sequences.
+ recognition of periodic sequences (sequences
+where an arbitrary finite sequence is repeated
+over and over).
+ recognition of sequences that are generated
+by counting modulo n in increments of m.
+For example if m = 5 and n = 12, then the sequence
+goes 0, 5, 10, 3, 8, 1, 6, 11, ...
+
+Part 2: An S-expression Diagrammer.
+
+Using the Common Graphics capabilities of Allegro
+Common Lisp for Windows, write a function
+DRAW-LIST which takes as its argument an S-expression
+which is a list representing a tree and draws the
+tree on a new window.  One way of doing this is by
+setting up a 2-D array and assigning each node
+to an appropriate row and column, and then plotting
+the node labels and connecting nodes and their children with lines.
+(To see examples of the use of Common Graphics, go into Lisp and
+load some of the examples that are there in the Allegro subdirectory.)
+
+
+For extra credit, make the tree look nice.
+For example, if the tree has symmetrical list structure,
+then the plot should look symmetrical, too, and this
+should hold true for any subtree as well.
+
+As per Jeremy's request in class on Wednesday, April 3,
+please turn in your solution to the second part of this assignment
+on a PC diskette with your name on the label.
+
+
+tanimoto@cs.washington.edu
+
+

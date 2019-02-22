@@ -1,0 +1,140 @@
+Date: Wed, 20 Nov 1996 19:40:11 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 7185
+Last-modified: Tue, 22 Oct 1996 21:45:01 GMT
+
+
+
+ Frameworks and Algorithms for the Analysis and Transformation of Scientific Programs
+
+
+
+
+ The Omega Project: 
+ Frameworks and Algorithms for the Analysis and Transformation of Scientific Programs
+
+ Part of the High Performance Software Systems Laboratory at the  Computer Science Department
+ of the  
+Univ. of Maryland, College Park 
+
+
+Release 1.00 of Petit, the Omega Library, and Omega calculator
+
+
+William Pugh
+and the entire
+Omega Project Team
+
+Omega Project Technical Reports
+
+The Omega project  has
+two major components.
+One component is the Omega test, a system
+for manipulating sets of affine constraints over integer variables.
+When we started work on the Omega test for dependence testing, 
+it was designed as a decision
+test for the existence of integer solutions to affine constraints.
+we found that by having the Omega test return symbolic answers, rather than
+yes/no answers, we could perform standard data dependence analysis quicker.
+As we have explored more difficult issues in analysis and transformation
+of scientific programs, we have extended the Omega test to the point where
+it is a complete system for simplifying and verifying Presburger formulas (Presburger
+formulas contain affine constraints, the usual logical connectives,
+and  and  quantifiers). Of course, the Omega test cannot
+simplify all Presburger formulas efficiently (there is a  nondeterministic
+lower bound and a  deterministic upper bound on the time required
+to verify Presburger formulas). However, in practice 
+the Omega test is reasonably efficient
+for the tasks for which we currently use it. 
+
+The other component of my research is developing frameworks for analyzing and
+transforming programs. we have utilized the Omega test in research on asking 
+more sophisticated
+questions than are usually asked when analyzing programs; on using
+this information to pinpoint parallelism unexploited by conventional techniques;
+and on developing a unified framework for reordering transformations.
+These methods are described using simple cases of Presburger formulas.
+The descriptions and implementations of these techniques 
+can be simple and clear since they need not be
+concerned with the techniques used by the Omega test to simplify the formulas.
+
+
+As a general philosophy, we've tried to develop exact methods and frameworks
+that are efficient enough to be practical, as opposed to
+developing inexact methods that may be faster and accurate enough
+for practical use.
+we find that studying exact methods gives me a better insight into the problems
+we study, that 
+it is easier to extend exact methods to make them faster than it is to
+extend inexact methods to make them more exact, and 
+that exact methods can more easily
+be applied to new problems.
+
+
+My research group
+has done only very limited studies
+of the efficiency and 
+effectiveness of our methods on real FORTRAN codes.
+While these are important, doing such studies well requires
+a robust, optimizing FORTRAN compiler (which we do not have access to)
+and substantial effort. Also, applying our techniques to real codes
+requires extensions still under development 
+(for procedure calls and arbitrary control flow).
+As a number of other research groups
+incorporate the Omega test into their software, we 
+hope to get feedback from them and pursue collaborative research.
+
+
+  Array Data Dependence Analysis
+
+  Value-based Dependence Analysis
+  Static Analysis of Upper and Lower Bounds on Dependences and Parallelism
+
+  The Omega Test
+
+  Eliminate Existentially Quantified Variables
+  Verify the Existence of Solutions
+  Remove Redundant Constraints
+  Verify Implications
+  Simplify Formulas Involving Negation
+  Related Work
+
+  A Framework for Unifying Reordering Transformations
+
+  Code generation
+  Related work
+
+  Implementation and Users
+  Future Directions
+ References
+  About this document ... 
+
+
+
+  
+ Next:  Array Data Dependence 
+
+Where to get Omega project software
+
+Omega project software is available for anonymous FTP:
+
+
+
+
+Version 1.00 of Petit, the Omega Calculator and Library (binaries and sources).
+
+ 
+Array dataflow benchmark programs in either
+
+FORTRAN or
+
+tiny.
+
+
+
+
+omega@cs.umd.edu
+
+
+

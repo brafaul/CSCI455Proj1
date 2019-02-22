@@ -1,0 +1,80 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 23:03:15 GMT
+Content-Type: text/html
+Content-Length: 3004
+Last-Modified: Friday, 25-Oct-96 16:24:43 GMT
+
+
+
+
+ pPCx 
+
+
+
+The pPCx page
+
+
+pPCx stands for "parallel predictor corrector" package and is a
+parallel version of the PCx code for Linear Programming developed at
+the Optimization Technology
+Center at Argonne National
+Labs. This is work in progress, people involved from the Cornell
+side are 
+Thomas Coleman, 
+Chunguang Sun and Michael Wagner,
+and Steve Wright
+from Argonne. 
+
+
+
+The basic framework for pPCx is 
+Mehrotra's
+predictor corrector interior point method for linear programming. Most of the
+work in an 
+interior point method lies in solving a symmetric sparse
+positive (semi-) definite system of linear
+equations: we use a new 
+parallel multifrontal Cholesky factorization
+developed by 
+Chunguang Sun that efficiently handles near-degeneracies. We also
+take care of dense rows and columns efficiently so that we can exploit
+sparsity in the normal equations as much as possible.
+The constraint matrix is stored in a distributed form, thus enabling the
+solution of very large problems that cannot be solved on a single
+processor.
+
+
+The code is written entirely in C (with MPI extensions) and
+will thus be easily portable to other architectures.
+The testing is being done in the 
+ACRI on the 
+IBM SP2 at the Cornell Theory Center
+
+Here are a few of the papers that are relevant for the development of
+this code:
+
+S. J. Wright, 
+"Modified 
+Cholesky Factorizations in Interior-Point Algorithms for Linear
+Programming,"
+Preprint ANL/MCS-P600-0596, May, 1996.
+S. Mehrotra, "On the implementation of a primal-dual interior
+point method", SIAM Journal on Optimization, 2 (1992), pp. 575-601
+
+For other interior page pages check out Interior Points 
+Online.
+
+
+Back to the 
+CCOP-homepage....
+
+   
+Please send comments or suggestions to
+mwagner@cs.cornell.edu
+
+
+
+
+Last update: Fri Oct 25 12:23:20 EDT 1996
+
