@@ -46,10 +46,11 @@ stopFile = open("stopWords.txt", 'r')
 tempStop = stopFile.read()
 stopWords = set(tempStop.split())
 stopFile.close()
+#establishes rule to translate all punctuation to whitespace
 table = str.maketrans({key: " " for key in string.punctuation})
 
 #go through directories
-#remove html
+#remove html tags
 for i in dirs1:
     pathPt1 = "./noTags/" + i
     if os.path.isdir(pathPt1) == False:
@@ -62,6 +63,7 @@ for i in dirs1:
             os.mkdir(pathPt2)
         foldName2 = foldName1 + '/' + j
         fileList = filter(os.listdir(foldName2))
+        #establishes pattern to find all files that end in .html
         pattern = "*.html"
         for k in fileList:
             if fnmatch.fnmatch(k, pattern):
@@ -72,6 +74,7 @@ for i in dirs1:
                 text = soup.get_text()
                 allText += ( " " + text)
                 f.close()
+                #writes html free text to a file
                 w = open(pathPt3, "w")
                 w.write(text)
                 w.close()
