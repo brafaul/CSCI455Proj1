@@ -7,6 +7,7 @@
 \usepackage{amsmath} %For math symbols (like the black square)
 \usepackage{graphicx,float,wrapfig} %Including graphics like PDFs and some image formats.
 \usepackage{amsfonts} %Added so I could use the command to denote sets
+\usepackage[backend=bibtex,style=verbose-trad2]{biblatex}
 
 
 \author{Brayden Faulkne and Christina Hintonr}
@@ -15,5 +16,20 @@
 
 \begin{document}
 \maketitle
+\section{Introduction}
+The main purpose of this program is to go through a set of html files, and find how frequently each term is used in the actual text of the page. The program also handles preprocessing of this text, including stemming and stop word removal. 
+\section{Overview}
+The program works by reading in each individual file, getting the html free text, writing that text to a new file, then appending the text the a string containing all the text from all previous files. Once all the text is retrieved, all characters in the string all set to lower case, and punctation is translated to whitespace. Then the string is split into the individual words using the NLTK libraries tokenize function. Then every word is checked to see if it is a stop word or an integer. If it does not meet either of these criteria, the word is stemmed then added to a list of cleaned words. Then the frequency of each of the clean tokens is calculated by NLTK's FreqDist function. The frequencies and words are stored and sorted in a class, then printed out in order of least to greatest, so that the user would see the most common first.
+\section{Beautiful Soup}
+Beautiful Soup is a python library that is used to pull data from html files. 
+
+\begin{thebibliography}{9}
+\bibitem{beautifulsop} 
+Richardson, Leonard. “Beautiful Soup.” \textit{Beautiful Soup: We Called Him Tortoise Because He Taught Us}., www.crummy.com/software/BeautifulSoup/. Accessed 24 Feb. 2019.
+
+\bibitem{NLTK}
+“Natural Language Toolkit.” \textit{NLTK}, NLTK Project, 17 Nov. 2018, www.nltk.org/.
+\end{thebibliography}
+
 
 \end{document}
