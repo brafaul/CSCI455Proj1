@@ -72,7 +72,7 @@ for i in dirs1:
                 tempCon = f.read().decode(errors='replace')
                 soup = bs4.BeautifulSoup(tempCon, features="html.parser")
                 text = soup.get_text()
-                allText += ( " " + text)
+                allText += (text)
                 f.close()
                 #writes html free text to a file
                 w = open(pathPt3, "w")
@@ -109,4 +109,7 @@ wordList = sorted(wordList)
 
 #print results
 for x in wordList:
-    print(x)
+   print(x)
+#for x in range(-1,-200, -1):
+#print(wordList[x])
+print(len(wordList))
