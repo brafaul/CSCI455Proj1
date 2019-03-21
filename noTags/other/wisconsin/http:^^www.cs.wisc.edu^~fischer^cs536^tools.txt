@@ -1,0 +1,39 @@
+Date: Tue, 05 Nov 1996 00:28:37 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 21 Sep 1995 19:42:55 GMT
+Content-length: 1061
+
+
+
+CS536 Useful Programming Tools 
+
+
+ CS536 Useful Programming Tools 
+
+
+
+
+ 
+            Make and Common C Errors
+ 
+            Make Reference Manual
+ 
+            An Example of C++ Templates
+ 
+           GDB -- The GNU Debugger
+ 
+           GCC/G++ -- The GNU C and C++ Compiler Manual (in Hypertext)
+ 
+           Lex -- An Automatic Scanner Generator
+ 
+           Flex Reference Manual
+ 
+            LLGen -- An LL(1) Parser Generator
+ 
+            Yacc Reference Manual
+ 
+            SPIM Reference Manual
+
+
+

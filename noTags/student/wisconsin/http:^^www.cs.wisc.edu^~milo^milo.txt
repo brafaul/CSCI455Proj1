@@ -1,0 +1,142 @@
+Date: Thu, 07 Nov 1996 19:18:57 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 24 Oct 1996 19:36:52 GMT
+Content-length: 6094
+
+
+
+Milo M. Martin's Home Page
+
+
+Milo M. Martin (milo@cs.wisc.edu)
+
+
+Graduate Student and Teaching Assistant
+Computer Sciences Department
+University of Wisconsin-Madison
+1210 West Dayton Street
+Madison, WI 53706-1685
+USA
+Email: 
+milo@cs.wisc.edu
+Office: CS&St 1301
+Office Phone: (608) 262-6600
+Office Hours: 2:45-3:45 pm, Tuesday/Thursday or by
+appointment
+BA, Computer Science, Gustavus 
+Adolphus College, 1996
+
+
+Classes
+
+CS701: Compiler Construction - 
+       Charles N. Fischer
+CS752: Advanced Computer Architecture I -
+      Mark D. Hill
+CS838:
+Java! (only sitting in) -
+      Mark D. Hill and
+      James Larus
+
+Teaching
+
+CS302: Algebraic Language Programming (C++) - 
+      Section 4
+
+Research Interests
+
+I am a first year PhD student interested in programming
+languages, 
+architecture, and systems.  Specifically I am interested in:
+
+
+ Compiler (optimization) technology and how it will be
+influenced by hardware and operating systems advances.
+
+   Mobile programming (such as Java) and what additional challenges this presents to compilers, architecture and operating system designers.
+
+   Many, many other things, many of which I don't even know that I
+am interested in... yet.  
+
+
+Publications
+
+Research performed summer 1994 and 1995 at Argonne National Laboratory, Technology Development Division,
+under the advisement of Charles L. Fink:
+
+ C. L. Fink, P. G. Humm, M. M. Martin, and B. J. Micklich,
+ Evaluation of Few-view Reconstruction Parameters for Illicit
+Substance Detection Using Fast-Neutron Transmission Spectroscopy,
+IEEE Nuclear Science Symposium and Medical Imaging Conference. (1995)
+
+   C. L. Fink, B. J. Micklich, T. J. Yule, P. G. Humm, L. Sagalovsky,
+and M. M. Martin, Evaluation of Neutron Techniques for Illicit
+Substance Detection, Nucl. Inst. Meth. B99, 748-752. (1995)
+
+
+Un-Publications
+
+Research performed during the 1995-96 school year at Gustavus Adolphus College, under the advisement of Max Hailperin.
+
+
+ Milo M. Martin and Max Hailperin,  Programming Language
+Flexibility and Deterministic Dynamic Parallel Computation,
+Senior Honors Thesis, Mathematics and Computer Science Department,
+Gustavus Adolphus College. (dvi or postscript)
+
+Computing Interests 
+ Java! - Other java resources.
+
+
+   NeXT Software - Once NeXT 
+Computer, now a software only company.
+
+   ACM - ACM (founded 1947) is an
+international scientific and educational organization dedicated to
+advancing the art, science, engineering, and application of information
+technology, serving both professional and public interests by fostering
+the open interchange of information and by promoting the highest
+professional and ethical standards. (A direct quote from their web page)
+
+
+
+Personal Interests
+
+ NFL Football - I am a big
+NFL football fan.  Since I lived in Minnesota for over 20 years, my
+favorite team is the Minnesota Vikings.  (Even
+though I now live in the land of cheese heads.)
+
+   Colonize and Conquer is a multi-player
+     play-by-e-mail space exploration and combat game which I wrote.
+   Babylon 5 - 
+The best show on TV. (IMHO)
+
+   Atlantis 
+3.0 - Atlantis is a play-by-email game set in the mythical world of 
+atlantis.  Players build armies, engauge in trade, explore lands, fight each 
+other and wondering monsters, train wizards, discover the underworld.  
+Right now there are 200+ players, of which I am one.
+
+  
+ Rules
+ Current list of 
+players
+
+ Ultimate Frisbee - UPA
+(The Ultimate Players Association) - ``Ultimate combines elements of
+soccer, football and basketball in a fast-paced game, played with a
+frisbee, where everyone is a quarterback and everyone is a receiver.''
+(A direct quote from the UPA home page).  Ultimate
+in ten simple rules.
+
+
+
+
+Milo M. Martin 
+
+  (milo@cs.wisc.edu)
+
+
+

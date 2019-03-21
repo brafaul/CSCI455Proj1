@@ -1,0 +1,82 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:39:25 GMT
+Content-Type: text/html
+Content-Length: 3826
+Last-Modified: Tuesday, 16-Apr-96 18:41:34 GMT
+
+
+
+CS 395T and PHL 391
+
+
+CS 395T and PHL 391, Spring 1996, Foundations of
+Mathematics, TT 2:00-3:30, Taylor 3.144
+
+ Course blurb: There are many approaches to formal reasoning.  The
+objective of specifying computer programs, including the formalization
+of worlds with which programs are to interact, has led to the creation
+of numerous tools for formal reasoning.  We will examine some systems
+for formal reasoning while examining a number of mechanical formal
+methods tools that support these different systems.  Examples of such
+system/tool pairs are: 
+
+ 
+
+ System                           Tool
+				
+ Primitive Recursive Arithmetic   Boyer-Moore Prover, ACL2
+ First Order Logic                Otter, Nelson's qed
+ Higher Order Logic               HOL, IMPS
+ Equational Reasoning             OBJ
+ Set Theory                       Mizar, Quaife/Otter, PVS
+ Type Theory                      NuPrl, Lego, Coq
+
+
+
+Students will choose, with the help of the instructor, a system and/or
+tool to examine and the grade will be based upon presentations about
+these.
+
+ The QED Project
+
+
+HTML Version of the
+QED Manifesto
+Plain text version of the QED
+Manifesto
+
+
+Bowen' Formal Methods Web Page and a 
+backup copy.
+
+
+
+The chief assignment.  Select a formal methods system, e.g.,
+from Bowen's Formal Methods Web Page above, and report via in-class,
+oral presentations on either its logical foundations or upon its use.
+Many of these systems have good, freely available implementations.
+Consult with me before making a final choice.
+
+No tests, no final.  Only the presentation(s).
+
+I hope to have a number of guest presentations from the local
+formal methods community.
+
+
+*Very* Tentative Schedule
+
+
+ April 16 -- Rick Tanney  -- Coq continued
+
+ April 18 -- Trevor Hicks -- Otter
+
+ April 23 -- Ruben Gamboa on ACL2 and Square root of 2
+
+ April 25 -- Samuel Guyer -- Circal and process algebras
+
+ April 30 -- Sawada -- PVS
+
+ May 2 -- Russell Turpin (SES) -- Galois
+
+

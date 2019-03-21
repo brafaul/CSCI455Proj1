@@ -1,0 +1,66 @@
+Date: Mon, 16 Dec 1996 23:40:16 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 26 Jun 1995 15:24:13 GMT
+Content-length: 1689
+
+
+
+
+
+Normals
+
+
+
+Computing the normal to a surface
+
+There are several ways of computing a normal to a surface. 
+
+
+If the surface
+is defined as a list of triangles then one way of computing the normal
+is to compute the normalized cross-product of two edges of the triangle.
+Three vertices of a triangle are shown below as P1, P2 and P3.
+
+
+
+If we denote 
+
+ then the normal is 
+given by
+
+
+
+If the surface is defined as a list of general polygons then the Newell
+method is a good way to calculate the normal. It produces an "average"
+normal if the polygon is not quite planar. It also is not confused by
+co-linear vertices.
+Calculate the following, where m is the number of vertices in the
+polygon.
+The normal is then norm([nx, ny, nz]).
+
+
+
+If the surface is defined as a parametric equation then differential 
+methods may be used to derive the normal.
+If the equation for a parametric surface is 
+
+
+
+where  0<u<1 and 0<v<1 are two parameters, then the surface normal
+is given by 
+
+
+
+
+Comments about Theory Center online documents are welcome and may be sent to
+doc-comments@tc.cornell.edu.
+ 
+
+Last modified, 6/26/95 B. Land. 
+
+
+
+
+Copyright Statement 
+ 

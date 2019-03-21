@@ -1,0 +1,143 @@
+Date: Tue, 26 Nov 1996 00:39:44 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 21:48:38 GMT
+Content-length: 7898
+
+
+Natural Language Laboratory: Table of Contents
+
+
+Natural Language Laboratory at Simon Fraser University  
+Next:  What's New
+Up:  Artificial Intelligence Research at SFU
+Previous:
+ IRIS-2: Intelligent Interfaces for Information Access (coming soon) 
+
+The natural language laboratory at Simon Fraser University is one of the 
+larger North American labs working on natural language processing (NLP).  
+An outline of natural language, the laboratory's theoretical and applied work 
+in NLP, and the laboratory's infrastructure is given below.  These pages are 
+still under development; comments on them are welcome.
+
+Table of Contents
+
+What's New
+Acknowledgements
+ 1. About Natural Language
+
+Phonology
+Morphology
+Syntax
+Semantics
+Pragmatics
+Language as a Modality
+Natural Language Sites on the Internet
+
+ 2. Theoretical Laboratory Work (Post-1988)
+
+Morphology
+Syntax
+
+Head-Driven Phrase Structure Grammar
+Tree Unification Grammar
+Parsing as Inheritance Reasoning
+Static Discontinuity Grammar
+Government-Binding Theory
+
+Semantics
+
+A Representation for NLP Using Extended Semantic Networks
+A Stratified Meaning Representation for Natural Language Discourse
+Metaphor and Metonymy Interpretation
+Salience in Language Generation
+
+Pragmatics
+
+Predicting and Explaining Query Failure
+A Belief-Based View of Ill-Formed Input
+
+Language as a Modality
+
+ 3. Applied Laboratory Work (Post-1988)
+
+
+Natural Language Interfaces to Databases
+
+SystemX (Pre-1990)
+SystemX (Post-1990)
+
+Grammar Development Tools
+
+HPSG-PL Grammar Development System
+Pleuk Grammar Development Shell
+Emacs User Interface to ALE
+
+Machine Translation
+Computer-Aided Language Learning
+
+ 4. Publications and Software
+
+Publications
+
+Laboratory Publications List (Post-1988)
+Laboratory Publications Online
+Laboratory MSc and PhD Theses Online
+Other Online Publications Relevant to the Laboratory
+
+Software
+
+HPSG-PL Grammar Development System
+Pleuk Grammar Development Shell
+Emacs User Interface to ALE
+
+
+ 5. Laboratory Infrastructure
+
+Laboratory Personnel
+
+Faculty
+Staff
+Research Assistants
+Adjunct Personnel
+Graduate Students
+Alumni
+
+Industrial Collaboration
+
+Canadian Cable Labs Fund (Rogers Cablesystems)
+TCC Communications Corporation
+
+Federal and Provincial Government Support
+
+IRIS-PRECARN
+NSERC
+ASI
+
+Laboratory Hardware and Software
+Centre for Systems Science
+School of Computing Science
+Simon Fraser University
+
+Selected Natural Language Related Bibliography
+
+
+What's New
+
+November 1996:  An electronic library 
+that provides access to approximately 30MB of papers about natural language processing (NLP) and related topics
+relevant to research in the Natural Language Laboratory.
+
+Acknowledgements
+This document is based on a paper on natural language processing research at Simon Fraser University by Fass and Cercone (1992), which is available online in ASCII form (44 pages) by kind permission of Canadian AI Magazine.
+The paper is being updated and adapted for HTML by Dan Fass.  
+
+The look of this document is based on Common Lisp the Language, 2nd Edition (HTML version), available at Carnegie-Mellon's  Artificial Intelligence Repository and other World-Wide Web sites. 
+ 
+Next: 1.  About Natural Language
+Up:  Groups: Natural Language Processing
+Previous:
+ IRIS-2: Intelligent Interfaces for Information Access
+
+
+Last modified 15 November 1996 (Dan Fass <fass@cs.sfu.ca>)

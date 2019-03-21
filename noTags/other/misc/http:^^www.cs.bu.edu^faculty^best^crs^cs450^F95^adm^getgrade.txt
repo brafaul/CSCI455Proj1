@@ -1,0 +1,48 @@
+Date: Tue, 14 Jan 1997 23:00:04 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+Instructions to Request a Grade Report
+
+ Boston University / 
+CLA
+ Computer Science Dept
+CLA
+CS-450: Computer Architecture
+
+
+
+Instructions to Request a Grade Report
+You could request a report of your grade in cs450 by sending an
+empty Email message to Prof. Azer Bestavros with the "Subject:" line
+containing the sentence getgrade cs450 as shown below.
+
+
+
+
+
+
+To      :  Azer Bestavros < best@cs.bu.edu >
+Cc      :
+Attchmnt:
+Subject : getgrade cs450
+----- Message Text -----
+                                                             
+
+
+
+
+
+Upon sending an Email message as specified above, you will receive
+within minutes a grade report with your grade in all homeworks graded
+so far, as well as the minimum, maximum, and average grade for the
+class.
+ 
+
+This document has been prepared by Professor  Azer Bestavros
+<best@cs.bu.edu>.
+
+Created on: October 1, 1995.
+Updated on: October 6, 1995.
+
+

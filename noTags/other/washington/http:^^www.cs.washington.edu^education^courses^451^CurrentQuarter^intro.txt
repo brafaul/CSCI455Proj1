@@ -1,0 +1,119 @@
+Date: Mon, 02 Dec 1996 14:47:40 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CS451 Course Intro
+
+
+CSE 451 
+Course Introduction
+
+
+This is a course about the use, design, and implementation of
+operating systems. My goal in teaching this course is to help you
+understand:
+
+
+ What is an operating system, what does it do, and 
+    why do we have it.
+
+ The fundamental abstractions provided by operating systems.
+
+ The design issues and decisions that go into implementing 
+  these abstractions on platforms that work.  
+
+
+Why should someone take this course? 
+
+Have you ever considered why your PC crashes about once a day and why 
+workstations don't ?   Or how programs access much more memory than there is
+available physically on the machine ?  Maybe you know all these and are 
+curious as to what happens "under the covers" with Windows, Unix, NT, and
+other operating systems.  The operating system 
+acts as a resource manager for the computer and if you want to know what 
+kinds of decisions it makes and why, then this course is for you.
+
+
+Who are we and what do we bring to this course? 
+
+I'm a faculty member in the computer science department here. (Check
+out my home
+page for more details about what I do when I'm not teaching.) 
+My area of research is in operating systems and their interaction with
+compilers and computer architecture.
+
+
+Your TA is a graduate student with the department.  Click here to see
+your TA's homepage.
+
+
+
+My attitude about teaching and learning 
+
+My job is to come prepared to lecture every day, present and clarify
+material that I feel is important, and guide you all through a series
+of "stories" that are intended to convey the basic points of the
+course. People tell me that I'm pretty good at conveying concepts and
+walking through complicated material with examples and analogies.
+People also tell me that I'm terrible "on-my-feet" when I have to add,
+subtract, multiply, or divide, or when I need to remember where the
+semicolon goes. I use slides so that I can work out those details in
+advance. Nevertheless, I will make mistakes in lecture and on the
+handouts. I'm grateful to anyone who can point these mistakes out.
+I'll correct them as quickly as I can.  
+Your Job
+
+Teaching is my responsibility. Learning is yours. There are mechanical
+things that I do in order to teach effectively (example, using slides,
+exams, homeworks, soliciting feedback), and there are mechanical
+things that you should do to learn effectively. I can pretty much
+guarantee that if you operate using a few simple guidelines you will
+get a high grade in this course: 
+ Come to lecture PREPARED. At the very least, this means having
+read through the lecture notes from the previous lecture. At best, it
+means having read the next relevant section in the text, begun working
+on the homeworks, and have questions ready to ask.
+
+
+ Come to all lectures. The lectures are the course. You can't
+slide by just by skimming the notes. Over the course of the quarter,
+we're all likely to miss one or two lectures -- myself included. When
+I miss a lecture, it is my responsibility to make sure that things
+proceed as much as possible as if I were there. The same has to be
+true of you; if you miss a lecture, it is your responsibility to
+determine what happened and how it relates to the rest of the course.
+Good resources are these web pages, and the person sitting next to
+you.
+
+ Do the homeworks. I'm like you. I hate homeworks. They are as
+much a pain to put together, grade, and adminster as they are to do.
+If I thought we could, I'd have no homeworks at all. But, they're like
+working out or running -- you do it, as painful as it is, and you
+improve. The more you do, the faster you do them, etc... The homeworks
+also help me to understand what you are understanding, and more
+importantly, what you are not.
+
+ Tell us how things are going. Both the good and the bad. We've
+created an anonymous feedback page
+that you can use to tell us what you like and what you don't like.
+Check it out for more details. Or you can just send us regular mail.
+Or just come by my office.
+
+
+ Try to have fun.  For many of you the first programming class
+that you take where you have to pull together a lot of different
+concepts to make progress.  The results can be pretty impressive.  
+
+
+
+
+
+That's about it.  Basically, we've each got a job to do this quarter
+with one another.  Let's try to make it as productive and effective as
+possible. 
+
+
+ 
+Click here to go on to the actual course syllabus.
+
+

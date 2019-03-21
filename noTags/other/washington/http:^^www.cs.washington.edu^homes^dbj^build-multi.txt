@@ -1,0 +1,61 @@
+Date: Tue, 10 Dec 1996 22:42:33 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 08 Nov 1994 19:21:36 GMT
+Content-length: 2343
+
+
+
+
+Create an Assessment Page
+
+
+ This form is used to create a multiple choice assessment page.
+See 
+Help for directions on how to use this form.
+If you want to modify an existing assessment page, see
+
+Edit.
+
+
+Page title: 
+
+
+ Question: 
+
+ Answer 1: 
+ Correct 
+Incorrect 
+ Next or review URL(s): 
+ Descriptive title for URL(s): 
+
+ Answer 2: 
+ Correct 
+Incorrect 
+ Next or review URL(s): 
+ Descriptive title for URL(s): 
+
+ Answer 3: 
+ Correct 
+Incorrect 
+ Next or review URL(s): 
+ Descriptive title for URL(s): 
+
+ Answer 4: 
+ Correct 
+Incorrect 
+ Next or review URL(s): 
+ Descriptive title for URL(s): 
+
+ Answer 5: 
+ Correct 
+Incorrect 
+ Next or review URL(s): 
+ Descriptive title for URL(s): 
+
+
+
+
+dbj@cs.washington.edu
+
+

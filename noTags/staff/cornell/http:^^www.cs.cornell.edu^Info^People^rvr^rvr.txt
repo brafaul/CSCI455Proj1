@@ -1,0 +1,79 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:29:51 GMT
+Content-Type: text/html
+Content-Length: 3571
+Last-Modified: Wednesday, 21-Aug-96 20:00:12 GMT
+
+
+
+
+
+
+
+Robbert van Renesse
+
+
+
+Robbert van Renesse
+Senior Research Associate
+Cornell University
+
+rvr@cs.cornell.edu
+
+
+
+
+I am a senior research associate in the 
+Department of Computer Science
+at
+Cornell University
+in
+Ithaca, NY.
+I am working with
+
+Ken Birman
+in the area of distributed systems.  My Ph.D. advisor was
+Andy Tanenbaum.
+
+Interests
+
+My brand new baby girl!.
+Our brand new house.
+The Horus system.
+The TACOMA project.
+CAML/MMM Applets.
+NYNET
+The Ithaca Ageless Jazz Band.
+The Ithaca Swing Dance Network.
+Jazz.
+Accordion.
+Shareware.
+
+Dutch Stuff
+
+Cornell Dutch Club (contains many other links).
+The USA and the Netherlands.
+Dutch Jazz.
+
+Ithaca
+
+IthacaNet.
+The Spinners Ithaca Market Place.
+
+Papers
+
+Software for Reliable Networks (Scientific American)
+Design and Performance of Horus:  A Lightweight Group Communications System (html version).
+Design and Performance of Horus:  A Lightweight Group Communications System (GIF version).
+A Framework for Protocol Composition in Horus.
+Protocol Composition in Horus.
+Incorporating System Resource Information into Flow Control.
+Strong and Weak Virtual Synchrony in Horus.
+Horus: A Flexible Group Communications System.
+A Security Architecture for Fault-Tolerant Systems.
+Support for Complex Multi-Media Applications using the Horus system.
+Operating Support for Mobile Agents.
+
+
+

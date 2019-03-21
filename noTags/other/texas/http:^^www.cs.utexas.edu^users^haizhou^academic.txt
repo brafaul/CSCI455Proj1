@@ -1,0 +1,100 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:47:52 GMT
+Content-Type: text/html
+Content-Length: 3468
+Last-Modified: Friday, 03-Jan-97 19:12:19 GMT
+
+Academic References
+
+
+Academic References
+
+
+
+
+
+My research area -- VLSI CAD
+
+
+ My Links to VLSI CAD
+
+    U Adaho Links to VLSI Servers
+
+
+
+
+Other Interesting Computer Science and Mathematics Links
+
+
+  Computer Science Resources (by CMU)
+ Formal 
+     Method Sites
+ 
+     The World Wide Web Virtual Library: Formal Methods
+ 
+     Theoretical Computer Science
+ ECCC  -- 
+     The Electronic Colloquium on Computational Complexity
+ Dennis's Theory Page
+ 
+     A compendium of NP optimization problems
+ DIMACS  Center for Discrete 
+     Mathematics and Theoretical Computer Science at Rutgers
+ 
+     Computational Geometry Pages
+ 
+     MathSource Home Page
+ 
+     Ronald L. Rivest : Cryptography and Security
+ 
+     Don Knuth's Home Page
+ e-MATH Home Page
+ 
+     Math Journals
+ 
+     The Puzzler (in Weizmann Institute)
+ The Mathematical Association of America 
+     MAA Online
+
+
+
+Computer Science Technique Reports
+
+
+
+    Networked Computer Science Technical Reports Library
+
+    Technique Report Index Search
+
+    On-line CS Technique Reports by Jim Blythe of CMU
+
+
+
+Bibliography
+
+
+ 
+     The Hypertext Bibliography Project
+ 
+     Computer Science Bibliography Glimpse Server
+ 
+     The Collection of Computer Science Bibliographies
+
+
+
+Local Library
+
+
+UT General Libraries
+ E-index
+
+
+
+Professional Organizations
+
+
+ACM
+IEEE Computer Society
+  IEEE 
+

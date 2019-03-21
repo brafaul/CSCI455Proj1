@@ -1,0 +1,115 @@
+Date: Mon, 02 Dec 1996 15:58:45 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 490 : Lectures
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lecture Schedule
+
+
+
+Date
+
+
+
+Lecture
+
+
+
+
+
+
+March
+25
+27
+29
+Overview of CG production
+
+
+
+April
+1
+3
+5
+Shading & Lighting
+
+
+
+8
+10
+12
+Modeling (articulated, deformable, hierarchical)
+
+
+
+15
+17
+19
+Animation (keyframing, etc.)
+
+
+
+22
+24
+26
+Storyboarding, character design, camera control
+
+
+
+May
+29
+1
+3
+Project planning
+
+
+
+6
+8
+10
+Facial animation
+
+
+
+13
+15
+17
+Compositing & Post Production
+
+
+
+20
+22
+24
+Digitizing models & motion
+
+
+
+
+29
+31
+Special effects
+
+
+
+June
+3
+
+
+Final critique
+
+
+

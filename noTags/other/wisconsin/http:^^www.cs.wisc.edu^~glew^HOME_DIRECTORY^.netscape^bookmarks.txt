@@ -1,0 +1,319 @@
+Date: Tue, 05 Nov 1996 21:14:57 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 00:27:33 GMT
+Content-length: 36250
+
+
+
+Andrew Glew's Bookmarks
+Andrew Glew's Bookmarks
+
+URouLette
+
+CS739 Fall 1996
+CS 739 Project Suggestions (Spring 96)
+Fun
+
+Wisconsin Hoofers Home Page
+
+UWisconsin
+
+WiscINFO Web Server
+University of Wisconsin-Madison Electronic Library
+Wisconsin Hoofers Home Page
+Information Technology Architecture at UW-Madison
+Architecture Home Page
+UW-Madison Graduate School Catalog: Engineering
+College of Engineering -- University of Wisconsin-Madison
+Electrical and Computer Engineering
+UW-Madison Graduate School Catalog
+UW CS Home Page
+Office of the Registrar
+UWi/Business
+
+UW-Madison School of Business, Joyce Erdman Center
+UW-Madison School of Business, Home
+Managing Technological Change -- Prof. Urban Wemmerlov
+
+Computer Sciences Department Suggestion Box
+Condor Homepage
+UWi/CS/CSLab
+Sysadmin group for UWisc CS
+        
+Gnuplot
+CSL page
+Computer Systems Lab Facilities Chargeback Schedule
+CSL Policy on Privately Owned Workstations
+CSL Texi Files -- Extended Listing
+CSL Texi Files -- Extended Listing
+Electronic Mail FAQ Topics
+AFS distributed filesystem FAQ
+AFS distributed filesystem FAQ - 3.18 What is the Andrew Benchmark?
+
+
+
+Shopping
+
+Madison Computer Stores
+
+Centurion Custom Computers
+
+OfficeMax
+
+Net Stuff
+
+Computer Information from Around the World
+Publicly Accessible Mailing Lists
+List of mailing lists
+        Webchat: WebStation Transport Services
+Netscape Home Page (Welcome to Netscape)
+A Beginner's Guide to HTML
+WAIS Inc
+The World Wide Web Initiative: The Project
+Project Gutenberg Home Page
+Composing Good HTML
+Internet Request For Comments (RFC)
+Introduction -- Style
+Hypermail Documentation
+Point Communications Corporation - Best of Web Ratings
+HTML3 Tables
+SGML and the Web
+Webify
+VRML 1.0 Specification
+Java(tm) Home Page
+Overdrive
+MUDs
+
+Crossed Swords' automated html Mudlist
+
+
+Stocks, etc.
+
+http://www-md6.intel.com/~glew/stocks.html
+MONEY QUICK QUOTES - CICI + INTC
+
+Microsoft
+
+Microsoft Corporation World-Wide-Web Server
+ftp.microsoft.com
+Directory of /pub/pc/win3/nt
+
+Universities
+
+Yahoo - Education:Universities
+Education:Universities:United States
+Caltech
+Stanford University Home Page
+Univ. of Washington Computer Science & Engineering
+The MIT Home Page
+OGI 1994-95 Catalog: Application for Admission
+UC Berkeley Home Page
+McGill University Home Page
+University of Illinois at Urbana-Champaign
+
+Tools
+
+Directory of /pub/text/sgml/misc
+Emulation Software R&D WWW Page
+The Emacs World Wide Web Browser
+VDCE Common Tools: TestMap
+
+Pen
+
+Nimax PC/POS/AutoID
+Pen & Mobile Computing
+Pen-Based Computing on the Web
+PenWorld Inc. Home Page
+The On-Line PEN Computing Magazine
+Pen-Based Computing on the Web
+
+Technology
+
+EE/CS Mother Site
+Computer Science Bibliographies
+AFS
+
+ftp://grand.central.org/pub/afs-contrib/doc/faq/pci.faq
+AFS New Users Guide
+
+Welcome to Techweb
+CNIDR U.S. Patents Project
+Computer Companies
+
+Compass - Processors and PCs Directory
+MicroUnity Systems Engineering Home Page
+Sun Microsystems
+Tektronix Inc.
+MIPS Technologies, Inc. Home Page
+Rambus Construction Site
+Microsoft Corporation World-Wide-Web Server
+Welcome to Unisys
+Transarc Home Page
+http://www.cs.columbia.edu/~bm/3dcards/3d-cards1.html
+IBM RISC System/6000 Products & Services
+Intuit Home Page
+
+Graphics
+
+Welcome to the Multimedia Database
+Persistence of Vision Ray Tracer
+Rendition
+MPEG Moving Picture Expert Group FAQ
+VRML 1.0 Specification
+BSP Tree FAQ
+http://www.cs.columbia.edu/~bm/3dcards/3d-cards1.html
+
+Benchmarks
+
+AFS distributed filesystem FAQ - 3.18 What is the Andrew Benchmark?
+Graphics Performance Characterization (GPC) Home Page
+Potential Candidates
+
+Persistence of Vision Ray Tracer
+
+
+Operating Systems
+
+Plan 9 Index
+http://sunsite.unc.edu/mdw/linux.html
+FreeBSD Inc.
+FreeBSD.html
+Berkeley Software Design, Inc: Home Page
+
+Computer Architecture
+
+Welcome to TraceBase
+ACME Cache Simulator
+MIT Multiscale Computing Project
+Bus
+
+PCI SIG Home Page
+
+Arithmetic
+
+Peter G. Soderquist
+
+PA-RISC Architecture and Instruction Set Reference Manual
+Counterflow Pipeline Processor Architecture
+WWW Computer Architecture Home Page
+Ultrsparc papers - multimedia
+SPARC Technology Business: White Papers
+Wisconsin Multiscalar Project Home Page
+UltraSPARC I Products page
+
+
+Tools
+
+Webify
+Statistical Software
+Mailcrypt: An Emacs/PGP Interface
+Image map Support on web.mit.edu
+
+Jobs
+
+Welcome to CareerPath.com
+World Wide Web Resume Bank
+
+Systems
+
+Uruk WWW server
+
+
+Inactive Bookmarks
+Bookmarks which are currently inactive
+- either because they are not currently
+accessible, e.g. Intel intranet bookmarks,
+or because they are not appropriate,
+Oregon bookmarks while living in Wisconsin
+    
+Others' Bookmarks
+
+Bob Krick's Bookmarks
+Jeff Abramson's Bookmarks
+
+Andy "Krazy" Glew - Intel Home Page
+Glew stuff @ Intel
+
+Glew's Intel Home Page
+Intel Telephone Directory
+P6 HW/SW
+Intel Web Stuff
+
+Intel
+Corporate Home Pages
+                Intel Telephone Directory
+WILLAMETTE HOME PAGE
+System Administration Reference
+Intel Resources Online
+Intel Web and Internet Servers
+Intel MD6 Home Page
+The P6 Processor - Microprocessor Division 6
+Employee Information and Human Resources
+D2000 InfoNet: Home
+Directions: The Pentium(R) Pro Processor Interactive Rendering Machine (Sept. 27, 1995)
+IT Tech Lib
+Welcome to the Multimedia Database
+Multimedia Database
+MRL: IR Link Home Page
+VDCE Common Tools: TestMap
+MRL: IR Link Home Page
+SPD Home Page
+Merced
+AUSTIN Home Page
+Media Architecture Labs Home Page
+
+
+Glew stuff in Oregon
+
+Powell's Technical Books
+
+
+
+Followups
+
+Department of Computer Science
+Student Resumes
+Yahoo - Reference:Man Pages
+Welcome to Intel, Andy
+United States Air Force WWW Servers
+The University of Manchester
+Oxford University Networked Information System
+CPU Info Center
+HyperText Markup Language (HTML): Working and Background Materials
+ASP68K PROJECT, Sixth Edition
+Scout Report Homepage
+http://www.qucis.queensu.ca/Department/FAQs/comp.software-eng/archive/cmtools
+Wisconsin Architecture Qualifiers Home Page
+HyperText Markup Language (HTML): Working and Background Materials
+Cygnus Supported Tools
+VDCE Common Tools
+Nimax PC/POS/AutoID
+
+New Bookmarks
+
+Welcome to McAfee!
+Personal Finance
+The Harvest Information Discovery and Access System
+AT&T Toll-Free Internet Directory
+The Dataflow Web Page
+Etch Traces
+United States Patent and Trademark Office
+Search Systems and Sources of Technical Information
+United States Postal Service Home Page
+USPS 1996 Postal Rates
+New International Rates and Fees Effective July 9, 1995
+AltaVista: Main Page
+Laws of Form - Bogus or Useful?
+
+http://www-leland.stanford.edu/~furry/lof/bib/lof.txt
+NOTATE'96 Abstract: G. Spencer-Brown's Laws of Form...
+Laws of Form
+Forth Meets Laws of Form
+
+Andy "Krazy" Glew's  University of Wisconsin  Home Page
+The National Technology Roadmap for Semiconductors
+TipWorld Home Page
+The Wisconsin Union
+
+

@@ -1,0 +1,75 @@
+Date: Thu, 21 Nov 1996 20:44:11 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 19 Jan 1996 21:09:10 GMT
+Content-length: 4612
+
+Krithi Ramamritham (krithi@cs.umass.edu)
+
+ 
+
+ Prof. Krithi Ramamritham 
+Computer Science Department
+University of Massachusetts
+Amherst, Mass. 01003-4610
+(413) 545-0196 (office)
+(413) 545-1249 (fax)
+krithi@cs.umass.edu
+
+
+ Prof. Ramamritham received the Ph.D. in Computer Science from the
+University of Utah in
+1981. Since then he has been with the Department of Computer Science
+at the University of Massachusetts where he is currently a Professor.
+He has held visiting positions at the Technical University of Vienna,
+Austria and at the  Indian Institute of
+Technology, Madras and was a Science and Engineering Research
+Council (U.K.)  visiting fellow at the University of Newcastle upon Tyne, U.K.
+
+Ramamritham's interests span the areas of real-time systems,
+transaction processing in database systems, and real-time databases systems. In the
+real-time arena, he has contributed to the development of scheduling
+algorithms, specification and programming languages, 
+operating system support, 
+architectural support, and design strategies for distributed
+real-time applications. In database transaction processing his
+interests lie in supporting the needs of emerging applications, such as
+CAD/CAM, design, workflow systems and massive digital databases, whose data and transaction
+characteristics as well as correctness and performance requirements
+make traditional transaction processing approaches unsuitable.  To
+this end, his work exploits semantic information about the objects,
+operations, transaction model, and the application.  Combining aspects
+from real-time and active databases along with concepts and mechanisms
+from real-time systems, he is also developing transaction processing
+support for real-time applications that utilize databases.
+ 
+
+Dr.  Ramamritham has served on numerous program committees of
+conferences and workshops devoted to databases as well as real-time
+systems. He served as Program Chair for the Real-Time Systems
+Symposium in 1994 and  as General Chair in 1995. Also, he
+was a vice-chair for the Conference on Data Engineering in 1995.  He
+is an editor of the Real-Time Systems Journal and the 
+Distributed
+Systems Engineering Journal. He has co-authored three IEEE tutorial
+texts, two on hard real-time systems and a (forthcoming) text on
+advances in database transaction processing.  He is a consultant to
+AT&T Bell laboratories.
+
+
+You can browse through some of Prof. Ramamritham's publications in the area of 
+real-time systems
+and 
+database systems.
+
+
+During 1994-95, Prof. Ramamritham spent a year in India. Based on his
+visits to Indian CS institutions and laboratories, he has written a 
+summary report as well as a 
+detailed report on  the research and development activities in India.
+
+
+ To Database Systems
+
+ To Real Time Systems
+

@@ -1,0 +1,58 @@
+Date: Wed, 08 Jan 1997 21:00:27 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+ Object Oriented Languages
+
+
+ Object Oriented Languages
+ Notes and Code 
+ Language Overviews 
+ Simula
+Notes on object-oriented programming
+  and on Simula, the first object-oriented language
+
+ Smalltalk Notes
+ Sample Smalltalk graphics code
+ Haikus which reflect the Smalltalk
+experience
+ General Issues/Controversies in Object Oriented Languages 
+ Metaclasses
+ Prototype-based Languages
+ Exception Handling
+Exception handling in Smalltalk-80, as well as in Ada and other languages.
+
+ Implementation Inheritance
+ Multiple Dispatch
+ Types in Object Oriented Languages
+ Bounded Polymorphism
+ Interesting Links to Real Research
+ 
+Object-Oriented Information Sources
+Has links to many other pages, and also a search mechanism.
+
+
+ Self Project:
+For info about the Stanford Self language, a prototype based object 
+oriented language.
+
+ 
+Cecil: For info on our department's very own Cecil project.
+
+  Emerald: Object/process mobility for distributed systems.
+
+  Simula
+and Smalltalk: This paper examines the social and political
+influences on the development of the Simula and Smalltalk languages.
+
+ 
+Gail Murphy and David Notkin, "The Interaction Between Static Typing and
+Frameworks." A paper on the interactions between the contravariant and
+covariant rules and software reuse.
+
+
+
+
+

@@ -1,0 +1,111 @@
+Date: Wed, 08 Jan 1997 20:53:11 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+
+CSE 322 
+Winter Quarter 1996
+
+
+
+
+
+
+
+
+CSE 322 
+Winter Quarter 1996
+
+
+
+
+
+ Instructor
+
+Richard Ladner
+ladner@cs.washington.edu
+Office: Sieg 311, 543-9347
+
+Office hours: 
+Tu 11-12 
+Th 11-12
+
+ 
+ Teaching Assistant
+
+Jim Fix
+fix@cs.washington.edu
+
+office hours 
+	W 12:30-1:30 Room 326A Sieg 
+	Th 1:30-2:30 Room 326A Sieg
+
+ 
+ Text
+
+Languages and Machines, An Introduction to the Theory of Computer Science 
+Thomas A. Sudkamp 
+Addison-Wesley Publishing Company, Inc.
+
+ 
+ Text Coverage
+
+
+Chapter 1 - Mathematical Preliminaries - read on your own.
+
+Chapter 2 - Languages - languages model basic decision problems in computing.
+
+Chapter 3 - Context-Free Grammars - the theory behind how computer languages are
+defined structurally.
+
+Chapter 4 - Parsing: An Introduction - how grammars are used to define parsers.
+
+Chapter 6 - Finite Automata - formalization of program execution.
+
+Chapter 7 - Regular Languages and Sets - basic properties of languages defined
+by finite automata.
+
+Chapter 8 - Pushdown Automata and Context-Free Languages - theory behind parsing
+of computer languages.
+
+Chapter 9 - Turing Machines - theory behind all computational systems.
+
+Chapter 11 - Decidability - Why some problems cannot be solved by a computer.
+ 
+ Exams
+
+ Midterm - Wednesday, January 31, 1996
+ Final - Wednesday March 13, 1996
+ 
+ Homework
+
+Homework is due every Friday at the beginning of class.  Please leave on the 
+table near the door.  Late homeworks are not accepted unless you make a
+request before it is due.
+
+A normal homework will consist of a combination of problems from the book and my
+own problems.  Generally, problems from the book will give you a chance to 
+practice some of the derivations and constructions used in the theory of
+computation.  Generally, my problems will be more challenging and may require 
+developing proofs.
+
+ 
+ Grading
+
+ Homework 25%
+ Midterm 25%
+ Final 50%
+ 
+   About this document ... 
+
+CSE 322 
+Winter Quarter 1996
+This document was generated using the LaTeX2HTML translator Version 95 (Thu Jan 19 1995) Copyright © 1993, 1994,  Nikos Drakos, Computer Based Learning Unit, University of Leeds.  The command line arguments were: 
+latex2html syllabus.tex. The translation was initiated by James Fix on Fri Jan  5 13:22:10 PST 1996 
+
+James Fix 
+Fri Jan  5 13:22:10 PST 1996
+
+

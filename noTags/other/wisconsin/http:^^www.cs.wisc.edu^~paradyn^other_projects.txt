@@ -1,0 +1,80 @@
+Date: Tue, 05 Nov 1996 20:58:39 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sun, 13 Oct 1996 22:25:30 GMT
+Content-length: 2459
+
+
+Other Parallel Tools and Related Projects
+
+
+
+Other Parallel Tools and Related Projects
+
+The following projects work in areas releated to Paradyn.
+If your project is not listed here and you would like it to be,
+please send us email with your URL and email address of a contact
+person.
+
+
+
+The Parallel Tools Consortium
+
+
+
+The Pablo Project at the University of Illinois
+
+
+
+TAU at the University of Oregon
+
+
+
+Falcon Monitoring & Steering System at Georgia Institute of Technology 
+
+
+
+MPP Apprentice at Cray Research
+
+
+
+ParaGraph 
+
+
+
+AIMS at NASA Ames
+
+
+
+XPVM at Oak Ridge National Laboratories
+
+
+
+Lost Cycles Toolkit and Carnival at University of Rochester
+
+
+
+EPPP Project at CRIM
+
+
+
+Projections at Parallel Programming Laboratory University of Illinois
+
+
+ Other Parallel Tools Lists: 
+
+
+Cornell Theory Center Parallel Programming Tools List
+
+
+
+Ptools Consortium Parallel Tools Projects List
+
+
+
+Last modified:
+Sun Oct 13 17:24:54 CDT 1996
+by
+karavan
+
+

@@ -1,0 +1,61 @@
+Date: Tue, 14 Jan 1997 23:05:29 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 2052
+Last-modified: Tue, 14 Jan 1997 17:28:23 GMT
+
+
+
+CS236 Calendar
+
+
+CS236 Foundations of Computer Science II
+Calendar Winter 1997
+This page summarizes the topics and objectives for each week of the semester.
+Reading assignments are from Aho,
+Alfred V. & Ullman,
+Jeffrey D., "Foundations of Computer Science," (C Edition),
+1995, Computer Science Press 
+Week 1 January 6-9
+Reading - Chapter 8, Sections 8.1-8.6
+Topics: The Relational Data Model, Keys , Primary Storage Structures for
+Relations, Secondary Indexes, Navigation Among Relations
+
+
+Week 2 January 13-16
+Reading - Chapter 8, Sections 8.7-8.9
+Topics: Algebra of Relations, Implementing Relational Algebra, Algebraic
+Laws for Relations
+
+
+Week 3 January 20-23
+Reading - Chapter 9, Sections 9.1-9.4
+Topics: The Graph Data Model, Definitions, Implementation, Connected Components
+
+
+Week 4 January 27-30
+Reading - Chapter 9, Sections 9.5-9.8
+Topics: Minimal Spanning Trees, Depth First Search, Shortest Path
+
+
+Week 5 February 3-6
+Reading - Chapter 10, Sections 10.1-10.4
+Topics: Patterns, Automata, State machines, Deterministic and Nondeterministic Automata
+
+
+Week 6 February 10-13
+Reading - Chapter 10, Sections 10.5-10-10.8
+Topics: Regular Expressions, Unix Extensions to Regular Expressions, Algebraic Laws for Regular Expressions, Automata for Regular Expressions
+
+
+Week 7 February 17-20
+Reading - Chapter 10, Section 10.9 and Chapter 11, Sections 11.1-11.3
+Topics: Regular Expressions for Automata, Context-Free Grammars, Languages from Grammars
+
+
+Created Dec 6, 1995 ... 
+Updated Jan 3, 1997 
+by Theodore
+A. Norman (tad@cs.byu.edu) 
+
+

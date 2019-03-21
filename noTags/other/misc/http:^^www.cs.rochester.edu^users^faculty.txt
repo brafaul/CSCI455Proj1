@@ -1,0 +1,46 @@
+Date: Wednesday, 15-Jan-97 00:23:23 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Thursday, 29-Aug-96 12:55:31 GMT
+Content-length: 1440
+
+
+
+URCS Faculty Members
+
+
+URCS Faculty Members
+
+This is a list of current Faculty Members at the University of Rochester's
+Department of Computer Science.
+
+
+ James Allen <james>
+ Dana Ballard <dana>
+ Chris Brown <brown>
+ Sandhya Dwarkadas <sandhya>
+ Lane Hemaspaandra <lane>
+ Henry Kyburg <kyburg>
+ Tom LeBlanc <leblanc>
+ Wei Li <wei>
+ Nathaniel Martin <martin>
+ Randal Nelson <nelson>
+ Mitsunori Ogihara <ogihara>
+ Ravi Prakash <prakash>
+ Lenhart Schubert <schubert>
+ Michael Scott <scott>
+ Joel Seiferas <joel>
+
+
+
+Last change: 6 Oct 1995 by ferguson
+
+
+
+
+URCS People |
+URCS Home Page
+
+
+

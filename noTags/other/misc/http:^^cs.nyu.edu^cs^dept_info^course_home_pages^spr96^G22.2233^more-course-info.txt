@@ -1,0 +1,611 @@
+Date: Tue, 14 Jan 1997 22:48:45 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 23 May 1996 21:18:07 GMT
+Content-length: 16200
+
+Computer System Design--More Information
+
+Computer System Design--Additional Information
+G22.2233
+
+Thursday 5:00-7:00
+
+Room 101, CIMS
+
+Pradeep K. Dubey
+
+
+
+
+
+Back to the Computer System Design Home Page.
+
+Table of Contents
+
+
+
+
+
+Course Description
+
+
+
+
+
+About the Instructor
+
+
+
+
+
+Textbook
+
+
+
+
+
+TA Information and How/Where to get Help?
+
+
+
+
+
+Class News
+
+
+
+
+
+Class Notes
+
+
+
+
+
+Homework/Exam Policy
+
+
+
+
+
+Assigned Homeworks
+
+
+
+
+
+
+Solutions to Assigned Homeworks
+
+
+
+
+
+
+
+Course Description
+
+Intended to give students whose main interest is in software, an
+introduction to the important principles of computer organization
+and design.  Topics covered include:  logic design basics,
+basics of performance evaluation, instruction sets, arithmetic
+for computers, processor datapath and control, pipelining,
+memmory hierarchy, interfacing processors and peripherals,
+parallel processor basics.
+
+
+About the Instructor
+
+Pradeep K. Dubey is an Adjunct Assistant Professor at the
+Department of Computer Science at New York University.
+He is currently employed by
+IBM
+at the
+T. J. Watson Research Center
+as a member of the Advanced RISC Systems group.
+He worked for Intel Corporation
+Intel Corporation
+from 1984 to 1991 and was on the design teams of the 80386,
+80486, and Pentium processors.
+He received the B.S. degree in Electronics, with distinction from
+Birla Institute
+of Technology, Mesra, India, in 1982,
+M.S. degree in Electrical and Computer engineering from
+University of Massachusetts
+at Amherst, in 1984, and the Ph.D.
+in Electrical Engineering from
+Purdue University in 1991.
+He has also participated in 
+advanced processor research
+efforts at
+Stanford University.
+His research interests include
+computer architecture
+and performance modeling.
+He is also a Senior Member of
+IEEE.
+
+
+Textbook
+
+Patterson and Hennessy, Computer Organization and Design: 
+The Hardware / Software Interface, Morgan Kaufmann.
+
+
+TA Information
+
+Fangzhe Chang
+
+(212)998-3363
+
+fangzhe@cs.nyu.edu 
+
+
+If you need help with the class material, you have the following four
+options:
+
+
+Send me an email with your question
+
+Send the TA an email with your question
+
+Meet me during my office hour right after the class in my office
+
+Send an email to the TA to set-up a meeting time.
+
+
+
+
+Class News
+Important Announcement:
+
+
+Final Exam Score Distribution
+RangeNumber of Students
+90-1002
+81-900
+71-802
+61-702
+51-604
+41-504
+31-401
+21-302
+0-200
+
+
+
+Final Grade Distribution
+GradeNumber of Students
+A2
+B+5
+B3
+B-4
+C+2
+C1
+C-0
+
+
+
+Final Exam Solutions:
+Final Exam Solution
+
+
+Important Announcement:
+Final Exam will be on May 9, 1996 (Thu) from 5-7p in the same class room.
+It will cover all the material covered in class lectures and
+homeworks upto the last lecture on May 2.
+It will be a closed book exam.
+
+Important Announcement:
+Final homework solutions will be posted 
+on the course homepage on May 2 (last day of class).  So if you intend
+to turn in this homework and have not yet done so,
+you must turn it in latest by May 1.
+
+In order to not lose a lecture and cover more material,
+I have decided not to offer any midterm.  Midterm weight
+will be added to the final exam. 
+Homework weight stays the same.
+
+
+
+SPIM Access Information 
+
+1. login sparky or slinky or any other machine which can access slinky.b file system.
+
+2. cd ~fangzhe/spim/bin
+
+3. type "xspim" or "spim". (xspim provides x-window interface.)
+
+4. load any .s file in the directory ../Tests
+
+5. if you like you can add
+      /slinky.b/csphd/fangzhe/spim/bin
+    in your PATH environment variable
+
+6. There is documentation available in the directory ~fangzhe/spim/Documentation. You can also read appendix A of the textbook.
+
+
+
+Class Notes (postscript files)
+
+
+
+
+
+Class-1: 1/25/96
+
+
+
+
+
+Class-2: 2/1/96
+
+
+
+
+
+Class-3: 2/8/96
+
+
+
+
+
+Class-4: 2/15/96
+
+
+
+
+
+Class-5: 2/22/96
+
+
+
+
+
+Class-6: 2/29/96
+
+
+
+
+
+Class-7: 3/7/96
+
+
+
+
+
+Class-8: 3/21/96
+
+
+
+
+
+Class-9: 3/28/96 -- Text Chapter 5, Sections 5.1 to 5.3
+
+
+
+
+
+Class-10: 4/4/96 -- Text Chapter 5, Sections 5.4 to 5.5
+
+
+
+
+
+Class-11: 4/11/96 -- Text Chapter 6, Sections 6.1 to 6.6
+
+
+
+
+
+Class-12: 4/18/96 -- Chapter 6 completed + Some Additional Material
+
+
+
+
+
+Class-12: Chapter 7 + Some Additional Material
+
+
+
+
+
+Class-14: 5/2/96
+
+
+
+
+
+Homework/Exam Policy
+
+Weightage for final grade:
+
+
+Homeworks: 30 percent
+
+No Mid-term
+
+Final: 70 percent
+
+
+Note-1:
+
+All homeworks regardless of their total points will carry EQUAL
+weight in the final grade.
+
+
+Note-2:
+
+Please note that a good on-time homework record can boost
+your final grade, if you are on the fence.
+
+
+Note-3:
+
+Homeworks may be emailed to the TA (fangzhe@cs.nyu.edu).
+For those of you who submit hardcopy homework (instead of email'ing
+a soft copy):
+
+If you plan to return the homework outside the class
+and office hours, please make arrangements with the TA
+(fangzhe@cs) and leave it in his mailbox instead of mine.
+
+
+
+Assigned Homeworks
+
+Homework-5:     Due: Apr 25 (points same as in Text)
+
+
+5.1 - 5.16 (You can use Fig. 5.47 in Prob. 5.7)
+
+6.1-6.3, 6.8-6.9
+
+I strongly urge you to go through the example on pp. 389,
+covering Figs. 6.25 to 6.29.
+
+
+Homework-4:     Due: Apr 4 (points same as in Text or shown in large brackets)
+
+
+4.1 - 4.19
+
+4.26 - 4.30
+
+4.39, 4.41, 4.42
+
+Using the algorithm in Fig. 4.41, carry out the following addition in binary:
+-0.625 + 1.4375. Assume 5 bits of precision (4 bits after decimal). You
+must show all steps. [10]
+
+Using the algorithm in Fig. 4.43, carry out the following multiplication in 
+binary: -0.625 x 1.4375. Assume 5 bits of precision (4 bits after decimal). You
+must show all steps. [10]
+
+
+Homework-3:     Due: Mar 21 (points shown in large brackets)
+
+
+
+Text B.7 [15]
+
+
+Text B.8 [15]
+
+
+Text B.12 [15]
+
+
+Consider the following gate called
+IMPLICATION gate which implements the following
+function: C = A -> B :
+
+
+A=F, B=F => C=T
+
+A=F, B=T => C=T
+
+A=T, B=F => C=F
+
+A=T, B=T => C=T
+
+
+a) Can you build an invertor using this gate? [5]
+
+b) Is this gate universal? Explain your answer. [10]
+
+
+[I added this problem beyond the ones mentioned in class on 3/7]
+
+Using the laws of Boolean algebra on page B-6 (without using
+truth tables), prove the following:
+
+
+These are known as "Consensus Theorems": [10]
+
+
+XY + X'Z + YZ = XY + X'Z
+
+(X + Y) (X' + Z) (Y + Z) = (X + Y) (X'+ Z)
+
+Note-1:  X' refers to complement or invert of X, and so on.
+
+Note-2: The redundant term "YZ" or "(Y + Z)" are also called 'consensus'
+
+Note-3: Earlier (prior to Mar 18) part 2 had a typo.
+The correct third term is (Y+Z).  It was mistyped as: (Y'+Z).
+However, Note-2 had the proper redundant term.
+
+
+Use the consensus theorems to prove the following: [15]
+
+ABCD + B'CDE + A'B' + BCE' = A'B' + BCE' + ACDE
+
+
+Use the consensus theorem to prove the following addition theorem: [10]
+
+(X + Y) (X' + Z) = XZ + X'Y
+
+
+Use the theorems above to show: [20]
+
+(A + B + C') (A + D' + E) (A + B + D) (A' + C)
+= AC + A'BD' + A'BE + A'C'DE
+
+
+
+Show the PLA implementation (similar to Figs. B.6 or B.7) of the following
+functions: [10]
+
+
+F1 = A'BD + ABD + AB'C' + B'C
+
+F2 = C + A'BD
+
+F3 = BC + AB'C' + ABD
+
+
+
+Text B.13 [15].
+
+
+Using D flip-flops and other combinational logic elemnts, if needed,
+construct the following:
+
+
+A 4-bit counter which has the following counting sequence: [10]
+0001, 0010, 0100, 1000, 0001, ...
+
+
+A 4-bit register which has the initial content of 0000 and shifts left
+a '1' on each clock tick, starting at the least-significant-bit
+position. [10]
+
+
+A 4-bit register which has the initial content of 0000 and shifts right
+a '1' on each clock tick, starting at the most-significant-bit
+position. [10]
+
+Note: Prior to Mar 18, there was typo here and it incorrectly said:
+'least-significant' instead of 'most-significant'.  You cannot
+shift right starting as least-significant-bit position!
+
+
+
+Modify the state diagram in Fig. B.28 for the following modifed
+traffic controler: [15]
+
+North-South road has priority over East-West road. So, NSlite
+should normally be green and trun to red only if a) there
+is a car waiting on E-W road and there is no car on N-S road,
+or, b) there is a car waiting on E-W road for more than 4 mins.
+The EWlite should turn to red if there is no car on E-W road.
+or if there is car waiting on N-S road for more than 2 mins.
+
+
+
+Homework-2: Due: Mar 7
+(points same as the problem rating given in Text)
+
+
+All problems from the Text, Chapter 3:
+
+
+3.1 through 3.8
+
+3.12 through 3.22
+
+3.26
+
+3.37 through 3.38
+
+
+
+Homework-1: Due: Feb 22 (points shown in large brackets)
+
+
+
+Problem 1:
+
+Exercise 1.A on slide-11 of class-1 notes [5]
+
+
+
+Problem 2:
+
+Repeat Problem 1 with the two cost-model improvements
+suggested in slide-11 of class-1 notes. [5]
+
+
+
+Problem 3:
+
+Text 2.14 [10], 2.15 [5], 2.16 [10], 2.17 [5], 2.18 [5], 2.19 [10]
+
+
+
+Problem 4:
+
+Repeat the class example (slide 26) with System-3
+execution times for normalization, i.e., using System-3
+execution times as the relative measures of workloads.
+In other words, you need to calculate average execution rates
+(normalized with respect to System-3 execution times)
+of the four systems using unweighted and weighted
+versions of arithmetic, geometric, and harmonic means.
+Note that the  workload represented by program i,
+i.e., wi will be given by its execution
+time on System-3, i.e., ti3.
+
+[20]
+
+
+
+Problem 5:
+
+Text 2.32 [5] 2.33 [10], 2.34 [10]
+
+
+
+Solutions to Assigned Homeworks
+
+
+
+
+
+Solutions-1
+
+
+
+
+
+Solutions-2
+
+
+
+
+
+Solutions-3, Part-1
+Solutions-3, Part-2
+Solutions-3, Part-3
+Solutions-3, Part-4
+Solutions-3, Part-5
+Solutions-3, Part-6
+
+
+
+
+
+Solutions-4
+
+
+
+
+
+Solutions-5
+
+
+
+

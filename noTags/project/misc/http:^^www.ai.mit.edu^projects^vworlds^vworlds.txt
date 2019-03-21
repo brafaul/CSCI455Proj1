@@ -1,0 +1,70 @@
+Date: Mon, 25 Nov 1996 23:59:31 GMT
+Server: Apache/1.2-dev
+Connection: close
+Content-Type: text/html
+Last-Modified: Thu, 16 May 1996 20:55:08 GMT
+ETag: "12b9d-73c-319b962c"
+Content-Length: 1852
+Accept-Ranges: bytes
+
+
+
+Virtual Worlds Project
+
+
+
+
+
+
+
+
+
+
+
+
+The 
+Virtual
+Worlds
+Project at the
+
+MIT Artificial Intelligence Laboratory is an effort to create
+advanced distributed interactive simulation (DIS) systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

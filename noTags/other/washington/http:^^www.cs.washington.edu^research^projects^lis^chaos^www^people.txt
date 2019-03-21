@@ -1,0 +1,63 @@
+Date: Tue, 10 Dec 1996 03:21:46 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+Chaotic People
+
+
+ 
+  Chaotic People
+chaos@cs.washington.edu
+
+
+Computer Science & Engineering Department 
+University of Washington,
+     Box 352350
+Seattle, WA 98195-2350 USA
+
+ 
+Who's who in Chaos:
+ The Chaos Router is a Non-Minimal Adaptive Packet Router which
+uses randomization to probabilistically avoid livelock.  The concept
+of chaotic routing was invented by Smaragda Konstantinidou and 
+Lawrence Snyder  in 1990.  In 1993, a design team led by  Kevin Bolding 
+built the first  Chaos Router chip  with the
+help of lots of people, including 
+Sen-Ching Cheung, 
+ Sung-Eun Choi  ,
+ Carl Ebeling ,
+ Soha Hassoun  ,
+Ton Ngo, and Robert Wille.
+
+ Neil McKenzie 
+finished a network interface design that provides low latency access
+for User-Level messages.
+
+In addition to building hardware, our group has been studying routing
+in general.  We have implemented a simulator with capabilities for
+real-time visualization to study Chaos and other routing techniques.
+In particular, our simulator can vary many different characteristics
+including routing algorithm, buffer size, message lengths and
+switching technique to name a few.   Sung-Eun Choi,
+created the graphical interface.
+
+Melanie Fulgham  has studied many aspects of Chaotic routing with
+
+non-uniform  traffic loads. 
+ Thu Nguyen  has
+experimented with minimal adaptive routing algorithms.
+
+
+
+Our group is also interested in theoretical research in routing.
+ Donald Chinn ,
+ et al. proved a lower bound on minimal adaptive
+routing on a mesh with bounded queue size.
+
+
+kwb@cs.washington.edu
+
+
+

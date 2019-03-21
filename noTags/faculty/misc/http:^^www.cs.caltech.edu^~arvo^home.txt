@@ -1,0 +1,156 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 22:25:26 GMT
+Content-Type: text/html
+Content-Length: 6635
+Last-Modified: Friday, 08-Nov-96 22:41:06 GMT
+
+
+
+ Jim Arvo's Home Page 
+
+
+
+
+
+
+
+
+
+ 
+Jim Arvo's home page
+
+ 
+
+
+ 
+Associate Professor of Computer Science 
+                 California Institute of Technology
+
+
+
+ email
+
+arvo@cs.caltech.edu
+
+ address
+
+                    Computer Science 256-80            
+                    1200 E. California Blvd.           
+                    California Institute of Technology 
+                    Pasadena, CA 91125  
+                  
+ phone
+ (818) 395-6780 
+ fax
+ (818) 792-4257 
+ office
+ Room 290, Jorgensen Building 
+ secretary
+ 
+                    Yvonne Recendez       
+                    Room 288, Jorgensen   
+                    (818) 395-6244       
+yvonne@cs.caltech.edu
+
+
+
+
+
+
+
+
+Caltech 
+Computer Science 
+Graphics Group 
+AltaVista 
+Lycos
+
+Misc
+
+
+
+
+ Research Interests 
+
+ Physically-based modeling and image synthesis 
+ Computational vision and radiative transfer
+                                  (description)
+ Computer-assisted mathematical exploration and instruction 
+                                  (description)
+
+
+ Other Information 
+
+
+      Archive of published papers and 
+      other downloadable items. 
+
+      Complete list of publications with abstracts
+      and pointers. 
+
+      Archive of free software and bibliography files. 
+
+      A few sample images. 
+
+      Curriculum vitae in postscript
+      or html format. 
+
+      Research funding. 
+
+      Current students. 
+
+
+ Courses 
+
+
+Computation, Computers, and Programs
+      (CS20abc, 1996-97) 
+
+3D Photography
+      (EE/CNS148c and CS274c, spring 1996) 
+
+ 
+      Topics in Geometric Modeling (CS274b, winter 1996) 
+
+
+ What's New 
+
+
+      An old paper, "Ray Tracing with Meta-Hierarchies", 
+      is now on line (added 8/2/96). 
+
+Java applet
+      demonstrating sampling of spherical triangles (added 2/10/96). 
+
+      An old paper, "Modeling Plants with ESA", 
+      is now on line (added 2/4/96). 
+
+
+ Other Links 
+
+
+Caltech home page 
+
+Caltech Computer Science home page 
+
+Caltech Computer Graphics Group 
+
+      My cats Emily and
+              Gretel 
+
+Miscellaneous links 
+
+
+
+
+
+ 
+
+
+
+James Arvo
+(arvo@cs.caltech.edu)
+
+
+

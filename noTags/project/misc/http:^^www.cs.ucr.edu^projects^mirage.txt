@@ -1,0 +1,97 @@
+Date: Wed, 20 Nov 1996 19:30:03 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 4889
+Last-modified: Wed, 14 Feb 1996 20:33:30 GMT
+
+Mirage Development Team
+
+
+Mirage Development Team
+
+
+Mirage+ is a Distributed Shared Memory (DSM) system which provides memory
+management and communication across machines in a loosely coupled network
+environment.  The system hides network
+boundaries to processes accessing shared memory, providing the
+illusion of a coarse grained multiprocessor to the programmer and
+algorithm designer.  Mirage+ is designed to execute traditional System
+V Posix-compliant shared memory programs on commodity personal
+computers.  
+
+A key feature in Mirage+ is the simplicity with which powerful networking
+can be employed using solutions that have been designed for
+uniprocessors and applied to a more powerful network of
+workstations platform.  Mirage+ implements DSM using a paged
+segmentation scheme where segments are partitioned into pages. The system 
+runs on a cluster of IBM PS/2 class machines.
+
+Our lastest work in the DSM area is a non-kernel invasive DSM system
+based on the Quarks prototype from Utah.  We are focusing on disconnected 
+operation and mobility for Distributed Memory Shared Systems.  The
+new research is based on advances and experiences with Mirage+. We have also 
+constructed the Riverside Mobile DSM Suite which are a set of
+application programs
+that exercise functionality in mobile systems that one would expect to
+want to implement using DSM.  In addition, our group also authored the  
+DSM port of Quarks to the DEC Alpha AXP 150 personal computers and made the
+results of the port accessible to other researchers.
+ 
+
+
+Mirage Team Members
+
+  Brett D. Fleisch  - 
+brett@cs.ucr.edu - Project Director,
+ Assistant Professor
+Randall Hyde - rhyde@cs.ucr.edu
+ - UCR Computer Science Lecturer
+ Cheryl DeMatteis - cdematt@cs.ucr.edu  - UCR Computer
+Science Graduate Student
+William Schroeder - whs@cs.ucr.edu
+ - UCR Computer Science Graduate Student
+David Choweller - 
+davec@cs.ucr.edu - UCR Computer Science Graduate Student
+Sachin Shah - sachin@cs.ucr.edu - UCR
+Computer Science Graduate Student
+Mark Allan Co - 
+marcus@cs.ucr.edu - UCR Computer Science Graduate Student
+Ra'ad Bahhour - bahhour@cs.ucr.edu
+ - UCR Computer Science Graduate Student
+Kevin Marcus - 
+datadec@cs.ucr.edu - UCR Computer Science Undergraduate Student
+Jeremy Powell - jpowell@cs.ucr.edu
+ - UCR Computer Science Undergraduate Student
+Steve Grubbs - sgrubbs@cs.ucr.edu
+ - UCR Computer Science Undergraduate Student
+Jarrod Shields - jshields@cs.ucr.edu - UCR
+Computer Science Undergraduate Student
+Barnett hsu - barnett@cs.ucr.edu - UCR
+Computer Science Undergraduate Student
+John Mikhail - jmikhail@cs.ucr.edu - UCR
+Computer Science Undergraduate Student  
+
+Mirage Associated Team Members
+
+ Oliver Theel  - 
+oliver@cs.ucr.edu - Visiting Postdoctoral Researcher
+Niels Christian Juul
+- ncjuul@cbs.dk - 
+
+
+Order a Mirage T-shirt!!!
+Yes, for a limited time only, you can be one of the fashion trend
+setters by sporting the latest in Mirage apparel! The Mirage T-shirt
+is made of 100% pure cotton and features the Mirage logo! Help show
+support for the Mirage project and buy a T-shirt. T-shirts are
+available in large and X-large. The price is $12.00 for one T-shirt or
+$20.00 for two T-shirts. 
+Hurry! Operators are standing by! Email now! 
+
+To order a Mirage T-shirt email Brett Fleisch at 
+brett@cs.ucr.edu
+
+Last Updated October 19, 1995
+Return to CS Base Page
+
+Mirage logo by Joe Solinsky - jcsky@cs.ucr.edu

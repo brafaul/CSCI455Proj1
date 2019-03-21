@@ -1,0 +1,35 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:16:23 GMT
+Content-Type: text/html
+Content-Length: 1161
+Last-Modified: Saturday, 17-Feb-96 22:43:43 GMT
+
+CS 401/501 Assignment Grades
+CS 401/501 Assignment Grades
+Final Course Grades
+
+ Homrwork 1 
+ Assignment 1
+ Assignment 1 Grading Remarks (Grader: Ioi Lam)
+ Homework 2 
+ Assignment 2 grades
+ Homework 3 
+ Assignment 3 grades
+ 
+       Assignment 3 Grading Remarks
+ 
+       More assignment 3 Grading Remarks (Grader: Ioi Lam)
+ Homework 4 
+ Assignment 4 grades
+ 
+       Assignment 4 Grading Remarks
+ Homework 5 
+ Assignment 5 grades
+ Homework 6 
+ Assignment 6 grades
+ Exam 
+ Exam Grades
+
+Last modified Nov  1 16:05  
+

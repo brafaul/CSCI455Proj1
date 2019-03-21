@@ -1,0 +1,60 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:18:01 GMT
+Content-Type: text/html
+Content-Length: 1845
+Last-Modified: Monday, 13-Mar-95 14:33:23 GMT
+
+
+
+ PS 314 Specification -- Table of Contents 
+
+
+ Back to the CS 314 home page 
+ Processing System 314 
+
+  Processor Overview 
+  System Interface 
+  Instruction Set 
+
+  Instruction Word Format 
+  Operand Modes 
+  Arithmetic/Logic Instructions 
+
+  NAND 
+  SUB 
+  ADD 
+  ASL 
+  ASR 
+  LSL 
+  LSR 
+
+  Data Transfer Instructions 
+
+  COPY 
+  LOAD 
+  STORE 
+  LEA 
+
+  Program Control Instructions 
+
+  CMP 
+  Bcc 
+  RTI 
+  HALT 
+  NOOP 
+
+
+  Instruction Execution 
+
+  Traps and Interrupts 
+
+  PS314 Simulator 
+
+  Example Program 
+
+
+
+ Back to the CS 314 home page 
+
+

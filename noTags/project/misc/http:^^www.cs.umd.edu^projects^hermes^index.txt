@@ -1,0 +1,39 @@
+Date: Wed, 20 Nov 1996 19:43:22 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Last-modified: Sat, 10 Feb 1996 19:57:11 GMT
+
+
+
+
+HERMES - A Heterogeneous Reasoning and Mediator System
+
+
+
+
+
+
+
+
+
+ 
+
+An overview of the project 
+
+ 
+
+Members of the group 
+
+ 
+Publications 
+
+ 
+
+Current Implementation Status (Apr 30, 1995)
+
+
+
+Send comments to  sibel@cs.umd.edu  or 
+ candan@cs.umd.edu 
+
+

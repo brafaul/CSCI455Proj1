@@ -1,0 +1,64 @@
+Date: Tuesday, 26-Nov-96 00:09:43 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tuesday, 05-Nov-96 22:46:29 GMT
+Content-length: 2532
+
+ Laboratory for Advanced Parallel Systems in ND, LAPS  
+
+
+
+
+
+(This page is under construction) 
+ The Laboratory for Advanced Parallel Systems (LAPS)  is studying
+all aspects of architectural and system issues 
+of advanced high-performance parallel architectures.
+For example, one focus of LAPS is studying and designing new generations 
+of scalable massive parallel architectures based on 
+the expereince of a working massive parallel machine, EXECUBE, which  
+was designed by Dr. Kogge.
+Another focus of LAPS lead by
+Dr. Sha is developing parallelization techniques which can
+optimally utilize processors, communications and memory.
+More detailed descriptions of research projects can be found in this
+page. 
+
+ Faculty Members 
+
+  Dr. Peter Kogge 
+       (kogge@cse.nd.edu)
+    Dr. Edwin Sha  (esha@bach.helios.nd.edu)
+
+ Graduate Students 
+
+  Stephen Dartt  (sdartt@bach.helios.nd.edu)
+    Nelson Passos  (npassos@bach.helios.nd.edu)
+    Michael Sheliga (msheliga@bach.helios.nd.edu)
+    David Surma  (dsurma@bach.helios.nd.edu)
+    Joy Chantana  (cchantra@bach.helios.nd.edu)
+    Dev Tongsima  (stongsim@bach.helios.nd.edu)
+  
+ Undergraduate Students: 
+
+  Dan Cieslak (dcieslak@bach.helios.nd.edu)
+    Charles Forsythe (cforsyth@bach.helios.nd.edu)
+
+ On-going Research Projects. 
+
+  General Description  
+  Research Projects supervised by 
+Dr. Edwin Sha. 
+
+  Potential Research Projects.  
+
+We welcome any undergraduate or graduate students who are interested
+in Computer Architectures or Parallel Processing come to 
+talk with us to pursue any possibility of doing joint research.
+Please send your messages to 
+ hms@cad.cse.nd.edu. 
+ 
+
+
+Revised by Edwin Sha - Spet. 20, 1995.

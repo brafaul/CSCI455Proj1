@@ -1,0 +1,116 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:35:10 GMT
+Content-Type: text/html
+Content-Length: 3719
+Last-Modified: Tuesday, 10-Sep-96 03:21:09 GMT
+
+
+
+CS 100A Course Syllabus
+
+
+
+
+
+
+CS 100A Syllabus
+
+DateLecture TopicReferenceEvents
+
+
+Aug 29Algorithms and ProgramsR1, T1Code Warrior Demo
+
+
+Sept 3Expressions and Input/OutputT2.1 - T2.7 
+
+
+Sept 5Functions and the Substitution ModelT2.8 - T2.9 
+
+
+Sept 10 - 12Specification, recursive problem solving, modulesT2.10 - T.2.12, R7.1P1: Due 9/10
+
+
+Sept 17 - 19Functions with putput, tail recursion, and higher-order functionsT2.13 - T2.15
+
+
+Sept 24 - 26Variables, assignment, control structures, schemes, refinementR2, R3, R4.1 - 4.4P2: Due 9/24
+
+
+Oct 1IterationR4.6 - 4.7Prelim: 9/30, 7:30pm
+
+
+Oct 3Data Abstraction and Types
+
+
+Oct 8Arrays (Searching)R11.1 - 11.5P3: Due 10/8
+
+
+Oct 10Reference ParametersR12.1, R5
+
+
+Oct 15No Meeting; Fall Break
+
+
+Oct 17Arrays (Sorting, Loop Invariants)R12.2
+
+
+Oct 22Arrays (Two Dimensional Arrays)R11.6Prelim 10/22, 7:30pm
+
+
+Oct 24Arrays(Choice of Representation)
+
+
+Oct 29Structured DataR16.1 - 16.4P4: Due 10/29
+
+
+Oct 31MATLABR13.1 - 13.4
+
+
+Nov 5MATLAB
+
+
+Nov 7MATLAB
+
+
+Nov 12MATLABP5: Due 11/12
+
+
+Nov 14StringsR9
+
+
+Nov 19FilesR15.1 - 15.5Prelim 11/19, 7:30pm
+
+
+Nov 21ComplexityT2.16, R17.3
+
+
+Nov 26Computer Arithmetic
+
+
+Nov 28No Meeting: Thanksgiving
+
+
+Dec 3Libraries
+
+
+Dec 5Computability and AIP6: Due 12/5
+
+
+
+Notes:
+
+Schedule subject to change.
+	Readings are from the Roberts textbook (R), The Art and Science of C and Teitelbaum notes (T), Structure of C Programs and Their Interpretation, to be handed out in class.  Additional reading material will be distributed throughout the term.
+	Material on Matlab will be integrated in lectures and assignments throughout the semester.
+	Sunday afternoon review sessions will preced each prelim and final
+	Final exam is Tuesday 12/17 at 9am.
+
+
+
+
+
+Last Updated on Sunday, September 08, 1996 4:28:21 PM
+Any Comments or Suggestions? Email them to flung@cs.cornell.edu
+
+

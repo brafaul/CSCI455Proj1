@@ -1,0 +1,178 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:35:30 GMT
+Content-Type: text/html
+Content-Length: 10067
+Last-Modified: Thursday, 14-Nov-96 18:08:43 GMT
+
+
+
+CS100A Home
+
+
+
+
+
+Message of the Week (As of Oct. 6)
+
+
+
+Hope you guys had fun solving those word problems... probably about as much fun as I had grading them :P Next up is prelim 3 good luck- we're in the home stretch!
+
+
+
+
+
+Course Description
+
+CS 100 is a 4 credit course that introduces fundamental computer programming and problem-solving concepts.  Programming projects are written in the programming language C.  Some assignments will also use Matlab.  CS 100 assumes no prior knowledge of computing and has no prerequisite computer science courses.  (However,a majority of the students in recent years have had some programming experience prior to taking CS100.)  The course may be taken for a letter grade or, if your college or program advisor allows it, S/U
+
+
+
+General Information
+
+
+CS 100A Instructors:
+
+Tim Teitelbaum - Upson 4143, 255-7573
+			Mike Godrey - Upson 308, 255-1051
+			
+Office Hours:
+					3-4pm Tu&Th
+			
+Hal Perkins - Upson 322, 255-2352
+			
+Office Hours:
+					1-2pm M&Th
+			
+Todd Wilson - Upson 5146, 255-1543
+			
+Office Hours:
+					Tu 10-11am, F 2:30-3:30
+			
+
+Teaching Assistants: All ocnsulting hours in Upson 339
+
+Andrew Chew - Upson 329, 255-????, achew@cs.cornell.edu
+					Office/Tutoring hours
+					M 3-4pm   (open)
+					W 3-4pm   (by appt)
+Patrick White - Upson 5148, 255-7416, white@cs.cornell.edu
+					Office/Tutoring hours
+					T 10-11am (open)
+					R 10-11am (by appt)
+David Wu - Upson 318, 255-1296 
+					Usually in office TR 12:50 - 1:25
+					Office/Tutoring hours
+					M 11-12pm (open) (knock on Upson 318 first)
+					W 11-12pm (by appt)
+dwu@cs.cornell.edu
+
+Course Administrator:
+		Laurie J. Buck, Upson 303 C, 255-3534
+		Office Hours: M-Th 1:30-4:00 pm and F 1:30-3:00pm.  
+		See Laurie to take care ofadministrative problems not related to the technical content of the course, including scheduling conflicts for exams and errors in posted grades
+Undergraduate Office:
+		Upson 303, 255-0982, Open 9:30-4:30 M-F
+Tutoring:
+		All tutoring by TA's will be out of Upson 339. Call or visit the Undergraduate Office to sign up for tutoring appointments if you are having trouble with the course.  You must sign up at least 24 hours in advance.  If you need to cancel an appointment, you must call the Undergraduate Office in advance.  If you miss two tutoring appointments without calling to cancel, you will not be given further appointments.
+Lectures:
+		Lectures for CS100A and CS100B meet at the same times.  The first five lectures (August 31 through September 12) for both CS100A and CS100B will meet in Olin 155 at 9:05 and 11:15.
+		Beginning Tuesday, September 17, lectures for CS 100 A and CS 100 B will meet separately. Lecture section numbers, times and rooms are as follows:
+
+Lectures
+
+
+CS 100A1TR 9:05Olin 155
+
+
+2TR 11:15Olin 155
+
+
+Sections:
+
+
+CS 100A Sections
+
+
+#DayTimeRoom
+
+
+1Tue.1:25Phillips 219
+
+
+2Tue.1:25Phillips 213
+
+
+3Tue.2:30Morill 111
+
+
+4Tue.3:35Uris G90
+
+
+6Wed.1:25Phillips 219
+
+
+7Wed.2:30Phillips 219
+
+
+8Wed.3:35Phillips 219
+
+
+9Wed.1:25Hollister 320
+
+
+*Section 5 meeting at 2:30 on Tuesday has been canceled.  If you are registered for that section, you should attend section 3 instead.
+	Sections are a required part of the course used to clarify topics covered in lecture, discuss programming problems, and work additional problems and exercises.  Graded programs and exams are returned in sections and sample solutions and practice exams are handed out there.  
+	All sections for CS 100A each week will cover the same topics.  However, there will be some variations in problems and exercises depending on the instructor and the interests of the students in each section.
+Computing Facilities:
+	Programming assignments will use Metrowerks' CodeWarrior C/C++ programming environment on Macintosh computers.  The computer room in the basement of Carpenter Hall is the primary lab for CS 100.  CS 100 students have priority in this lab, and this is where you will find CS 100 consultants, extra copies of handouts, unclaimed work, and posted announcements and grades.   There are around 40 Macintosh IIci computers in the Carpenter lab, each with 12MB of main memory and a 250 MB hard disk running Apple's  System 7.5.  The Carpenter lab is open when the Engineering library is.  Normal hours are:
+
+Mon-Thurs. 8:00am - 10:50pm
+			Fri. 8:00am - 5:50pm
+			Sat. 10:00am - 5:50pm
+			Sun. 1:00pm - 10:50pm
+		
+Hours will be restricted during vacations and university holidays.
+	Although Carpenter is the primary lab for CS 100, CodeWarrior is available on all of CIT's public Macintoshes that have enough disk space and RAM to support it.  During peak periods you may want to use a machine at another location to avoid long lines in Carpenter.
+No food or drink is allowed in the computer labs  Please keep the area clean and recycle.
+Consultants:
+	On duty in the Carpenter Hall basement daily and most evenings starting Aug. 29.  The exact schedule will be announced in class and posted in Carpenter.  Consultants will:
+	
+Help you find program errors.  Consultants will not fix your programs for you; they will suggest how you can find errors and fix them yourself.
+		Receive assignments
+		Return prelims and programs that were not picked up in sections.  (Bring you ID card with you when you pick up an exam)
+		Receive regrade requests
+		Provide tutoring, but only during slack periods.
+	
+
+
+Texts and Other Materials:
+
+
+Text:
+The Art and Science of C by Eric Roberts (recommended)
+Getting Started with Matlab by Rudra Pratap (optional)
+	The readings listed in the syllabi are suggested readings to help you follow the lectures and section material.  Exams in CS 100 are not based on the reading list; they are based on material covered in lectures, sections, and assignments.  You are not "responsible" for material in the book that is not covered in class.
+Handouts:
+	Distributed in class.  A limited # of extra copies will be available in Carpenter.
+	Communications:
+	Announcements are posted on the bulletin board to your right as you enter the Carpenter lab and are on the newsgroups cornell.class.cs100a
+Software:
+	Cornell Information Technologies (CIT) provides Metrowerks CodeWarrior and Matlab on all of its public Macintosh computers.  To access Matlab, you will be given a user name and password (all students in CS 100 use the same user name and password).  Do not give this password to others.  Do not forget the password.  The course staff has been instructed not to give the password to anyone. If you forget it, you will have to see your instructor.
+Disks:
+	You will need a few 3.5 inch floppy disks for your programming assignments.  No student files may be left on CIT's public machines (they are cleanedout every day).  You must store your files on your own floppy disks.  You also should keep back-up copies of all your work on separate disks.
+
+
+
+
+This site is under construction!  Sorry for any inconviences
+
+
+
+
+Last Updated on Sunday, October 06, 1996 
+
+If you have any comments or suggestions, please email them to dwu@cs.cornell.edu
+
+

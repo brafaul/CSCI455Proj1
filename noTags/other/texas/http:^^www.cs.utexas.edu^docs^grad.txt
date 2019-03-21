@@ -1,0 +1,169 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 14:44:23 GMT
+Content-Type: text/html
+Content-Length: 15972
+Last-Modified: Tuesday, 07-Jan-97 10:01:19 GMT
+
+
+  UTCS Graduate Students  
+
+ UTCS Graduate Students 
+Email goes to <login@cs.utexas.edu>
+
+    Login           Name
+    -----           ----
+    sak             Sundeep Abraham
+    jadair          John S. Adair
+    aruna           Aruna Lakshmi Addala
+    tarun           Tarun Anand
+    nimar           Nimar Singh Arora
+    vbb             V. B. Balayoghan
+    dwip            Dwip Narayan Banerjee
+    francois        Francois G. Barbancon
+    mwbarnes        Marvin Wade Barnes
+    bayardo         Roberto Bayardo
+    jbednar         James A. Bednar
+    emery           Emery Berger
+    bogo            Michael Nathan Bogomolny
+    mecaliff        Mary Elaine Califf
+    ecamahor        Emilio Camahort
+    canfield        William Michael Canfield
+    esteban         Stephen Paul Carl
+    carruth         Al Carruth
+    chaput          Harold H. Chaput
+    ccp             Chung-Ping Chen
+    cdj             Deji Chen
+    wchen           Wan Chen
+    zchen           Zhiying Chen
+    bhanu           Bhanu S. Cherukupally
+    yschoe          Yoonsuck Choe
+    sunghee         Sunghee Choi
+    cnchu           Chong-Nuen Chu
+    clancy          Daniel J. Clancy
+    correl          Stephen F. Correl
+    damani          Om P. Damani
+    esra            Esra Erdem
+    erkok           Levent Erkok
+    estlin          Tara Adrienne Estlin
+    jfang           Jun Fang
+    xfeng           Xun Feng
+    yufeng          Yu Feng
+    gyx             Yongxiang Gao
+    gajit           Ajit George
+    gooty           Subramanyam A. Gooty
+    pawang          Pawan Goyal
+    gunnels         John Andrew Gunnels
+    xguo            Xingang Guo
+    vipin           Vipin Gupta
+    oguer           Oguer Gutierrez
+    sammy           Samuel Z. Guyer
+    haosun          Sun Hao
+    pahardin        Philip A. Hardin
+    kharker         Kenneth Earl Harker
+    cxh             Xingshan He
+    ulf             Ulf Hermjakob
+    hewett          Micheal S. Hewett
+    ruweihu         Ruwei Hu
+    chuang          Chin-Tser Huang
+    qiming          Qiming Huang
+    ajohn           Ajita John
+    markj           Mark Stuart Johnstone
+    svkakkad        Sheetal V. Kakkad
+    markus          Markus Kaltenbach
+    sfkaplan        Scott Frederick Kaplan
+    bert            Herbert Kay
+    kistler         Michael D. Kistler
+    kornerup        Jacob Kornerup
+    madhukar        Madhukar Korupolu
+    skumar          Shailesh Kumar
+    landrum         Robert Graham Landrum
+    dianelaw        R. Diane Law
+    leekk           James Lee
+    clsy            Siew Yee Lee
+    wylee           Wan-Yik Lee
+    liugt           Guangtian Liu
+    hqliu           Huiqun Liu
+    rui             Rui Liu
+    ybliu           Yanbin Liu
+    luxue           Xue Lu
+    yonglu          Yong Lu
+    jyluo           Jianying Luo
+    shma            Shaobing Ma
+    wkmak           Wai-Kei Mak
+    mallory         Richard S. Mallory
+    dane            Dane Marshall
+    martym          Marshall R. Mayberry
+    mccain          Norman McCain
+    paulmcq         Paul H. McQuesten
+    neerajm         Neeraj Mittal
+    moriarty        David E. Moriarty
+    kedar           Kedar Namjoshi
+    ngk             Gnana Kumar Natarajan
+    markng          Mark Ka Yau Ng
+    hiep            Hiep Huu Nguyen
+    obrien          Meghan O'Brien
+    otu             Robert Otuomagie
+    rou             Rong C. Ou
+    padgett         Don Padgett
+    anthony         Hung Hing Anthony Pang
+    dionisis        Dionysios Papadopoulos
+    pecina          Jose N. Pecina-Cruz
+    ykpei           Yuan-Kai Pei
+    tumlin          Lyn Pierce
+    ejp             Edward J. Posnak
+    jprior          John William Prior
+    cpg             Carlos M. Puchol
+    gokul           Gokul Rajaram
+    rraj            Rajaraman Rajmohan
+    sowmya          Sowmya Ramachandran
+    sriram          Sriram S. Rao
+    eremolin        Emilio Remolina
+    sawada          Jun Sawada
+    marco           Marco Schneider
+    adams           Adam L. Seligman
+    isheldon        Isaac A. Sheldon
+    shenoy          Prashant J. Shenoy
+    ssinha          Santanu Sinha
+    smaragd         Yannis Smaragdakis
+    son             Edward M. Son
+    dhs             Douglas H. Steves
+    dastuart        Douglas A. Stuart
+    agapito         Agapito Sustaita
+    rtan            Rong Tan
+    rupert          Rupert Tang Lap Poon
+    geeta           Geeta Tarachandani
+    ashis           Ashis Tarafdar
+    tewari          Renu Tewari
+    jthomas         Jeff Thomas
+    cthomp          Cynthia Ann Thompson
+    unicron         Lance Aiji Tokuda
+    gunther         Frank G. Tropschuh
+    hudson          Charles Hudson Turner
+    vsr             Srinivasan Vaidyaraman
+    vurgun          Sengul Vurgun
+    walbourn        Charles L. Walbourn
+    chjwang         Chuanjun Wang
+    rhwang          Rwo-Hsi Wang
+    taowang         Tao Wang
+    twang           Tong Wang
+    warshaw         Lane Bradley Warshaw
+    ckwong          Chung Kei Wong
+    emmawu          Yingjun Wu
+    xie             Gong Xie
+    yuanjing        Yuanjing Xu
+    yangyang        Yang Yang
+    yau             David K.Y. Yau
+    syu             Shengming Yu
+    gzhang          Ge Zhang
+    hyanbin         Yanbin Zhang
+    haizhou         Hai Zhou
+    zhouxiao        Maggie Xiao Zhou
+    zhuqing         Qing Zhu
+    qzuo            Qiang Zuo
+
+
+This page was automatically updated Tue Jan  7 04:01:18 CST 1997.
+gripe@cs.utexas.edu
+
+

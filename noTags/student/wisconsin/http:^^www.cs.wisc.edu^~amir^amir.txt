@@ -1,0 +1,106 @@
+Date: Thu, 07 Nov 1996 19:14:19 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 09 Oct 1996 23:29:56 GMT
+Content-length: 5133
+
+
+
+Amir's Home Page
+
+
+
+
+
+
+
+
+Amir Roth
+Delphi32 maven, on the 60-day DL, "that guy on that show"
+	1028 Erin St #3
+	Madison, WI 53715
+	608-256-9743
+
+	CS 6360
+	608-262-6614
+	FAX: 608-262-9777
+
+amir@cs.wisc.edu
+
+	An occasionaly updated copy of my resume (CVTE).
+	
+"The truth is out there!"
+
+
+
+
+
+[PL group |
+PL Seminar |
+Arch group |
+Arch Seminar | 
+CS640 |
+CS838]
+
+This week's hot research topics
+
+ Implementing a compiler using just the C preprocessor.  
+ Delegating work to your project partners. 
+ Setting off airport metal detectors. 
+
+The ins and outs of my existence
+
+I am graduate student in the Department of Computer Science at the University of Wisconsin, Madison.  My new advisor, Guri Sohi, and I are looking into methods of alleviating data dependences in Multiscalar programs using the distributed register file.  Multiscalar programs are all that and a side of curly fries. 
+
+I have a BS in Physics from Yale University and an advanced degree in nail design from Valley Beauty School.  Physics is interesting, but my beauty degree is much more practical. 
+
+I live with my girlfriend Marci and our two cats, Joe and Charlie.  Marci also went to Yale, and now she is getting a masters in public policy from LaFollette Institute.  One day, she is going to be president.  In the meantime, she likes to solve linear regression problems, try out wacky recipes she finds in magazines and watch 'Party of Five'.
+
+I like eggplant, which most people think is weird.
+
+Anyway, I promised the ins and outs...
+
+
+ In: Subba.  Out: My ex-officemates Mac Daddy and Mr. November.
+ In: Two titanium screws.   Out: My ACL.
+ In: Desi Relaford.   Out:  Terry Mulholland. 
+ In: Oxygen.  Out: Carbon dioxide.
+
+Areas of Vague Interest
+
+ Programming languages, program analysis, and super-whack compiler optimizations.
+ Parallel algorithms.
+ Theory (good for the soul)
+ Analysis, evaluation, modeling and performance enhancement of my three-point shot
+ All things big and scary
+
+Areas of Rabid Interest
+
+The love.  If you don't know what I am talking about, you better leave this page at once, never to return. 
+Hmmm.  What AM I interested in?
+
+Super Handy
+
+Informatik index of computer science journals and authors.
+MadCAT.
+MKP architecture resources.
+Up to the minute NBA and MLB scores.
+Sportsline.
+Who did what to whom in Philly.
+Everybody's favorite engineer.
+
+Super Icky
+
+The news.  My friend Barb writes articles for these guys, I'm not going to read them but you can if you want.  (Just kidding, Barb)
+My friend Drew's home page at Cornell.
+David's home page at CMU.  And you think I'm wierd.
+A page featuring my friend Sue, and my friend by association Kemin.
+
+
+
+Last modified: Sun Mar 17 17:26:03 1996 by Amir Roth
+
+amir@cs.wisc.edu
+
+
+

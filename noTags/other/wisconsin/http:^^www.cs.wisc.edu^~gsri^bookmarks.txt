@@ -1,0 +1,399 @@
+Date: Tue, 05 Nov 1996 21:56:30 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 04 Nov 1996 22:40:41 GMT
+Content-length: 42249
+
+
+
+Sridhar Gopal's Bookmarks
+Sridhar Gopal's Bookmarks
+
+acad
+
+cs.wisc.edu
+wisc.edu
+uwsa.edu
+ceg.in
+iisc.in
+iisc.alum
+in.alum
+univ.world
+
+courses
+
+Index of CS Class Mailing Lists.
+564
+577
+
+friends
+
+chumma
+pf
+theru
+nay
+gundan
+stoc
+this thing
+kozhi
+
+rsch
+
+Pentium� Pro Processors
+Tools
+
+CSIM17 USERS� GUIDE
+Instruction-Set Simulation and Tracing
+Shade
+DineroIII
+
+Benchmarks
+
+STREAM BENCHMARK PERFORMANCE RESULTS
+spec
+spec92
+Cache Performance of the SPEC92 Benchmark Suite
+spec95
+Perfect Club
+
+arch.wisc
+arch.world
+os
+threads
+load balancing
+dsm
+Parallel Architecture Research Laboratory (PARL) Home Page
+Supercomputing and Parallel Computing Resources
+Supercomputing Servers
+misc.rsch
+
+C++SIM Home Page
+Inferno
+Operating System Projects
+Turing Machine
+LAM / MPI Parallel Computing
+Hydra Home Page
+ASPLOS-VII: Advance Program, Cambridge, Massachusetts, Oct 1-5, 1996
+The I-ACOMA Publications
+Microprocessor Report
+The SimOS Home Page
+Tom Dunigan's Home Page
+Coda & Odyssey
+Designing and Building Parallel Programs
+High Perf Computing
+Computer Science House: Projects
+
+
+reference
+
+Hypertext Webster Interface
+Community of Science Web Server
+Britannica Online
+MapQuest! Interactive Atlas - View
+Smithsonian Table of Contents
+Xerox PARC Map Viewer: world 0.00N 0.00E (1.0X)
+Zip code list
+
+pubs
+
+Mercury Center
+CNN
+India Today
+Crossroads 2.3 February 1996
+Welcome to Times Newspapers Ltd. Internet Space
+The Nando Times: Last Updated at Feb 28, 1996 6:21 p.m.
+IRS - The Digital Daily
+PC Week
+
+fun
+
+quotes
+
+get a life
+FRANK's Quotations
+
+movies
+
+Hollywood Online
+Cinemedia/Films
+
+humor
+
+Yahoo! - Entertainment:Humor, Jokes, and Fun:Anagrams
+Ambrose Bierce, Forked Tongue, (GGW#5)
+Diganta's World
+Barking Spider
+The laughing Internet
+Oracle Service Humor Archives
+Humorous Articles by Ramesh Mahadevan
+The Godling's Glossary
+The Far Side Daily
+
+words
+
+Anagram Examples
+Net Sage Wordware Page
+The WWW Anagram Generator
+The CrossWord Puzzle Lab
+Synonyms Entry Form
+
+anim
+
+The XAnim Home Page
+The XAnim Software
+
+music
+
+Walnut Creek CDROM Web Site
+Hindi Movie Songs
+Hindi films and Music
+
+pix
+
+JPEG image 485x736 pixels
+assorted
+
+cartoons
+
+Life in Hell
+The Calvin & Hobbes Comic Gallery
+Calvin is God
+calvin & hobbes
+dilbert
+
+sports
+
+CricInfo - The Home of Cricket on the Internet
+Yahoo! Scoreboard
+ESPNET SportsZone
+World Cup Cricket
+
+games
+
+The Osiris Trivia Quiz
+My Games Pages
+PC - Direct Download
+Kevin Cowtan's Scrabble Challenge Game
+Games Domain - Games related information site
+
+food
+
+Index of /recipes/indian/
+Veggies Unite!
+Recipes
+
+Worldshop
+Weird Fact of the Day Archives
+
+weather
+
+Weather-Madison, Wis.
+NWS Chicago: Midwest Weather
+The Weather Resource
+
+India
+
+Tamil Nadu
+
+The Tamil Nadu Home Page
+
+Karnataka
+
+Karnataka Home Page
+Bangalore Homepage
+Mysore City, India
+
+Rejith Kumar Krishnan's Home Page
+India
+India online
+web India
+INDOlink
+rediff
+Hello India
+HINDU TEMPLE OF ATLANTA, RIVERDALE, GA
+Bhaarat Ek Khoj: Discovery of India [B.G. Mahesh]
+Law Offices of Rajiv S. Khanna
+U.S Immigration
+
+USA
+
+Welcome to the INS Home Page
+wi
+
+madison
+
+My Town
+Welcome to WMTV Channel 15!
+isthmus
+onion
+
+
+Amtrak Schedules
+
+net
+
+CSUWEB: RTFM, Web Style
+WhoWhere? E-mail Addresses
+Hypermail Documentation
+s/w
+
+perl
+The CGI Book � Examples
+Exmh Home Page
+The SUIF Compiler
+iprof
+
+search
+
+
+orgs
+
+Sun Microsystems Laboratories
+electronic design
+cray
+mips
+sun
+sgi
+digital
+intel
+ibm
+cra
+w3
+metro-x
+
+services
+
+fed webs
+Ftp script
+commercial services directory
+The Internet Services List
+cash
+e cards
+electric postcards
+
+bibliograffy
+
+A Collection of Computer Science Bibliographies
+
+info
+
+alex
+uiuc archive
+internic
+archie
+MicroDesign
+SunSITE
+Yahoo Computers
+UNIX Reference Desk
+GNA Course: Introduction to Object Oriented Programming Using C++
+Index to Object-Oriented Information Sources
+
+books
+
+PARALLEL ALGORITHMS FOR REGULAR ARCHITECTURES
+fiction
+Tools for Thought by Howard Rheingold: Table of Contents
+The Consummate Hitchhiker's Guide
+Stack Computers: the new wave -- an on-line book
+hhgttg
+cyberkind
+
+stores
+
+books
+
+amazon
+future fantasy
+Panasonic Online! Home Page
+
+music
+
+Sanyo Ireland Ltd.
+Sony Online
+Crutchfield Sony Store
+AIWA AMERICA, INC. Home Page
+Dolby Laboratories, Inc.
+
+AuctionWeb Classifieds
+internet shopping network
+onsale
+netex
+
+trs
+
+cs
+WRL
+
+freenix
+
+linux
+freeBSD
+
+lib
+
+Classics at the Online Literature Library
+Doug's Library -- Welcome Page
+Library of Congress World Wide Web (LC Web) Home Page
+Virtual: Subject Catalog
+Virtual Library
+wisc.edu
+IBIC
+
+faq
+
+mh
+wendt
+rtfm
+usenet
+
+fone
+
+AT&T Toll-Free Internet Directory
+
+
+travel
+
+Student and Budget Travel Guide
+itn
+agents
+
+finance
+
+FinAid: The Financial Aid Information Page
+FV: Account Application
+
+people
+
+Home Page - Dick Sites
+cry1
+cry2
+Make-A-Wish Foundation� of America
+Vaishnavism
+Keirsey Temperament Sorter- Jungian Personality Test
+Ambrose Bierce
+Tim Berners-Lee
+John K. Ousterhout
+
+Internet Providers
+
+The Internet Fax Server
+
+Miscellania
+
+cool sites
+
+Useful Italian and International Sites
+Other Cool Sites on the WWW
+I-way 500: Fall 1996
+
+The Boeing Company
+Links to Web Sites on National Parliaments
+New Project shirt
+Differences between C and C++
+
+The IMSc Home Page
+The 80s Server: "Children Of The Eighties" by Bryant Adkins
+Welcome to the ETS Net
+GNA - Introduction to Object-Oriented Programming
+Rick Dees Home Page: Frames Version
+

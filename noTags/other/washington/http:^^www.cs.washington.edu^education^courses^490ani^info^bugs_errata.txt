@@ -1,0 +1,27 @@
+Date: Mon, 02 Dec 1996 15:57:18 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+Bugs and Errata
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bugs and Errata
+If you'd like to report a bug, send it to
+bswest@cs.
+
+Learning Alias bugs
+
+
+

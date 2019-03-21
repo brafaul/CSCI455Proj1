@@ -1,0 +1,91 @@
+Date: Tuesday, 26-Nov-96 18:59:55 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tuesday, 27-Aug-96 15:12:27 GMT
+Content-length: 4023
+
+
+
+
+ELEN 346 Introduction to Control Systems
+
+
+
+
+ELEN 321 Signals
+and Systems FALL 1996
+
+MWF 10:00-10:50 ST306-W
+
+Instructor: Dr. Sergey Drakunov
+
+
+Associate Professor
+ST Office C, ph. X3285
+e-mail: drakunov@mailhost.tcs.tulane.edu
+
+
+
+Office Hours: MWF 2:00-3:00 pm or by appointment
+
+Textbook: Discrete-Time and Continuous-Time
+Linear Systems, by R.J. Mayhan
+Addison-Wesley Publishing Company.
+--------------------------------------------------------------------------------------------------------------------------------
+ACTIVITIES
+
+Introduction
+
+Mathematical Background (Appendix:
+Matrices and Vector Spaces).
+Classification of Systems (Sections
+1.2, 1.3).
+
+Test T1
+
+Continuous-Time Systems
+
+Continuous-Time Systems Modeling
+and Simulations (Sections 1.4-1.5).
+Continuous-Time Systems Analysis
+(Sections 2.1, 2.3.1,2.3.3, 2.4).
+Continuous-Time Systems Convolution
+(Section 3.2).
+The Laplace Transform (Sections
+7.1-7.6, 7.8, 7.9, 7.11).
+
+Test T2
+
+Discrete-Time Systems
+
+Discrete-Time Systems Modeling
+and Simulations (Sections 1.6-1.8).
+Discrete-Time Systems Analysis
+(Sections 2.2, 2.3.2, 2.4).
+Discrete-Time Systems Convolution
+(Section 3.1).
+The Z-Transform (Sections 5.1-5.4).
+
+Test T3
+
+Continuous-Time and Discrete-Time
+Signals
+
+Fourier Analysis (Chapter 6,
+selected sections).
+Sampling and Reconstruction (Chapter
+8, selected sections).
+
+Final Exam
+--------------------------------------------------------------------------------------------------------------------------------
+HOMEWORKS: upon logical completion of every topic
+the set of problems will be given for individual work (approximately one
+h/w per week).
+
+GRADING: the following weights will be used in
+final evaluation: homeworks - 10%, tests T1, T2, T3 - 20% each, final exam-
+30%.
+
+
+

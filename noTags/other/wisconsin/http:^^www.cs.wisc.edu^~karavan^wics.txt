@@ -1,0 +1,59 @@
+Date: Tue, 05 Nov 1996 21:16:36 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sun, 15 Sep 1996 04:23:46 GMT
+Content-length: 2620
+
+
+ WICS 
+
+ WICS 
+ Women in Computer Sciences (WICS) is an
+informal group of all female members of the Computer Sciences
+Department here at UW-Madison.  This includes students (both graduate
+and undergraduate), faculty, and research/teaching staff.
+
+ To add your name to the WICS mailing list, send mail to: 
+
+ listproc@cs.wisc.edu
+
+Leave the subject blank, and put the following in the body:
+
+ subscribe wics {your name in real life here}
+
+ All subscription requests to WICS are approved by the list administrator.
+Members of the community are asked to respect the fact that this list is 
+restricted to females in the UW-Madison CS community. 
+Some resources of possible interest to Computer Sciences Women
+Exploring Your Future
+ in Math and Science: Resources for girls and women considering careers in the sciences.  These materials were put together by UW-Madison students as a course project.
+
+
+The International Network of Women in Technology (WITI) home page, including information on the upcoming Channels for Change 96 conference
+NSF Annual Report on
+Women, Minorities, and Persons with Disabilities in Science and Engineering:
+1994
+UW-Madison
+Women's Studies Librarian's Index
+CRA Committee on the Status of 
+Women in Research
+The Ada Project: A collection of resources for women in computing
+Women Undergrads in Computer Science
+Feminist
+Activist Resources on the Net
+UNC list
+of Women's Resources on the Internet
+The Atlanta
+Reproductive Health Center's homepage
+The Echo website
+The Women's Web, a 
+news and information server maintained by the San Francisco Examiner
+
+
+
+
+  "A ship in port is safe, but that is not what ships are for. 
+   Sail out to sea and do new things." 
+                   --  Admiral Grace Hopper, Computer Pioneer 
+
+

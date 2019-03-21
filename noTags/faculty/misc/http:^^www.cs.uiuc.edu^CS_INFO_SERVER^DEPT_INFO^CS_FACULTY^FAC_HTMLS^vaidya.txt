@@ -1,0 +1,46 @@
+Date: Thu, 21 Nov 1996 20:21:50 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 12 Sep 1996 18:48:16 GMT
+Content-type: text/html
+Content-length: 1457
+
+Vaidya, Pravin
+
+Pravin Vaidya
+
+
+
+
+Artificial Intelligence:  Machine Learning
+Communication Netwo
+rks:  Design
+Numerical & Scientific Computing:
+Linear Algebra; Parallel Algorithms; Semiconductor Device Simulation
+Parallel Computing:  Algorithms; Compu
+ter Systems
+Real-time Computing Systems:  Scheduling;
+Partial Computations, Databases
+Theoretical Computing:  Analysis of Algo
+rithms & Data Structures; Combinatorics; Computational Geometry;
+        Computational Learning Theory; Complexity Theory
+
+
+Research group:
+
+Administrative help:
+
+
+Marla Brownfield
+
+2105 Digital Computer Laboratory
+1304 West Springfield Avenue
+Urbana, IL 61801
+
+(217) 333-0871
+(217) 244-6500- fax
+vaidya@cs.uiuc.edu
+
+
+
+
+Go back to Faculty Index

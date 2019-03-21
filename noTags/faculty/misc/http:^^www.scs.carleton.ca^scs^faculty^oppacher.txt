@@ -1,0 +1,46 @@
+Date: Mon, 25 Nov 1996 20:10:17 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 05 Mar 1996 13:25:47 GMT
+Content-length: 1815
+
+
+
+oppacher.home
+
+
+
+
+Dr. Franz Oppacher 
+Professor
+oppacher@scs.carleton.ca
+Dr. Oppacher has an M.Sc. in Mathematics and a Ph.D. in Logic from the University
+of Vienna, and an M.Sc. in Computer Science from Concordia University, Montreal.
+He taught at Washington University, McGill University, and Concordia University
+before joining Carleton University in 1983. 
+His research interests include Evolutionary Computation
+(Genetic Algorithms, Genetic Programming, Artificial Life) and several
+areas of Artificial Intelligence and Cognitive Science (Machine Learning,
+Automated Theorem Proving, Natural Language Understanding).
+
+
+current courses research
+interests
+
+
+fun links other
+stuff
+
+
+
+
+Thanks for visiting!
+
+e-mail: oppacher@scs.carleton.ca
+office: 5368 Herzberg Physics Building, Carleton University, Ottawa,
+Ontario, K1S 5B6
+fax: 613-520 4334
+
+
+
+

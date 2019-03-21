@@ -1,0 +1,37 @@
+Date: Tue, 10 Dec 1996 21:39:08 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 04 Dec 1995 18:21:59 GMT
+Content-length: 1131
+
+
+UI Research
+
+
+UI Research and related sites
+Human-Computer Interaction
+
+ The HCI Launching Pad
+ 
+Hans de Graaff's HCI Index
+ LUTCHI Research Centre at Loughborough University of Technology
+ Center for Human-Machine Systems Research at Georgia Tech
+ 
+HCI Bibliography at Ohio State
+
+Graphics and Visualization
+
+ Grahics, Visualization and Usability at Georgia Tech
+ User Interface Research at Xerox PARC
+
+Bibliography
+
+ DeckScape 
+
+ 
+
+Joseph M. Sherman 
+Last modified:
+Thursday, December 1, 1994
+
+

@@ -1,0 +1,37 @@
+Date: Tue, 10 Dec 1996 03:35:46 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+UW Cecil/Vortex Project Members
+
+
+UW Cecil/Vortex Project Members
+The Cecil and Vortex projects are led by Craig Chambers chambers@cs.washington.edu
+
+Current Students:
+
+Jeff Dean jdean@cs.washington.edu
+Dave Grove grove@cs.washington.edu
+Vass Litvinov vass@cs.washington.edu
+Greg DeFouw gdefouw@cs.washington.edu
+Leo Shum shum@cs.washington.edu
+Brian O'Neill bso@cs.washington.edu
+
+
+Alumni:
+
+MaryAnn Joy (now at GeoWorks)
+Tina Wong twong@cs.berkeley.edu
+Phiem Huynh Ngoc
+Charlie Garrett garrett@cs.washington.edu
+Vitaly Shmatikov shmat@cs.stanford.edu
+Ben Teitelbaum ben@cs.wisc.edu
+Matt Parker
+Piaw Na (now at Pure Software)
+
+
+Last updated May 10, 1995. 
+cecil@cs.washington.edu 
+
+

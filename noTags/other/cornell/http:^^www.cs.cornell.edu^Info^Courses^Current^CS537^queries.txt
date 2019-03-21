@@ -1,0 +1,147 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:44:04 GMT
+Content-Type: text/html
+Content-Length: 6668
+Last-Modified: Thursday, 10-Oct-96 14:15:00 GMT
+
+
+
+CS 537 - Sample Questions
+
+
+ CS 537 - Sample Questions and Answers
+
+ Q.1: Relational Algebra and SQL 
+Consider the following schema used by the Campus Book Store:
+
+ TOY(toyno, toyname, toytype, color, price)
+ BOOK(bookno, bookname, booktype, price)
+ MANUF(mname, address, phone)
+ STOCK(itemno, mname,, quantity)
+
+In the above, primary keys are in boldface. You can assume that each
+STOCK.itemno value refers either to a toy or a book (but not to both).
+Each manufacturer can make toys or books or both. Express the following
+queries in the relational algebra and in SQL:
+
+ Print the phone numbers of manufacturers who make a toy of type
+"bicycle" and a book of type "animal story"
+ Print the toy types where every known manufacturer makes at least one toy of that type.
+ Print the names of manufacturers who make both a toy of type "truck" and a book of type "bedtime story"
+ Print the names of purple toys made by "Acme Toy Company" where the store has at least 100 of them in stock
+ Print the phone numbers of the manufacturers who make the most expensive book known to the store.
+
+Answer. (last updated : Thu Oct 10 10:13:56 EDT 1996)
+ Q.2: Files 
+Consider a relation R with 10 attributes, some of variable size. 
+
+ Suggest a record structure for tuples of R.
+ Suggest a page structure for pages of R.
+ Instead of storing an entire tuple as a record ("horizontal partitioning"
+of a relation), another alternative is store each column value for
+all tuples contiguously ("vertical partitioning"). Why is vertical
+partitioning usually a bad idea?
+ The records on a page usually belong to the same relation. Why is it
+a bad idea to store records of multiple relations on the same page?
+ Find one counter example to each of the last two questions (i.e.,
+one query for which vertical partitioning is good, and one for which
+it is good to store multiple relations' records on the same page).
+
+Answer. 
+ Q.3: Indexes
+Consider a B+-tree index.
+
+ Write pseudo code for the insertion algorithm for a leaf page,
+involving splitting in case of overflow.
+ Change the pseudo-code to consider redistribution with a neighbor.
+ In what cases does each approach make sense: consider many vs few
+concurrent users, desire to minimize disk usage, etc.
+
+Answer.
+ Q.4: Memory Management
+Consider the LRU replacement policy for a buffer pool.
+
+ Describe a database query processing scenario for which LRU is 
+ideally suited.
+ Describe a scenario for which LRU is terrible.
+ What is the principle behind LRU, and why does the principle fail
+for the second scenario?
+ Is there some way to improve LRU to correctly apply the principle
+(or to work in more cases)?
+
+Answer.
+ Q.5: Memory Management 
+Suppose there is enough main memory (say 1 GB) in the system to hold
+relation R (400 MB) and relation S (400 MB). Now you want to join
+R and S using a nested loops join.
+
+ Is there a difference now between tuple-at-a-time nested loops join
+and page-at-a-time nested loops join?
+ How about blocked nested loops join?
+ Of all the algorithms we learnt, what would you recommend as the
+best one to use?
+ Find a counter-example where your answer to the previous question
+is invalid.
+
+Answer.
+ Q.6: Join Algorithms
+Consider the problem of joining a 1,000,000 tuple relation R with a 50,000
+tuple relation S. In both relations, 5 tuples fit on a page. The system's
+page size is 1K bytes and the join predicate specifies an equality join
+between attributes R.a and S.b.
+
+ Explain how the GRACE hash join algorithm works.
+ What will the total I/O cost be to perform GRACE hash join of R and
+S assuming that there is just enough memory available?
+ Discuss the memory needs of GRACE hash join. What is the worst-case
+scenario, and when might this occur?
+ Can the GRACE hash join be used to compute a non-equality join? Explain
+why or why not.
+
+Answer.
+ Q.7: Query Processing
+You are asked to write a duplicate-eliminating projection operation for
+a new relational DBMS. Your boss is an expert on join algorithms and you
+want to impress by adapting join techniques to this problem.
+
+ How can sorting be used for projection? How would you make efficient
+use of main-memory for this task?
+ How can hashing be used, and how would you make efficient use of 
+main-memory for this task?
+ Now can you get yourself a promotion by showing your boss that the
+same code can be used for processing aggregates (GROUPBY) as well?
+
+Answer.
+ Q.8: Query Optimization
+The System-R optimizer (Selinger paper) describes one particular query
+optimization algorithm for SQL queries.
+
+ Where is the assumption about uniform distribution of column values
+used? How would you change it if histograms were maintained about the
+column frequency distributions?
+ What is the notion of "interesting orders"? If System-R supported
+a GRACE hash join, is there an analogous notion?
+ How would you change the cost formulas for access paths to take
+into account the difference between sequential and random I/O?
+ What equivalence transformations of the relational algebra
+make join optimization a large search problem?
+ Show an example where the System-R optimizer would not even
+consider the optimal query plan.
+
+Answer.
+ Q.9: Query Optimization
+There are several heuristics which are also used in query optimization.
+
+ Demonstrate selection pushdown, and a case where it doesnt work.
+ Demonstrate projection pushdwon, and a case where it doesnt work.
+ Consider a query with expensive selections and projections, in addition
+to joins. Can you suggest an extension to the System-R optimizer join
+enumeration strategy that will also consider the appropriate
+placement of expensive selections and projections? 
+
+Answer.
+
+
+
+

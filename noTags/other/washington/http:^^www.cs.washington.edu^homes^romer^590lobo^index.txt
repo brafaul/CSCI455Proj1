@@ -1,0 +1,222 @@
+Date: Tue, 10 Dec 1996 21:32:51 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 13 Feb 1996 21:06:17 GMT
+Content-length: 7589
+
+
+
+590lobo Reading Group
+
+ 590lobo Reading Group
+
+
+Cache Performance Models (Autumn '95)
+
+
+
+Agarwal, Horowitz, and Hennessy, "An analytical cache model",
+ACM TOCS, 7:2, 184-215, May 1989.
+
+Singh, Stone, and Thiebaut,
+"A model of workloads and its use in miss-rate prediction
+for fully associative caches", IEEE TOC, 41:7, 811-25, July 1992.
+
+Martonosi, Gupta, and Anderson,
+
+"MemSpy: analyzing memory system bottlenecks in programs", 
+Performance Evaluation Review, 20:1, spec. issue, pp. 1-12, June 1992.
+
+
+Hill and Smith, "Evaluating Associativity in CPU Caches", IEEE TOC, 1989, 1991.
+
+
+
+A Comparison of Trace-Sampling Techniques for Multi-Megabyte Caches,
+
+
+R. E. Kessler, Mark D. Hill, David A. Wood,
+IEEE Transactions on Computers, June 1994.
+
+
+Reading List
+
+
+
+October 5th
+
+Implementing Global Memory Management in a Workstation Cluster.
+
+
+AUTHORS:
+Michael J. Feeley, William E. Morgan, Frederic P. Pighin,
+Anna R. Karlin, Henry M. Levy (University of Washington),
+Chandramohan A. Thekkath (DEC Systems Research Center).
+
+* contact: levy@cs.washington.edu
+* http://www.cs.washington.edu/homes/levy/sosp.ps
+
+
+
+October 12th
+
+Serverless Network File Systems.
+
+
+AUTHORS: Thomas E. Anderson, Michael D. Dahlin, Jeanna M. Neefe, 
+David A. Patterson, Drew S. Roselli, Randolph Y. Wang
+(University of California at Berkeley).
+
+* contact: dahlin@cs.berkeley.edu
+* http://HTTP.CS.Berkeley.EDU/~dahlin/papers/sosp95.ps
+
+
+Candidate papers: Recent SOSP papers
+See also 
+SOSP 15 paper list.
+
+On Micro-Kernel Construction.
+
+
+AUTHOR:
+Jochen Liedtke (GMD).
+
+* contact: jochen.liedtke@gmd.de
+* http://borneo.gmd.de/RS/L4/sosp95.ps
+
+
+Informed Prefetching and Caching.
+
+
+AUTHORS:
+R. Hugo Patterson, Garth A. Gibson, Eka Ginting, Daniel Stodolsky,
+Jim Zelenka (Carnegie Mellon University).
+
+* contact: rhp@cs.cmu.edu
+* http://www.cs.cmu.edu/afs/cs/project/pdl/WWW/PDL/LibraryPages/Publications.html#TIP
+
+
+CRL: High-Performance All-Software Distributed Shared Memory.
+
+
+AUTHORS: Kirk L. Johnson, M. Frans Kaashoek, Deborah A. Wallach (M.I.T.).
+
+* contact: tuna@hing.lcs.mit.edu
+* http://www.pdos.lcs.mit.edu/crl/crl-sosp-15.html
+* http://www.pdos.lcs.mit.edu/papers/crl-sosp95.ps
+
+
+Hive: Fault Containment for Shared-Memory Multiprocessors.
+
+
+AUTHORS:
+John Chapin, Mendel Rosenblum, Scott Devine, Tirthankar Lahiri,
+Dan Teodosiu, and Anoop Gupta (Stanford University).
+
+* contact: jchapin@cs.stanford.edu
+* ftp://www-flash.stanford.edu/pub/hive/SOSP95-hive.ps
+
+* http://www-flash.stanford.edu/OS/
+
+
+Logged Virtual Memory.
+
+
+AUTHORS:
+David R. Cheriton and Kenneth J. Duda
+(Stanford University).
+
+* contact: cheriton@cs.stanford.edu
+
+
+Multithreading (Spring '95)
+
+
+
+D.M. Tullsen, S.J. Eggers, and H.M. Levy, Simultaneous
+Multithreading:   Maximizing On-Chip Parallelism, to be published in 
+the 22nd Annual International Symposium on Computer Architecture, June,
+1995
+(see abstract)
+
+New Operating Systems Structures (Winter '95)
+
+
+
+
+Aegis: A Secure Programmable Exokernel.
+D. R. Engler, M. F. Kaashoek, and J. W. O'Toole (MIT unpublished report).
+
+
+Scout: A communications-oriented operating system.
+A. B. Montz, D. Mosberger, S. W. O'Malley, L. L. Peterson, T. A. Proebsting,
+J. H. Hartman. 
+Technical Report 94-20, Department of Computer Science, University of
+Arizona, June 1994.
+
+Christopher Small and Margo Seltzer.  1994.  ``VINO:  An Integrated Platform for Operating System and Database Research.'' Harvard DAS TR-30-94.
+
+Yasuhiro Endo, James Gwertzman, Margo Seltzer, Christopher Small, Keith A. Smith, and Diane Tang.  1994.  ``VINO: The 1994 Fall Harvest.'' Harvard DAS TR-34-94.
+
+D.R. Cheriton and K.J. Duda.  A caching model of operating system
+kernel functionality.  In Proceedings of the First Symposium on
+Operating System Design and Implementation. USENIX, November,
+1994.
+Hypertext
+or 
+compressed PostScript
+or 
+abstract
+
+
+SPIN - An Extensible Microkernel for Application-specific
+Operating System Services University of Washington Technical
+Report CSE-94-03-03
+
+
+Issues in the Design of an Extensible Operating System
+This paper was submitted to a prestigious conference but rejected.
+
+
+FLEX: A Tool for Building Efficient and Flexible Systems.
+John Carter, Bryan Ford, Mike Hibler, Ravi Kuramkote, Jeff Law,
+Jay Lepreau, Douglas Orr, Leigh Stoller, Mark Swanson.
+Appeared in Proceedings of the 4th Workshop on Workstation
+Operating Systems, October 1993.
+(Abstract)
+
+Efficient, Portable, and Robust Extension of Operating System
+Functionality.
+Amin M. Vahdat, Douglas P. Ghormley, and
+Thomas E. Anderson.  December, 1994.
+UC Berkeley Technical Report CS-94-842.
+Also submitted to HotOS-V -- HTML,  Postscript.
+
+
+People
+
+
+
+
+Ruth Anderson
+
+
+Jeff Dean
+
+
+Dave Grove
+
+
+Anthony LaMarca
+
+
+Dylan McNamee
+
+
+Ted Romer
+
+
+Wayne Wong
+
+
+

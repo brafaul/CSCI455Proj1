@@ -1,0 +1,96 @@
+Date: Tue, 26 Nov 1996 18:46:16 GMT
+Server: NCSA/1.5.2
+Last-modified: Tue, 12 Nov 1996 19:00:08 GMT
+Content-type: text/html
+Content-length: 4361
+
+
+
+
+CSC691-O title page
+
+
+
+
+CSC 691-O: Object-Oriented Programming Languages
+
+
+Announcements
+
+Here's the EoPL chapter on Type
+Checking and Inference. (And here is the code
+from the examples.)
+Here's the lexical address solution.
+The third
+homework is available. 
+The second
+homework is available. 
+We now meet 4:05 - 5:10 in Mann 425. 
+Here is are some links to research on Object-Oriented
+Languages. 
+The first
+homework is available. 
+
+
+
+Course Details
+
+Time: 4:05 - 5:20, T R 
+Place: Mann 425 
+Instructor Jon Rossie (jrossie@csc) 5-7889 
+Office Hours 1 - 2:30, T R, Daniels 207D 
+Texts: 
+
+Dybvig, R. K.,The Scheme Programming Language, Second Edition,
+Prentice-Hall, 1996. (REQUIRED) 
+Friedman, D. and Felleisen, M., The Little Schemer, Fourth Edition,
+MIT Press, 1996. (RESERVED) 
+Friedman, D. and Felleisen, M., The Seasoned Schemer, MIT Press,
+1996.(RESERVED) 
+Friedman, D., Wand, M., and Haynes, C., Essentials of Programming
+Languages, MIT Press/McGraw Hill, 1992. (RESERVED) 
+
+
+Course Overview
+The content of this course will depend largely on student backgrounds.
+In any case, we will take an in-depth look at design and implementation
+issues for object-oriented programming languages. Your core activity will
+be to implement a variety of object-oriented language mechanisms using
+Scheme. We will develop a core language implementation, and the programming
+assignments will typically involve extending this core in various ways.
+This should give you a chance to spend less time coding and more time thinking.
+
+We will spend a significant part of our lecture time discussing the
+assignments and presenting solutions. The problems tend to be open-ended,
+and we learn a lot from seeing how others approach a problem. These are
+not formal presentations, and you should come to every class prepared to
+present your current work. 
+Around the middle of the term, you will also be asked to pick a topic
+for a short paper. The paper will address one of the topics raised in the
+course, and should involve a literature survey as well as some original
+thought. The paper will be due by the end of finals week. I will probebly
+require paper drafts at some point in November so I can give you some early
+feedback. 
+
+
+How
+to setup Chez Scheme in your environment. 
+How
+to setup emacs to run Scheme. 
+The
+Internet Scheme Repository 
+The
+R4RS Scheme Standard Definition (HTML) 
+The
+R4RS Scheme Standard Defintion (PS) 
+Schemers, Inc. Commercial
+Scheme site, including Scheme-based 3-D imaging. 
+
+
+Computer Science Department
+
+jrossie@csc.ncsu.edu
+Last modified: Mon Sep 2 23:21:47
+EDT 1996 
+
+

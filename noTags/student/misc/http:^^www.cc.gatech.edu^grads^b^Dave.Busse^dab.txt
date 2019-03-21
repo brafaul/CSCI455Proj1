@@ -1,0 +1,40 @@
+Date: Thu, 21 Nov 1996 22:17:24 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1259
+Last-modified: Wed, 26 Oct 1994 12:49:49 GMT
+
+Dave Busse's Home Page
+Dave Busse
+
+
+
+
+I am a part-time Masters student in the
+
+College of Computing  at the
+
+Georgia Institute of Technology
+.  I started in Fall of 1991 and have been
+slowly advancing toward my goal of finishing my
+degree before the 1996 Olympic Games!  I must admit
+that I already have what most graduate students really want - a JOB.
+I'm employed as a Principle Software Engineer for
+Data General Corporation.
+My title may sound impressive, however my boss
+says it simply means I've been with the company so long
+ (18 years), they don't know what else to call me.
+
+I recieved my B.S. in Mathematics at
+Northern Illinois University in 1970.  I'm been working in
+the computer industry in technical support or
+software development for the last 23 years.
+
+
+Contact information:
+Dave Busse
+Data General Corporation
+4170 Ashford Dunwoody Road
+Atlanta, Georgia 30319
+(404) 973-6201
+E-mail : dab@cc.gatech.edu

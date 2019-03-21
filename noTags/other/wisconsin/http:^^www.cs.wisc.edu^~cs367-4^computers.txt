@@ -1,0 +1,117 @@
+Date: Tue, 05 Nov 1996 00:27:09 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 19 Sep 1996 21:15:08 GMT
+Content-length: 5075
+
+
+
+
+CS367 Computers
+
+
+
+CS367 Computers
+
+The Computer Sciences Department provides registered students with
+a computer account on the UNIX computers.  You may use any of the
+UNIX computers named sols or vegas.  They are found
+in the computer science building in the labs listed below.  The labs
+are open from 7AM - 1AM, seven days a week. 
+
+    1368  vega1  - vega12
+    1358  vega13 - vega24
+    1363  vega25 - vega36
+    1370  sol1 - sol38
+    1359  printer room with one UNIX consultant
+
+If you have never had a computer science account, you can activate
+your new account by running the newuser program on any of the
+lab computers.  Enter at the login prompt the word newuser
+and hit return for the password.  Then follow the instructions.
+
+You may also want to use a home or other computer for CS367.  I do
+not want to discourage this, since it is more convenient and it reduces
+the demand for the lab computers.  There are two ways to use home or
+other computer.  You can use telnet to 
+connect to the lab computers from a remote location.  This provides
+you with the convenience of working on CS367 from your home, office,
+or other location without the expense of buying your own compiler.
+The second option is to use a home or other computer to develop
+your programs on a different compiler such as Borland C++.  If you
+choose to use this option, please see the
+requirements below.
+
+
+
+Using Telnet for Remote Access
+You can remotely login to your computer science account on the
+ lab machines.  In this manner you are using the other computer as
+ a terminal to connect to the lab computers.  The connection is made
+ using the telnet program.  On a UNIX machine you would enter:
+ 
+    telnet vega22.cs.wisc.edu
+ 
+ to connect to the lab computer named vega22.  On a PC or Mac computer
+ you need to get the Wisc World software from DoIT to be able
+ to remotely access the lab computers.  This software provides a program
+ named telnet, and you will need to edit the site list to add the
+ addresses of the computer science lab machines.  The lab computers
+ are at the following addresses:
+ 
+    vega1.cs.wisc.edu  to  vega36.cs.wisc.edu
+    sol1.cs.wisc.edu   to  sol38.cs.wisc.edu
+ 
+
+
+
+Using Another Compiler
+I suggest that you use a recently updated C++ compiler.  C++ is
+ a new and changing language, and older C++ compilers may not work
+ with the concepts or code samples I discuss in lecture.  I compile
+ the sample code provided using version 2.7.2 of the Gnu g++ compiler,
+ the same compiler you would use with your computer science account.
+
+ If you are using a non-UNIX computer, you will need to get some
+ exposure to the UNIX operating system.  One of the objectives for
+ CS367 is that students learn the UNIX environment and its
+ programming tools (i.e. editors, compilers, debuggers, ...) so that
+ they are prepared for later computer science classes.
+
+ If you are developing your programs on another computer than those
+ provided in the labs you must follow these requirements:
+
+ 
+You must compile and run your program in your computer science
+  UNIX account before handing in each program.  This will provide you
+  with some exposure to the UNIX environment.  It is also necessary since
+  the graders use the source code, which you hand-in electronically, to test
+  your program for correct execution.  Note that there have been times
+  when a student's program works fine at home, but won't work in UNIX.
+  Most often these problems are simple, and due to things such as variables
+  not being correctly initialized.  You should plan ahead, and give yourself
+  enough time to verify that your program works in UNIX.
+  Problems with home or other equipment or software are your
+  responsibility and are not accepted as an excuse.  When you use other
+  computers, you are responsible for keeping backups of your work, and
+  resolving any problems with the system.  There are too many variations
+  of home and other computers and software for me to be of assistance.
+  I will only guarantee that software I provide will work with your computer
+  science accounts, but experience has shown there are few, if any problems,
+  if you are using a recent C++ compiler.
+  You must still do the following:
+
+Get copies of the data files as needed.
+    Hand-in a copy of your program electronically.
+    Watch the on-line information for updates.
+    Read your e-mail.
+  
+
+
+
+
+Copyright © 1996 James D. Skrentny,
+skrentny@cs.wisc.edu
+
+
+

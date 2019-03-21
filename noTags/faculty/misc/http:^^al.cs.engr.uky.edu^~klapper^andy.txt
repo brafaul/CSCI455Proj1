@@ -1,0 +1,38 @@
+Date: Monday, 25-Nov-96 23:07:51 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+
+Andy Klapper's Home Page
+Andy Klapper's Home Page
+
+ My hobbies include  
+  Morris Dancing and  
+  Bird Watching.  Sometimes I do both at the same time, but usually the
+  other dancers get upset when I run into them. 
+ My overall research interest is in applying algebra and number theory to
+  problems in cryptography and communications.  My current research projects
+  involve  2-Adic Shift
+  Registers,  Sequences
+  for CDMA Systems, and  Multicovering Radii of
+  Codes
+ Available papers.
+
+ I am currently teaching  CS 685  
+     Error Correcting Codes.
+
+
+
+Click here
+ to see a recent (large) picture of me. 
+
+I can be reached at: 
+Dept. of Computer Science, 763H Anderson Hall,
+University of Kentucky, Lexington Kentucky, 40506-0046, USA.  
+
+My phone numbers are: (606) 257-6743  
+(Office); (606) 323-1971 
+(FAX).  
+
+My e-mail address is 
+klapper@cs.engr.uky.edu

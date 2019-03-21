@@ -1,0 +1,38 @@
+Date: Thu, 21 Nov 1996 20:22:03 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 22 Jun 1994 16:26:20 GMT
+Content-type: text/html
+Content-length: 908
+
+Saylor, Paul
+
+Paul E. Saylor
+
+
+Areas of research interest:
+
+
+Numerical & Scientific Computing:
+Linear Algebra; ODEs; PDEs; Parallel Algorithms; Mathematical Software
+Parallel Computing:  Algorithms
+
+
+Research group:
+
+Administrative help:
+
+
+Kathy Johnson
+
+2314 Digital Computer Laboratory
+1304 West Springfield Avenue
+Urbana, IL 61801
+
+(217) 333-0256
+(217) 333-3501- fax
+saylor@cs.uiuc.edu
+
+
+
+
+Go back to Faculty Index

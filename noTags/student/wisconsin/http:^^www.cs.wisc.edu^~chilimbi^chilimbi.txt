@@ -1,0 +1,109 @@
+Date: Thu, 07 Nov 1996 19:11:46 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 21 Nov 1995 19:15:55 GMT
+Content-length: 3235
+
+
+
+ Trishul Chilimbi's Home Page 
+
+
+
+ Trishul Chilimbi  (chilimbi@cs.wisc.edu) 
+
+
+
+
+
+Click here for the real me
+
+
+Graduate Research Assistant
+Department of Computer Sciences
+University of Wisconsin - Madison
+1210 West Dayton Street
+Madison, WI 53706  USA
+
+Advisor:  Jim Larus 
+
+Research Interests:
+
+Programming Languages, Compilers & Architectures for Parallel Computing
+
+ Compiling for integrated shared-memory & message-passing
+
+ Parallel program performance analysis & enhancement via Visualization
+
+ Shared-memory parallel computer design
+
+
+Research Projects:
+
+ Wisconsin Wind Tunnel
+
+
+Education:
+
+
+ M.S. University of Wisconsin-Madison, 1993.
+
+ B.Tech. Indian Institute of Technology, Bombay, 1992.
+
+
+ Research Summary 
+ Publications
+
+
+
+
+Cachier: A Tool for Automatically Inserting CICO Annotations,
+
+
+Trishul M. Chilimbi and James R. Larus
+(International Conference on Parallel Processing (ICPP), August, 1994).
+
+
+
+
+
+StormWatch: A Tool for Visualizing Memory System Protocols
+
+
+Trishul M. Chilimbi, Thomas Ball, Stephen G. Eick and James R. Larus
+(Supercomputing '95, To appear, December 1995).
+
+
+ Awards and Honors 
+
+
+
+Certificate of Merit, 1987, 10th in the State Mathematics Olympiad
+
+
+Presidents Gold Medal, 1988, top 25 in the Indian National Physics Examination
+
+
+Certificate of Merit, 1988, 1st in the State Examination in Chemistry
+
+
+Certificate of Merit, 1988, 1st in the State Examination in Electronics 
+
+
+
+
+ Miscellaneous 
+
+ Click here for a movie of me (I can dream, can't I?)
+
+ Curriculum Vitae 
+
+ 
+
+ Last Updated: May 12, 1994 
+
+E-mail suggestions for this page to chilimbi@cs.wisc.edu
+
+
+
+

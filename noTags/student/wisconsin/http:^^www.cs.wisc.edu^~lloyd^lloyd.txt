@@ -1,0 +1,70 @@
+Date: Thu, 07 Nov 1996 19:19:04 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 07 Oct 1996 01:16:48 GMT
+Content-length: 2297
+
+
+
+Shannon Lloyd's Home Page
+
+ Shannon Lloyd 
+
+   Work Address 
+  
+	University of Wisconsin -- Madison 
+  Computer Science Department 
+   1210 West Dayton Street
+    Madison, WI  53706
+   608-263-1938
+  lloyd@cs.wisc.edu 
+
+
+   TA Responsibilities 
+ 
+	CS 132  Using Computers -- Lectures 3 & 4
+  Lab sections (1366 Comp S&St)
+ 
+
+ 354 5:20 - 6:35 pm TH 
+      356 6:40 - 7:55 pm TH
+   
+ Office hours (1351 Comp S&St)
+ 
+ Wednesday 12:00 - 1:00
+      Thursday 11:00 - 12:00 
+      or by appointment
+ 
+
+
+  Fall 1996 courses 
+
+ 
+	CS 701   Construction of Compilers (9:30 - 10:45 TH)
+  	CS 771 (545)  Computational Linguistics (1:20 - 3:15 MWF)
+
+  Various other links 
+
+  
+	Women in Computer Science 
+  University of Utah  Department of 
+        Chemistry 
+  University of Utah Department of 
+        Computer Science 
+  Personal 
+  
+	Engineering Career Services 
+  
+	Computation and Language Archive 
+  
+	Computational Linguistics 
+  
+	Natural Language Processing 
+ 
+	UW Artificial Intelligence 
+  
+	Cognitive and Linguistic Science 
+  xsoft lexdemo 
+
+
+

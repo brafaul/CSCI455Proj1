@@ -1,0 +1,55 @@
+Date: Tue, 10 Dec 1996 21:29:10 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 05 Apr 1995 19:29:35 GMT
+Content-length: 1650
+
+
+
+
+Evaluating predicated and speculative execution on Alpha
+
+
+
+
+Evaluating predicated and speculative execution on Alpha
+
+
+
+  The group: 
+
+
+  David Christianson 
+  Omid Madani 
+  Kari Pulli 
+
+
+  Project idea 
+
+ Predicated execution combines the effects of performing a test and
+branching based on the test. Hence a branch is avoided, which
+increases the pipeline efficiency and eases the scheduling for
+superscalar execution. Speculative execution, i.e., prediction of the
+branch direction, will facilitate speculative execution since the
+program contains less branches. The exact nature of their interaction,
+however, is not clear at the surface. Will they have their own niches,
+e.g., is predicated execution mainly useful for small branches and
+speculative for large branches?  Will their efforts overlap so that
+the combined speedup of the parts is less than their sum, or maybe
+they are orthogonal (combination equals sum) or there is synergy
+(combination exceeds sum)?
+
+Click  here  for a detailed proposal.
+
+In the project we ended up concentrating more on the conditional
+moves rather than speculative execution. Here's our 
+report .
+
+Here's the  data  we gathered.
+
+
+
+{kapu|madani|dbc1}@cs.washington.edu
+
+ Updated 4/5/95 
+

@@ -1,0 +1,137 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:39:51 GMT
+Content-Type: text/html
+Content-Length: 3657
+Last-Modified: Sunday, 20-Oct-96 16:14:23 GMT
+
+
+
+Sean C. Landis
+
+
+
+
+
+Sean Landis, Masters of Engineering, Computer Science
+
+
+
+
+Welcome to my 
+
+Cornell Home Page. 
+Here is my resume.
+My Cornell information is 
+
+here.
+
+
+Current Courses:
+
+Advanced Database Systems
+
+CS 537
+
+ 
+Masters of Engineering Project, CS 790 - A 3D rendering system for Windows 95
+
+
+
+Past Courses:
+
+Machine Perception, CS 664. My final project was a system that analyzed 
+coloring book drawings. Click
+here
+for a 6MB postscript version of the project. Here is a sample drawing we
+analyzed:
+
+
+
+
+Topics in Computer Graphics, CS 718 - Content-Based Image Retrieval Systems for Interior Design.
+
+
+
+ 
+Masters of Engineering Project, CS 790 - A Windows-based 3D graphics rendering system.
+
+Computer Graphics,  
+
+CS 417
+ 
+Computer Graphics Lab,  
+
+CS 418
+
+Educational Interests:
+ 
+Computer Graphics
+
+
+Windows NT
+ 
+C++ 
+ 
+Object Oriented Programming
+ 
+Object Oriented Design Patterns
+
+
+Professional Interests:
+ I work for 
+
+Isis Distributed Systems, Inc., a division of 
+
+Stratus Computer, Inc.
+
+ I am project lead of the 
+
+Orbix+Isis
+ development team. Our product combines Orbix, a
+
+CORBA compliant Object Request Broker from
+
+ IONA Technologies, Inc. with the 
+
+Isis SDK.
+
+ 
+I am currently working on release 2.0 of Orbix+Isis.
+
+
+Personal Interests:
+ 
+Baseball, my favorite team is:
+
+
+ 
+Alpine Skiing
+ 
+Golf
+ 
+Playing Softball
+ 
+Baseball Card Collecting
+
+
+I can be reached at:
+
+
+scl@isis.com
+
+
+
+Educational Rap Sheet:
+
+
+
+
+
+
+
+
+Last modified: Sean Landis (scl@cs.cornell.edu), 9/17/96
+
+
+

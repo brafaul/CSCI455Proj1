@@ -1,0 +1,29 @@
+Date: Wed, 20 Nov 1996 22:49:39 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 1694
+Last-modified: Wed, 10 Jan 1996 19:25:17 GMT
+
+
+CS378. Phenomenological Foundations of Cognition, Language, and Computation
+
+
+CS378. Phenomenological Foundations of Cognition, Language, and Computation
+Stanford University 1995-96
+Terry Winograd
+
+(same as Linguistics 237, VTSS 178)
+In this course we undertake a critical analysis of the theoretical foundations of cognitive approaches to language, thought and computation.  We contrast the rationalistic assumptions of current linguistics and artificial intelligence with alternatives drawn from phenomenology, theoretical biology, critical literary theory, and socially-oriented speech act theory.  The material emphasizes the relevance of theoretical orientation to the design, implementation, and impact of computer systems, especially as it affects human-computer interaction.
+
+3-4 units, Th 1:15-4:05, Gates Hall 104 (NEW LOCATION) 
+
+
+Click here for  course syllabus  
+Click here for a  detailed topic list.
+Click here for a list of HCI courses at Stanford
+
+
+Information provided for the Stanford Computer Science Department by the HCI Course Coordinator as part of the description of HCI at Stanford.   Last updated January 6, 1996
+
+
+

@@ -1,0 +1,81 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 23:08:12 GMT
+Content-Type: text/html
+Content-Length: 4029
+Last-Modified: Tuesday, 24-Oct-95 13:55:49 GMT
+
+The Chains Programming Language 
+ The  programming language is a
+computer language whose basic data structures and operations are based
+on mathematical objects such as vertices, cells,
+cell complexes, chains, cochains, and
+operators such as boundary and coboundary.  
+Together these data types provide the ability to represent a geometric
+shape or other topological structure with an algebraic formula. Once a
+topological or geometric structure is expressed algebraically, it
+becomes possible to operate on geometry and topology with rigorously
+defined algebraic operations, which in turn makes it possible to
+systematically compute topological and geometric quantities and
+properties.  Here  is an example of a
+complex, chain and their algebraic and graphical representations.
+
+
+<About the logo>
+<Quotation>
+< Chains theme song (30 second audio)>
+
+
+What's New?
+Applications of the 
+Lanugage
+
+  Multiple Domain Physical Simulation:
+ has been used to create a combined
+fluid/elastic solid simulator.  
+
+
+  An animation of one run of the
+combined simulator, showing the coupled nature of the fluid/solid
+interactions: how the fluid pressure deflects the elastic solid, which
+in turn provides a modified fluid volume.
+
+
+ Finite elements: 
+Cornell CS TR94-1406 (postscript version) describes the use of
+ as a "language for FEM."  The
+article presents a two page formal specification of an FEM formulation
+of plane stress, using quadratic shape functions defined over
+triangles. This  program
+corresponds closely to a textbook derivation, and yet is efficiently
+executable.
+
+  Communication and standardization
+
+ Parallel and distributed computation (see [HS93])  
+
+ Scientific computing and visualization.
+
+
+
+
+The  language formalizes the
+relationship between geometry (form) and physical behavior (function),
+which is fundamental to most engineering activities.   has applications in computer aided
+design (CAD), scientific computing, and distributed and parallel
+computation.
+
+An algebraic-topological programming language  [Pal94] [PS93]  is a
+computer language that has algebraic-topological objects such as
+vertices, simplexes, complexes, and 
+chains as it's basic data types.  The power of  lies in the
+ability to write an expression that has an evaluable topological (or
+geometric) semantics. This provides the ability to ``program'' at a
+much higher semantic level.
+
+The relationship between the  language and
+algebraic-topology is similar to that between the MATLAB language and
+matrix algebra, or between CSG[RV81] and
+geometry.
+
+ Rick Palmer / rick@cs.cornell.edu 

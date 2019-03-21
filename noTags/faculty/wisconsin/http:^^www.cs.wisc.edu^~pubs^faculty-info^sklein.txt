@@ -1,0 +1,88 @@
+Date: Thu, 07 Nov 1996 19:07:19 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 05 Jan 1996 19:49:51 GMT
+Content-length: 3473
+
+
+
+ Home Page of Sheldon Klein 
+
+
+ 
+ Sheldon Klein 
+
+ Professor of Computer Sciences and Linguistics 
+
+ Computer Sciences Department 
+ University of Wisconsin 
+ 1210 W. Dayton St. 
+ Madison, WI 53706-1685 
+
+ telephone: (608) 262-1204 
+ fax: (608) 262-9777 
+ email: 
+ sklein@cs.wisc.edu 
+
+Ph.D., University of California, Berkeley, 1963 
+Interests:
+Meta-linguistic pragmatics of artificial intelligence and grammars,
+archaeology of knowledge structures, testing theories of language
+change and transmission 
+
+ Research Summary 
+
+My interests are expressed in two related research efforts: 
+
+1. The first involves a meta-linguistic, natural language processing
+system that can be configured to model a variety of theoretical
+linguistic models. It's semantic structures are in the form of
+a relational calculus that can be expressed in implicit semantic
+networks. The basic semantic units are objects and relations.
+Objects may be atoms of classes, or contain relational structures.
+Relations may be logical operators. All units in the system are
+associated with Boolean feature vectors. During the course of
+generation or recognition, inheritance of features is bi-directional.
+Because relations can be defined as logical operators, script-like,
+world knowledge rules can be encoded in the same notation used
+to map semantic structures to syntactic units. Semantic/syntactic
+production rules are represented as data, and the same rules can
+be used for both generation and recognition. The system can contain
+more than one grammar, thereby allowing it to be configured either
+as a machine translation system, or as a natural language interface
+to application command languages. 
+
+2. The combinatoric problems associated with unrestricted models
+of human language processing suggest that real-world knowledge
+systems may have evolved in forms that make combinatoric processing
+problems linear. I am currently investigating the role of Boolean
+groups and analogy in complex behavioral systems, including the
+representation of categorial grammars. Grammars in this notation
+can readily be implemented in connectionist models, and may provide
+a transparent means of linking language structure to neural net
+theory. My research effort has occasionally involved analysis
+of archaeological materials as early as the Middle-to-Upper Paleolithic
+transition. 
+ Sample Recent Publications 
+
+Human cognitive changes at the middle to upper Paleolithic transition:
+The evidence of Boker Tachtit, in The Emergence of Modern
+Humans: An Archaeological Perspective, P. Mellars, ed., pp.
+499-516, Edinburgh University Press, Edinburgh, 1990. 
+ 
+The invention of computationally plausible knowledge systems in
+the upper Paleolithic, in The Origins of Human Behaviour,
+R. Foley, ed., pp. 67-81, Unwin Hyman, London, 1991. 
+ 
+Grammars, the I Ching and Levi-Strauss: More on Siemens' `Three
+Formal Theories of Cultural Analogy', to appear in Journal
+of Quantitative Anthropology. 
+
+
+ This page was automatically created October 4, 1995.
+ Email pubs@cs.wisc.edu
+to report errors.
+
+
+
+

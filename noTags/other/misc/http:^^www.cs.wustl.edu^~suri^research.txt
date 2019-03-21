@@ -1,0 +1,40 @@
+Date: Wed, 15 Jan 1997 01:08:38 GMT
+Server: NCSA/1.5.2
+Content-type: text/html
+
+
+
+ Research Overview
+ RESEARCH INTERESTS 
+
+
+
+  Computational Geometry 
+  Traffic Management in Integrated Networks 
+  Algorithms for ATM Network Design 
+ Approximation Algorithms 
+
+
+
+ GEOMETRY RESOURCES ON THE WEB  
+
+
+ 
+                Computational Geometry Software 
+ 
+                Geometry in Action 
+ 
+		The Stony Brook Algorithm Repository 
+  
+	Minnesota Geometry Center 
+  
+	LEDA: Library of Efficient Data Structures and Algorithms 
+
+
+
+
+
+Back to Subhash Suri's Home Page.
+
+
+

@@ -1,0 +1,45 @@
+Date: Tue, 10 Dec 1996 22:27:28 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+A Re-Ordering Network Interface
+
+
+ 
+CRANIUM: An Interface for Message Passing on Adaptive Packet Routing Networks
+
+
+Neil R. McKenzie, Kevin Bolding, Carl Ebeling and Lawrence Snyder.
+"CRANIUM: An Interface for Message Passing on Adaptive Packet Routing Networks",
+Proceedings of the 1994 Parallel Computer Routing and Communication
+Workshop, May 1994.
+
+ 
+ Abstract 
+Cranium is a processor-network interface for an interconnection
+network based on adaptive packet routing.  Adaptive networks
+relax the restriction that packet order is preserved; packets
+may be delivered to their destinations in an arbitrary sequence.
+Cranium uses two mechanisms:  an automatic-receive interface
+for packet serialization and high performance,
+and a rendezvous interface for flexibility.
+To minimize software overhead, Cranium is directly accessible
+by user-level programs.  Protection for user-level message
+passing is implemented by mapping user-level handles into
+physical node identifiers and buffer addresses.
+
+
+Full paper is available in 
+postscript format.
+
+Document is Copyright 1994 by Springer-Verlag.
+
+ Back to the Chaotic Routing Home Page 
+
+
+
+kwb@cs.washington.edu
+
+

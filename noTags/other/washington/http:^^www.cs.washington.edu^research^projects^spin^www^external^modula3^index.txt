@@ -1,0 +1,37 @@
+Date: Tue, 10 Dec 1996 03:37:12 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+Modula-3 and SPIN
+
+Modula-3 and SPIN. 
+
+
+ The Modula-3 Home Page
+ Lots of good information about Modula-3 at DEC SRC.
+
+ Concise modula-3 bibliography.
+ The link says it all.
+
+ Modula-3 FAQ, Precompiled Binaries, etc.
+ Stuff...
+
+
+  Modula-3 Tutorial
+ Programming Tutorial for Modula-3
+
+ When New Fails
+ A short note on failure of NEW in the standard M3 runtime. Describes why
+it's hard.
+
+
+ Writing an Operating System with Modula-3
+ Some of the things we've learned in writing an operating system with Modula-3.
+
+ GC FAQ
+ Learn lots of about garbage collection technologies.
+
+
+

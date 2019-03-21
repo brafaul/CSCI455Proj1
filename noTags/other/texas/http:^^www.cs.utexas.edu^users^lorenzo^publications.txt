@@ -1,0 +1,124 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:28:50 GMT
+Content-Type: text/html
+Content-Length: 5401
+Last-Modified: Monday, 16-Sep-96 23:11:36 GMT
+
+
+
+ Lorenzo Alvisi's Publications 
+
+
+
+
+ Publications  
+ Journals  
+
+
+
+Parallel Computing in Networks of Workstations with
+Paralex.(with R. Davoli, L.A. Giachini, O. Babaoglu and
+S. Amoroso) IEEE Transactions on Parallel and Distributed Systems
+. 7:4, April 1996, pp 371-384 (Available as Technical Report UBLCS-92-4, 
+Laboratory for Computer Science,
+University of Bologna). 
+
+
+  On the Two Mask Hidden-Line Algorithm.  (with G. Casciola) 
+ Computers & Graphics, vol. 13, no.2 (1989), pp. 193-206.
+
+  A Rule Based Approach for Pattern Recognition in Planar Geometric
+Figures. (with R. Odorico)  Computer Physics Communication, 51
+(1988), pp. 443-450.
+
+ TAM rivisitato: un metodo rapido ed esatto per la rappresentazione
+prospettica di superfici. (with G. Casciola) PIXEL, October
+1988 (In Italian).
+
+
+ Conferences  
+
+ 
+Trade-Offs in Implementing Causal Message Logging Protocols.
+(with K. Marzullo)  Proceedings  of the 15th ACM
+Annual Symposium on the Priciples of Distributed Computing. 
+Philadelphia, May 1996, pp.58-67.
+
+  Deriving Optimal Checkpoint Protocols for Distributed Shared Memory Architectures. (with K. Marzullo) 
+ Brief Announcements, Proceedings  of the 14th ACM Annual Symposium on
+the Priciples of Distributed Computing.   Ottawa, Canada, August 1995,
+pp. 263.
+
+ 
+Message Logging: Pessimistic, Optimistic, and Causal.  (with K. Marzullo)  Proceedings of the 15th
+IEEE International Conference on Distributed Computing Systems.
+Vancouver, Canada, June 1995, pp. 229-236.
+
+ 
+Nonblocking and Orphan-Free Message Logging
+Protocols.  (with B. Hoppe and K. Marzullo)  Proceedings
+of the 23rd Fault Tolerant Computing Symposium , Toulouse,
+France, June 1993 pp. 145-154.
+
+  Paralex: An Environment for Parallel Programming in Distributed  
+Systems. (with O. Babaoglu, S.  Amoroso, R. Davoli and 
+L. A. Giachini).   Proceedings of the 6th ACM International Conference
+on Supercomputing, Washington, D.C., July 1992, 178--187.
+
+ 
+ Parallel Scientific Computing in Distributed Systems:
+The Paralex Approach. Invited paper. (with \item A. Amoroso,
+A. Baronio, O. Babaoglu, R. Davoli and L. A. Giachini).  
+Proceedings of Sixth International Symposium on Computer and
+Information Sciences, Side, Antalya, Turkey, October 1991,
+1093--1103. (Available as Technical Report UBLCS-92-2, 
+Laboratory for Computer Science,
+University of Bologna). 
+
+
+
+ 
+Mapping Parallel Computations onto Distributed Systems
+in Paralex.  Invited paper. (with O. Babaoglu, A. Amoroso
+and R. Davoli).   Proceedings of IEEE CompEuro '91 , Bologna,
+Italy, May 1991, 123--130. (Available as Technical Report UBLCS-92-1, 
+Laboratory for Computer Science,
+University of Bologna). 
+
+
+ Workshops  
+
+
+Deriving optimal checkpoint protocols for distributed
+shared memory architectures. (with K. Marzullo)  Selected Papers, International Workshop in Theory and Practice in Distributed Systems
+, K. Birman, F. Mattern and A. Schiper editors, Springer-Verlag
+1995, pp. 111-120.
+
+
+ VIDA: An Ape Extension for the Steering of Numerical
+Simulations  (with G. Fabiani and L. Moltedo).
+ Proceedings of the ISMM International Workshop on Parallel
+Computing , Trani, Italy September 1991, pp. 375-377
+
+
+ Technical Reports  
+
+ Two and Four
+Array Mask Algorithms in practice.  (with G. Casciola)
+Technical Report, Department of Mathematics. (1989)
+
+ 
+Run-time Support for Dynamic Load Balancing and Debugging in
+Paralex. (with O. Babaouglu, S. Amoroso, R. Davoli and
+L. A. Giachini). Department of Computer Science, Technical Report TR 91-1251, 
+Cornell University, Ithaca, New York, December 1991.(Available also as Technical Report UBLCS-92-3, 
+Laboratory for Computer Science, University of Bologna).
+
+ Dissertation  
+
+
+Understanding the Message Logging Paradigm for
+Masking Process Crashes. 
+ Department of Computer Science, Cornell University, Ithaca, New York,
+January 1996. (Available as Technical Report TR-96-1577)

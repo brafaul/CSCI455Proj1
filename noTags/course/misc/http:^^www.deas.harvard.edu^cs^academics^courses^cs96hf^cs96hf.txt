@@ -1,0 +1,51 @@
+Date: Wed, 20 Nov 1996 22:24:56 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 06 May 1996 20:18:43 GMT
+Content-length: 1403
+
+
+CS-96 System Design Projects
+
+
+CS-96 System Design Projects
+A projects course in which the students form a company roughly
+similar to a govenment software contractor.
+
+ Instructors:
+
+Prof. Thomas Cheatham and
+
+Dr. Robert Walton
+ 
+1996 Course Overview
+ 1996 SIMPLE-C Project:
+
+
+ 
+SIMPLE-C Customer Specification
+
+ 1996 INFOSTORE Project:
+
+
+ 
+INFOSTORE Customer Specification
+
+ 1995 ATCODE Project:
+
+
+ 
+ATCode Customer Specification
+ 
+Object Manger System Specification
+
+ Unselected Projects:
+
+
+ 
+UBCOMS Customer Specification
+ 
+REALSIM Customer Specification
+
+
+

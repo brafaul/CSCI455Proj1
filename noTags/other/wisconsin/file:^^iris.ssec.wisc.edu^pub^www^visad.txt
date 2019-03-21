@@ -1,0 +1,130 @@
+VisAD Home Page
+Introduction
+
+VisAD is a system for visualizing and interactively steering scientifc
+computations.  It provides:
+
+* An interactive computational environment combining a flexible
+interpreted language with linkages to Fortran and C.
+
+* A data model that lets users design data types appropriate
+to their applications.
+
+* A novel and flexible way to visualize computations.
+
+VisAD includes a large number of example programs and data sets
+that demonstrate its flexibility.  While it has been developed
+primarily to meet the needs of environmental scientists, its
+flexibility makes it useful to any scientists who develop
+algorithms or use computers to analyze data.
+
+Here's a screen shot of VisAD:
+
+
+
+Version 1.1 of VisAD runs on Silicon Graphics workstation.
+Later versions will be ported to other vendors' workstations.
+
+VisAD was written by the
+ Visualization Project
+at the University of Wisconsin-Madison
+ Space Science and Engineering Center
+(SSEC) by
+ Bill Hibbard  and
+ Brian Paul . 
+
+The development of VisAD was supported by NASA.
+How to get VisAD
+
+VisAD is available by anonymous ftp.  The
+ README 
+file contains the complete VisAD documentation.
+The latest version of VisAD is in
+
+visad.1.1.tar.Z.
+
+Manual ftp operation:
+
+% ftp iris.ssec.wisc.edu
+Connected to iris.ssec.wisc.edu
+Name:  anonymous
+Guest login ok, type your name as password.
+Password:  myname@address
+ftp> cd pub/visad
+ftp> asc
+ftp> get README
+ftp> bin
+ftp> get visad.1.1.tar.Z
+ftp> bye
+
+
+Or,  click here  to browse
+the VisAD ftp archive.
+If you are in Europe
+
+
+Recently users in Europe have had problems with low bandwidth to North American
+ftp servers.  The
+Deutsches Klimarechenzentrum
+has offered to serve as a mirror
+site for our software.  Here are the pointers to the
+VisAD README
+file and to the
+visad.1.1.tar.Z
+file.
+
+Manual ftp operation:
+
+% ftp ftp.dkrz.de
+Connected to info.dkrz.de
+Name:  anonymous
+Guest login ok, type your name as password.
+Password:  myname@address
+ftp> cd pub/visu/ssec/visad
+ftp> asc
+ftp> get README
+ftp> bin
+ftp> get visad.1.1.tar.Z
+ftp> bye
+
+
+Or,  click here  to browse
+their VisAD ftp archive.
+Disclaimer
+
+VisAD is free software and as such we do not provide real support
+for it.  However, we will be happy to answer short questions and/or
+help with minor problems (preferably by email).
+To contact the authors...
+
+Email can be sent to Bill Hibbard at whibbard@macc.wisc.edu
+or Brian Paul at brianp@ssec.wisc.edu.
+U.S. Mail can be sent to:
+
+Space Science and Engineering Center
+University of Wisconsin - Madison
+1225 W. Dayton St.
+Madison, WI  53706
+
+
+Several papers are available describing the VisAD system, including:
+
+ 
+     Interactive Visualization of Earth and Space Science Computations  
+     W. L. Hibbard, B. E. Paul, A. L. Battaiola, D. A. Santek,
+     M-F. Voidrot-Martinez, and C. R. Dyer,
+     Computer 27, No. 7, July 1994, 65-72.
+  
+     A Lattice Model for Data Display  
+     W. L. Hibbard, C. R. Dyer, and B. E. Paul,
+     Proc. Visualization '94, 1994, 310-317. 
+  
+     Display of Scientific Data Structures for Algorithm Visualization 
+
+     W. Hibbard, C. R. Dyer, and B. Paul,
+     Proc. Visualization '92, 1992, 139-146.
+
+P.S.
+
+We also have a home page for
+Vis5D.

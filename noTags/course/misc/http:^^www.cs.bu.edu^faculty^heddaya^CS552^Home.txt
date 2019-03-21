@@ -1,0 +1,209 @@
+Date: Wed, 20 Nov 1996 21:41:57 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+		
+
+BU CAS CS 552: Operating Systems---Home Page
+		
+
+
+
+BU
+CAS
+		
+CS 552:
+		
+Operating Systems---
+Fall'96---
+A. Heddaya
+
+
+Home Page
+		
+
+		[ As of
+1996.11.17
+		]
+		
+
+
+		|| 
+
+Syllabus
+ || 	
+HW:
+		
+   #1
+		- 
+   #2
+		- 
+   #3
+		- 
+   #4
+		- 
+   #5
+		- 
+   #6
+		- 
+   #7
+ ||
+		
+
+
+Class meetings
+		
+	MWF 9:00-10:00, in room GCF-209 (above Guitar Center)
+
+		
+Instructor
+		
+
+Abdelsalam `Solom' Heddaya (Office Hrs: WF 10-11:30 and by
+   appointment). 
+heddaya@cs.bu.edu, MCS-271, x3-8922.
+
+		
+Grader
+		
+Arif Bhatti (no office hours).
+tahir@cs.bu.edu
+
+Notes
+		
+
+   Some slides (new version)
+		
+   Reviewing guidelines
+
+   Study guide (incomplete draft)
+
+
+Useful Resources
+		
+
+   IT Tutorials: short noncredit courses on using Unix, Emacs, and
+   other tools.
+		Hot topics in
+   OS.
+
+
+
+Prerequisites
+
+CAS CS 210 or ENG EK 412 or consent of instructor.
+What you need to know is available in selected readings from Mano's
+"Computer System Architecture (3rd ed.)".
+
+Catalog description
+
+Examines process synchronization; I/O techniques, buffering, file
+   systems; processor scheduling; memory management; virtual memory;
+   job scheduling, resource allocation; system modeling; and
+   performance measurement and evaluation.
+
+		
+Course overview
+
+Computer Science 552 offers an opportunity to learn about operating
+   systems by designing and building various OS components, in addition
+   to studying their conceptual and theoretical underpinnings.
+An operating system controls and operates disparate hardware resources
+   so as to shield programs and users from idiosyncrasies of individual
+   devices, and from such nasty phenomena as concurrency,
+   asynchrony and failure.
+By hiding detailed hardware features and behaviors, the OS provides an
+   interface that constitutes an abstraction of the hardware.
+
+In this course, we will study the design and construction of major
+   subsystems of an operating system, and examine some of the core
+   problems in detail.
+We will not focus on the difficulties of integrating the various
+   subsystems into a coherent whole, as we might do if this were a
+   project course.
+While these difficulties are critical for a complete understanding of
+   operating systems, we would risk excluding issues of fundamental and
+   current concern from the limited scope of attention available in a
+   course.
+Therefore, the course will revolve around weekly and bi-weekly
+   assignments, consisting of alternating design, implementation and
+   analysis exercises.
+
+		
+Readings
+
+[Tan 92]
+		
+Andrew S. Tanenbaum,
+Modern Operating Systems,
+Prentice-Hall, Englewood Cliffs, New Jersey, 1992.
+Main textbook.
+
+[Tan 95]
+		
+Andrew S. Tanenbaum,
+Distributed Operating Systems,
+Prentice-Hall, Englewood Cliffs, New Jersey, 1995.
+Some distributed computing issues.
+
+
+
+Requirements
+
+Credit for the course will be based on ~8 homework assignments
+   (60%), and on midterm (15%) and final (25%) exams.
+
+		
+Homework Policy
+
+     Submission
+
+	Submit your homeworks at the beginning of class.
+	Late homeworks go to the grader's mailbox or mailfolder
+           in the CS Dept. main office (MCS 138).
+
+		
+Lateness
+
+Homeworks are penalized 5% of the maximum grade per day of delay.
+Deadline extensions will be granted in cases of personal emergency, and
+   if the needed amount of time is significantly underestimated.
+If you must, please request an extension as soon as you realize you need
+   it.
+
+		
+Honor
+
+We trust that you honor the notion of giving credit where credit
+   is due: so, please acknowledge any sources you use in your course
+   work.
+This requires proper citation of the source, and clear delineation of
+   the material (e.g., code, algorithm, design idea,
+   paraphrase, quotation, etc.) obtained from it.
+
+		
+Collaboration
+
+I encourage you to collaborate in studying and on homeworks.
+To avoid gaining an unfair advantage (i.e., cheating or
+   plagiarism) the rule is simple: produce the actual solution
+   in isolation from others' work.
+That is, what you submit should be entirely your original expression,
+   except for what you specifically credit to other sources.
+For example, copying without attribution any part, however small, of
+   someone else's program constitutes plagiarism---even if you modify
+   it, and even if the source is a textbook.
+
+
+Standards of academic conduct treat cheating and plagiarism very
+   seriously, because they impede the drive for originality and
+   invention that have been the hallmark of human progress.
+
+		
+
+
+[ Created
+1994.04
+		.  Maintained by Abdelsalam Heddaya]
+		
+

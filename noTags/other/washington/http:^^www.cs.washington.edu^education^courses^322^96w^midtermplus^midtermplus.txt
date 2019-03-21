@@ -1,0 +1,136 @@
+Date: Wed, 08 Jan 1997 20:51:55 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+
+CSE 322  
+Remarks on Problem 5 from the Midterm
+Winter Quarter, 1996
+
+
+
+
+
+
+
+    
+ Next:    About this document 
+  
+
+CSE 322  
+Remarks on Problem 5 from the Midterm
+Winter Quarter, 1996
+
+
+
+Consider the grammar G with start symbol S and productions
+
+Suppose instead that we had asked you to prove that  has an equal number of a's as b's.  Applying the definition of 
+, this means we would like to prove the following two facts:
+ For all , if x has an equal number of a's and b's
+then .
+ For all , if  then x has an equal 
+number of a's and b's.
+
+The first of these two statements is what you were asked to show in question 5
+from the midterm. To show the first statement, your proof needs to be structured as follows:
+
+ Given: any  where x has an equal number of a's and b's.
+
+ Prove: that there exists  some derivation .
+
+In your proof, you've been handed a string x and all that you know about it 
+is that it has an equal number of a's and b's.  That's why in this case, 
+we choose to do an induction on the length of x.  You can't do an induction
+on derivation length here because it is not known whether x can be derived
+from S (That's what you're attempting to prove).
+
+The exam instructions noted one fact that we have about x: since x has
+an equal number of a's and b's, it must be of even length, that is, 
+|x| = 2n where n is the number of a's (also, the number of b's).
+So what we're really doing here is an induction on n.
+
+The base case is when n=0 and so .  Since there is a production
+, certainly  can be derived in one step, and
+so the base case holds.
+
+For the inductive hypothesis, we only have two choices here: should we use
+normal induction or strong induction?  We don't really know which to use 
+until we do the rest of the proof, so I'll list them both:
+ (normal) For any x where  and x has an equal number of
+a's and b's, .
+ (strong) For any x where x < 2n and x has an equal number of
+a's and b's, .
+
+Assume the inductive hypothesis is true and that you have been given
+some string  that has an equal number of a's and b's
+where |x| = 2n.  What does x look like?  The hint given in the exam is
+to consider whether or not x has a non-trivial prefix (not x or )
+with an equal number of a's and b's.  The reason we do this, as we see in 
+the solutions, is that if it does have a non-trivial prefix with an equal 
+number of a's and b's, then x is a concatenation of two smaller strings 
+with equal numbers of a's and b's.  With that, we can invoke the 
+ strong inductive hypothesis, to say that these two smaller strings
+can be derived from S.  Thus x can be derived from S using 
+ as the first production in the derivation.  We used strong
+induction here, so this means we should use the second hypothesis listed above 
+to answer 5b) on the exam.
+
+So in the case  where x has a non-trivial prefix with an equal number of 
+a's and b's we have shown that .  We need to handle
+every x, though, so what about the case where x doesn't have any such 
+prefix?  There are two sub-cases to consider:
+ The string x begins with an a, but there is no matching b for this 
+a until the very last character b.  Thus, x = awb for some 
+string w of length 2n -2.
+ The string x begins with an b, but there is no matching a for this 
+b until the very last character a.  Thus, x = bwa for some 
+string w of length 2n -2.
+
+In each of these cases, w is a string of length less than 2n and
+has an equal number of a's and b's.  At this point, you should be able to
+complete the proof by invoking the induction hypothesis and reasoning about 
+the other two productions.
+
+Notice how in the above arguments, we argued that x was derivable in the
+grammar based entirely on what we were given: the fact that 
+and x had an equal number of a's and b's.  From this we reasoned about 
+what x might look like: it had some even length 2n, and it may or may
+not have had a prefix with an equal number of a's and b's.  To handle all
+the possibilities of n, we did a proof by induction on n.  We handled 
+whether
+or not x had a prefix with an equal number of a's and b's as subcases
+within the induction.  This covered all the bases, so we proved it for all x.
+
+What about if we wanted to prove statement 2)?  In this case the proof would 
+be structured as follows:
+
+ Given: any  where .
+
+ Prove: that x has an equal number of a's and b's.
+
+Here, what you're given and what you're asked to prove are flipped.  You're
+told that x can be derived from S in some number of steps, that is,
+that  for some .  Since you're given 
+that x is derivable in i steps, it is perfectly legal to do an
+induction on i, the length of the derivation, to prove
+that x has an equal number of a's and b's.
+I'll leave this proof as an exercise.  What are the three derivation cases 
+you will use for this proof?  Do you need strong induction here?  What's
+the base case?
+
+ 
+
+    About this document ... 
+
+    
+ Next:    About this document 
+  
+ 
+
+James Fix 
+Wed Feb  7 14:58:33 PST 1996
+
+

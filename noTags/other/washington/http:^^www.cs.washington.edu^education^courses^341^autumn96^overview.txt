@@ -1,0 +1,232 @@
+Date: Mon, 02 Dec 1996 14:34:07 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 341 Overview
+
+
+CSE 341 Administrivia & Useful Information
+Instructor: Nancy Leveson 
+Office: Sieg 219 
+e-mail: leveson@cs 
+phone: 685-1934 
+Office Hours:  Wednesday 3-5 (or by appointment)
+
+
+Teaching Assistant: E Christopher Lewis
+e-mail: echris@cs
+Office Hours: Monday 12:30-1:20 and (temporarily) Wednesday 9:30-10:20 in Sieg 326D
+
+
+
+
+Class Meetings
+
+Lectures, MWF 1:30-2:20, EEB 108 
+
+
+
+Quiz AA, TTh 8:30-9:20 Lowe 222 
+Quiz AB, TTH 9:30-10:20 MEB 243 
+
+
+
+
+Handouts, overheads, etc.
+
+ History Overheads
+ Assembly Language Example
+ General Overheads
+ Simple Data Types
+ Abstraction and Encapsulation
+ Study Questions for Midterm 2
+  Control Overheads (partial)
+  Contour Model Handout
+  Stack Model Handout
+  Side Effects 
+  Scheduled Procedures
+  Coroutines
+  Tasks
+  Aliasing
+  Parameter Passing
+  Exception Handling
+
+Programming Resources
+
+ Scheme/Lisp Resources
+ Getting Started with Prolog
+ Java Resources
+
+
+Programming Assignments
+
+ Scheme/Lisp
+Programming Assignment (solution)
+ Prolog
+Programming Assignment (solution)
+ Java
+Programming Assignment (solutions/notes)
+
+
+Written Assignments
+
+ Homework Assignment 1
+ Homework Assignment 2
+ Homework Assignment 3
+ Homework Assignment 4
+ Homework Assignment 5
+ Homework Assignment 6
+
+Programming Language Research Paper
+Description
+
+This is a course in the design of programming languages.  It will teach
+you  about  programming languages rather than teach you how to program
+in several languages. We will do some programming, but primarily to give 
+you some experience in programming with very different paradigms than most 
+of you have used before.  By the end of the course, you should know enough 
+about programming languages in general that you will be able to pick up new 
+languages easily, be able to evaluate alternative languages and select 
+the most appropriate one to use, and use most languages more effectively.
+
+You might note that 341 this quarter will be taught somewhat differently
+than it has in the past.  If you prefer the other style (see the past course
+descriptions on the web), you should consider taking it instead in the winter
+or spring.
+
+
+
+Prerequisite: CSE 143 (either the C++ or the Ada version)
+
+Text
+
+ Pratt and Zelkowitz, Programming Languages: Design and
+     Implementation , Prentice Hall, 1996.
+
+
+This book is brand new so you won't be able to get used copies. The upside
+is that it is very up to date.
+
+
+Use of World Wide Web
+
+We will make frequent use of the World Wide Web to post information, 
+homework assignments, and so forth.  Lecture notes for the different
+topics will be distributed in hardcopy form, but will also be stored in the
+class web.  (If there are corrections, these will be made in the online
+version.)  Other material may be distributed in electronic form only.  The 
+home page for 341 is 
+http://www.cs.washington.edu/education/courses/341.
+You can also reach this page from the CSE departmental home page via
+"Education (webs)" then "CSE 341".
+
+
+
+Computing Resources
+
+We will use the new PC lab in Sieg 232 for Lisp and (probably) Visual 
+Basic, and the MSCC machines for Prolog.  You can also run Lisp on the 
+MSCC machines (do this
+if you want to work from home; otherwise the PC implementation should be
+much faster).  Information regarding how to use the PC's will be given out
+in quiz sections.  For the MSCC machines, it will probably be most
+convenient to access these from the CSE terminals over the network using
+rlogin or telnet to hilbert.ms.washington.edu.  Alternatively,
+you can use the X terminals in room 9 of Thompson Hall.
+
+ 
+
+In addition to putting information in the web, for urgent mail we will
+sometimes send e-mail directly to the class mailing list -- so please check
+your e-mail regularly on the departmental instructional machines, or set up
+a .forward file to forward your mail to another machine.
+
+
+Assignments and Grading
+
+You will have a variety of types of assignments.  There will be written
+assignments on the lectures and textbook and small programming assignments
+on the languages taught in the quiz sections.  There will also be a short
+paper on another language (described below) that you will present to the
+class.  In addition, there will be two midterms and a final exam.  The 
+grades will be calculated as follows:
+
+
+40%  midterms (20% each) 
+25%  final 
+15%  written and programming assignments 
+20%  short paper 
+
+
+Individual grades may vary slightly, based on effort, contribution to class
+and section, etc.  
+
+
+Although I am not making it a requirement, I strongly suggest that you
+create a glossary of terms to help you study and prepare for the exams.
+The terms and concepts you should include are those that are italicized
+throughout the book.  The exams will ask you to define, compare and 
+contrast, and use or apply concepts in order to ensure you understand
+them.
+
+
+You will also be required to come in to talk to me for 15 minutes some 
+time during the quarter, either during my office hours or by arrangement
+at a different time.  I recommend that you do this early in the quarter
+because it's harder to schedule a time at the end.  This meeting is
+simply to allow us to get to know each other better and for me to get
+feedback on how the class is going.  
+
+
+Late Assignments and Incompletes
+
+Assignments are due in quiz sections or in lectures, depending on who
+assigns it.  If you write answers out by hand, please make sure it's 
+legible.  Write your name and quiz section time on the assignment.  Late
+written assignments will not be accepted as the answers will be discussed
+in the lecture or quiz section.  Late programming assignments will be marked 
+down as follows:
+
+
+25% off -- up to 1 day late 
+50% off -- up to 2 days late 
+75% off -- up to 3 days late 
+
+
+
+"25% off" means that 25% of the maximum possible score is taken off of the
+score for the late assignment.  "Up to 1 day late" means up to the time of
+the quiz section on the day following the day the assignment was due, and
+so forth.  Given that each assignment will not count a lot toward your
+grade, it may be better just to turn in what you have at the time it is due.
+
+
+Short Paper 
+Teams of two people will each take a language and (1) summarize it 
+according to its basic features (as been done for the languages in 
+Section 2 of the textbook, i.e., History, Hello World, Brief Overview, 
+Data Objects, Sequence Control, Subprograms and Storage Management, and 
+Abstraction and Encapsulation) and (2) evaluate it with respect to 
+criteria that I will describe in class. 
+
+Each group will write a paper on a different language.
+For the last two weeks of the quarter, we will have class presentations of
+what you have written.  Although the written version of your paper will be
+due on the last class meeting of the quarter, you will need to have the
+material collected and organized by December 2 in order to give your class
+presentation.
+
+
+Lecture, Quiz Section, and Reading Schedule
+
+The  lecture schedule is only approximate, but this is close.  In the quiz
+sections you will learn enough about several languages to write simple programs
+in them and also will review the material in Part 2 of the book (Chapters 10-14).
+We will provide more information about the quiz section schedule and assignments 
+at the beginning of class.
+
+
+
+

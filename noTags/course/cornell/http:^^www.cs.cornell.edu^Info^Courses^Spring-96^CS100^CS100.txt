@@ -1,0 +1,62 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:03:12 GMT
+Content-Type: text/html
+Content-Length: 1679
+Last-Modified: Friday, 19-Apr-96 20:53:08 GMT
+
+
+
+ CS100 Home Page Spring 1996 
+
+
+
+ CS100 Home Page 
+ Spring 1996 
+
+
+ Message of the Day 
+
+Welcome to the CS100 Home Page.  Remember to check here frequently
+for important information regarding the course. 
+
+Prelim 3 is Tuesday, April 23.  The review session will be held on
+Sunday, April 21 at 3:00pm in Baker 200.
+
+ Course Information 
+
+  Instructors 
+  Teaching Assistants 
+  Office Hours 
+  Getting course materials from the
+World Wide Web 
+  CodeWarrior on your personal
+Mac 
+
+ Programs 
+
+  Lecture Programs 
+  Program 1 
+  Program 2 
+  Program 3 
+  Program 4 
+  Program 5 
+  Program 6 
+
+ Exams 
+
+  Prelim 1 (Tues, February 13) 
+  Prelim 2 (Thur, March 14) 
+  Prelim 3 (Tues, April 23) 
+  Final Exam (Mon, May 13) 
+
+
+Last Updated: April 17, 1996
+
+
+
+
+CS100 Spring 1996 
+pierce@cs.cornell.edu
+
+

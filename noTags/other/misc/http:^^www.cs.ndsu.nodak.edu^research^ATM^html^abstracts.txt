@@ -1,0 +1,64 @@
+Date: Tue, 14 Jan 1997 22:07:54 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 29 Aug 1996 13:34:07 GMT
+Content-type: text/html
+Content-length: 2885
+
+
+
+Publications
+
+
+ PUBLICATIONS FUNDED IN PART BY THIS PROJECT
+
+(8) Buffer/Latency Tradeoff in Video Servers, A. Rousskov, V. Soloviev,
+and I Tatarinov, Second International Workshop on Multimedia Information
+Systems, West Point, NY, September 26-28, 1996, in review. 
+
+(7) Disk Scheduling for Video Servers, A. Rousskov and V. Soloviev,
+Second International Workshop on Multimedia Information Systems, 
+West Point, NY, September 26-28, 1996, in review. 
+
+(6) A Scheme for Available Bit Rate Traffic Control in ATM Networks,
+H. Choi and R. Vetter, Proceedings of the 21st Local Area Networks Conference,
+Minneapolis, Minnesota, October 13-16, 1996, submitted March 1996,
+in review. 
+
+(5) Database Query Processing Over Very High Speed Networks, 
+W. Perrizo, R. Vetter, A. Duggal, Z. Zhang, and S. Krebsbach,
+International Journal on Systems Sciences, Special issue on 
+Distributed Systems, in review.  
+
+(4) TM-LAB: An Experimental Program for Viewing and Investigating
+Thematic Mapper Imagery on the PC, J. Sanchez, M. Canton, W. Perrizo, 
+and R. Vetter, Poster Presenation at the Pecora 13 Symposium, EROS Data 
+Center, Sioux Falls, South Dakota, August 19-22, 1996, to appear. 
+
+(3) Survey of Congestion Control Schemes for ABR Traffic in ATM Networks,
+H. Choi and R. Vetter, Data Communications Management, October 1996.  
+
+(2) Some Aspects of Distributed Database Management in High Speed
+Network Environments, R. Vetter, S. Junnuru, and W. Perrizo,
+Proceedings of the 11th International Conference on Systems
+Engineering (ICSE '96), Las Vegas, Nevada, July 9-11, 1996. 
+
+(1) Emerging Technologies for Distance Education, R. Vetter,
+V. Tong and P. Juell, Proceedings of the 29th Annual Small College 
+Computing Symposium (SCCS '96), St. Cloud University, St. Cloud, MN, 
+April 18-20, 1996. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

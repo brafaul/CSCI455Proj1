@@ -1,0 +1,197 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:55:55 GMT
+Content-Type: text/html
+Content-Length: 5819
+Last-Modified: Saturday, 23-Nov-96 03:35:54 GMT
+
+
+
+Aastha Bhardwaj
+
+
+
+Aastha Bhardwaj
+
+(bhardwaj@cs.cornell.edu)
+
+
+
+Resume in Postscript Format.
+
+
+Address
+Education
+Coursework
+Projects
+Computer Skills
+Academic
+Achievements
+Extra
+Curricular Achievements
+Activities/Interests
+
+
+
+
+
+Address
+
+Department Address
+Upson Hall, 3rd Floor,
+Department of Computer Science,
+Cornell University,
+Ithaca. NY-14850.
+
+Residence Address
+2010 Hasbrouck Apartments,
+Ithaca, NY 14850.
+Tel : (607) 253-5419
+
+Home
+
+
+
+
+Education
+
+Cornell University, College of Engineering, Ithaca, NY 14850
+Master of Engineering in Computer Science, May 1997
+
+Maharashtra Institute of Technology, Pune, India.
+Bachelor of Engineering in Computer Engineering with distinction, July 1996
+
+Home
+
+
+
+
+Coursework
+
+Programming Languages/Software Engineering
+Engineering Computer Networks
+Advanced Database Management Systems
+Multimedia Systems
+Advanced Computer Architecture
+Operating Systems
+Computer Organization
+Data Structures
+Compiler Construction
+Microprocessor Systems
+Unix Operating System
+Computer Graphics
+Theory of computer Science
+Analog Circuit Design
+
+Home
+
+
+
+
+Projects
+Current
+
+Hetergeneous Database System using OLEDB
+The recently released OLEDB system is being used to implement a
+database that can access and manipulate data from hetergeneous
+sources.
+
+Multimedia - Video Texture Mapping
+A video image will be mapped onto a texture so that we can model
+humans and place them in virtual reality environment.
+
+Networks - Browser interface
+A Ithaca wide electronic commerce network is being implemented in this
+course. I will be concentrating on providing COM wrappers to all
+interfaces using Java, JavaScript and LiveConnect.
+
+Software Engineering - A Game in C++.
+
+Previous
+
+A graphics DLL for performing complex Image Processing
+functions, '95-'96.
+Conversion among different image formats and image manipulation
+Done at Fujitsu ICIM, India in Windows SDK.
+
+Computer Network serial communication using 'C'.
+Two data link layer protocols were implemented to provide error free
+transfer
+of files over the network, Spring '96.
+
+Assembler for 80x86, Spring 1993.
+Assembler for 80x86 implemented in C.
+
+Video Game in 'C'.
+The game 'Bricks' was implemented, providing a good user interface. Involved
+simulation of movement of ball and other facilities like scoring, Spring
+'96.
+
+Library Management in ORACLE forms using SQL, Fall '94.
+
+Library Management in COBOL, Fall '95.
+
+Airline Reservation in 'C', Spring '94.
+
+Inventory Control in UNIX shell script, Spring '96.
+
+Presented a seminar on Windows 95 at Maharashtra Institute of Technology,
+Pune, India in Spring 95.
+
+Home
+
+
+
+
+Computer Skills
+
+Languages
+C, C++, VC++, COBOL, Pascal, Fortran, 80x86 Assembly
+Platforms
+MSDOS/Windows, Unix
+RDBMS
+Foxpro, Oracle
+Other
+HTML, MS Ofiice, Lotus
+
+Home
+
+
+
+
+Academic Achievements
+
+Stood second in class in a class of hundred over the last four years.
+Received Distinction in three years.
+
+Home
+
+
+
+
+Extra Curricular Achievements
+
+Was the topmost female TableTennis player of the Computer Department in
+spring 95
+Was a part of the winning teams for Fashion Show and Choreography at
+Inter-College festivals.
+Was a member of the school Table Tennis team in Spring 92.
+
+Home
+
+
+
+
+Activities/Interests
+
+Reading
+Singing and listening to music
+Swimming
+
+Home
+
+
+
+
+
+

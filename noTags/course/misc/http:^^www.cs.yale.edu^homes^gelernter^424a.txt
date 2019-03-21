@@ -1,0 +1,136 @@
+Date: Wed, 20 Nov 1996 23:37:18 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Mon, 11 Nov 1996 18:20:54 GMT
+Content-length: 4602
+
+
+
+
+
+Parallel Programming
+Parallel Programming
+(Computer Science 424a/524a) 
+MWF 11.30 - 12.20
+AKW 300
+
+This course is taught by 
+Professor David Gelernter
+of the Computer Science Department at 
+Yale University.
+
+Contents
+
+Course Description
+Syllabus
+Books
+Cluster, Account and Linda Information
+Announcements (Last Updated: 11/11/96)
+Assignments
+Exams
+
+
+Course Description
+
+  Emergent programming styles for solving problems with a variety of
+  parallel models.  Paradigms basic to the design of efficient
+  parallel algorithms, methods of problem decomposition, models for
+  evaluating program performance, and techniques for optimizing
+  parallel compilers.  A wide variety of problems with programming
+  exercises on Linda TS/Net, illustrating a general approach to 
+  programming parallel machines.
+
+
+Requirements: 
+3 programming assignments, midterm and final.
+
+Prerequisites: 
+Computer Science 323a.
+
+
+Syllabus
+The syllabus for the course in Fall 1996 is as follows:
+
+Week of
+Sept 4: Overview and logistics [W]; [PART I: BASIC PARALLEL
+PROGRAMMING...]  intro to parallelism and coordination; basic
+paradigms [F] (How, chaps 1, 2, except 2.6...)
+
+Sept 9: basic paradigms; paradigm "discussion exercises"; Linda
+(logic); basic distributed data structures; Linda: using the system.
+(chaps 3,4)
+
+Sept 16: basic approaches to a simple problem (primes finding)
+(chap 5); agenda parallelism and db search... (chap 6...);
+
+Sept 25: (no class Sept 23) result parallelism: string
+comparison and matrix problems (chap 7);  a network program,
+the data fusion problem and software architecture (chap 8 +
+handout);
+
+Sept 30: (asynchronous) data parallelism (handout);
+
+Oct 7: adaptive parallelism (handout); Coordinated and distributed
+applications; 
+
+Oct 14: [PART II: THE CONTEXT AND UNDERPINNINGS OF PARALLEL
+PROGRAMMING: ARCHITECTURE, LANGUAGE IMPLEMENTATION, OTHER SOFTWARE
+MODELS...]  hardware platforms: multiprocessors and LANs (handout);
+
+Oct 21: midterm (Fri)
+
+Oct 28: implementation of Linda (shared memory, multiprocessors,
+networks);
+
+Nov 4: coordination models: operating system models; message passing
+systems (CSP. PVM, MPI); parallel Fortrans (and parallelizing Fortran
+compilers); systolic arrays; object-oriented programming and
+parallelism;
+
+Nov 11: [PART III: BIG TENT PARALLELISM: DISTRIBUTED APPS, INFORMATION
+MANAGEMENT, THE NET]  big-picture coordination: the internet; web;
+WAN applications; the "information superhighway," utopia, nirvana,
+etc.  (handouts);
+
+Nov 18:  programming the internet (Java, "JavaSpaces"; net-based 
+information management apps (browsers, "Lifestreams");
+
+Dec 2: figuring out the big picture: future of net languages and
+net apps; where is the internet going?  What's the point, anyway?
+
+
+Books
+Required:
+N. Carriero and D. Gelernter, How to Write Parallel Programs,
+(MIT Press: 1990).  
+
+
+Additional reading from G. Almassi and A. Gottlieb, Highly Parallel
+Computing, 2nd Ed. (Cummings: 1994), A. Tanenbaum, Computer Networks
+(Prentice Hall), research papers, several recent dissertations, others.
+
+
+Assignments
+Assignment 1:
+Problems 1, 2 and 4 from Chapter 3 
+[Returned Friday, October 18].
+Click here for instructions on how
+to turn in this assignment.
+
+Assignment 2:
+Problems 5.5, 6.1, 6.2, due Friday, November 8.
+Click here for instructions on how to turn
+in this assignment.
+
+
+Exams
+Midterm: Monday, October 28.
+
+
+
+Teaching Assistant, Fall 1996: 
+Elisabeth Freeman 
+Last updated: September 24, 1996
+
+
+

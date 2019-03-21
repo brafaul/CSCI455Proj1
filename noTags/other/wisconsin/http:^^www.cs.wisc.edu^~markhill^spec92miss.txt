@@ -1,0 +1,50 @@
+Date: Tue, 05 Nov 1996 00:36:59 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 06 Aug 1996 19:39:22 GMT
+Content-length: 1908
+
+
+
+ Cache Performance of the SPEC92 Benchmark Suite
+
+
+
+ 
+Cache Performance of the SPEC92 Benchmark Suite
+
+By Jeffrey D. Gee, Mark D. Hill, Dionisios N. Pnevmatikatos, and
+Alan Jay Smith.
+
+ 
+
+This page points to data used in
+
+Gee, et al., "Cache
+Performance of the SPEC92 Benchmark Suite", IEEE Micro, Vol. 13, Number
+4, pp. 17-27 (August 1993).
+
+DISCLAIMER:
+Data in this directory is correct to the best of our knowledge.
+However, we provide it, *AS IS* without an expressed or implied
+warranty, and we accept no responsibility for the consequences of the
+use or misuse of this data.
+
+  Complete miss ratio tables (postscript) 
+  Complete miss ratio tables (ASCII) 
+  Auxiliary miss ratio tables (ASCII) 
+that Pnevmatikatos prepared to compute 3C's for the second edition John Hennessy
+and David Patterson's "Computer Architecture, A Quantitative Approach"
+Information on obtaining the
+
+     Wisconsin Architectural Research Tool Set (WARTS), 
+which was used to generate this data.
+
+ 
+ 
+Last Updated:
+Tue Aug  6 14:05:28 CDT 1996
+ by Mark D. Hill
+
+
+

@@ -1,0 +1,134 @@
+Date: Tue, 26 Nov 1996 22:28:52 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+
+University of Manitoba - Computer Science
+
+
+
+
+
+
+Department of Computer Science, 545 Machray Hall
+University of Manitoba, Winnipeg, Manitoba, R3T 2N2, Canada
+Phone: +1 (204) 474-8313; Fax: +1 (204) 269-9178
+
+
+Welcome to the
+World Wide Web server
+operated by the Department of Computer Science at the
+University of Manitoba.
+The department is located in Machray Hall on
+the University's main (Fort Garry) campus,
+located in lovely suburban 
+Winnipeg.
+
+
+
+What's New
+
+
+
+
+
+
+
+
+
+Departmental Information
+
+Information Request Form
+
+
+Academic Positions Now Vacant
+
+
+
+Academic Program featuring
+	General Calendar information and
+	Current Timetable
+Research Groups
+Photos and Information about members
+	of the Department
+  Maps of the
+	5th floor and
+	1st floor of the
+	Machray Hall building
+
+
+Setting up your own home page at the UofM
+User home page locator for finding CompSci users
+UNIX finger Gateway
+Anonymous FTP server
+
+
+Collection
+	of Computer Science Bibliographies available on the Internet
+
+(mirror of the
+	original
+	at the University of Karlsruhe, Germany)
+
+General UofM Information
+
+UofM World Wide Web homepage
+
+Academic Units
+Faculty of Science
+
+UofM Gopher server
+
+	Computing and Network Systems (Computer Services) home page
+
+User home pages server
+Anonymous FTP server
+
+Student Records
+	Office (exam schedules, textbook lists,
+	class lists, ...)
+Maps of the
+	Fort Garry
+	and
+	Bannatyne
+	Campuses
+  Staff phone directory
+
+Selected Points of Interest
+
+Governments of
+	Canada,
+	Manitoba, and
+	Winnipeg
+Rough Guide entries for
+	Canada,
+	Manitoba, and
+	Winnipeg
+Canadian WWW Central
+	Index and the
+	Canadian Resource Page
+Yahoo! and
+	Yahoo! Canada
+	internet hierarchical catalogues
+  GNN, the Global Network Navigator
+  Alta Vista
+	web page and newsgroup article search facility
+  A small collection of amusements
+	we've chosen to spotlight
+
+
+
+
+
+
+University of Manitoba homepage
+
+UofM Faculty of Science homepage
+
+Questions, comments, or feedback
+relating to the operation of this server should be directed to:
+University of Manitoba CompSci World Wide Web administrator --
+www@cs.umanitoba.ca
+
+

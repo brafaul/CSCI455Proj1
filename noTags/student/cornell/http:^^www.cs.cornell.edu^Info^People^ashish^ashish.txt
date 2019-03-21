@@ -1,0 +1,60 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:41:28 GMT
+Content-Type: text/html
+Content-Length: 1758
+Last-Modified: Sunday, 13-Oct-96 06:50:15 GMT
+
+
+
+Ashish Jhaveri
+
+
+
+
+
+
+Ashish Jhaveri
+Department of Computer Science
+Master of Engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+HTML
+Post Script
+
+
+Coursework
+
+Advanced Database Systems
+CS537
+Multimedia Systems
+CS631
+Engineering Computer Networks
+CS519
+Programming Languages/Software
+Engineering CS501
+
+
+
+
+
+
+
+Ashish Jhaveri
+
+
+
+

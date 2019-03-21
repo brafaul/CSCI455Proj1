@@ -1,0 +1,29 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 21-Nov-96 20:18:27 GMT
+Last-modified: Friday, 23-Aug-96 20:35:50 GMT
+Content-length: 901
+Content-type: text/html
+
+
+Charles U. Martel - Field of Interest
+UC Davis
+Department of Computer Science
+
+
+
+
+
+Charles U. Martel
+Professor and Chair
+
+Professor Martel�s main research interests are in the design and analysis of computer algorithms, with an emphasis on the effective use of parallel and distributed computer systems.  Currently, he is involved in several projects including designing efficient data structures; designing efficient parallel algorithms for tightly coupled multiprocessor systems and networks of workstations; designing algorithms for the optimal design of arithmetic circuits.
+
+
+
+ 
+Office: 3049 Engineering II
+Phone: (916) 752-2651
+E-mail: martel@cs.ucdavis.edu
+
+
+Last modified August 23, 1996

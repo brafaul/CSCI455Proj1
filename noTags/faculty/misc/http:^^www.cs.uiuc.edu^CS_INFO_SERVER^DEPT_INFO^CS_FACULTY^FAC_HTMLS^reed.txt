@@ -1,0 +1,48 @@
+Date: Thu, 21 Nov 1996 20:22:22 GMT
+Server: NCSA/1.5.2
+Last-modified: Fri, 24 Feb 1995 05:12:59 GMT
+Content-type: text/html
+Content-length: 1265
+
+Reed, Daniel
+
+
+Daniel A. Reed
+
+
+Areas of research interest:
+
+
+Computer Architecture & Systems:  Modeling
+ & Analysis; Multiprocessor Analysis & Design; Performance Analysis
+Computer Graphics:  Visualization
+Operating Systems: Distributed
+Parallel Computing:  Algorithms; Compu
+ter Systems
+
+
+Research Group:
+
+
+Pablo Research Group
+
+
+Administrative help:
+
+
+Anda Harney
+
+
+
+3124 Digital Computer Laboratory
+1304 West Springfield Avenue
+Urbana, IL 61801
+
+(217) 333-3807
+(217) 333-3501- fax
+reed@cs.uiuc.edu
+
+
+
+
+Go back to Faculty Index

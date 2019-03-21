@@ -1,0 +1,117 @@
+Date: Tue, 14 Jan 1997 23:46:32 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Content-length: 5146
+Last-modified: Sun, 15 Dec 1996 20:06:43 GMT
+
+
+John J. Weng: Research
+ John J. Weng: Research
+
+
+
+
+
+
+
+ Major Current Research Projects 
+
+
+Living Machines
+
+Multimedia Learning and the SHOSLIF Approach
+
+Face and Object Recognition
+
+Query by Examples for Large Image Databases
+
+Hand Sign Recognition
+
+Hand-Eye-Head Coordinated Learning
+
+Autonomous Navigation
+
+The Camera-Added Virtual Reality Builder
+
+Speech Recognition
+
+
+
+
+
+
+
+
+
+ Other Research Projects 
+
+
+Learning Recognition and Segmentation Using the Cresceptron
+
+Stereo Matching and Optical Flow
+
+Motion and Structure Estimation From Monocular Images
+
+3-D Surface and Motion From Stereo Images
+
+Transitory Image Sequences and Their Integration
+
+Camera System Calibration
+
+Region Detection in Medical Images
+
+
+ Publications 
+
+
+Book and Journal papers
+
+Conference and Workshop papers
+
+Technical Reports
+
+
+ Current Research Students
+
+
+Alavi, Hamid: 
+     alaviham@cps.msu.edu
+
+Blackwood, Laura A.: 
+     blackwoo@cps.msu.edu
+
+Chen, Shaoyun: 
+     chenshao@cps.msu.edu
+
+Guentchev, Kamen: 
+     guentche@cps.msu.edu
+
+Howden, Sally: 
+     howden@cps.msu.edu
+
+Hwang, Wey Shiuan: 
+     hwangwey@cps.msu.edu
+
+Sperber, Jason: 
+     sperber1@cps.msu.edu
+
+ Past Research Students 
+
+
+Cui, Yuntao: 
+     cui@scr.siemens.com
+
+Hammond, David J.:
+     hammond8@siweb.com
+
+Pathak, Yogesh: 
+     ypathak@ontime.com
+
+Swets, Daniel L.: 
+     (joint with Dr. A. Jain) swets@inst.augie.edu
+
+
+
+
+ To Weng's Home Page: http://web.cps.msu.edu/~weng/ 
+

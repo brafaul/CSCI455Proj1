@@ -1,0 +1,158 @@
+Date: Tue, 14 Jan 1997 23:00:36 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+		
+
+BU GRS CS 792: Distributed Systems Seminar---Home Page
+		
+
+
+
+BU
+GRS
+		
+CS 792:
+		
+Distributed Systems Seminar--
+
+		
+A. Heddaya--
+S'1995
+		
+
+Schedule
+		-- 
+1995.05.01
+		
+
+
+I suggest that you print the papers for which a link is provided below,
+   on the heavy duty printer called publp.
+The compact double-sided printout will be filed under your login name,
+   at the IT window in the basement.
+
+		
+
+1.16:
+
+
+Organizational meeting.
+		
+
+1.23:
+
+
+OS Support for Portable Bulk Synchronous Parallel Programs
+
+A. Heddaya
+		
+
+1.30:
+
+
+Techniques for reducing Consistency Related Communication in Distributed Shared Memory Systems
+
+Arif Bhatti
+		
+
+2.06:
+
+A Combining Mechanism for Parallel Computers
+L. Valiant, Harvard U, Aiken Lab, TR-24-92, Nov. 1992.
+		
+Zhixiang Chen
+		
+
+2.13:
+
+   Database-supported Cooperative Problem Solving
+		
+   (20p excerpt  --
+	
+   50p full text), and, 
+
+   Scientific Database Management
+
+Paul Dell
+		
+
+2.21: --Tue--
+		
+
+Distributed Filaments: Efficient Fine-Grain Parallelism on a Cluster
+of Workstations 
+
+Arif Bhatti
+		
+
+2.27:
+
+
+Versioning Issues in a Collaborative Distributed Hypertext System
+
+David Durand
+		
+
+3.13:
+
+
+   SodaBot: A Software Agent Environment and Construction System
+
+Sulaiman Mirdad
+		
+
+3.20:
+
+
+Integrating run-time consistency models for distributed computing.
+K. Birman, J Parallel and Distributed Computing 23():158-176, 1994.
+		
+Loredana Lo Conte
+		
+
+3.27:
+
+How to measure, present, and compare parallel performance
+L. Crowl, IEEE Parallel & Distributed Technology 2():9-25, Spring 1994.
+		
+Kostas Magoutis
+		
+
+4.03:
+
+Spawn: A Distributed Computational Economy
+C. Waldspurger et al, IEEE Trans. Soft. Eng., 18(2), 1992.
+		
+Kihong Park
+		
+
+4.10:
+
+
+Paging Tradeoffs in Distributed-Shared-Memory Multiprocessors
+
+Hani Mawlawi
+		
+
+4.24:
+
+
+RAID: High-performance, Reliable Secondary Storage
+
+A. Heddaya
+		
+
+5.01:
+
+Digital Libraries, CACM special issue, April 1995.
+		
+David Durand
+		
+
+
+Abdelsalam Heddaya
+Created:  1994.01.03
+		
+
+

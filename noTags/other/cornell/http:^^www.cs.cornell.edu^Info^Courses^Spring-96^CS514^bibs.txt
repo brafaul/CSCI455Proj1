@@ -1,0 +1,75 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 22:02:51 GMT
+Content-Type: text/html
+Content-Length: 1673
+Last-Modified: Wednesday, 22-May-96 21:45:43 GMT
+
+
+
+ CS514 - Annotated Bibliographies 
+
+
+
+
+
+CS514 - Annotated Bibliographies
+
+
+
+
+	The annotated bibliographies on this page are the voluntarily
+	submitted finals of the CS514 students. The files included 
+	are all post-script with the exception of the first.
+
+
+
+
+  
+     Corba: The Essentials   
+(WWW Page) by Alfred Hong
+
+  Common Object Request Broker Architecture
+(CORBA) 
+by Carlos Barragan Orbe
+
+   'Common Object Request Broker Architecture'
+(CORBA) 
+by Ankit C. Patel 
+
+  Distributed Shared Memory  
+by Hani T. Jamjoom 
+
+  Failure Detection in Distributed Systems
+by Wei Chen
+
+  Failure Detection in Distributed Systems
+by Justin Miller
+
+  Failure Detection in Distributed
+Systems 
+by Janeen Reich
+
+  Language Support for Agents(Mobile Processes)  
+by Hrishikesh Dixit
+
+  The MBONE  by Justin McCune
+
+  The MBONE  by Julian R. Diaz-Hurtado
+ 
+(Note: Ghostview on some systems will not
+view this file.)
+
+  Names Services  
+by Avinash Gupta
+
+  Protocols in Electronic Commerce 
+by Tibor Janosi
+
+  Remote Procedure Calls  
+by Xun Wilson Huang
+
+  Remote Procedure Calls  
+by Kartik Kapadia
+
+

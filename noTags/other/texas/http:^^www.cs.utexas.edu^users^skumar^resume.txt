@@ -1,0 +1,117 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 22:46:43 GMT
+Content-Type: text/html
+Content-Length: 4577
+Last-Modified: Monday, 04-Mar-96 18:00:09 GMT
+
+		
+
+Resume of Shailesh Kumar
+ Resume 
+
+Shailesh Kumar
+Currently Enrolled in Masters of Science Program since Fall 1995, in the 
+Department of Computer Sciences at  
+The University of Texas at Austin
+Got B.Tech degree in Computer Science and Engineering, from Institute of Technology, Banaras Hindu University, India. in April, 1995.  
+
+
+
+Academic Credentials
+Current Research
+Projects and Papers
+Prizes Awards and Felicitations
+Teaching and Consultancy Experience
+Symposiums Attended
+
+
+Academic Credentials 
+Details
+ Master's Degree in Computer Science :
+
+
+	Institute : University of Texas at Austin 
+	Year Of Graduation : Currently in progress
+	Current GPA : 4.0 / 4.0
+
+
+ Bachelor's Degree in Computer Science and Engineering :
+
+	Institute : Institue of Technology, Banaras Hindu University 
+	Year of Graduation : 1995
+	GPA : 	     9.33 / 10  
+	CLASS RANK : 1
+
+
+
+Current Research Work 
+ 
+
+Development of a domain decomposition Algorithm for constrained problems to 
+   be solved using Genetic Algorithm.
+Design of a new Fuzzy Finegrained Parallel Genetic Algorithm.
+Online adaptation of Routing Decisions on Communication Networks Using Reinforcement Learning
+
+
+
+Projects And Papers
+
+
+Online Adaptation of Channel Characterstics using Dual Reinforcement Learning.
+Object Based Genetic Neural Networks.
+Solving the general packing / nesting problem using Genetic Algorithms
+Object based Genetically trained Multilayered Feedforward Neural Networks.
+Object based Genetic Evolution Programming.
+Object Based Multilayerd feed forward Neurral Networks.
+Using Genetic Algorithms for optimising Data distribution on distributed 
+   database systems
+Development of an o(n) sorting Algorithm, modified insertion sort with 
+    pipelined architecture implementation.
+Simulation Analysis and Design of a Dataflow computational model on a time 
+   sharing environment ( UNIX ) for Iterative Jobs.
+Simulation of a Virtual Reality and Animation environment in AutoCAD using
+   AutoLISP interfacing.
+Design and implementation of a Data Encryption and Decryption unit to be 
+    used as an add-on card for online data communication.
+Design and implementation of an interpreter for the first order predicate 
+    calculus for Truth Table Generation, Expression Evaluation, Simplification 
+    and Logic Circuit Design and Optimization.
+
+
+
+Prizes Awards and Felicitations
+
+
+Recipient of the University President's GOLD MEDAL for being the department 
+   topper for the year 1994-95.
+Ranked among the top 1% of the examinees in the Joint Entrance Examination
+   conducted by the five IIT's and IT-BHU.
+Nominated CHAIRMAN of the IEEE student branch BHU, Varanasi Chapter.
+School GOLDMEDALIST for class X and class XII
+
+
+
+Teaching and Consultancy Experience
+
+
+Currently Employed as a Teaching Assistant in CS Dept of UT-Austin.
+Taken Computer Classes for Programming in Pascal, C, C++, Fortran, for more 
+   than 200 students.
+Taken workshop on Programming Skills for the Institute Students.
+Provided Consultancy on C and C++ Programming to various institutes and 
+   Software Industries.
+Got Job offer from
+
+Tata Consultancy Services 
+Cadence Design Systems 
+
+
+
+Symposiums attended
+
+Eighth International Conference on VLSI Design, held in N.Delhi.
+National Symposium on Genetic Algorithms, SYMGAL '95
+
+Back to the Home page
+Back to the top

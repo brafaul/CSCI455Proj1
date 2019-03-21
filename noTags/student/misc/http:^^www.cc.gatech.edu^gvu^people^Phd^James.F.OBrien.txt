@@ -1,0 +1,146 @@
+Date: Thu, 21 Nov 1996 22:12:24 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 5175
+Last-modified: Mon, 29 Jul 1996 22:12:47 GMT
+
+
+James F. O'Brien Home Page
+
+
+
+
+
+
+
+
+
+                
+        
+
+
+James F. O'Brien
+
+
+
+
+
+
+	  I am a Doctoral Student in the          
+	  College of Computing
+	  at the
+          Georgia Institute of Technology,
+	  and a member of the 
+	  Graphics, Visualization, and Usability Center.
+	  I spend most of my waking hours in the 
+	  Animation Lab
+	  where I like to stare at computer monitors.
+          
+  
+	  My primary area of research involves the physically based simulation of
+	  complex deformable systems to generate
+          Secondary Motion
+	  for use in computer generated animation.  
+	  
+
+
+
+
+          My wife, Heather. 
+	  (As of July 6th, 1996!)
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Research Projects: 
+
+
+
+
+
+
+
+
+
+Water Simulation
+
+
+
+
+
+
+
+
+
+
+Cloth/Clothing Simulation
+
+
+
+
+
+
+
+
+
+
+Segmentation of Angiographic Images
+
+
+
+
+
+
+
+
+
+
+Surgery Simulation
+
+
+
+
+
+Recent Publications:
+
+For a complete list of publications, 
+please follow this link.
+
+Hodgins, J. K., et. al. (1995) "Atlanta in Motion, Revised", 
+    (computer generated animation), Visual Proceedings of 
+    ACM SIGGRAPH '96, New Orleans, LA,
+    August 4-10. In the SIGGRAPH '96 Electronic Theater.
+Hodgins, J. K., Wooten, W. L., Brogan, D. C., O'Brien, J. F., (1995) 
+    "Animating Human Athletics," Proceedings of 
+    SIGGRAPH '95, Los Angeles,
+    CA, August 6-11. In Computer Graphics, pp 71-78. 
+O'Brien, J. F., Hodgins, J. K. (1994) "Dynamic Simulation of Splashing Fluids," 
+    Proceedings of 
+    Computer Animation `95, Geneva Switzerland, April 19-21, pp 198-205. 
+    Postscript file available.
+
+
+
+Contact information:
+At GVU :
+James F. O'Brien
+Graphics, Visualization & Usability Center
+College of Computing, #280
+Georgia Institute of Technology
+Atlanta, GA  30332-0280
+
+E-mail :
+obrienj@cc.gatech.edu
+
+
+
+

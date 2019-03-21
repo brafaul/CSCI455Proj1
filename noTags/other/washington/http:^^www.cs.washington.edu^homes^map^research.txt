@@ -1,0 +1,56 @@
+Date: Tue, 10 Dec 1996 21:27:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 06 Mar 1996 18:12:46 GMT
+Content-length: 1981
+
+research
+
+
+
+research
+
+
+
+
+
+I'm a third-year graduate student here in the 
+
+Department of Computer Science and Engineering
+at the University of Washington. I'm pursuing a PhD in computer science, 
+specifically in 
+
+artificial intelligence.
+Within the field of artificial intelligence, I am particularly 
+interested in learning and am working on the 
+
+Softbots project.
+
+
+I'm currently working on intelligent user interfaces for
+the WWW.
+
+
+
+I've recently worked on the 
+Internet Learning Agent.
+
+
+I once worked on Equations for Part-of-Speech Tagging
+(abstract and
+postscript) with 
+Eugene Charniak.
+
+
+I'm part of the ongoing project ACRONYM: a lightweight extensible
+agent-based object-oriented operating system for mobile wireless distributed 
+computing supporting pseudo real-time interactive multimedia 
+applications.
+
+
+
+
+
+
+Mike Perkowitz
+

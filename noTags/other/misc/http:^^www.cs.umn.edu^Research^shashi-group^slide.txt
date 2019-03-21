@@ -1,0 +1,40 @@
+Date: Tue, 14 Jan 1997 22:14:37 GMT
+Server: Apache/1.1b3
+Content-type: text/html
+Content-length: 1196
+Last-modified: Thu, 30 Nov 1995 23:08:38 GMT
+
+
+Slide Show Index
+
+Slide Show Index
+Accessed: 
+
+
+Project Slide Set #1 Slide Set #2
+
+
+ATIS
+Route 
+        Finding Software
+Traffic 
+        Visualization Software
+
+
+CCAM
+CCAM
+
+
+HPGIS
+Real-Time 
+        Battlefield
+
+
+
+
+Design and Maintain by Julian Chow
+Questions and Comments?
+jchow@cs.umn.edu
+[last Updated] Thur. Nov. 30th 1995
+
+

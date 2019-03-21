@@ -1,0 +1,105 @@
+Date: Tue, 26 Nov 1996 02:49:03 GMT
+Server: Apache/0.6.5
+Content-type: text/html
+
+
+
+John Gallagher's Never Ending Story
+
+
+
+John's Never Ending Story Page
+
+
+
+
+Last Modified : November 12, 1996
+
+
+Who I am
+John Gallagher, mild mannered computer science graduate student at
+Case Western Reserve University who is seemingly unable to decide on
+any one story, plan, or home page format....
+
+Where I am
+Case Western Reserve University
+Crawford Hall, Room 505
+Cleveland, OH 44106
+(216) 368-5506
+johng@alpha.ces.cwru.edu
+
+
+ What I do
+I'm a Ph.D candidate in the
+
+Department of Computer Engineering and Science
+ at 
+Case Western Reserve University and
+a member of the 
+Autonomous Agents Research Group.  I am also the lab instructor for CWRU's 
+Introduction to Engineering Class
+(only CWRU access for now, sorry)..
+
+
+I have completed research on the use of 
+genetic algorithms to
+generate dynamical neural network controllers for both simulated and
+real hexapod robots..  
+
+My current research intrests fall into two catagories: 
+
+The use of analog dynamical neural networks to solve 
+    classically intractable decision problems. 
+Exploring the neural basis of cognitive behaviors. 
+
+
+Research Related Web Sites
+I know it's mostly lame to put lists of "favorite" sites on a home page.
+It's sort of egocentric to think that pages I like would be interesting
+to anyone else -- especially if I don't bother to do anything clever
+with the list, but who has time for clever?  I'm supposed to be burning
+that on research -- so that I can put up cool pages like 
+these.
+
+
+My Story
+
+In an effort to counteract my talent to avoid "real work",
+my 
+thesis advisor
+ often requires I commit to "meeting agendas", 
+"research proposals", or other administrative nonsense.  Plans are
+often nothing more than after the fact rationalizations of behavior.
+One would look much more together if he could look into the future so
+tomorrow's mistakes could be rationalized today.  For this purpose, I like   
+
+tarot readings  -- as the results are as vague as any good research
+proposal
+.  In a pinch, I have been known to use a
+Magic 8-Ball.
+I never use 
+a ouija board, as I've found that  
+spirits
+rationalize better than I can, and that's really scarry.
+
+
+Some of my collegues have gone far beyond the automatic
+generation of plans, and are into the automatic generation of 
+results.  What better way to figure out how to build a control
+for a walking robot than to crack open the head of a 
+cockroach
+to see how they do it.  Cheating off Ma Nature's test paper.
+Who says researchers can't have 
+slack?
+
+In my spare time, I perform 
+reconstructive surgery on indigent tubers.  Though I'm not the
+worst, I don't think
+my skills are quite up to working on  
+
+dead frogs -- I'm trying, though.   
+
+to be continued....
+
+johng@alpha.ces.cwru.edu
+

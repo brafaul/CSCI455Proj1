@@ -1,0 +1,73 @@
+Date: Mon, 11 Nov 1996 17:51:41 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 04 Nov 1996 17:43:37 GMT
+Content-length: 2443
+
+
+
+CS302, Section 19
+
+
+Computer Science 302, Section 19
+
+Time: MWF 1:20
+Place: 226 Noland
+Instructor: Todd Turnidge
+Office Hours: TBA
+Lab Hours: TBA
+
+
+Announcements
+
+Class notes on classes.
+A handout on structs is available.
+Program 5 is available.
+
+
+
+ 
+	Getting Started
+	There is some useful information here to read when you are getting started.
+
+ General Information
+	Text, Facilities, Grading, Policies.
+
+ Syllabus
+	A tentative syllabus for the course.
+
+ Assignments
+	The text of reading/programming assignments and some solutions.
+
+ Handouts
+	A collection of the class handouts to date.
+
+ The Class Mailing List
+	Information about how to send messages to me and to the class
+as a whole.
+
+ Course Home Page
+	This is a home page for all sections of 302.  There is much
+information
+	here of general interest including information about
+	tutors,
+	consultants,
+	the windows operating system,
+	email,
+	netscape,
+	and C++.
+
+ 
+	Other CS302 Sections
+	You may find some of the information provided by
+other instructors to be helpful.  For example, here is a handout from Gregory
+Sharp about course difficulty.
+
+
+
+Last modified: Mon Nov  4 11:43:36 1996 by Todd Turnidge
+
+turnidge@cs.wisc.edu
+
+
+

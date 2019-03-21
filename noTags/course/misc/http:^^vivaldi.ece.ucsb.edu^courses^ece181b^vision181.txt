@@ -1,0 +1,65 @@
+Server: Netscape-Communications/1.1
+Date: Wednesday, 20-Nov-96 23:02:05 GMT
+Last-modified: Friday, 25-Oct-96 00:55:19 GMT
+Content-length: 3223
+Content-type: text/html
+
+
+
+
+ Introduction to Computer Vision
+
+
+
+CS/ECE 181B
+Introduction to Computer Vision
+
+This is an introductory course aimed at juniors/seniors/first year graduate
+students in Engineering and Sciences. In the past, students from various
+departments such as psychology, mathematics,mechanical and chemical engineering,
+and physics have taken this course. There are no required prerequisites
+for this class (knowledge of calculs and linear algebra at the undergraduate
+level is assumed).
+
+Introduction
+Schedule for F96
+Programming Assignments for F96
+Term Project
+Homework #1 (due Oct 11, 96)
+Homework #2 (due Oct 25,96)
+Homework#3 (due November 4, 96)
+
+
+Instructor: Manjunath
+
+Lecture: 330-445pm T R
+Office Hours: 1230-200pm T R or by appointment.
+manj@ece.ucsb.edu, x7112
+
+Teaching Assistant: Jay
+Winkeler
+
+Discussion: 1-150pm Friday
+Office Hours: 10-11am M F & 3-4 pm Friday or by appointment.
+jay@iplab.ece.ucsb.edu, x3810.
+
+
+Hot Links
+
+ Vision
+research Laboratory
+
+UTHSCA Image Tool
+for Windows 95/NT
+
+Face Recognition Home Page
+ Computer
+Vision Home Page
+
+
+If you have comments or suggestions, email me at manj@surya.ece.ucsb.edu
+
+
+This page created with Netscape Navigator Gold 
+
+

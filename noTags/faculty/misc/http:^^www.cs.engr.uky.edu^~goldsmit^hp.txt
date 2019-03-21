@@ -1,0 +1,130 @@
+Date: Monday, 25-Nov-96 23:08:06 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+
+Judy Goldsmith's Home Page
+
+
+I am in the Department of
+Computer Science at the University
+of Kentucky.
+
+My research interests are structural complexity and logical complexity
+of computational complexity classes.  I have been learning about 
+Markov decision processes, DNA computing, 
+and logic programming. 
+
+I am currently teaching 
+CS 245, 
+Discrete Math,  
+and
+CS 580, 
+Design and Analysis of Algorithms.
+Next semester, I will be teaching CS 675, Computability and Complexity.
+The time and place for CS 675 have been changed, to 11 am MWF, in
+145 P.O.T.
+If you want to find me, here is my
+ schedule. 
+My email address is goldsmit@cs.engr.uky.edu and office phone number is
+606-257-4245.
+
+In addition to my academic interests, I dance with
+Squash Beetle Morris, 
+I bicycle, and I also try to find time for contra dancing, ballroom
+dancing, and swing.
+
+Recent Papers
+
+J. Goldsmith,
+Christopher Lusena, and
+Martin Mundhenk,
+"The complexity of deterministically observable
+        finite-horizon Markov decision processes,"
+UK CS Department 
+Technical Report 269-96.
+
+Judy Goldsmith, 
+Matthew Levy, and
+Martin Mundhenk,
+Limited
+Nondeterminism, A survey for the June, 1996 complexity theory
+news column in SIGACT News.
+Here is the
+Tech Report
+version, (UK CS Department Technical Report 267-96),
+with an appendix on limited nondeterminism in automata
+theory, and on LogNP and LogSNP.
+Lance Fortnow,
+Judy Goldsmith, 
+Matthew Levy, and
+Steve Mahaney
+``L-Printable Sets,"
+in Proc. 1996 IEEE Conference on Computational Complexity.
+Journal version
+To appear in  SIAM J. Computation.
+Stephen Bloch,
+Jonathan Buss,
+and Judy Goldsmith,
+``Sharply Bounded 
+Alternation within P" (Submitted)
+Also available as
+
+TR96-011 from the
+
+Electronic Colloquium on Computational Complexity.
+Conference version to appear in Proc. Discrete Math and Theoretical
+Computer Science '96, (New Zealand, Dec. 1996).
+
+Richard
+Beigel and 
+Judy Goldsmith,``Downward 
+Separation Fails Catastrophically
+for Limited Nondeterminism Classes," 
+To appear, sometime in the
+next 2 years (really!) in SIAM J. Computation.
+Conference version:  Structures '94. 
+
+Judy Goldsmith and Steve
+Homer,
+``Scalability 
+and the isomorphism problem", appeared in IPL in 1996.
+
+
+Judy Goldsmith and Andy Klapper,
+``Public key 
+cryptography with partial secrecy,"
+(Submitted)
+
+THE TEAM:
+Students
+Matthew Levy
+Christopher Lusena
+Amy Levy
+John Pickens
+Postdoc
+Martin Mundhenk
+
+Links
+WEB 
+pages for Discrete Mathematics and Theoretical Computer Science
+Great
+Theory Database at Universitaet Dortmund
+Parametrized
+Complexity
+Graduate 
+School Information Kit for Women in Computer Science
+WITS
+Dane McGregor
+
+
+Accesses since May 3rd, 1996: 
+
+
+Comics
+Dilbert
+Robotman
+
+
+~
+

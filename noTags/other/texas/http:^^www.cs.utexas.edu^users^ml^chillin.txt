@@ -1,0 +1,45 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:55:48 GMT
+Content-Type: text/html
+Content-Length: 1945
+Last-Modified: Monday, 11-Dec-95 16:42:34 GMT
+
+The CHILLIN Inductive Logic Programming System 
+CHILLIN  
+
+
+CHILLIN is an ILP system which integrates top-down search (a la FOIL), bottom-up
+search (a la GOLEM) and predicate invention (a la CHAMP).  It has been used 
+as the induction algorithm underlying the CHILL natural-language parser learning
+system. 
+
+The CHILLIN Prolog code is available via 
+anonymous ftp.
+See the INDEX file here for details.
+
+Pointers to papers on CHILLIN and CHILL can be found on our ILP research page. Below is the standard
+reference (click on the open book image). 
+
+
+  Combining Top-Down And Bottom-Up Techniques In Inductive Logic Programming
+ 
+John M. Zelle, Raymond J. Mooney and Joshua B. Konvisser 
+ Proceedings of the Eleventh International Workshop
+on Machine Learning, pp. 343-351, Rutgers, NJ, July 1994. (ML-94) 
+
+This paper describes a new method for inducing logic programs from
+examples which attempts to integrate the best aspects of existing ILP
+methods into a single coherent framework.  In particular, it combines
+a bottom-up method similar to GOLEM with a top-down method similar to
+FOIL.  It also includes a method for predicate invention similar to
+CHAMP and an elegant solution to the ``noisy oracle'' problem which
+allows the system to learn recursive programs without requiring a
+complete set of positive examples.  Systematic experimental
+comparisons to both GOLEM and FOIL on a range of problems are used to
+clearly demonstrate the advantages of the approach.
+
+
+
+
+estlin@cs.utexas.edu

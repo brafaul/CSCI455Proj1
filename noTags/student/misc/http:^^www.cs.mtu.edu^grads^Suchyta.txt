@@ -1,0 +1,52 @@
+Date: Tue, 26 Nov 1996 03:00:54 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 15 Nov 1996 01:21:13 GMT
+Content-type: text/html
+Content-length: 1899
+
+
+
+
+
+Tom Suchyta's Home Page
+
+
+
+[SciFi Ratings]
+[Art Links]
+[CS Links]
+[Misc Links]
+[Local Weather]
+[Dilbert]
+
+
+Welcome to Houghton, Michigan!
+
+Hi, My name is Tom Suchyta.  I'm a grad student here at Michigan
+Tech.  Currently, I am enrolled in the doctoral program in Computational
+Science and Engineering.  My interests can be quite varied.  Take a 
+look!  
+
+
+Science Fiction
+Ratings
+ Artist
+stuff
+ Computer
+Science stuff
+ misc
+stuff...
+ MTU
+Home Page
+ MTU CS Dept.
+
+
+If you are looking for information on CS211, which I'm currently teaching, try
+ here.
+
+
+http://www.cs.mtu.edu/~trsuchyt/Home.html-- Revised: 13 September 1996
+You can reach me at:
+trsuchyt@mtu.edu
+
+

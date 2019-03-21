@@ -1,0 +1,51 @@
+Date: Tue, 26 Nov 1996 03:45:25 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Sun, 17 Nov 1996 09:22:10 GMT
+Content-length: 1745
+
+
+
+Nick Hain
+
+
+
+Nick Hain
+NYU Media Research Lab
+719 Broadway, 12th Floor
+New York, NY 10003
+
+Email: hain@cs.nyu.edu
+Home Phone: 212-689-4729
+
+
+
+
+I'm a graduate student in 
+computer science at NYU.  Like what seems to be almost everyone here, I've 
+jumped on the Java programming bandwagon.  Last summer I took 
+
+Programming for the WWW, and this fall I'm continuing work on an independent
+research project using Java.
+
+
+The first Java program I ever wrote was:
+A Java Draw Program
+
+Java applets from Programming for the WWW:
+(Homeworks 1, 2, and 3 were Java applications, so they can't go on this
+web page.)
+Homework #4
+Homework #5 <--the coolest Java applet
+
+Other links:
+
+My Resume
+
+The Age, newspaper for Melbourne, Australia, my birthplace.  (No, I don't have an Australian accent--I've lived in the states almost my whole life!)
+
+Clinton-Gore '96
+
+
+This page has been accessed  times since February 1, 1996.
+

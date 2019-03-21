@@ -1,0 +1,239 @@
+Date: Tue, 05 Nov 1996 00:03:47 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 24 Jan 1996 05:29:13 GMT
+Content-length: 7710
+
+
+
+Lecture Notes and Handouts
+
+
+Lecture Notes and Handouts
+Lecture Notes
+
+ Sep 06, 1995: 
+       
+       First Day of Class
+       
+ Sep 08, 1995: 
+       
+       Compilers, OOP and Data Types
+       
+ Sep 11, 1995: Lab Day (no notes)
+   Sep 13, 1995: 
+       
+       Data Objects: Address, Name, Type and Value
+       
+ Sep 15, 1995: 
+       
+       Constants, Variables, Expressions and Assignments
+       
+ Sep 18, 1995: 
+       
+       A Complete Program: Comments, #include, main() and Streams
+       
+ Sep 20, 1995: 
+       
+       Streams, Strings, Precedence and Associativity
+       
+ Sep 22, 1995: 
+       
+       Advanced Mathematical Expressions, Intro to Functions
+       
+ Sep 25, 1995: 
+       
+       Function Declarations and Definitions
+       
+ Sep 27, 1995: 
+       
+       Using Declarations, Definitions and Function Calls. Arguments.
+       
+ Sep 29, 1995: 
+       
+       Pass-By-Value Arguments.  Lvalue, Rvalue and Lifetime.
+       
+ Oct 02, 1995: 
+       
+       Pass-By-Reference. Lifetime.
+       
+ Oct 04, 1995: 
+       
+       Scope. If and If/Else.
+       
+ Oct 06, 1995: 
+       
+       Relational/Equality/Boolean Operators. Short Circuiting.
+       
+ Oct 09, 1995: 
+       
+       Expressions and Conditions. Switch.
+       
+ Oct 11, 1995: 
+       
+       While Loops.
+       
+ Oct 13, 1995: 
+       
+       Do/While Loops. For Loops.
+       
+ Oct 16, 1995: 
+       
+       More About Loops.
+       
+ Oct 18, 1995: In-Class Review (no notes).
+   Oct 20, 1995: 
+       
+       Typecasting. Enumeration Types. Intro to Arrays.
+       
+ Oct 23, 1995: 
+       
+       Initializing Arrays.  Subscript Operator.  Arrays as Arguments.
+       
+ Oct 25, 1995: 
+       
+       List Implementation Using Arrays.
+       
+ Oct 27, 1995: 
+       
+       More About Strings.
+       
+ Oct 30, 1995: 
+       
+       Multidimensional Arrays.
+       
+ Nov 01, 1995: 
+       
+       Problem Solving with Multidimensional Arrays.
+       
+ Nov 03, 1995: 
+       
+       Addresses and Pointers.
+       
+ Nov 06, 1995: 
+       
+       The Array as Address.  Dereferencing Pointers.
+       
+ Nov 08, 1995: 
+       
+       Pointer Arithmetic.
+       
+ Nov 10, 1995: 
+       
+       Dynamic Memory Allocation.
+       
+ Nov 13, 1995: 
+       
+       Deallocating Memory.  Advanced Pointer Operations.  Intro to OOP.
+       
+ Nov 15, 1995: 
+       
+       Classes.
+       
+ Nov 17, 1995: 
+       
+       Constructors and Destructors.
+       
+ Nov 20, 1995: 
+       
+       Constructor Initialization List.  Default Arguments.
+       
+ Nov 27, 1995: 
+       
+       Copy Constructor. Assignment to Class Objects (under construction).
+       
+ Nov 29, 1995: 
+       
+       (Not Available).
+       
+ Dec 01, 1995: 
+       
+       (Not Available).
+       
+ Dec 04, 1995: 
+       
+       (Not Available).
+       
+ Dec 06, 1995: 
+       
+       Member Access Operator "->".  Intro to File Streams.
+       
+ Dec 08, 1995: 
+       
+       File I/O.
+       
+ Dec 11, 1995: 
+       
+       Input Stream Errors.  Intro to Inheritance.
+       
+ Dec 13, 1995: 
+       
+       (Not Available).
+       
+ Dec 15, 1995: 
+       
+       Virtual Functions.
+       
+
+Handouts
+
+ Sep 08, 1995: 
+       
+       Section 15 Startup (using the lab, etc.)
+   Sep 13, 1995: 
+       
+       Using DOS to copy files to the handin directory
+       
+ Sep 18, 1995: 
+       
+       A complete program: How many hours does Tiffany spend with Aaron?
+       
+ Sep 20, 1995: 
+       
+       A program that uses PI
+       
+ Sep 23, 1995: 
+       
+       Practice questions
+       
+       and
+       
+       Answers
+        for Quiz 1
+   Oct 04, 1995: 
+       
+       Additional Operators
+       
+ Oct 04, 1995: 
+       
+       Introduction to Classes
+       
+ Oct 09, 1995: 
+       
+       Integer Overflow and the Hailstone Series
+       
+ Oct 14/15, 1995: 
+       
+       Solutions for Practice Quesionts.
+       
+ Oct 16, 1995:
+       
+       About Exam #1.
+       
+ Nov 12, 1995:
+       More 
+       practice questions and
+       
+       solutions for quiz 6.
+
+
+Last modified:
+Tue Jan 23 23:28:13 CST 1996
+by Greg Sharp
+
+greg@cs.wisc.edu
+| http://www.cs.wisc.edu/~greg/
+greg.html
+
+
+

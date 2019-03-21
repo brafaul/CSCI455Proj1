@@ -1,0 +1,31 @@
+Date: Wed, 20 Nov 1996 22:12:31 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 03 Sep 1996 13:09:05 GMT
+Content-length: 802
+
+
+Artificial Intelligence
+
+Artificial Intelligence
+(Computer Science 44)
+Identical to Cognitive Science 44
+Times: 97W: 10  98W: Arrange  
+Instructors: Rus 
+Prerequisite: Computer Science 23 and 25. 
+Dist: TAS 
+
+
+An introduction to the field of Artificial Intelligence. Topics include games, robotics, Lisp, Prolog, image
+understanding, knowledge representation, logic and theorem proving, understanding of natural languages,
+and discussions of human intelligence. 
+
+
+
+
+
+
+Back to Dartmouth CS Home Page
+
+
+

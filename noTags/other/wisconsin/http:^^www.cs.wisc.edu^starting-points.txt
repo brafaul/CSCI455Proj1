@@ -1,0 +1,43 @@
+Date: Mon, 04 Nov 1996 23:41:12 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 24 Oct 1996 22:46:47 GMT
+Content-length: 1923
+
+
+
+UW CS Internet Starting Points
+
+
+Starting Points for Internet Exploration
+Internet and Web Resources
+
+ 
+	NCSA Starting Points for Internet Exploration
+Internet Resources Meta-Index
+ World-Wide Web Servers by Location
+ World-Wide Web Servers at Universities in the U.S.
+ The World-Wide Web Virtual Library
+ CUI W3 Catalog (searchable)
+   WWWW - the World Wide Web Worm
+ Best of the Web '94 Contest Winners
+
+Computer Science and General Information
+
+ Unified Computer Science Technical Report Index
+ WWW Virtual Libary: Computing
+ Computer Science Bibliography Collection
+ Just the FAQs (Usenet Freqently Asked Questions and Answers)
+
+WWW Documentation
+
+Our WWW Documentation
+Other WWW Documentation
+
+
+Last modified: Thu Oct 24 17:46:36 CDT 1996 by Chuck McKenzie 
+
+www@cs.wisc.edu
+
+
+

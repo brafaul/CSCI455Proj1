@@ -1,0 +1,43 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:15:26 GMT
+Content-Type: text/html
+Content-Length: 1213
+Last-Modified: Monday, 29-Apr-96 21:24:35 GMT
+
+CS212 S96 Home Page
+
+
+CS 212
+
+Structure and Interpretation
+of Computer Programs
+
+Computer Science Department
+Cornell University
+Spring 1996
+
+
+ 
+Course Staff
+
+Course Info
+
+
+ 
+Course Materials
+Announcements
+
+1/23/96 Emacs and MacMarlais demos
+2/02/96 Section Room Change
+3/07/96 Prelim Time and Place
+3/11/96 How to Make the Graders 
+Happy
+4/07/96 Bug fix in PS #6
+4/16/96 General Exam Announcements
+4/29/96 Extension of due date, PS6
+
+
+
+Last Modified: 4/07/96 16:10 by JEH
+

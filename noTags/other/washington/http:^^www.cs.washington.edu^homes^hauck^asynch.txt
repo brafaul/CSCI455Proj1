@@ -1,0 +1,66 @@
+Date: Tue, 10 Dec 1996 03:20:41 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 11 Nov 1994 20:07:17 GMT
+Content-length: 2405
+
+
+
+Asynchronous Circuits
+
+ Asynchronous Circuits
+
+
+Asynchronous design has been an active area of research since at least the
+mid 1950's, but has yet to achieve widespread use.  In
+
+"Asynchronous Design Methodologies:  An Overview"
+we examine the benefits and problems inherent in asynchronous computations,
+and in some of the more notable design methodologies.
+These include Huffman asynchronous circuits, burst-mode circuits,
+Micropipelines, template-based and Trace Theory-based delay-insensitive
+circuits, Signal Transition Graphs, Change Diagrams, and compilation-based
+quasi-delay-insensitive circuits.
+
+This paper is meant to be readable by someone with some experience with logic
+design, but not necessarily any exposure to asynchronous circuits.  It may
+also serve as a good overview of the field for someone with a strong knowledge
+of specific asynchronous methodology(ies).
+
+Also relevant to asynchronous circuits is Montage, the first FPGA for
+asynchronous circuits.  
+The paper 
+"An FPGA For Implementing Asynchronous Circuits",
+gives a good overview of the architecture and software tools, though the hypertext page
+Triptych/Montage FPGA Architectures
+will give a quick taste.
+
+Primary References
+
+
+S. Hauck. 
+
+"Asynchronous Design Methodologies:  An Overview",
+to appear in Proceedings of the IEEE, Vol. 83, No. 1, January 1995.  
+
+
+S. Hauck, S. Burns, G. Borriello, C. Ebeling. 
+
+"An FPGA For Implementing Asynchronous Circuits",
+IEEE Design & Test of Computers, Vol. 11, No. 3, Fall, 1994.
+
+Secondary References
+
+
+S. Hauck, G. Borriello, S. Burns, C. Ebeling. 
+"Field-Programmable Gate Array for Synchronous and Asynchronous Operation",
+U.S. Patent Pending.
+
+
+S. Hauck, G. Borriello, S. Burns and C. Ebeling.  
+
+"Montage: An FPGA for Synchronous and Asynchronous Circuits",
+FPL '92, Vienna, August 1992.
+
+
+

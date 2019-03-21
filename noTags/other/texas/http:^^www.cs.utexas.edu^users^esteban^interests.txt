@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:14:21 GMT
+Content-Type: text/html
+Content-Length: 2228
+Last-Modified: Thursday, 20-Jun-96 19:31:12 GMT
+
+
+
+
+
+Mr. Carl's Home Page
+
+
+
+
+Research Interests
+
+ Programming Languages are the focus of my efforts.  While I will be working on
+a Scheme compiler here at the University, I am also fascinated by the implementation
+of purely 
+Functional Languages
+ and the problems of making such implementations efficient.  An example of this type of 
+research can be found by looking at the Functional Programming at Glasgow page.
+
+
+Reflection is a way of allowing a computational system to examine,
+reason about, and modify its own behavior.  Applied to a programming language
+implementation, this technique might be used to allow a language 
+to support different abstractions or to make given abstractions more efficient.
+Open Implementations contains
+pointers to a number of topics along these lines.
+
+
+Syntactic extensions in RScheme are reputed to
+be the underlying mechanism which supports reflection on scope and other compiler innards.
+An out-of-date sketch of the design of a new syntactic extension facility implemented in an interpreter which might be 
+the basis for this is here.  The system has been documented in my Master's thesis, which
+will soon be available on the OOPS Group Web page.  Literate Programming Library.
+
+
+
+
+

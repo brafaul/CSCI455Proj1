@@ -1,0 +1,22 @@
+Date: Wed, 15 Jan 1997 00:27:06 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 438
+Last-modified: Tue, 22 Aug 1995 22:01:20 GMT
+
+
+
+
+Riccardo Bettati-Research
+
+
+Riccardo Bettati, Assistant Professor
+Research Interests and Areas of Expertise:
+
+ Distributed real-time systems; resource allocation in large,
+dynamic real-time systems 
+ Real-time communication; multiparty communication.
+
+Last Updated August 22, 1995
+
+

@@ -1,0 +1,63 @@
+Date: Tue, 26 Nov 1996 18:49:54 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Tue, 19 Nov 1996 18:14:11 GMT
+Content-length: 1753
+
+
+Syllabus
+
+
+
+ Randomized Algorithms
+
+
+Instructor.  Richard Cole, WWW412, tel: 998-3119, cole@cs.nyu.edu.
+
+Syllabus.
+Randomization is a powerful tool for achieving efficiency and/or
+simplicity in many settings.
+This course will study a variety of techniques for using
+randomization in algorithm design.
+Randomization typically introduces uncertainty, which could
+be uncertainty regarding the result, or uncertainty regarding the
+algorithm's performance; but this is tolerable if it is of
+sufficiently low probability.
+Primality testing and quicksort, respectively,
+provide examples of each of these.
+Techniques for analyzing the (probabilistic) correctness and
+performance of randomized algorithms will be a central
+part of the course.
+
+
+Prerequisites.
+Honors Analysis of Algorithms, or A in Fundamental Algorithms,
+or equivalent background with permission of the instructor.
+The course also assumes familiarity with basic probability and
+counting, such as might be encoutered in an analysis of quicksort
+or of an idealized hashing scheme.
+
+
+Assignments.
+There will be homeworks comprising
+problems drawn from the textbook and elsewhere.
+Late homeworks will not be accepted (except in the event of
+illness of other unavoidable circumstances).
+If for some reason you will be unable to hand in a homework on time,
+please discuss it with me beforehand.
+
+
+Required text.
+Motwani and Raghavan, Randomized Algorithms.
+
+
+
+
+CS Department,
+NYU
+
+
+cole@cs.nyu.edu (Richard Cole)
+Last modified: Nov 11, 1996
+
+

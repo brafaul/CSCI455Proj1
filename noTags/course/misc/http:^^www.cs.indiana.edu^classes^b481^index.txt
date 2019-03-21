@@ -1,0 +1,62 @@
+Date: Wed, 20 Nov 1996 22:33:18 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 2539
+Last-modified: Fri, 06 Sep 1996 16:37:40 GMT
+
+
+
+
+No Title
+
+
+
+
+
+
+
+    
+ Next:  Motivation:
+  
+
+  B481: Interactive Graphics
+  Fall 1996 ---
+Section 1161
+
+Instructor: Andrew Hanson (hanson@cs.indiana.edu) 
+ Lecture: Monday and Wednesday, 5:45pm--7:00pm in LH102
+
+ Office hours:  Monday and Wednesday 1:30pm--3:00pm,
+ or by appointment, in Lindley 301F
+
+ Discussion Section 1162: Friday 8:00am-8:50am   
+ in Student Building 230 SGI cluster.
+  Grader: Chun-Perng Cheah (ccheah@cs.indiana.edu) 
+            Office hours: Tuesday and Wednesday 10am--11am,
+            or by appointment, LH 310 
+
+ MIDTERM  Wednesday, October 23, 1996, 5:45m-7:00pm in
+LH102
+ FINAL  Monday, December 16, 1996, 7:15pm-9:15pm in
+LH102,
+
+ 
+
+  Motivation:
+  Summary of Topics:
+  Prerequisites:
+  Grading Policy:
+
+  Exams:
+
+  Programming Assignments:
+  Main Text:
+  How to get ready for the programming exercises:
+    About this document ... 
+
+ 
+
+Chun-Perng Cheah 
+Fri Sep  6 11:21:53 EST 1996
+
+

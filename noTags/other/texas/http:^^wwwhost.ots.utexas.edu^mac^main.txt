@@ -1,0 +1,64 @@
+Date: Mon, 06 Jan 1997 22:48:38 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 5001
+Last-modified: Sat, 04 Jan 1997 00:11:46 GMT
+
+
+
+utexas mac archive
+
+
+
+Welcome to the University of Texas Macintosh freeware and shareware archive. 
+This archive and its FTP counterpart 
+are maintained by Chris Johnson 
+of the Office of 
+Telecommunication Services (OTS).
+
+NOTE: The pages that follow make use of a lot of small 
+graphic elements. If your network connection is slow, or if you simply want the 
+best possible performance, turn off the "Auto-Load Images" option in 
+your WWW client.
+
+
+Indices
+
+Index by Author
+Index by Date
+Index by Product
+
+
+ Recent Changes -- All the changes in the last month.
+
+ Anti-Virus Software & Information
+ AppleTalk Network Software
+ Applications
+ Communications -- Serial (modem) communications.
+ Compression/Translation -- File compression/decompression/translation, etc.
+ Development -- Software development and related items.
+ Games
+ Graphics -- Image viewing & manipulation software.
+ Information -- General information documents.
+ Internet Software & Services -- Bringing the world to your Mac, and vice versa.
+ Sound -- Sound playing & manipulation software.
+ System Folder Additions -- Items you can add to your System Folder.
+ Extensions -- Also known as "INITs".
+ Control Panels -- Also known as "cdevs".
+ Desk Accessories -- Calculators, note pads, calendars, etc.
+ System Software -- Sometimes Apple lets us distribute it, sometimes not.
+ Utility Software
+
+
+Additional Information
+
+Mailing List -- Be notified of updates to this archive by email.
+File Formats -- A discussion of the file formats found here.
+Submitting Software -- How to submit software to this (and other) archives.
+
+
+
+
+Chris W. Johnson
+
+

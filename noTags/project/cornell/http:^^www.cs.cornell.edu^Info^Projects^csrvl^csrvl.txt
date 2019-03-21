@@ -1,0 +1,174 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:52:53 GMT
+Content-Type: text/html
+Content-Length: 8192
+Last-Modified: Friday, 11-Oct-96 17:42:55 GMT
+
+Cornell CSRVL
+
+
+Cornell Robotics and Vision Laboratory
+
+Welcome to the Web niche of the Cornell Robotics and Vision Laboratory. 
+cp: No match.
+ match.
+rrently under development; please don your hard hat.
+Questions and comments should be directed to 
+mdw@cs.cornell.edu. Thanks.
+
+About the CSRVL 
+The Cornell Computer Science Robotics and Vision Laboratory is located 
+at Cornell University in Ithaca, N.Y. We have three main areas of
+research:
+
+Computer vision (Prof. Daniel Huttenlocher)
+Multimedia applications of computer vision (Prof. Ramin Zabih)
+Robotics, 
+including distributed manipulation and micro-electro mechanical systems (MEMS) 
+(Prof. Bruce Donald)
+
+
+Here is a pictoral tour of the CSRVL.
+
+  Current Projects
+The following projects are active at the CSRVL.  They are supervised by
+Ramin Zabih.
+
+ Automatic Detection and
+Classification of Scene Breaks in Digital Video.
+ MPEG Browser, allowing
+scene break and global motion-based queries.
+ Real-time ATM Video Source,
+transmission of full-frame video over ATM for parallel computation on
+platforms such as the Cornell/NYNET ATM Cluster.
+ A number of projects involving high-performance imaging applications.
+These include parallel implementations in 
+Split-C for
+U-Net and 
+symmetric multiprocessors.
+
+
+We have a list of potential Master's
+projects, maintained by 
+Justin Miller.
+
+
+Most of our work has been done under Unix, but we are currently
+considering a move to WindowsNT.  There is a discussion of some of the
+issues
+here.
+We are hopeful that this move will be supported by 
+Microsoft.
+
+
+  Selected Publications
+The following is a list of selected papers of research done at the
+CSRVL. Many of these papers are available via 
+anonymous FTP.
+
+Many publications from the Cornell Robotics and Vision Laboratory are 
+available from the 
+Cornell CS Tech-Reports server. (See below.)
+Only those papers not available from the CS-TR server
+are listed here.
+
+
+
+
+ Program Mobile Robots in Scheme (B. Donald and J. Rees) 
+Proc. IEEE International Conference on Robotics and Automation
+Nice, France (May, 1992), pp.  2681-2688.
+
+
+ 
+On the Complexity of Computing the Homology Type of a Triangulation 
+(B. Donald and D. Chang), 
+Revised MS based on the paper IEEE Symposium on the Foundations of 
+Computer Science  San Juan, (October 1991), pp.  650-661.
+
+
+
+Information Invariants for Distributed Manipulation (B. Donald, J.
+Jennings and D. Rus) in  The First Workshop on the Algorithmic 
+Foundations of Robotics, A. K. Peters, Boston, MA. ed. R. Wilson and
+J.-C.Latombe (1994). 
+
+
+ 
+Information Invariants in Robotics (B. Donald)
+Revised MS based on a paper submitted to  Artificial Intelligence.
+
+
+Automatic Sensor Configuration for Task-Directed Planning (B. Donald,
+A. Briggs),  Proceedings 1994 IEEE International Conference on 
+Robotics and Automation, San Diego, CA (May 1994).
+
+
+
+Sensorless Manipulation Using Massively Parallel Microfabricated Actuator
+Arrays,
+K.-F. Böhringer, B. R. Donald, R. Mihailovich, and N. C. MacDonald, 
+ Proc. IEEE International Conference on Robotics and Automation, 
+San Diego, CA (May, 1994).
+
+
+
+A Theory of Manipulation and Control for Microfabricated Actuator Arrays,
+K.-F. Böhringer, B. R. Donald, R. Mihailovich, and N. C. MacDonald, 
+Proceedings of the IEEE Workshop on Micro Electro Mechanical Systems, 
+Oiso, Japan (January, 1994).
+
+
+ 
+A Computational Approach to the Design of Micromechanical Hinged Structures
+(extended abstract),
+K.-F. Böhringer, 
+Proceedings of the ACM/SIGGRAPH Symposium on Solid Modeling and Applications
+, Montréal, Quebéc, Canada (May, 1993).
+
+
+
+Some other papers are listed 
+here.
+
+
+  Technical Reports by Author
+These lists are generated dynamically by the Cornell CS-TR Server.
+Here is the  CS-TR server index, 
+where you can search for technical reports by author, title, and keyword.
+  
+Böhringer, Karl
+Briggs, Amy
+Brown, Russell
+Donald, Bruce
+Huttenlocher, Daniel
+Jennings, Jim
+Leventon, Michael
+Rucklidge, William
+Rus, Daniela
+
+  People at the CSRVL
+
+Karl F. Böhringer
+Scott Cytacki
+Bruce Donald
+      (associate professor)
+  Pedro Felzenszwalb
+Daniel 
+      Huttenlocher (associate professor)
+  Ryan Lilien
+Michel Maharbiz
+Justin Miller
+Greg Pass
+Daniel Scharstein
+Aaron Stump
+  Rob Szewczyk
+Fernando "Joe" Viton
+  Justin Voskuhl
+Ed Wayt
+Matt Welsh
+Greg Whelan 
+  Ramin Zabih 
+      (assistant professor)
+  <l

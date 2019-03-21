@@ -1,0 +1,96 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 22:41:36 GMT
+Content-Type: text/html
+Content-Length: 2574
+Last-Modified: Saturday, 02-Nov-96 20:29:21 GMT
+
+
+Lyn Pierce
+Lyn Tumlin Pierce
+
+Education
+
+
+Ph.D student in Computer Sciences, University of Texas at Austin, 
+1991 - present.
+
+
+Current status: 6th year
+
+GPA: 3.93
+
+
+M.S. in Computer Sciences, University of Texas at Austin, December 1993.
+
+B.A. in Philosophy, Princeton University, May 1986.
+
+
+Scholarships and Honors
+
+
+Motorola Silver Quill Award, December 1995.
+
+Motorola SPS Summer Intern Scholarship, September 1995.
+
+National Science Foundation graduate fellowship, September 1993 - May 1996.
+
+MCD Fellowship, University of Texas at Austin, September 1991 - August 1993.
+ 
+Nominated to Upsilon Pi Epsilon computer science honor society, 1992.
+
+Nominated to Phi Kappa Phi honor society, 1992.
+
+
+Employment
+
+
+Student Research Assistant
+Applied Research Laboratories, Austin, TX, September 1996 - present
+
+
+CAD Software Developer (summer intern/contractor)
+Motorola Inc., Ed Bluestein plant, Austin, TX, May 1995 - August 1996
+
+
+Graduate Teaching Assistant (MCD Fellowship duties)
+University of Texas at Austin, Fall 1993 - Summer 1993.
+
+
+UNIX System Administrator (contract) 
+AT&T Bell Laboratories, Murray Hill NJ, December 1988 - May 1991.
+
+
+End-User Computer Software Consultant (contract)
+AT&T, Bridgewater NJ, July 1987 - December 1988.
+
+
+Database Programmer
+Nesbit Systems Inc., Princeton Junction NJ, June 1985 - June 1987.
+
+
+
+Publications
+"Route Table: Interconnect Delay Modeling in Synthesis", Chuong Nguyen and Evelyn
+Pierce.  Mentor Graphics User's Group International Conference, October 1996.
+
+
+"Synthesis of Distributed Control Systems" (abstract), Evelyn Tumlin Pierce. 
+
+15th ACM Symposium on Principles of Distributed Computing, May 1996.
+
+
+"Autologic II Database, Simulation, and DFT Model Generation System", Evelyn Pierce,
+Jody Everett and Chuong Nguyen.  Mentor Graphics Users Group International 
+Conference, December 1995.
+
+
+Personal Interests
+Folk and choral singing, ballroom dance, guitar, piano, rock climbing, writing
+
+
+For contact information see my WWW home page.
+
+A Postscript version of this resume is also available.
+
+

@@ -1,0 +1,151 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:09:13 GMT
+Content-Type: text/html
+Content-Length: 4565
+Last-Modified: Monday, 21-Oct-96 18:27:20 GMT
+
+
+
+Resume
+
+
+
+
+Vineet M. Ahuja
+
+
+
+ahuja@cs.cornell.edu
+
+
+
+
+
+Current Address
+        2506 Hasbrouck Apartments
+        Ithaca, NY 14850 
+        (607)253-5497 
+
+
+Permanent Address
+        A3/5th floor Botanic Terrace
+        3 Conduit Road
+        Hong Kong
+        (852) 25247839
+
+
+
+
+
+
+
+Objective
+
+
+To obtain a permanent position as a software engineer.
+
+
+
+Education
+
+
+
+Cornell University - Ithaca, NY
+Master of Engineering Computer Science, GPA: 3.96/4.0   
+December 1996  
+ Pune Institute of Computer Technology  - Pune, India
+Bachelor of Engineering Computer Engineering, Graduated with
+Distinction    August 1995  
+
+
+
+Relevant Coursework
+
+
+ Engineering Computer Networks
+ 
+Automata and Computability Theory 
+ Software
+Design for High Performance Architectures 
+ High Performance Computer 
+Systems 
+ 
+Multimedia Systems 
+ High Capacity Information Networks
+ Databases and Management Systems
+ Computer Organization
+ Software Engineering
+ Data Structures
+ Artificial Intelligence
+ Computer Graphics
+ Operating Systems
+
+
+
+Projects
+
+
+  Stable Storage Server    Spring 1995  
+Design and implementation of a distributed stable storage server for an electronic commerce system
+  Parallel Ray Tracing in CC++  	 Spring 1995  
+Parallelisation of a public domain ray tracer, RayLab, in Compositional C++ using the master/slave method
+  Secure Video Transmission    Fall 1995  
+Researched a light-weight method for secure transmission of video
+streams based on the RSA encryption standard
+  Handwritten Character Recognition	   June 1994-June
+1995  
+A package for recognition of handwritten English characters and form
+parsing with automated database entry, written in C++ and Visual Basic
+under MS- Windows
+  Financial Accounting  	 Fall 1993  
+A financial accounting package for managing account books and
+preparing final accounts, written in COBOL
+
+
+
+
+Research
+
+
+Efficient Computation of Parallel FFTs
+Researched methods to decrease communication overhead and speed-up computation of the FFT on distributed memory parallel machines (SP-2)
+  Parallel Matrix Vector Multiplication    Fall 1995-Fall 1996 
+Design and implementation of optimized algorithms for parallel matrix
+vector multiplication on distributed memort parallel machines (SP-2)
+
+
+
+ Experience  
+
+
+  Summer Intern 	   June 1996-August 1996  
+ Thinking Machines Corporation - Design and development of GlobalWorks 
+Run Time Environment, a Solaris-extended OS for clusters of workstations
+
+
+
+ Computer Skills  
+
+
+  Languages/Libraries:    C, C++, Pascal, COBOL, 80x86
+Assembly, HTML, OWL, MPI, Active Messages 
+  Platforms:  DOS/Windows, Unix/X-Windows 
+  Software:   MS-Office, FrameMaker, Matlab 
+
+
+
+ Awards and Prizes 
+
+
+First runners up in project competition IEEE-Concepts 1995 for Handwritten Character Recognition.
+
+
+
+ Activities  
+
+
+ Founder of C++ club at Pune Institute of Computer Technology
+
+
+

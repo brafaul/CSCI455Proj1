@@ -1,0 +1,253 @@
+Date: Wed, 20 Nov 1996 22:25:01 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sun, 17 Nov 1996 23:38:11 GMT
+Content-length: 13454
+
+
+ CS 50:  Introduction to Computer Science I
+
+
+  Computer Science 50:  
+         Introduction to Computer Science I  
+
+ Table of Contents
+
+
+
+  Introduction
+  General Information and References
+  Fall 1996 Lectures
+  Fall 1996 Assignments
+  Fall 1996 Solution Sets
+  Teaching Fellows
+  Exam Information
+  Interesting Web Sites
+  Helpful Software and Utilities
+ Final Project Information
+ 1995 CS50 Home Page
+
+
+
+
+ Introduction 
+ Welcome to the CS 50 Home Page.  This document provides organized
+access to administrative information and other helpful documents. 
+ Computer Science 50 is the first course in the Computer Science
+concentration.  The course involves algorithm design and implementation,
+programming in the C language, an introduction to the UNIX operating 
+system, and an introduction to the Internet.
+  Margo Seltzer,
+    who taught CS50 since 1993, will be on leave for the
+    1996-97 academic year.
+
+ Brian Kernighan
+    is teaching the course for the fall of 1996.
+
+
+This page is currently maintained by
+Christopher A. Thorpe /
+cat@eecs.harvard.edu
+and Christian Sepulveda /
+csepulv@fas.harvard.edu
+  Back to Table of Contents
+
+
+ General Course Information and References 
+
+  Course Description (PostScript)
+  Course Syllabus (PostScript)
+  A Mosaic guide to vi
+  Brian Kernighan's Programming Style Tips
+  CS50 Style Guide (PostScript)
+  A Glossary of Computer Science Terms
+  Unix Tutorial (PostScript)
+  Commonly Used Unix Manual Pages
+  Course Reading List (Includes recommended reading)
+  Printing Files on Your Personal Computer
+  Office Hours
+
+
+  What is PostScript? 
+
+  Back to Table of Contents
+
+
+ Fall 1996 Lectures 
+
+Week 1 Example code
+Week 2 Example code
+Week 3 Example code
+Week 4   Example code
+Week 5Example code
+
+  Back to Table of Contents
+
+
+ Fall 1996 Assignments 
+
+Assignment 1: Getting Started
+Assignment 2: Programs That Process Programs 
+Assignment 3: The Game of Hi-Q
+Assignment 4: Randomness
+Assignment 5: Data 
+Representation
+Assignment 6: Linked Lists and Pointers
+Assignment 7: Animals
+
+  Back to Table of Contents
+
+
+Solution Sets
+
+ Assignment 1 Solution Set
+ Assignment 2 Solution Set
+ Assignment 3 Solution Set
+ Assignment 4 Solution Set
+ Assignment 5 Solution Set
+
+  Back to Table of Contents
+
+
+
+ CS50 Teaching Fellows 
+
+The following is a list of TF's for CS50.  
+To send a TF email, click on the email address. 
+If a TF has a personal web page, you may click on his or her name to go to it.
+Note: For general CS50 questions, mail your individual TF or 
+lib50@fas.harvard.edu.
+
+
+
+Dan Ellard
+            
+        ellard@eecs.harvard.edu
+Abhi Shelat
+            
+        shelat@fas.harvard.edu
+
+
+Alan Abola
+                  
+        abola@fas.harvard.edu
+Mona Abraham
+            
+        mabraham@fas.harvard.edu
+David Agraz
+                
+        dagraz@fas.harvard.edu
+Josh Berson
+                
+        berson@fas.harvard.edu
+ Richard Chiang
+            
+        rchiang@fas.harvard.edu
+ Steve Chien
+                
+        schien@fas.harvard.edu
+ Swati Dhuleshia
+            
+        sdhulesh@fas.harvard.edu
+
+	Eric Feigin
+            
+        feigin@fas.harvard.edu
+ Bridget Frey
+            
+        frey@fas.harvard.edu
+Jon Grenzke
+            
+        grenzke@fas.harvard.edu
+ Michal Hlavac
+            
+        hlavac@fas.harvard.edu
+ Matt Howitt
+            
+        mhowitt@fas.harvard.edu
+Sarita James
+            
+        smjames@fas.harvard.edu
+
+	Bradley Leupen
+            
+        bleupen@fas.harvard.edu
+ James Megquier
+            
+        jmegq@fas.harvard.edu
+ Nishat Mehta
+            
+        nmehta@fas.harvard.edu
+ Shane Owara
+            
+        owara@fas.harvard.edu
+
+	Lori Park
+            
+        loripark@fas.harvard.edu
+ Shawn Samuel
+            
+        stsamuel@fas.harvard.edu
+ Jonathan Schwartz
+            
+        jschwart@fas.harvard.edu
+
+	Yuval Segal
+            
+        ysegal@fas.harvard.edu
+ Christian Sepulveda
+            
+        csepulv@fas.harvard.edu
+ Razvan Surdulescu
+            
+        surdules@fas.harvard.edu
+ Christopher Thorpe
+            
+        cat@eecs.harvard.edu
+ Omri Traub
+            
+        otraub@fas.harvard.edu
+Mike Walfish
+            
+        mwalfish@fas.harvard.edu
+ Joel Wollman
+            
+        wollman@fas.harvard.edu
+ Alex Wong
+            
+        aywong@fas.harvard.edu
+Sam Yagan
+            
+        yagan@fas.harvard.edu
+
+  Back to Table of Contents
+
+
+Exam Information
+
+1996 Midterm 1 Solutions (PostScript)
+
+1993 Midterm 2 Solutions (PostScript)
+1994 Midterm 2 Solutions (PostScript)
+1995 Midterm 2 Solutions (PostScript)
+
+
+
+ Interesting Web Sites 
+
+  World-Wide Web Servers:  Summary,  a good starting point.
+      The
+    	WebMuseum
+  Fractal pictures and animations
+  The ACM (Association for Computing Machinery) home page
+
+  Back to Table of Contents
+
+
+Helpful Software and Utilities
+QVT/Term is a telnet program for Windows 95 that is better than Ewan in that a lot of problems that occur when using vi should be fixed
+WinFTPAn FTP 
+client(so you can transfer files from Unix to your PC. For Windows95(32 
+bit, Win32s)
+  Back to Table of Contents
+

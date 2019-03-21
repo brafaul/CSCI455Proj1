@@ -1,0 +1,47 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:55:02 GMT
+Content-Type: text/html
+Content-Length: 897
+Last-Modified: Saturday, 18-May-96 15:18:44 GMT
+
+
+
+ CUCS Other Servers 
+
+
+
+
+Other Servers
+
+
+
+
+
+ Home Page  | 
+ General Information  | 
+ Academic Information 
+
+
+
+
+
+
+
+
+ Cornell CS Gopher
+
+ Cornell CS Anonymous FTP
+
+
+	Other Cornell Web Pages
+
+
+
+
+
+
+CS Department Home Page
+
+
+

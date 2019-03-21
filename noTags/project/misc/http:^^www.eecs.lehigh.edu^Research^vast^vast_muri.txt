@@ -1,0 +1,70 @@
+Date: Mon, 25 Nov 1996 23:55:00 GMT
+Server: NCSA/1.5.1
+Last-modified: Wed, 30 Oct 1996 14:51:00 GMT
+Content-type: text/html
+Content-length: 2685
+
+
+ Autonomous Vision Sensors Systems for Manufacturing, DOD MURI Program  
+
+
+
+Autonomous Vision Sensor Systems for Manufacturing
+DOD MURI Program
+
+
+
+Welcome to the home page of our ongoing MURI project being lead by  Dr. T. Boult 
+ with team members (in alphabetic order):
+
+ Prof Peter
+Allen of Columbia University
+ Prof. Rick Blum of Lehigh University
+ Prof. John Kender of Columbia University
+ Prof. Roger Nagel of Lehigh University
+ Prof. Shree Nayar of Columbia University
+ Prof. Richard
+     Wallace of New York University.
+
+
+ Currently selectable topics :
+
+  A textual  summary of the project   and its
+       goals 
+   A description of 
+       SLAM (Software Library for Appearance Matching)  and its
+       associated    100-object recognition system.  This includes 
+        a video clip    of it in action.
+   A description of the  
+real-time shape-from-focus
+       range sensor    including a few video clips
+   Information on  Spherical
+       Pointing Motor-based camera/laser housing , or an 
+       100K mpeg movie  of a SPM moving a laser.  The SPM is housing for
+       the NYU 
+ Information on  Color/polarization, based processing and some of its
+       applications. 
+
+  Information on 
+      Model-based Sensor Planning (with movie).
+  Information on 
+      Laser-Range finder-based 3D model Acquisition and recognition
+
+
+
+Terry E. Boult
+VAST Lab 
+Department of Electrical Engineering and  Computer Science
+Lehigh University, 304 Packard Lab, 19 Memorial Drive West
+Bethlehem PA 18015
+(610) 758-4061, 758-4081 (lab), 758 6279 fax, 866 3901 (home)
+tboult@eecs.lehigh.edu or teb6@Lehigh.edu
+
+
+
+
+
+
+
+ 
+

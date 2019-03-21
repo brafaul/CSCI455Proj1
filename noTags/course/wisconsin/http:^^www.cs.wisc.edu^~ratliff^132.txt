@@ -1,0 +1,87 @@
+Date: Mon, 11 Nov 1996 16:00:24 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 04 Nov 1996 20:51:49 GMT
+Content-length: 4049
+
+
+
+Kelly's CS 132 Page
+
+
+
+  CS 132
+  Kelly Ratliff
+
+
+Current grades
+ You can do a keyword search of my 132 mail messages.  For example, enter "functions" below (without the quotes) to get every paragraph that used the word "functions."  You can also use * for a wildcard. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here are links to the mail messages I have sent this semester:
+
+CS 132 info -- 9/11/96
+CS 132 info -- 9/15/96
+CS 132 info -- 9/22/96
+CS 132 info -- 10/29/96
+CS 132 info -- 10/6/96
+CS 132 info -- 10/9/96
+CS 132 info -- 10/16/96
+CS 132 info -- 10/27/96
+CS 132 info -- 11/3/96
+
+ Additional information of interest:
+
+Backups: copying disks and files
+Virus Information
+ World Wide Web FAQ
+
+Fun stuff:
+
+  Usenet Oracle Resource Index
+ Virtual Tourist World Map
+
+The Space Shuttle Clickable Map
+ Badger Herald web site
+ Comics
+
+Humor:
+
+Abort, retry, ignore?
+Nine Types of Users
+Finals Week
+Lab jokes
+
+Getting software from the net:
+If you have a computer at home, you might be interested in trying
+some of the shareware and freeware software available from Internet 
+archives.  These programs are usually compressed, and you may need some
+compression or archiving software to "unpack" them. You may need to review
+some DOS commands before trying this. One of the biggest 
+and best maintained archives is Simtel, so I'm
+including some links to Simtel FAQ files posted on Usenet:
+
+
+What is SimTel?
+FTP site info
+Compression Info
+Favorite FTP sites
+
+  Click
+
+here to visit the CS 132 - Desautels web page.
+
+
+

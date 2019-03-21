@@ -1,0 +1,42 @@
+Date: Wed, 20 Nov 1996 19:15:04 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 1771
+Last-modified: Thu, 25 Apr 1996 14:58:41 GMT
+
+
+ Relevant Predication 
+
+ Relevant Predication 
+Description:   This research program
+attempts to give a formal theory of predication within the context of
+relevance logic. For an implication to be "relevant" there must be
+some connection between its antecedent and consequent.
+Correspondingly, in order for a predication to be relevant, there must
+be some connection between the predicate and the term of which it is
+predicated. This project in philosophical logic has a link to the
+computer science notion of a "strict function" (one that depends on
+its arguments).  A definition of relevant predication can be given
+within relevance logic with identity, and its formal properties are
+being explored and linked with various ontological issues concerning
+predication. This include vacuous predication, external relations, the
+question of whether existence is a property and whether membership and
+exemplification are relations. There are also applications to the
+philosophy of science in connection with the Goodman "grue-bleen"
+paradox and other paradoxes of confirmation. Applications have also
+been made to the frame problem in AI and by Raymundo Morado to
+non-monotonic reasoning (treating relevant predication as default
+predication).
+ 
+
+ Associated Faculty:
+Michael Dunn
+
+ Affiliated Projects:   Raymundo Morado (Philosophy
+Institute, University of Mexico), Phillip Kremer (Department of Philosophy,
+Stanford University)
+
+ Support:  
+College of Arts and Sciences
+
+Return to Computer Science Research Page  

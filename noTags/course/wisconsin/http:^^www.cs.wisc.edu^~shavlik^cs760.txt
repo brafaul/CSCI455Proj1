@@ -1,0 +1,250 @@
+Date: Mon, 11 Nov 1996 02:51:58 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 29 Apr 1996 19:08:10 GMT
+Content-length: 12276
+
+
+
+ CS 760 - Machine Learning 
+
+
+
+
+ CS 760 - Machine Learning (Spring 1996) 
+
+
+ General Course Information 
+
+ Instructor:
+Jude Shavlik
+        6357 CS & Stats
+shavlik@cs.wisc.edu
+        Office Hrs: Monday/Wednesday 2-3pm
+ Teaching Assistant:
+Geoff Weinberg
+        94 Highway Labs (basement of the CAE building)
+geoffrey@cs.wisc.edu
+        Office Hrs: Monday 2:30 - 3:30pm, Wednesday 3:00 - 4:00pm
+        Office Phone: 262-5139, Home Home: 231-0950
+        
+ 
+	Course Overview (postscript)
+   
+	Course Syllabus (postscript)
+   
+	Archive of Class Email (only readable if @cs.wisc.edu)
+   
+        Suggested Class Projects (postscript)
+
+
+
+  Reading Assignments 
+
+ Assigned May 1, 1996:
+    Read Chapter 7 (theory refinement) and Chapter 3 (computational learning theory)
+        of Mitchell's textbook;
+        feedback to author due May 15, 1996.
+ Assigned April 24, 1996:
+    Read `Learning Logical Definitions from Relations' by Quinlan (MLJ:5) and
+        `Knowledge-Based Artificial Neural Networks' by Towell & Shavlik (AIJ:70)
+ Assigned April 22, 1996:
+    Read `Chunking in Soar' by Laird, Rosenbloom, & Newell (MLJ:1) and
+        `Learning at the Knowledge Level' by Dietterich (MLJ:1)
+ Assigned April 15, 1996:
+    Read Chapter 10 (analytical learning) of Mitchell's textbook; 
+        feedback to author due April 26, 1996. 
+ Assigned April 8, 1996:
+    Read journal articles on `unsupervised learning'
+        by Fisher (MLJ:2), Rumelhart & Zipser (CogSci:9), and Lenat (AIJ:9).
+    Assigned April 1, 1996:
+    Read Chapter 8 (genetic algorithms) of Mitchell's textbook; 
+        feedback to author due April 12, 1996. 
+ Assigned March 20, 1996:
+    Read Chapter 13 (reinforcement learning) of Mitchell's textbook; 
+        feedback to author due April 5, 1996. 
+ Assigned March 6, 1996:
+    Read `Backpropagation: The Basic Theory' by Rumelhart et al.
+    Assigned February 26, 1996:
+    Read Chapter 5 (neural networks) of Mitchell's textbook; 
+        feedback to author due March 8, 1996. 
+        Also read the ML journal article by Shavlik, Mooney, and Towell that 
+        empirically compares ID3 and backprop.
+    Assigned February 12, 1996:
+    Read Chapter 2 (concept space) of Mitchell's textbook; 
+        feedback to author due February 23, 1996
+    Assigned January 31, 1996:
+    Read (1) `Machine Learning as an Experimental Science,' 
+        Kibler & Langley, RML:1.1.3, (2) Chapter 4 and Sections 6.10 & 6.11 of
+        Empirical Methods for Artificial Intelligence, Cohen, MIT Press, 1995,
+        and (3) Learning Representative Exemplars of Concepts: An Initial Case Study, 
+        Kibler & Aha, RML:2.2.4 (or the ML journal version of this article that's
+        in the DoIT packet, but under a different title: `Instance-Based Learning
+        Algorithms').
+    Assigned January 24, 1996:
+    Read Chapter 4 (decision trees) of Mitchell's textbook; 
+        feedback to author due February 2, 1996
+    Assigned January 22, 1996:
+    Read Chapter 1 (introduction) of Mitchell's textbook;
+        feedback to author due January 29, 1996
+  
+  BRR Assignments 
+
+ BRR #3: on the ML journal article by Towell & Shavlik on the KBANN algorithm.
+       Due Monday, May 6, 1996
+   BRR #2: on the ML journal article by Fisher on the COBWEB algorithm.
+       Due Wednesday, April 17, 1996
+   BRR #1: on the ML journal article by Shavlik, Mooney, & Towell that 
+       empirically compares ID3 and backprop.
+       Due Wednesday, March 20, 1996
+   Be sure to answer (on one sheet of paper):
+        
+ Best Idea and Why?
+            What to do Next and How?
+       
+       Do not summarize the assigned paper (one-sentence summary as a lead-in is ok);
+       instead analyze it.
+   Late policy on BRRs: 50% off if handed in after material covered in lecture.
+ 
+  Homework Assignments 
+
+ 
+	Homework 4: Learning from Reinforcements - Q-Learning 
+        Due Wednesday, April 10, 1996
+   
+	Homework 3: Training Neural Networks - BP 
+        Due Monday, March 25, 1996
+   
+	Homework 2: Experimental Methodology
+        Due Monday, February 26, 1996
+   
+	Homework 1: Inducing Decision Trees - ID3
+        Due Monday, February 12, 1996
+   
+	Homework 0: Creating Your Personal Concept
+        Due Monday, January 29, 1996
+   Late policy on HWs: 
+      
+ HWs are due at the start of class.
+         Each student will have FIVE "free" late days for use
+             over the semester.  Once these are exhausted, there will be
+             a penalty of 10% per day (measured noon-to-noon; weekends are free).
+         To make the TA's job tractable, no HWs will be accepted more than
+             one week late.
+     
+
+  Previously Used Homeworks (postscript) 
+
+ Homeworks - Spring 1995 (most of these will migrate up as the semester progresses)
+    
+ 
+	   Homework 1 - Inducing Decision Trees (ID3)
+ 
+	   Homework 2 - Heuristically Searching Concept Space (AQ)
+ 
+	   Homework 3 - Training Neural Networks (BP)
+ 
+	   Homework 4 - Learning from Reinforcements (Q-Learning and GA's)
+
+ 
+	Homework 2 - Version Space (1992, postscript)
+ 
+	Homework 4 - Explanation-Based Learning (1993, postscript)
+ 
+	Homework 5 - Cobweb (1992, postscript)    
+ 
+  Previous Exams (postscript) 
+
+   Spring 1996 |
+         Spring 1995 |
+         Spring 1994 |
+         Spring 1993
+   Spring 1992 |
+         Spring 1990 | 
+         Spring 1989 |
+         Spring 1988
+
+ <IneedAgoodICON> Some ML-Related Links 
+
+ 
+         Machine Learning journal
+         (the on-line page)
+    
+         NIPS-95 papers (the premier neural net conference)
+     
+         Recent Table of Contents and Abstracts of Selected Journals
+ (mostly from Wendt Library; readable only if @cs.wisc.edu)
+    
+         The UC-Irvine ML Dataset Archive
+ 
+         Pointers to ML Courses
+ 
+         Knowledge Discovery in Databases
+ 
+         Neural Network Resources
+ 
+         Some ILP Stuff
+ 
+         Machine Learning Benchmarking
+ 
+         IEEE Neural Networks Council (several journals connected to this page)
+    
+         International Society for Adaptive Behavior
+ 
+         AI Bibliography Server (Austrian AI Institute)
+    
+         Neural Networks Bibliography Server (Austrian AI Institute)
+    
+         AI Resources (Canadian NRC Server)
+    
+	 Aha's Links to People in ML
+ 
+         More External AI References
+
+  Help with Programming Assignments 
+(from  CS 540's page) 
+
+ 
+          Using AKCL Common Lisp on Departmental Workstations
+ 
+          Some Tips on Using Vi and Emacs for Lisp-code Writing
+ 
+          Frequently Asked Questions about Lisp and the Course Computers
+ 
+          Some Tips on Using the AKCL Debugger
+ 
+          Some Help for Lisp Novices
+ 
+          Lisp FAQ's (frequently asked questions)
+     
+          Steele's Common Lisp: The Language (2nd Edition)
+	  (This is a reference manual and not a textbook.)
+     
+          About Printing and Printers | 
+         
+          How to Print WWW Pages
+
+  Related Local Links 
+
+  
+        U-Wisc ML Group
+ 
+        U-Wisc ML & Math-Programming Group
+  
+        U-Wisc Comp Biology (includes some ML)
+    
+        U-Wisc AI Group
+  
+        U-Wisc CS Dept
+ 
+        U-Wisc Library
+  
+        More local links
+
+
+Last modified: Mon Apr 29 14:08:09 1996 by Jude Shavlik
+
+shavlik@cs.wisc.edu
+
+
+

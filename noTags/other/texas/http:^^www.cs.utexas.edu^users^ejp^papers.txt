@@ -1,0 +1,49 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:37:37 GMT
+Content-Type: text/html
+Content-Length: 1543
+Last-Modified: Tuesday, 29-Oct-96 00:38:14 GMT
+
+Ed Posnak's Publications
+ Publications 
+
+E. J. Posnak, R.G. Lavender, and  H. M. Vin  
+Adaptive Pipeline: an Object Structural Pattern for Adaptive Applications. 
+ In the 3rd Pattern Languages of Programming conference, Monticello,
+Illinois, September 1996. 
+
+ 
+       View Abstract
+ 
+       View Paper 
+
+
+
+
+
+
+
+
+E. J. Posnak, H. M. Vin and R.G. Lavender. 
+Designing Presentation Processing Support for Adaptive Multimedia Applications 
+ In the Proceedings of Multimedia Computing and
+Networking, San Jose, Volume XXX, Pages xx-xx, January 1996. 
+
+ 
+        View Abstract
+ 
+        View Paper 
+
+
+E. J. Posnak, S. P. Gallindo, A. P. Stephens and H. M. Vin. 
+Techniques for Resilient Transmission of JPEG Video Streams 
+ In the Proceedings of Multimedia Computing and
+Networking, San Jose, Volume 2417, Pages 243-252, February 1995. 
+
+ 
+        View Abstract
+ 
+        View Paper 
+
+

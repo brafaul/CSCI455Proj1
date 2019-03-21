@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 21:36:47 GMT
+Content-Type: text/html
+Content-Length: 1338
+Last-Modified: Sunday, 17-Nov-96 20:38:30 GMT
+
+ Trefethen numerical ODE/PDE textbook 
+Finite Difference and Spectral Methods
+for Ordinary and Partial Differential Equations
+
+Lloyd N. Trefethen
+Cornell University
+
+
+
+
+
+This 325-page textbook was written during 1985-1994 and used
+in graduate courses at MIT and Cornell on 
+the numerical solution of partial differential equations.
+
+
+The book has not been completed, and is on indefinite hold
+while I attend to other projects.  However, the part of it
+that is written is in quite polished form, including many
+exercises, and is suitable for classroom use.
+Copies can be obtained by
+sending 22 US dollars or 15 pounds sterling (this sum includes postal
+charges) to Prof. L. N. Trefethen,
+Dept. of Computer Science, Upson Hall, Cornell University, Ithaca, NY,
+14853, USA (LNT@cs.cornell.edu).
+
+
+Because of figures and other complications, not all of the book
+is in PostScript, so it would not be possible to make it fully
+available on the Web.
+
+Introductory material (8 pages, 0.6 megabytes)
+Excerpts from the text (62 pages, 1.1 megabytes)
+Return to L. N.  Trefethen homepage

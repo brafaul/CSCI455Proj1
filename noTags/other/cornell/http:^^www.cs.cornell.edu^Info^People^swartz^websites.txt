@@ -1,0 +1,61 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:48:15 GMT
+Content-Type: text/html
+Content-Length: 4983
+Last-Modified: Monday, 16-Jan-95 19:25:07 GMT
+
+
+Jon's hotlist
+
+Selections from my hotlist
+
+Politics
+
+Welcome to the White House
+National Performance Review Home Page
+Government & Politics
+Central Intelligence Agency Home Page
+The Department of the Treasury: Internal Revenue Service
+U.S. Constitution - Table of Articles
+
+Commercial
+
+CD Connection
+Commercial Services on the Net
+Mother Jones
+CyberDeals Ordering Info
+Internet Shopping Network
+PERIPHERAL PRO
+Global Electronic Marketing Service
+Internet Mall
+
+Reference
+
+Reference
+On-line Reference Works
+Index to Multimedia Information Sources
+The Jargon File 3.1.0
+Hypertext Webster Interface
+
+Computing
+
+Linux Documentation Project
+The Python Programming Language
+League for Programming Freedom
+Tcl/Tk Resources
+The tcsh man page
+
+Miscellaneous
+
+Xerox PARC PubWeb Server
+Welcome to Danfuzz's World
+World Wide Web of Sports
+CYBERSIGHT
+Carnegie Mellon University
+CALIFORNIA
+Banned Books On-line
+Netsurfer Digest Home Page
+The Beer Page
+
+

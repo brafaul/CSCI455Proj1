@@ -1,0 +1,29 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:34:58 GMT
+Content-Type: text/html
+Content-Length: 784
+Last-Modified: Friday, 10-Nov-95 21:26:38 GMT
+
+CS 681  Fall 1995 Lecture 19
+Lecture 19: MaxFlow: Dinitz'Algorithm
+CS681 homepage
+
+ Page 1
+
+ Page 2
+
+ Page 3
+
+ Page 4
+
+ Page 5
+
+ Page 6
+
+ Page 7
+
+ Page 8
+
+ Page 9
+

@@ -1,0 +1,47 @@
+Date: Tue, 14 Jan 1997 21:56:26 GMT
+Server: Apache/1.2-dev
+Connection: close
+Content-Type: text/html
+Last-Modified: Fri, 19 Apr 1996 20:38:30 GMT
+ETag: "c9a02-995-3177f9c6"
+Content-Length: 2453
+Accept-Ranges: bytes
+
+The Rockettes: 10-Gram Microrovers for Mars
+The Rockettes
+
+10-Gram Microrovers for Mars
+
+No, no, they're not golf balls!  They are an artist's conception of what a Mars landing made by a community of microrovers would look like.  The idea is that a whole bunch of very small rovers could spread out and collect data collectively. If each robot had a few sensors and were programmed to disperse around the landing area, it might be possible to gather more data than their size would suggest.
+Having more than rover also allows for greater mission flexibility and reliability.  If there are two very interesting rocks in different directions from each other, a single rover would have a difficult time getting to both of them at the same time.  Also, if a few of the microrovers malfunction, there will still be enough left to complete the task at hand.
+People
+
+
+Professor Rodney Brooks
+(brooks@ai.mit.edu)
+Principal Investigator
+
+
+James McLurkin (jdmac@ai.mit.edu)Microrobots
+Sponsors
+This work is sponsored by NASA JPL
+Related Research at the MIT AI Lab
+
+ Pebbles
+    
+A vision-based mobile robot that uses a single camera for obstacle
+avoidance in rough, unstructured environments. Some of the potential 
+applications for this research include Mars
+exploration and  explosive ordnance 
+disposal.
+
+ The Ants
+
+Microrobots designed to explore ideas 
+about robotic communities.  One of the potential applications for this 
+research is  explosive ordnance 
+disposal.
+Related Research Elsewhere
+
+ IS Robotics, Inc.
+

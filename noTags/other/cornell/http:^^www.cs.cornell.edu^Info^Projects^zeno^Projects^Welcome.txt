@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 25-Nov-96 00:30:38 GMT
+Content-Type: text/html
+Content-Length: 1273
+Last-Modified: Friday, 26-Apr-96 18:18:42 GMT
+
+
+Zeno Projects
+
+
+
+ 
+ Zeno Research Projects
+
+
+
+
+DVFS: a distributed video file system
+ 
+
+Tcl-DP: a distributed programming extension to Tcl
+ 
+
+Rivl: a multimedia processing language
+ 
+
+Lossless JPEG: An experimental Lossless JPEG codec
+ 
+
+Serial Storage Architecture: a look into high-performance serial storage
+ 
+
+WVW: Working Via the Web
+ 
+
+Optimal Parallel MPEG Encoding: a parallel MPEG encoder in Rivl
+ 
+
+
+
+
+
+

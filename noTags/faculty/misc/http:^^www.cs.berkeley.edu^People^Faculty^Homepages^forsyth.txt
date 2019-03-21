@@ -1,0 +1,86 @@
+Date: Thu, 21 Nov 1996 19:58:40 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Fri, 09 Aug 1996 00:03:06 GMT
+Content-length: 2430
+
+
+
+
+
+David Forsyth
+
+
+David Forsyth
+
+Ph.D., Oxford University
+
+
+Assistant Professor
+(510) 642-9582
+daf@cs.berkeley.edu
+
+Awards/Lectureships
+
+NSF Young Investigator Award, 1992
+Hennen Jennings Graduate Scholarship, 1985
+Diocesan College Rhodes Scholarship, 1984
+University of the Witwatersrand Entrance Scholarship, 1981
+Anglo-American Open Scholarship, 1981
+
+Selected Publications
+
+
+Efficient Model Library Access by Projectively Invariant
+        Indexing Functions
+    (with J. L. Mundy, C. A. Rothwell, A. P. Zisserman),
+        International Journal of Computer Vision, 1994.
+
+
+
+3D Object Recognition Using Invariance
+(with J. S. Liu, J. L. Mundy, C. A. Rothwell, A. P. Zisserman),
+International Journal of Computer Vision, 1993.
+
+
+
+Recognizing Algebraic Surfaces from their Outlines
+International Journal of Computer Vision, 1993.
+
+
+
+Relative Motion and Pose from Arbitrary Plane Curves
+(with C. I. Marinos, J. L. Mundy, C. A. Rothwell, A. P. Zisserman),
+        Image and Vision Computing, 10, 4, 250-262, 1992.
+
+
+
+Invariant Descriptors for 3D Object Recognition and Pose
+(with C. Coelho, A. Heller, J. L. Mundy, C. A. Rothwell, A. P. Zisserman),
+        IEEE Pattern Analysis and Machine Intelligence on 3D
+        Object Recognition, 971-991, October 1991.
+
+
+
+Reflections on Shading
+(with  A. P. Zisserman), IEEE Pattern Analysis and Machine Intelligence
+        on physical modeling in computer vision, 13, 7, 671-679,
+        July 1991.
+
+
+
+Transformational Invariance--a primer
+(with J. L. Mundy, A. P. Zisserman), Image and Vision Computing, 
+10, 1, 39-45, 1992.
+
+
+
+Projectively Invariant Representations Using Implicit
+        Algebraic Curves
+(with C. M. Brown, J. L. Mundy, A. P. Zisserman),
+        Image and Vision Computing, ECCV, 9, 2, 130-136, 1991.
+
+
+
+
+

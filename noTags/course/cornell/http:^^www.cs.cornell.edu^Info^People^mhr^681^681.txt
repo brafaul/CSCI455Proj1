@@ -1,0 +1,126 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:21:07 GMT
+Content-Type: text/html
+Content-Length: 3278
+Last-Modified: Monday, 30-Oct-95 01:33:44 GMT
+
+
+CS 681  Fall 1995
+CS 681 Fall 1995
+Professor:  Monika Rauch Henzinger
+
+Email: mhr@cs.cornell.edu
+
+
+
+
+
+ Course Information
+
+
+
+
+Homeworks:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+
+
+
+
+
+Solutions:  1
+ 2
+ 3
+ 4
+ 5
+
+
+
+
+
+Lectures: 
+
+ Lecture 1: Graph Exploration
+
+
+ Lecture 2: Greedy Algorithms
+
+
+ Lecture 3: Matroids
+
+
+ Lecture 4: Matroids
+
+
+ Lecture 5: Dijkstra's Algorithm
+
+
+ Lecture 6: Bellman-Ford's Algorithm
+
+
+ Lecture 7: Matrix Closure
+
+
+ Lecture 8: 
+Binomial Heaps
+
+
+ Lecture 9: 
+Binomial Heaps
+
+
+ Lecture 10: 
+Fibonacci Heaps
+
+
+ Lecture 11: Treaps
+
+
+ Lecture 12: Randomized
+Search Trees
+
+
+ Lecture 13: 
+Union-Find
+
+
+ Lecture 14: 
+Union-Find
+
+
+ Lecture 15: 
+Union-Find
+
+
+ Lecture 16: 
+MaxFlow
+
+
+ Lecture 17: 
+MaxFlow MinCut Theorem
+
+
+ Lecture 18: 
+MaxFlow: Edmonds-Karp Algorithms
+
+
+ Lecture 19: 
+MaxFlow: Dinitz'Algorithm
+
+
+ Lecture 20: 
+MaxFlow: Preflow Push
+
+
+ Lecture 21: 
+MaxFlow: Preflow Push
+
+
+ Lecture 22: 
+MaxFlow: Dynamic Tree Implementations
+
+

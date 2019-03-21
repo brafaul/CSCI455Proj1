@@ -1,0 +1,76 @@
+Date: Thu, 07 Nov 1996 19:24:18 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 24 Sep 1996 14:25:22 GMT
+Content-length: 2264
+
+
+
+CS 737 Home Page
+
+
+
+ CS 737  
+ Computer System Performance Evaluation and Modeling 
+
+
+News
+
+[Sept 24] - Assignment 1  (Due Oct 7)
+       Postscript
+Text
+
+[Sept 9] - MiMic library is now available at ~cs737-1/public/MiMic. 
+
+
+ Course Information
+
+ Lecture: MWF 2:25 PM - 3:40 PM at 1325 Computer Science
+ DEVise Software: 
+
+ Home Page - 
+       HTML
+ User Manual - 
+       Postscript
+       (Please do not print this file as it contains many images and will take
+       at least half an hour!)
+   Initialization Instructions -
+       Text
+ 
+ MiMic Software: 
+
+ Tutorial - 
+       HTML
+Postscript
+ Online Help - 
+       HTML
+ Qnet (Example of DEVC) -
+       HTML
+ 
+
+
+ Professor: Miron Livny
+
+     Office: 7367 Computer Sciences
+     Hours:  TBA
+     Phone:  262-0856
+     E-mail: 
+             miron@cs.wisc.edu
+
+
+ Teaching Assistant:
+Chee-Yong Chan
+
+     Office: 5364A Computer Sciences
+     Hours:  TR 2-3 PM
+     Phone:  262-5105
+     E-mail: 
+             cychan@cs.wisc.edu
+
+
+
+ Any suggestion or comment please send to 
+    cychan@cs.wisc.edu
+
+
+

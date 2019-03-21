@@ -1,0 +1,73 @@
+Date: Tue, 14 Jan 1997 23:54:05 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 4381
+Last-modified: Mon, 21 Oct 1996 16:03:51 GMT
+
+
+Larry Hodges' Students
+
+Larry F. HodgesStudents
+
+
+Graduate Students
+
+Don Allison
+(don@cc.gatech.edu)
+Doug A. Bowman
+(bowman@cc.gatech.edu)
+Drew Kessler
+(drew@cc.gatech.edu)
+David Koller
+(koller@gvu.gatech.edu)
+Rob Kooper
+(kooper@cc.gatech.edu)
+Peter Lindstrom
+(lindstro@cc.gatech.edu)
+Greg Newton
+(gregn@cc.gatech.edu)
+Ben Watson
+(watsonb@cc.gatech.edu)
+
+
+Undergraduate Students
+
+Byron Donald
+(donaldb@cc.gatech.edu)
+Solomon Duskis
+(sad@cc.gatech.edu)
+Jarrell Pair
+(jarrell@cc.gatech.edu)
+Kevin Hamilton
+(kevinh@cc.gatech.edu)
+
+
+Past Students
+
+Dr. Stephen J. Adelson
+(sadelson@bvu-lads.loral.com) Los Alamos National Laboratory
+Dr. Ergun Akleman
+(ergun@viz.tamu.edu) Texas A&M University
+Paul Barham
+Naval Postgraduate School
+Elizabeth Bright
+(elizabet@tr.comm.mot.com) Motorola, Inc.
+Eric Brittain
+(ericb@ll.mit.edu) Massachusetts Institute of Technology
+Tom Gay
+(tgay@cc.gatech.edu)
+Lou Harrison
+(harrison@adm.csc.ncsu.edu) North Carolina State University
+Shane McWhorter
+(shane.mcwhorter@gtri.gatech.edu)
+Thomas Meyer
+(tom@sgi.com) Silicon Graphics, Inc.
+Ingolf Sommer
+(uk1u@rz.uni-karlsruhe.de) University of Karlsruhe
+Jouke Verlinden
+(joukev@xs4all.nl) Delft University of Technology
+
+
+
+
+

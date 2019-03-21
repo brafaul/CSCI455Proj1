@@ -1,0 +1,47 @@
+Date: Thu, 21 Nov 1996 20:54:13 GMT
+Server: Apache/1.1b3
+Content-type: text/html
+
+
+Zhiyuan Li
+
+Picture to come.
+Zhiyuan Li
+
+Asssitant Professor
+
+Email:
+li@cs.umn.edu
+Phone:
+(612) 624-8306
+Educational Background
+Ph. D., 1989, University of Illinois, Urbana, Computer Science.
+M.S., 1985, University of Illinois, Urbana, Computer Science.
+B.S., 1982, Xiamen University, China, Mathematics.
+Professional Background
+1991-present, Assistant Professor, Department of Computer Science,
+              University of Minnesota, Computer Science.
+1990-1991, Senior Software Engineer, CSRD, University of Illinois, Urbana.
+1989-1990, Assistant Professor, Department of Computer Science,
+           York University, Canada.
+Research Interests
+Dr. Zhiyuan Li's research has focused on
+compiler techniques to improve program parallelism and memory efficiency
+on parallel computers and high performance uniprocessor computers.
+He has lead the Panorama group which constructs
+an interprocedural parallelizing compiler prototype
+to enhance the state of the art in this area.
+He is also investigating how to improve
+the interaction between compilers and the rest of the computer system,
+including hardware, operating systems and run time libraries.
+Current Research projects
+
+The Panorama project: Compiler and Performance Prediction Tools.
+The Aggasiz project (with Profs. Pen-Chung Yew and David Lilja)
+
+
+
+Comments and Questions | On-Line Help and Software List | Department Home Page |Department FTP Server | Research Projects | System Information
+
+
+Last Modified on: Tuesday, January 30, 1996

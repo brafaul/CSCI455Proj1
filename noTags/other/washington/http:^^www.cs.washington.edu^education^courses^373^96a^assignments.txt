@@ -1,0 +1,20 @@
+Date: Tue, 10 Dec 1996 16:48:35 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 373 Assignments
+
+
+Assignments
+Assignment 1
+
+Assignment 2
+
+Assignment 3
+
+Assignment 4
+
+
+

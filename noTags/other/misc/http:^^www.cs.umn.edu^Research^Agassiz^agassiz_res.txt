@@ -1,0 +1,87 @@
+Date: Tue, 14 Jan 1997 22:14:16 GMT
+Server: Apache/1.1b3
+Content-type: text/html
+Content-length: 2479
+Last-modified: Sun, 29 Dec 1996 06:42:12 GMT
+
+
+
+AGASSIZ Resources
+
+
+
+
+
+
+
+
+Departmental Computing Resources
+
+
+
+SGI Challenge Cluster
+
+
+
+IBM RS/6000 Cluster
+
+
+
+IBM SP2
+
+
+Other Local Computing Resources
+
+
+
+University of Minesota Supercomputer Institute
+
+
+
+Minnesota Supercomputer Center
+
+
+
+Laboratory for Computational Science and Engineering
+
+
+Miscellany
+
+
+WWW Computer Architecture Homepage
+
+
+CFP: Workshop on Interaction between Compilers and Computer Architectures
+
+
+
+Other Call for Papers
+
+
+
+Resources for Agassiz Group Members
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Projects
+People
+Papers
+Resoures
+Contact
+
+
+
+
+

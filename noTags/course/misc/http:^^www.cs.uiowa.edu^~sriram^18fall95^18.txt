@@ -1,0 +1,85 @@
+Date: Wed, 20 Nov 1996 23:18:04 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+
+
+ Computer Organization and Assembly Language Programming (22C:18/108)
+ 121 Shaffer Hall, 10:30 am, MWF.
+
+
+Instructor: Sriram Pemmaraju
+Office: 201M MLH, Phone: 335-0741.
+Office Hours: 11:30 to 12:30, MWF.
+
+
+Teaching Assistant: Gagan Kanjlia.
+Office: 255 Z, MacBride Hall.
+Office Hours: 11:30 to 1:00 on T, 9:00 to 10:30 on Th.
+E-mail Address: gkanjlia@cs.uiowa.edu
+
+
+ Miscellaneous Information 
+
+ Syllabus (ASCII document)
+ Syllabus (Postscript document)
+ Calender of Events
+ Grades 
+ Announcements 
+
+
+
+ Homeworks 
+
+ Homework 1 (ASCII document)
+ Homework 1 (Postscript document)
+ Solution 1 (ASCII document)
+ Solution 1 (Postscript document)
+ Homework 2 (ASCII document)
+ Homework 2 (Postscript document)
+ Solution 2 (ASCII document)
+ Homework 3 (ASCII document)
+ Homework 3 (Postscript document)
+ Solution 3 (ASCII document)
+ Homework 4 (ASCII document)
+ Homework 4 (Postscript document)
+ Solution 4 (ASCII document)
+ Homework 5 (ASCII document)
+ Homework 5 (Postscript document)
+ Solution 5 (ASCII document)
+ Homework 6 (ASCII document)
+ Homework 6 (Postscript document)
+ Solution 6 (ASCII document)
+ Homework 7 (ASCII document)
+ Homework 7 (Postscript document)
+ Solution 7 (ASCII document)
+
+
+
+ Programming Assignments 
+
+ Project 1 (ASCII document)
+ Project 1 (Postscript document)
+ Project 2 (ASCII document)
+ Project 2 (Postscript document)
+ Project 2, Input file 1 (ASCII document)
+ Project 2, Input file 2 (ASCII document)
+ Project 2, Input file 3 (ASCII document)
+ Project 3 (ASCII document)
+ Project 3 (Postscript document)
+ Project 4 (ASCII document)
+ Project 4 (Postscript document)
+
+
+
+ Exams 
+
+ Exam 1 (ASCII document)
+ Exam 1 (Postscript document)
+ Exam 1 Solution (ASCII document)
+ Exam 2 (ASCII document)
+ Exam 2 (Postscript document)
+ Exam 2 Solution (ASCII document)
+
+

@@ -1,0 +1,99 @@
+Date: Mon, 25 Nov 1996 20:13:07 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 21:56:31 GMT
+Content-length: 3290
+
+
+
+ Home page of George M. Georgiou
+
+
+
+
+George M. Georgiou, Ph.D.
+
+
+Associate Professor 
+Department of Computer Science 
+California State University 
+5500 University Pkwy 
+San Bernardino, CA 92407 
+ E-mail: 
+georgiou@csci.csusb.edu
+WWW: http://www.csci.csusb.edu/georgiou (This WWW page)
+Phone: (909) 880-5332
+Fax: (909) 880-7004
+
+Education
+
+
+ Ph.D. (1992) Computer Science, Tulane University, New Orleans, LA.
+   M.S.  (1990) Computer Science, Tulane University, New Orleans, LA.
+   M.S.  (1988) Mathematics, Louisiana State University, Baton Rouge, LA.
+   M.S.  (1987) Electrical Engineering, Louisiana State University, Baton Rouge, LA.
+   B.S.  (1985), cum laude, Electrical Engineering,
+       Louisiana Tech University, Ruston, LA. 
+
+Research Interests 
+All aspects of Neural Networks, especially
+in the complex domain. Also,  Cryptography, Computer Graphics, Signal
+Processing, and the Internet.
+
+
+
+Journals:
+
+
+ Associate Editor for Information
+Sciences--Applications, An International Journal,
+Elsevier.
+   Editor for Journal of Combinatorics, Information & System
+       Sciences (JCISS ), A Quarterly International Scientific Journal.
+
+
+I am currently involved in the organization of the
+
+ 2nd International Conference on
+Computational Intelligence and Neuroscience.
+M.S. Theses I supervised:
+
+Technical-Legal Aspects of Software Patents, 
+ Kenneth N. Nichols, 
+      M.S. Thesis, June 1996. Winner of the ***1996 CSUSB
+      Outstanding Thesis Award***  Also, accepted to be published
+      as a book by Quorum Books.
+   Convergence Properties of Perceptrons,
+
+Ratnasri Adharapurapu, M.S. Thesis, December 1995. She won the
+      ***1995-96 School of Natural Sciences Best Graduate
+      Student Award***
+Hardware Implementation of the Complex Hopfield Net,
+ Chih-Kang Cheng,
+      M.S. Thesis, December 1995. 
+
+Subject to possible M.S. project
+Using Knuth's Metafont, design fonts for the Mycenaean script Linear
+B (ca. 1500 - 1100 B.C.).
+
+
+Links of interest
+
+List of Spring 1996 SEMINARS
+ 
+     CSUSB CS-PROGRAM
+ Computing Dictionary
+ Hellenic Resources
+San Bernardino Masonic
+    Lodge #178
+
+
+Concinnus 
+Email:
+georgiou@csci.csusb.edu
+
+
+Last modified: Fri Nov 15, 1996
+
+
+

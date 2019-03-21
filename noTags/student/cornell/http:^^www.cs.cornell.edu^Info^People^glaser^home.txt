@@ -1,0 +1,20 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:42:28 GMT
+Content-Type: text/html
+Content-Length: 534
+Last-Modified: Tuesday, 24-Sep-96 07:58:31 GMT
+
+
+
+
+Dan's home page has moved!
+
+
+
+
+Dan's home page is now at:
+http://www.ced.berkeley.edu/~dglaser/home.html
+Please visit it by the millions
+
+

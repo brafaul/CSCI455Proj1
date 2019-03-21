@@ -1,0 +1,618 @@
+Date: Wed, 20 Nov 1996 22:32:59 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 20 Nov 1996 04:36:06 GMT
+Content-length: 26844
+
+
+C211 and H211 Course Description
+
+
+
+
+
+
+C211 and H211 
+Introduction to Computer Science
+Fall 1996
+
+Contents
+
+ General information
+
+ Get your 
+   
+   network id or an account on copper or zinc.
+    A list of tutors for C211.
+   
+ Motivation and description
+ Course materials
+ Syllabus and lecture scripts
+ Assignments
+ Communication
+ Evaluation
+ Gradebooks
+ Policies
+
+
+What's New and
+What's Old
+
+ [11/19]
+Help and Review Sessions for the
+     final exam.
+ [11/19]
+Student Chapter of ACM will have their
+     first meeting on Wednesday, November 20.
+ [11/12]
+Why Scheme?An interesting
+     letter from Disney Studios.
+ [11/6]
+Solutions to the Second Midterm
+     Examination. 
+
+
+General Information
+
+ Instructors
+ 
+	David Leake, Section 1118
+	
+email: 
+leake@cs.indiana.edu
+ Office: LH230D
+	Phone: 855-9756
+	
+
+	Mark Leone, Section 1123 
+	
+email: 
+mleone@cs.indiana.edu
+ Office: LH201G 
+	Phone: 855-6223
+	
+
+	George Springer, Section 1128
+	
+email: 
+springer@cs.indiana.edu
+ Office: 230B 
+	Phone: 855-0918
+	
+
+	Jonathan Sobel and 
+     
+        Erik Hilsdale, Section 9060 and Discussion section 9058
+        
+
+New Home Page for This Section
+email: 
+jsobel@cs.indiana.edu 
+        and
+        ehilsdal@cs.indiana.edu
+ Office: 230A
+      	Phone: 855-4885
+	
+ Associate Instructors
+
+ 
+	Eugene Byon, Sections 1124 and 1125
+	
+email: 
+ebyon@cs.indiana.edu
+ Office: 230
+	Phone: 855-9926
+	
+ 
+	Peter Drake, Sections 1129 
+	
+email: 
+pedrake@cs.indiana.edu
+ Office: 230
+	Phone: 855-0918
+	
+ 
+	Brian Eyster, Sections 1126 and 1127
+	
+email: 
+beyster@cs.indiana.edu
+ Office: 230 
+	Phone: 855-0918
+	
+ 
+	Steve Ganz, Sections 1119 and 1120
+	
+email: 
+sganz@cs.indiana.edu
+ Office: 230 
+	Phone: 855-0918
+	
+ 
+	Byron Long, Sections 1121 and 1122
+	
+email: 
+bylong@cs.indiana.edu
+ Office: 230 
+	Phone: 855-0918
+	
+ Prerequisites
+ 2 years of high school algebra or M014
+ Credit hours
+ 4
+ Lectures
+ Section 1118, TR 1:00-2:15, in LH102, David Leake
+ Section 1123, MWF 9:05-9:55, in LH102, Mark Leone
+ Section 1128, TR 1:00-2:15, in LH115, George Springer
+ Section 9060, MWF 9:05-9:55, in BH304, Jonathan Sobel and Erik Hilsdale
+     
+ Discussion sections for lecture sections 1118
+ Section 1119, R 2:30-3:20, in SB221, Steve Ganz
+ Section 1120, R 4:30-5:30, in SB221, Steve Ganz
+ Section 1121, F 9:05-9:55, in SB221, Byron Long
+ Section 1122, F 10:10-11:00 in SB221, Byron Long
+
+ Discussion sections for lecture section 1123
+ Section 1124, R 11:15-12:05, in BH104, Eugene Byon
+ Section 1125, R 1:25-2:15, in SB221, Eugene Byon
+ Section 1126, F 11:15-12:05, in SB221, Brian Eyster
+ Section 1127, F 1:25-2:15, in SB221, Brian Eyster
+
+ Discussion sections for lecture sections 1128
+ Section 1129, R 3:35-4:25, in LH115, Peter Drake
+
+ Discussion sections for lecture sections 9060
+ Section 9068, F 11:15-12:05, in OPT107, Jonathan Sobel and Erik Hilsdale
+
+ Local newsgroups
+ ac.csci.c211
+ ac.csci.h211
+ cs.students
+
+Office Hours
+
+ Monday
+
+ 10:00-11:00 -- Mark Leone
+ 1:00-3:00 -- Brian Eyster
+ 2:30-5:00 -- Jonathan Sobel, in LH230A
+ 3:00-5:00 -- Steve Ganz
+
+ Tuesday
+
+ 10:00-12:00 -- Peter Drake
+ 2:30-3:45 -- George Springer, in LH230B 
+ 2:30-3:45 -- David Leake, in LH230D 
+ 4:00-6:00 -- Erik Hilsdale, in LH230A
+
+
+ Wednesday
+
+ 10:00-11:00 -- Mark Leone
+ 1:30-3:30 -- Byron Long
+ 3:00-5:00 -- Eugene Byon, in LH230
+
+ Thursday
+
+ 2:30-3:30 -- George Springer, in LH230B 
+ 2:30-3:30 -- David Leake, in LH230D 
+ 2:00-4:00 -- Erik Hilsdale, in LH230A
+
+
+
+If it is difficult for you to make these times, appointments at other times
+may be made by contacting any of the instructors or AIs.
+
+Course Description
+
+Programming is, in general, the art of solving problems.  The study
+of computer programming is therefore the study of solving problems with
+a computer, but it is also much more.  When a programmer writes a
+program, he or she is actually constructing a model of a process
+for doing something---such a model is called an algorithm.
+Furthermore, the programmer is concerned not only with whether the
+program simply works, but also with how well it works and how it
+interacts with both users and other programs.
+
+This class is designed mainly to teach you the art of computer
+programming.  To that end, we shall try to develop in you a sense of
+style and aesthetics that will help guide your programming efforts,
+and we shall try to develop your intuition about how things work and
+why.  You will learn some of the design principles that go into the
+engineering of good programs.  We shall teach you a little
+computer science, to give you a way of analyzing your programs
+and your algorithms and finding the means to improve them.  You will
+learn a number of standard algorithms and some programming 
+idioms--standard ways of performing certain kinds of tasks.
+
+To do any programming, we need to choose a language. 
+Whichever we choose, the language does not place limits on what our
+programs can do, but only on what they look like.  It provides us
+with a framework in which to organize our ideas about processes and
+problem solving.  The programming language we use in this class is
+Scheme.  We have chosen it because it provides a convenient mechanism
+for describing most of the idioms and processes that programmers have
+found useful.  We won't spend much time teaching the details of the
+language, because we don't have to; you will find that it is easy to
+pick up as we go along.
+
+It is often helpful to first program using a simple, powerful language
+like Scheme, even if one must then translate the solution into a more
+traditional programming language like C++.  The simplicity of Scheme
+allows us to treat many computer science topics in more depth than
+would be possible if C or C++ were used, for in traditional languages
+more inessential detail must be mastered.  Scheme allows us to give a
+better impression of the true joys and challenges of programming.
+Then you will be in a better position to study C++ in your next
+computer science course, C212.
+
+Finally, computer programming is still a fairly young field, and it
+hasn't lost its sense of fun for lots of people, including us.  We
+hope that you will enjoy it as much as we do.
+Goals
+
+At the end of the course, a student can be expected to know the
+following concepts and to be able to write good Scheme programs.
+
+
+ The students should be able to use the following data types:
+symbols, numbers, booleans, lists, vectors and matrices, strings, and
+characters.
+ The students should know how to write programs in recursive,
+iterative, and imperative styles.  
+ Students should be able to write recursive programs on
+lists, both those containing only top level items and those containing
+nested sublists (tree recursion).
+ The students should be able to use procedures as first-class
+objects, that is, pass them as arguments and also write programs whose
+values are procedures.  This includes the currying and composing of
+procedures. 
+ The students should understand the concept of scope and
+environment.  They should be able to use locally-defined procedures.
+ Students should be able to use abstraction, both with data in making
+programs independent of the data representation, and also with
+procedures in abstracting the structure of programs.
+ Students should be able to use the input and output routines, and
+write convenient user interfaces for their programs.
+ Students should be able to handle the binary representation of
+numbers.
+ Students should know some of the standard sorting routines, e.g.,
+insertion sort (O(n^2)), mergesort and quicksort (O(n log n)), and
+understand the advantages and disadvantages of each.  They should also
+be able to write both linear and binary search programs.
+ Students should know how to mutate various data structures, including
+lists, vectors, strings.  In addition they should understand
+side-effecting variables.
+ Students should be able to read programs and have an appreciation of
+what constitutes good programming style.  They should be aware of the
+relative efficiency of programs.
+ Certain topics will be included if time permits.  These include such
+things as writing and using syntactic extensions, developing an
+object-oriented programming package in Scheme, and using streams.
+
+Literate programming
+
+Every programmer knows that programs must be comprehensible to the
+computer.  The programming language implementation complains when they are
+not. But with some practice it is generally easy to solve such problems.
+
+What is less appreciated is that programs must also be comprehensible to
+the programmer.  Otherwise the programmer cannot have any confidence that
+the program is correct.  (A program may easily be comprehensible to the
+computer, but not do what is intended--and only the programmer knows what
+is intended.)  In most cases it is also essential that programs be
+comprehensible to other programmers.  Though this is not typical of student
+programming experience, in the "real world" programmers spend most of their
+time modifying huge programs that were developed over a long period of time
+by many other programmers.  Modifying someone else's code (or even your
+own, a few months later) may be a joy or a nightmare--depending on how
+clearly the program is written.
+
+Thus we emphasize the importance literate programming: writting
+programs that are easy to understand (relative to the difficulty of the
+problem they solve).  Literate programming is almost always more important
+than other programming goals such as efficiency and code compactness
+(though efficiency and compactness are often byproducts of literate
+programming).
+
+Course Materials
+
+ Required
+
+ G. Springer and D. Friedman: Scheme and the Art of
+Programming, MIT Press/McGraw Hill, 1989.  We will cover most of the
+first three-quarters of this text.  The source code is available.
+ C211 course packet, available at The White Rabbit, 110 S.
+Indiana Ave.  This packet contains a tutorial
+on the software systems the course uses, and the first assignment.
+
+ Recommended
+
+ D. P. Friedman and M. Felleisen, The Little Schemer,
+Fourth Edition, MIT Press, 1996.  This little book is the best
+introduction to recursive programming that we know of, and is designed
+for self study.  Recursion is used throughout this course, but some
+students require extra material before they feel comfortable using it.
+If you are having any difficulty mastering recursion, we strongly
+recommend that you get this book and study it on your own.
+
+ Interpreters for Macs and PCs  
+ 
+There is a fairly beautiful Scheme package available for MacIntosh and a less beautiful one
+for DOS.  
+
+
+Syllabus and Lecture Scripts
+
+Most of the first three-quarters of the text Scheme and the Art of
+Programming will be covered.  Approximately one week will be devoted
+to each of the chapters listed below.
+
+The links in the following list are to script files that drive the
+on-line lecture presentations.  The script file for chapter
+n may also be accessed on the machine copper as the file 
+~c211/www/scriptn.
+
+Prof. Leone uses a separate script for each lecture, based on the
+scripts below (sometimes with more examples).
+
+
+ Chapter 1: Data and operators
+  
+Emacs Keybindings
+
+ Chapter 2: Procedures and recursion
+Chapter 3: Data abstraction and numbers
+Chapter 4: Data driven recursion
+ Chapter 5: Locally defined procedures
+     
+ poly-alg.ss 
+ poly-rep1.ss 
+ poly-rep2.ss 
+ Binary Notation 
+
+ Chapter 6: Interactive programming
+ Chapter 7: Abstracting procedures
+ Chapter 9: Using vectors
+ Chapter 10: Sorting and searching
+ Chapter 11: Mutation
+ Chapter 12: Object-oriented programming
+
+Assignments
+
+A programming assignment will be due almost every week.  The assignments
+will appear below as they are assigned.  Assignment n is also
+available as plain text in the file ~c211/www/anF96.txt.
+Links to answer files, with names of the form
+~c211/www/ansnF96.ss will be added as appropriate.
+
+
+
+ #  Assignment  Due  Answers 
+
+ 1 
+  Getting started
+ 9/11 @ 5pm 
+ -- 
+
+ 2 
+  Simple procedures
+ 9/18 @ 5pm
+  Answers
+
+ 3
+  Simple recursion
+ 9/25 @ 5pm
+  Answers
+
+ 4
+  More on recursion
+ 10/2 @ 5pm
+  Answers
+
+ 5
+  Deep recursion
+ 10/11 (Fri) @ 5pm
+  Answers
+
+
+ 6
+  
+Iteration
+ 10/16 @ 5pm
+  Answers
+
+ 7
+  
+Locally defined procedures and polynomials
+ 10/23 @ 5pm
+  Answers
+
+
+ 8
+  
+Binary Numbers, Data Abstraction, and Trees
+ 10/30 @ 5pm
+  Answers
+
+ 9
+  
+Encodings and Interactive Programming
+ 11/8 (Fri) @ 5pm
+
+  Answers
+
+ 10
+  
+Procedures as Arguments and Building Huffman Trees 
+ 11/13 @ 5pm
+  Answers
+
+ 11
+  Procedural Abstraction,
+Strings, and Vectors 
+ 11/26 (Tue) @ 5pm
+
+
+
+
+
+ 
+As submitted, all programs must run under Chez Scheme.  It is
+recommended that you use the UCS (University Computing Services)
+machines named copper and zinc.  New students should
+have a Network ID and instructions for creating copper and zinc
+accounts. 
+ 
+As soon as you have your account, you should configure it to run
+emacs, Scheme within emacs, and the handin program.  This is done by
+entering ~c211/setup, hitting return, and logging
+out.  You only have to do this once!  When you login the next
+time, your account will be configured for C211.  You have to configure
+both your copper and zinc accounts.   
+
+Assignments will be posted on or before Wednesday afternoon and will
+be due electronically by 5:00 p.m. on the Wednesday of the following
+week.  Any written material will be due at the beginning of the
+lecture on that Thursday or Friday.  Late assignments will not be
+accepted!  In computing the semester assignment average, the lowest
+assignment grade will be dropped.  Although assignments count for only
+10% of the final grade, it is essential that you do the assignments to
+master the material.  Computer programming, like playing a musical
+instrument, can only be mastered through lots of practice.
+
+Programming assignments are submitted using the program
+c211-handin (in the directory ~c211/bin on
+copper and zinc).  The handin program evaluates and grades your
+program's behavior and the results are returned to you almost
+immediately via email.  Since zinc allows e-mail to be sent
+but not received, you will have to read the grading results on the
+machine where you normally read your mail.  You may correct and
+resubmit your programs as many as five times until the announced
+deadline.  The highest grade recorded for the assignment will be the
+one that is entered into the class gradebook. 
+
+In this course, you may discuss assignments with other students.  (Do
+not assume this is true in all your courses!)  We expect you to
+actually think through and fully understand assignment solutions.  We have
+found that students who copy someone elses work and turn in something they
+do not fully understand usually fail the examinations and the 10% added by
+having good assignment grades is insufficient to pass the course.  Teamwork
+in doing assignments is good as long as each member of the team
+contributes and fully understands the programs.  This certainly means
+that you should not put your name on a file written by someone else
+and submit it as your own work. 
+
+After the final submission of an assignment, it will not only be
+electronically graded, but an Associate Instructor will also grade the
+assignment for style.  Good programming style makes it easier to get your
+programs working and also develops the habit of literate programming which, as we have already noted,
+is of great importance in developing large programs.  In this course good
+style is also rewarded in the evaluation of exams.  For Scheme programming,
+consistent use of a suitable style of program indentation is essential, and
+violation of the first cardinal rule of
+indentation will automaticaly result in loss of credit.
+Communication
+
+The course newsgroups, 
+
+ac.csci.c211 and,
+ac.csci.h211 will be used
+to post announcements, such as assignments, exams, and any exceptions
+to our usual office hours.  You are also encouraged to use it to post
+questions related to the course or share related information with the
+class.  Make a habit of looking for new notes a few times each
+week. On individual or personal matters, please feel free to contact your
+instructor or associate instructor via email. 
+
+Another newsgroup you should check regularly is cs.students, which contains important
+announcements from the Computer Science Department to all of its
+students.  It also contains interesting dialogs on various topics.
+
+This course description is accessible as an HTML (hypertext markup
+language) file on the WWW (World Wide Web) with the URL (Universal Resource
+Locator) http://copper.ucs.indiana.edu/~c211/home.html.  It
+will be updated with additional information, such as programming assignments,
+as the course progresses.
+
+To view a resource given its URL, use the netscape program on a
+networked PC or Mac.  Netscape underlines HTML hypertext links.  To
+follow a link, click on it.  The URL for the computer science
+department's home page is 
+http://www.cs.indiana.edu/home-page.html, from which all sorts of
+information can be obtained.
+
+Evaluation
+
+ 10% -- Assignments
+ 28% -- Exam 1, 7:30-9:00 p.m., Tuesday, October 8th
+     
+ Study Guide and Room Assignments for
+          the First Midterm Examination.
+      A sample exam for the first
+          midterm examination.
+      A solution to the first midterm
+	  examination.
+     
+ 28% -- Exam 2, 7:30-9:00 p.m., Tuesday, November 5th
+     
+ Sample Exam for the Second Midterm
+          Examination.  
+      Study Guide and Room Assignments
+          for the Second Midterm Examination.  
+      A solution to the second midterm
+	  examination.
+     
+ 34% -- Final Exam
+
+ Sections 1118 and 1128: 12:30-2:30 p.m., Thursday, December 19th
+ Sections 1123: 10:15 a.m.-12:15 p.m., Monday, December 16th
+     
+ Help and Review Sessions
+          for the final exam.
+     
+
+
+
+Mid-term and final exams locations will be announced.
+Gradebooks
+
+The Electronic Gradebook for this course will be updated with each
+assignment and exam.
+
+ Gradebook for 
+Section 1118
+ Gradebook for 
+Section 1123
+ Gradebook for 
+Section 1128
+ Gradebook for 
+Section 9060
+
+Policies
+Attendance
+
+Class attendance will not be monitored although regular attendance and
+class participation are strongly recommended.  Attendance at examinations
+is compulsory and make-up examination will normally not be given.  No
+special assignments or projects will be given to help students raise their
+grades.  
+
+Academic Integrity
+
+Read the Computer Science Department's Statement on Academic
+Integrity to be sure you understand the rules under which computer
+science courses operate.  Cases of academic dishonesty will be reported
+to the Office of Student Ethics, a branch of the Office of the Dean of
+Students.
+
+Withdrawal
+
+Withdrawal after Wednesday, October 30th, requires concurrence of the Dean
+based on extenuating circumstances.
+Incomplete grade
+
+An incomplete (I) final grade will be given only by prior arrangement in
+exceptional circumstances conforming to university and departmental policy
+in which the bulk of course work has been completed in passing fashion.
+
+

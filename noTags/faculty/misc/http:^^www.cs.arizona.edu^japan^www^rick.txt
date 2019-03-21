@@ -1,0 +1,175 @@
+Date: Thu, 21 Nov 1996 19:50:55 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 15 Oct 1996 07:00:48 GMT
+Content-length: 8799
+
+Richard D. Schlichting Home Page
+
+ Richard D. Schlichting 
+
+ Rick received the B.A. degree in history and mathematics (computer science
+option) from the  College of
+William and Mary  in 1977, and the M.S. and Ph.D. degrees in computer
+science from  Cornell University 
+in 1979 and 1982, respectively.  
+
+ Since 1982, Rick has been in the 
+Department of Computer Science  at 
+The University of Arizona , where he is currently 
+holds the rank of Professor.  His research interests include 
+distributed systems, fault-tolerant computing, and heterogeneous 
+scientific applications.  In the latter area, he heads the 
+ Schooner Project ,
+whose goal is to provide software support for constructing scientific
+meta-computations across networks of heterogeneous machines.
+Much of his current work in fault-tolerant computing involves
+using the x-kernel in various ways to support fault-tolerance, and is done
+in cooperation with members of the 
+
+Network Systems Research Group .
+He currently supervises one postdoctoral 
+associate (
+Matti Hiltunen ), 
+and four graduate students
+(
+Nina Bhatti , Ilwoo Chang, Xiaonan Han,
+and 
+Don Waugaman ).
+
+ Rick is also active in promoting increased 
+interaction between U.S. and Japanese computer scientists. 
+He spent seven months in 1990 visiting the 
+ 
+Katayama Laboratory at Tokyo Institute of Technology ,
+where he worked on using an attribute-grammar formalism to implement
+fault-tolerant software.  He is currently spending a year at
+
+Hitachi Central Research Laboratory near Tokyo working on
+various software issues related to heterogeneous scientific computation. 
+Both of these visits have been supported by
+the NSF U.S.-Japan Cooperative Science Program.
+
+ Rick is a member of ACM, IEEE, and 
+the 
+IFIP Working
+Group 10.4 on Dependable Computing and Fault-Tolerance.  
+He is on the editorial boards of IEEE Transactions on Computers,
+IEEE Parallel and Distributed Technology, and
+the Springer-Verlag series on Dependable Computing and Fault-Tolerant Systems.
+He is also current Vice-Chair of the IEEE Technical Committee on
+Fault-Tolerant Computing, and has served on numerous conference
+program committees in the areas of fault tolerance and distributed 
+computing.
+He was General Chair of the Second IFIP Working 
+Conference on Dependable Computing for Critical Applications in 1991,
+and Program Committee Chair of the Thirteenth IEEE Symposium on
+Reliable Distributed Computing in 1994.
+
+ As part of his Japan activities, Rick heads the
+ JapanCS
+Project , and is founder and
+current moderator of the USENET newsgroup 
+
+comp.research.japan , an
+electronic forum devoted to Japanese research developments in
+computing and computer science.
+He is also a member of the Association of Research Libraries
+Working Group on Japanese Scientific and Technical Information.
+
+ When not working, Rick likes to haunt local Japanese restaurants
+with his family.  Their favorite is Samurai, which during the winter
+months serves the best miso ramen this side of Japan.  Rick also
+follows the Arizona Wildcat sports teams.
+
+
+ Some recent talks 
+
+ 
+     An Approach to Constructing Configurable High-Level Protocols
+     for Fault Tolerance, Invited talk, Dept. of EECS, Univ.
+     of Michigan, February 1996. 
+ 
+     An Introduction to Fault-Tolerant Software ,
+     Invited talk, International Workshop on Fault Tolerance in
+     Information Systems (FTIS95), Tokyo, November 1995. 
+
+
+ Some recent papers 
+
+ 
+    P. Homer and R. Schlichting, Configuring Scientific Applications
+    in a Heterogeneous Distributed System,
+    Distributed Systems Engineering (September 1996), to appear. 
+
+    M. Suzuki, T. Katayama, and R. Schlichting, 
+    FTAG: A Functional and Attribute Based Model for Writing Fault-Tolerant
+    Software, Technical Report 96-6, Department of Computer Science, 
+    University of Arizona, May 1996.  
+ 
+    M. Hiltunen and R. Schlichting, A Configurable Membership Service,
+    Technical Report 94-37a, Department of Computer Science, University of
+    Arizona, December 1994 (revised January 1996). 
+ 
+    M. Hiltunen and R. Schlichting, Understanding Membership,
+    Technical Report 95-07, Department of Computer Science, University of
+    Arizona, July 1995. 
+ 
+    P. Homer and R. Schlichting, Constructing Scientific Meta-Computations,
+    Proc. HPC-Asia '95, Taipei, Taiwan (Sept. 1995). 
+ 
+    M. Hiltunen and R. Schlichting, Adaptive Distributed and 
+    Fault-Tolerant Systems, Computer Systems Science and Engineering 
+    (1996), to appear. 
+ 
+    N. Bhatti and R. Schlichting, A System for Constructing Configurable
+    High-Level Protocols, Proc. SIGCOMM '95, Cambridge, MA (August
+    1995), 138-150. 
+ 
+    M. Hiltunen and R. Schlichting, Constructing a Configurable Group 
+    RPC Service, Proc. 15th Int. Conf. on Distributed
+    Computing Systems, Vancouver, Canada (May 1995), 288-295. 
+ 
+    M. Hiltunen and R. Schlichting, Properties of Membership Services,
+    Proc. 2nd Int. Symp. on Autonomous Decentralized Systems,
+    Phoenix, AZ (April 1995), 200-207. 
+ 
+    Z. Chen and R. Schlichting, Monitoring and Controlling Remote 
+    Parallel Computations Using Schooner, Proc. 9th Int. Parallel Processing 
+    Symp., Santa Barbara, CA (April 1995), 614-620. 
+ 
+    R. Schlichting and V. Thomas,
+    Programming Language Support for Writing Fault-Tolerant Distributed
+    Software, IEEE Trans. on Computers (Special Issue on Fault-Tolerant
+    Computing) 44, 2 (February 1995), 203-212. 
+ 
+    D. Bakken and R. Schlichting, Supporting Fault-Tolerant Parallel 
+    Programming in Linda, IEEE Trans. on Parallel and Distributed 
+    Systems 6, 3 (March 1995), 287-302. 
+ 
+    M. Suzuki, T. Katayama, and R. Schlichting, 
+    Implementing Fault-Tolerance with an Attribute and Functional
+    Based Model, Proc. 24th Symp. on Fault-Tolerant Computing, 
+    Austin, TX (June 1994), 244-253. 
+ 
+    P. Homer and R. Schlichting ,
+    A Software Platform for Constructing Scientific Applications
+    from Heterogeneous Resources,  Jour. of Parallel and Distributed 
+    Computing (Special Issue on Heterogeneous Processing) 21, 3 
+   (June 1994), 301-315. 
+ 
+    P. Homer and R. Schlichting ,
+    Using Schooner to Support Distribution and Heterogeneity in the
+    Numerical Propulsion System Simulation Project,
+    Concurrency-Practice and Experience 6, 4 (June 1994), 271-287. 
+ 
+    S. Mishra and R. Schlichting, 
+    Abstractions for Constructing Dependable Distributed Systems,
+    Technical Report 92-19, Department of Computer Science,
+    University of Arizona, August 1992.
+
+
+
+
+Phone: (520) 621-4324 / Fax: (520) 621-4246 / rick@cs.arizona.edu
+

@@ -1,0 +1,61 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:54:16 GMT
+Content-Type: text/html
+Content-Length: 1566
+Last-Modified: Monday, 08-Jul-96 20:15:40 GMT
+
+
+
+CS99 Course Home Page
+
+
+
+
+
+
+ 
+CS 99 
+
+
+
+
+
+
+
+
+
+
+[Info]
+[Syllabus]
+[Labs]
+[Links]
+
+
+
+
+
+
+
+Announcements
+
+
+
+
+Room Update: Due to unforseen circumstances, we are still unable
+to use Upson 215 for class.  Therefore, here are the following room 
+assignments for Tuesday 7/9 and Wednesday 7/10:
+
+Section #1: 10:00 - 11:00am in Philips 203
+Section #2: 11:30 - 12:30am in Upson 211
+
+Thursday's class (7/11) will meet in the MacLab, as usual.
+Prelim #1: The first in-class prelim will be on Wednesday, 
+7/10.
+It is an in-class, closed book exam, that will cover all course material
+covered through the first 4 lab assignments.
+Labs #3 and Lab #4 are both due on Tuesday, (7/9).  
+You do not need a computer to do Lab #4.
+
+
+

@@ -1,0 +1,62 @@
+Date: Tue, 10 Dec 1996 21:16:54 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 07 Jun 1996 18:53:10 GMT
+Content-length: 1801
+
+
+
+Papers
+
+Papers
+
+Virtual Memory Alternatives for Client Buffer Management in Transaction Systems.
+Dylan McNamee, Vivek Narasayya, Ashutosh Tiwary, Henry Levy, Jeffrey Chase
+and Yong Gao.
+Submitted to OSDI 1996.
+
+
+My generals exam
+paper.
+
+
+SPIN - An Extensible Microkernel for Application-specific
+Operating System Services 
+Brian N. Bershad, Craig Chambers, Susan Eggers, Chris Maeda,
+Dylan McNamee, Przemyslaw Pardyak, Stefan Savage and Emin Gun Sirer.
+Technical Report UW-CSE-94-03-03, University of Washington
+February 28, 1994.
+
+
+The Need for Customizable Operating Systems
+ Gregor Kiczales, John Lamping, Chris Maeda, David Keppel
+and Dylan McNamee.  Proceedings of WWOS 93, Napa, CA.
+October, 1993
+
+
+
+Adding Scheduler Activations to Mach 3.0
+
+Paul Barton-Davis, Dylan McNamee, Raj Vaswani and Edward D. Lazowska.
+Mach III Symposium Proceedings, Santa Fe, NM.  April, 1993
+
+
+
+Improving the Performance of Message-Passing
+Applications by Multithreading.
+
+Edward W. Felten and Dylan McNamee.
+Scalable High Performance Computing Conference
+(SHPCC-92), Williamsburg VA. 1992.
+
+
+
+Extending the Mach External Pager Interface
+To Accommodate User-Level Page Replacement
+Policies.
+
+Dylan McNamee and Katherine Armstrong.
+USENIX Mach Workshop, Burlington VT. October 1990.
+
+
+

@@ -1,0 +1,15 @@
+Date: Tue, 14 Jan 1997 23:18:24 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+Policies
+
+Policies
+You can discuss homework problems and programming projects with your fellow students in general terms, but details of your writeup and of your code should be your own work.  Exams are closed-book, closed-notes, and closed-neighbor.You must not discuss the exams with anyone other than Don Alton before all students have turned in their exams.
+I'll pursue cheating and plagiarism to the maximum extent permitted by the university.  The Department of Computer Science Chair is Prof. Steve Bruell, 14D MacLean Hall, 335-0713.  Students can contact him by arranging a meeting with the Computer Science secretary, who is in 14 MacLean Hall.  
+
+
+ to the 22C:005 Home Page
+
+

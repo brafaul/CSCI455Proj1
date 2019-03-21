@@ -1,0 +1,155 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:46:17 GMT
+Content-Type: text/html
+Content-Length: 6307
+Last-Modified: Tuesday, 12-Nov-96 17:54:43 GMT
+
+Lidong Zhou's Homepage
+ 
+
+
+
+
+
+
+
+
+
+
+
+Welcome to  
+Lidong Zhou's Homepage
+ 
+
+
+
+
+
+
+
+
+Department of Computer Science
+
+Cornell University
+Ithaca, NY 14853-7501
+Tel: (607) 254-5075 (o)
+
+
+ Fall 96 Courses
+
+
+
+		CS 601 -- System Concepts
+	(only locally accessible)
+
+
+		CS 631 -- Multimedia System
+
+
+ Research Related Materials
+
+
+
+		SIGOPS 96 Papers
+
+		OASIS from Cambridge
+
+		DEC SRC Research Reports
+ 
+		Adage -- Authorization for Distributed Applications and Groups 
+		
+
+		The ARA Project
+
+		Low Level Security in Java 
+
+		Safe Internet Programming
+
+		Legion
+
+		Project Sirac
+
+		The Kerberos Network Authentication Service
+	
+		Massively Distributed Systems from IBM
+
+		Ocaml Homepage
+Advanced materials on Internet and WWW
+
+		A Standard for Robot Exclusion
+
+		Computer and Network Security
+
+
+Career WWW Documents
+
+
+ 
+	Cornell Career Opportunities
+ 
+	JobTrak
+ 
+	College Grad Job Hunter
+ 
+         Job opening in CS(For Ph.D.'s) 
+ 
+          Career Center Online/Job Services
+ CareerMosaic Page 
+  JobWeb Home Page 
+  Career Mag 
+  XJOBS Page
+
+
+ My Friends' Homepages
+
+
+ Yingjun Yu
+  Fudan 8924 classmates
+ Friends at Cornell 
+
+
+ Information Resourses
+
+
+ 
+              Tutorials on Computer languages and Tools
+
+		Big Yellow Book
+
+		Cornell ISSO Homepage
+ CND 
+
+		SUNRISE
+
+		Chinese Soccer World
+ 
+    	Edmund's Automobile Buyer's Guides 
+ 
+    	AutoSite--- The Ultimate Auto Buyers Guide 
+ 
+    	Auto insurance Basics 
+ 
+    	Legal Survival Guide  
+
+ Other Links
+
+
+ Travel Agencies
+Rank of CS departments
+
+        How to Succeed in Graduate School 
+
+        Fudan Homepage 
+
+
+
+
+
+     Back to Index
+
+
+
+Last updated on Nov. 4, 1996 
+This homepage is under construction.
+

@@ -1,0 +1,133 @@
+Date: Thu, 21 Nov 1996 19:57:23 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Fri, 09 Aug 1996 21:00:40 GMT
+Content-length: 3417
+
+
+
+
+
+C. V. Ramamoorthy
+
+
+ C. V. Ramamoorthy
+
+Ph.D., Harvard University
+
+
+Professor Emeritus
+(510) 642-4751
+ram@cs.berkeley.edu
+
+Awards/Lectureships
+
+
+Distinquished Scholar Award, Society for Design & Process Science, 1995
+
+IEEE Richard E. Merwin Award, 1993
+
+IEEE Computer Society Meritorious Service Award, 1991
+
+Keynote Speaker, IEEE International Conference on Distributed 
+Computing Systems, 1991
+
+IEEE Computer Society Taylor Booth Award, 1990
+
+Keynote Speaker, IEEE International Conference on Data Engineering, 1991
+
+Keynote Speaker, Silver Jubilee Anniversary Conference of the Computer
+Society of India, 1990
+
+IEEE Computer Society, Outstanding Paper Award, 1987
+
+Keynote Speaker, International Computer Symposium, Taiwan, 1988 and 1990
+
+IEEE Centennial Medal, 1984
+
+Fellow, IEEE, 1978
+
+IEEE Computer Society, Special Education Award, 1978
+
+IEEE Computer Society, Honor Roll Award, 1974
+
+Admiral Grace Hopper Chair, Naval Postgraduate School
+
+Editorships/Program Committees
+
+
+
+Editor-in-Chief
+Int. J. Software Engineering and Artificial 
+
+
+
+Intelligence Editor-in-Chief
+IEEE Trans. Software Engineering, 1983-1987
+
+
+
+Editor-in-Chief
+IEEE Trans. Knowledge and Data Engineering
+
+
+
+Member
+Editorial Board, Int. J. Information and Computer Systems
+
+
+
+Member
+Editorial Board, J. Programming Languages
+
+
+
+Member
+Editorial Board, Computer J. IEEE Computer Society
+
+
+Selected Publications
+
+
+
+Evolution Support Environment System
+(with Y. Usuda et al.), 
+IEEE Trans. Software Engineering, 1990.
+
+
+
+Issues in the Development of Reliable Large, Distributed Software 
+Systems
+(with A. Prakash et al.), Advances in Computers, Vol. 26, 
+Academic Press, 1987, pp. 393-443.
+
+
+
+Pipeline Architectures
+(with H. F. Li), Computing Surveys, March 1977, pp. 61-102.
+
+
+
+Testing Large Software with Automated Software Evaluation Systems
+(with F. Ho), IEEE Trans. Software Engineering, April 1975, pp. 46-58.
+
+
+
+Optimal Scheduling Strategies in a Multi-Processor Environment
+(with K. M. Chandy and M. J. Gonzalez), IEEE Trans. on Computers, 1972,
+pp. 137-146.
+
+
+
+Optimization of Memory Hierarchies in Multiprogrammed Systems
+ J. ACM, July 1970, pp. 426-445.
+
+
+ 
+(Left to right) Joo Seok Song, currently Professor and Chair of
+the Computer Science and Engineering Department, Yongsei
+University, Seoul, Korea; Y. F. Chen, currently at AT & T Bell
+Labs, Murray Hill; and Professor C. V. Ramamoorthy
+
+
+

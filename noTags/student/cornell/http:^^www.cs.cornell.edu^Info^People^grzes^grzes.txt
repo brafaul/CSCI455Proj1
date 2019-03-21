@@ -1,0 +1,57 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:50:14 GMT
+Content-Type: text/html
+Content-Length: 1822
+Last-Modified: Wednesday, 08-Nov-95 17:29:08 GMT
+
+
+ Grzegorz Czajkowski's Homepage 
+
+
+Grzegorz J. Czajkowski
+
+Department of Computer Science
+
+Cornell University
+
+Ithaca, NY 14853
+office: (607) 255-9124 
+ grzes@cs.cornell.edu  
+ 
+
+I'm a second-year student in the Ph.D program in the 
+Department of Computer Science
+at Cornell University in 
+Ithaca, New York.
+
+
+I completed my master's degree in Computer Science in Krakow, 
+Poland. 
+
+
+
+I am currently in involved in several projects, and am also in charge of 
+administering CUCS's  IBM SP-2. 
+My advisor is 
+Thorsten Von Eicken .
+
+ 
+A few links related to my research: 
+
+
+	U-Net architecture 
+
+
+
+	Active Messages 
+
+
+
+	Split-C 
+
+ 
+Last modified:  November 7, 1995.  
+
+ grzes@cs.cornell.edu 
+

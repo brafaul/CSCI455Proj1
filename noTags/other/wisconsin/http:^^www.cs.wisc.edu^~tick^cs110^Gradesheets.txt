@@ -1,0 +1,37 @@
+Date: Mon, 11 Nov 1996 17:19:09 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sun, 01 Sep 1996 22:09:27 GMT
+Content-length: 3267
+
+
+
+CS 110 Section 1%2 - Gradesheets
+
+
+ Gradesheets
+
+
+You will be given a gradesheet for each assignment showing the allocation of marks.  Please read it carefully to make sure you do everything that is required.  Some of the things it will include are:
+
+Test Data and Correct Output:
+   The gradesheet may contain a list of test data that will be used to check that your program works correctly.  Make sure your program follows the assignment specifications and produces the required output.  Always run your program with the given test data and manually check your results for errors.  You must run your program with the test data given but also make sure it works for other valid data.  For some of the advanced programming assignments you will be asked to create your own test data.
+User Interface:
+   Provide meaningful prompts for the user when reading in values from the keyboard.  Display the results appropriately labelled so that they are easy to understand.
+Correct use of FORTRAN statements:
+   Use the most appropriate FORTRAN statement(s) to solve the problem.  Make sure these statements work for all possible valid input values.  Do not use any FORTRAN statements which we will not cover in class prior to the due date - if it hasn't been covered in class then you shouldn't use it in your program yet.
+Indenting, neatness and variable names:
+   All FORTRAN code should be written in uppercase letters.  Comments and documentation should be written in mixed case.  Leave blank lines between the major sections of your program.  Indent IF statements and DO loops three spaces.  Always try to use meaningful variable names of six or fewer characters.
+Functions, subroutines and arguments:
+   Use functions and subroutines to break down the problem into simpler sub-programs for clarity and efficiency.  Always use arguments to pass values into and out of functions and subroutines.  Do not use global referencing or COMMON blocks unless specifically asked to.
+Flexible, modular, robust and efficient:
+   Design your program so that it can be easily modified and enhanced.  Solve the problem in the most obvious and straight-forward manner.  Avoid writing redundant statements.  Do not include unnecessary statements but do not sacrifice clarity for efficiency.
+Documentation:
+   You must include comments in your program.  Explain what your program does, how to use it and how it works.  Describe all variable declarations.  Explain what the major sections of your program are and how they work.  Explain all functions and subroutines and their input and output arguments.  Explain any sections of code that are complex or tricky.
+
+
+
+
+Copyright © 1996 Modified from Gareth S. Bestor (bestor@cs.wisc.edu).  Last modified September 1, 1996.
+
+

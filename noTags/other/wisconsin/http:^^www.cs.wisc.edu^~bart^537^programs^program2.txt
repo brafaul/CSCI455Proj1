@@ -1,0 +1,148 @@
+Date: Mon, 11 Nov 1996 17:24:46 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 01 Mar 1996 17:52:01 GMT
+Content-length: 4486
+
+
+
+CS 537 - Programming Assignment #2
+
+
+
+
+
+UNIVERSITY OF WISCONSIN-MADISON
+
+Computer Sciences Department
+
+
+
+
+CS 537
+
+Spring 1996 
+Bart Miller
+
+
+Programming Assignment #2
+
+(Due Tuesday, March 5, at 5pm)
+
+
+
+A Parallel Producer/Consumer Program
+
+The goal of this assignment is to get experience in writing a program
+that actually runs in parallel.
+You will write a program with four processes, structure like:
+
+
+
+
+
+
+
+
+The Reader process will read an input file, one line at a time.
+Reader will take the each line of the input and pass it to process
+Munch1.
+
+Munch1 will scan the line and replace each blank character with
+an asterisk (``*'') character.
+It will then pass the line to process
+Munch2.
+
+Munch2 will scan the line and convert all lower case letters to
+upper case (e.g., convert "a" to "A").
+It will then pass the line to process
+Writer.
+
+Writer will write the line to an output file.
+
+ Synchronization and Communication
+
+The processes will communicate through shared memory.
+Each of the three pairs of communicating processes will have a queue of
+buffers between.
+This queue will be represented by a C++ class that you will call
+SyncQueue.
+The SyncQueue class will be implemented as a fixed sized buffer;
+the constructor for the class will take a parameter (with a default) to set
+the size of the buffer.
+
+You should use semaphores to make sure
+that processes do not insert or remove data from the
+same queue at the same time.
+You should also make sure that each buffer queue is locked separately,
+so that only the pair of processes using that buffer queue would block.
+The semaphores should be part of the SyncQueue class definition,
+so each instance of the class produces a new queue with new semaphores.
+
+You will use the semaphore and thread operations supported by the Solaris
+operating system.
+
+We have prepared a summary of the functions that you will use, and special
+instructions for compiling your program.
+
+For this assignment, you must use a Sun workstation running the Solaris
+operating system.
+
+For semaphore operations, you will use sema_init,
+sema_wait (the P operation), and sema_post (the V operation).
+In addition to the description that we provide, you can use the "man" command
+to find out more about these functions.
+Compiling Your Program
+
+You must do a few special things to
+compile
+a program to use threads and synchronization.
+Follow the instructions carefully or you will get strange (and incorrect)
+results.
+Program Details
+
+
+Your program will create four new threads.
+To do this, you will start your program and it will create four
+threads (using the thr_create function).
+
+Thread Reader will read in each input line.
+If the line is longer than 63 characters, it will truncate it to 63
+characters (plus the null byte at the end).
+Just throw away any extra characters.
+
+See the manual page entry for the function "index"
+to making writing Munch1 easier.
+
+See the manual page entries for
+"islower" and "toupper"
+to making writing Munch2 easier.
+(Read these function names as
+"is lower" and "to upper".
+
+Thread Writer will count the number of lines and print
+this number to cout.
+
+Deliverables
+
+You should hand in a print-out of your program, including all .C (.cc) and
+.h files.
+Also hand in your Makefile.
+You should run your program on the data stored in
+~cs537-2/public/program2/DATA.test.
+This file is not yet available.
+Do
+not
+print the data file nor should you hand in the output of your program..
+
+After your program is completed, you will meet with Muthiah to demonstrate
+your running program.
+Make sure that you do not modify your files after you turn in the program.
+
+
+Last modified:
+Tue Feb 20 09:27:57 CST 1996
+by
+bart
+
+

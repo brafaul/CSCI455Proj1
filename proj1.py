@@ -67,7 +67,8 @@ for i in dirs1:
         pattern = "*.html"
         for k in fileList:
             if fnmatch.fnmatch(k, pattern):
-                pathPt3 = pathPt2 + '/' + k
+                newName = k.replace('.html', '.txt')
+                pathPt3 = pathPt2 + '/' + newName
                 f = open(foldName2 + '/' + k, "rb")
                 tempCon = f.read().decode(errors='replace')
                 soup = bs4.BeautifulSoup(tempCon, features="html.parser")
@@ -108,8 +109,8 @@ for key,val in freq.items():
 wordList = sorted(wordList)
 
 #print results
-for x in wordList:
-   print(x)
-#for x in range(-1,-200, -1):
-#print(wordList[x])
-print(len(wordList))
+#for x in wordList:
+#   print(x)
+for x in range(-1,-1000, -1):
+    print(wordList[x].word)
+#print(len(wordList))

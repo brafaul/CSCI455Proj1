@@ -1,0 +1,63 @@
+Date: Tue, 14 Jan 1997 23:01:47 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+Professor Marina Chen -- Home Page
+ 
+Marina Chen 
+
+Marina Chen is Professor and Chair of  Computer Science Department.  She
+serves on the Council of  the Center for
+Computational Science at  Boston
+University. She also represents Boston University as an  affiliated
+site of  of   Center for
+Research on Parallel Computation (CRPC).  She has been the
+President of  Cooperating Systems
+Corporation  since July 1993.  Before that, she was an Associate
+Professor at Yale University, where she began as an Assistant
+Professor in 1983.
+
+She serves on various committees in the research community: 
+Secretary of  Association for
+Computing (ACM)  since July 1996,
+
+ACM
+SIGPLAN  Executive Committee from 1992 to 1995,
+CRPC External Advisory Committee  from 1989 to
+1996, and High 
+Performance Fortran Forum.  She has been chairing conferences and
+served as program committee members for various conferences and
+workshops including (ACM SIGPLAN PPOPP '91 and '93, POPL '91 and '94,
+and 
+PLDI'97). 
+She is also associate editors for IEEE Transaction on Parallel and
+Distributed Systems and Journal of Programming Languages.
+
+She received her Ph.D. degree in Computer Science from California
+Institute of Technology in 1983, and her B.S. degree in Electrical
+Engineering from National Taiwan University in 1978.
+
+
+
+Courses: 
+CS101, Spring97;
+CS320, Fall96
+
+Projects
+
+Publications
+
+Curriculum Vitae
+
+
+
+Women in Computing 
+
+Personal
+
+
+Computer Science Department, Boston University	      
+111 Cummington Street, Boston, MA 02215        
+Voice: 617.353-5232   Fax: 617.353-6457   
+Email: mcchen@cs.bu.edu   

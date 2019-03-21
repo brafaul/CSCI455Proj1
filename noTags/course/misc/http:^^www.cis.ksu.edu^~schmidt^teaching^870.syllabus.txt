@@ -1,0 +1,75 @@
+Date: Wed, 20 Nov 1996 22:38:24 GMT
+Server: NCSA/1.5.1
+Last-modified: Tue, 18 Jul 1995 02:26:33 GMT
+Content-type: text/html
+Content-length: 1477
+
+
+
+
+CIS870 syllabus fall 1995
+
+
+CIS870: Computability Theory
+Autumn 1995
+
+
+MWF 10:30pm  N127
+Dave Schmidt, Instructor
+Office: N219A, 532-6350 
+
+Text: Computability, by Nigel Cutland.
+Supplemental notes will be available later in the course.
+
+Objectives: to understand and appreciate
+
+
+the fundamental requirements of an algorithm and a programming language
+
+what can and cannot be programmed
+
+fundamental counting techniques for computer science
+
+time and space complexities of solvable problems
+
+applications of the above concepts
+
+Lectures:
+
+TOPIC/NUMBER OF LECTURES
+
+
+Minimal assembly language      1
+
+Capabilities of assembly language; equivalent formulations:
+mu-recursive functions, Turing machines; Church's thesis    2
+
+Basic enumeration techniques; s-m-n theorem    1
+
+Universal algorithms   1
+
+Undecidable problems   2
+
+Recursively enumerable sets    1
+
+Reducibility   1
+
+The recursion theorems 2
+
+Introduction to complexity theory      1
+
+The complexity classes P and NP        2
+
+Prerequisites:
+CIS770 or CIS775.
+
+Grading:
+is based primarily on homework exercises, but there might also
+be one or two take-home exams.
+
+
+
+Dave Schmidt (schmidt@cis.ksu.edu)
+
+
+

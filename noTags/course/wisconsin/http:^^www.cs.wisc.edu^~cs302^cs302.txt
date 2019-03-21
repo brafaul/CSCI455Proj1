@@ -1,0 +1,71 @@
+Date: Thu, 07 Nov 1996 19:25:24 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 03:20:42 GMT
+Content-length: 2337
+
+
+
+CS302 Home Page
+
+
+
+
+Computer Sciences 302
+Algebraic Language Programming
+
+    Sections and Instructors
+
+
+We would like your comments, suggestions, or complaints about CS302.
+Feedback may be provided by clicking 
+here.
+ - Jim Skrentny, CS302 Coordinator,  Office: CS1303, 262-0191,
+    Email skrentny@cs
+
+Information for All Sections
+
+CS 302 Frequently Asked Questions
+
+Course Overview
+Microcomputer Laboratories
+Consultants - 
+      Fall 1996 Consulting Schedule
+Tutors (mainly C++)
+Policy on Academic Misconduct
+
+Courses
+      Offered by CS Department
+
+Software for All Sections
+
+Introduction to
+       Microsoft Windows
+Hints for Windows
+       Compilers
+The Windows
+       Operating System
+Email
+Netscape
+
+Creating and Using Subdirectories
+
+C++ Information
+
+The Savitch Text Book
+Introduction to Borland C++
+The C++ language
+The
+       Borland C++ integrated development environment
+
+Fortran Information
+
+See Jeff Lampert's  home page for
+       Section 70.
+
+
+
+Last Updated: Fri 8/30/96, Jim Skrentny CS302 Coordinator, skrentny@cs.wisc.edu 
+
+
+

@@ -1,0 +1,13 @@
+Date: Thu, 21 Nov 1996 20:51:24 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 01 Sep 1994 15:14:55 GMT
+Content-type: text/html
+Content-length: 235
+
+GIAMPIERO PECELLI
+ 
+Giampiero Pecelli
+Professor
+giam@cs.uml.edu
+
+Artificial intelligence, uncertainty, symbolic computation

@@ -1,0 +1,7 @@
+Date: Tue, 26 Nov 1996 19:21:26 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 04 Oct 1996 20:16:29 GMT
+Content-type: text/html
+Content-length: 1506
+
+  index.html   Cmpt421/814: VLSI Systems Design   Text Assignments  Marking scheme Course projects Quizzes on readings Instructor's notes on course content Course Calendar VLSI tools Access to the Instructor and Tutor(s) Marks  Notices The following table rates the sections of Wolf in terms of their importancefor the review quiz. "detail" means know the material in detail  "general" means know the concepts contained in the material  "background" material is usually a preview of later materialgiven by Wolf to set the context of the other material.  "background"material will be covered in more depth later, but is not of great importancenow.  "skip" means you can ignore the section for purposes ofthe review quiz.    You are also responsible for all of the topics discussed in any depth inclass.   

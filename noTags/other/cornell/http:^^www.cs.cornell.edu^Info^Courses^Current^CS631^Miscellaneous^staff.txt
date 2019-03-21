@@ -1,0 +1,53 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:42:15 GMT
+Content-Type: text/html
+Content-Length: 1341
+Last-Modified: Thursday, 26-Sep-96 18:22:27 GMT
+
+
+CS 631 Course Staff
+
+
+CS631
+Multimedia Systems
+Computer Science Department
+ Cornell University
+ Fall 1996 
+
+
+
+
+The People in Charge
+Instructor 
+
+Brian C. Smith, Upson 4119A, 255-1180 
+Office Hours: Mon 2:30-3:30 pm 
+Email: bsmith@cs.cornell.edu
+
+Teaching Assistants 
+
+Tibor J&aacutenosi, Upson 5154, 254-5075 
+Office Hours: Th 1:00-2:00 pm
+Email: janosi@cs.cornell.edu
+
+Kian Fai Leong, Upson 320, 255-3084 
+Office Hours: TBA 
+Email: kleong@cs.cornell.edu
+
+Course Administrator 
+
+Cindy Robinson, Upson 4146, 255-0985 
+Email: cindy@cs.cornell.edu
+
+
+All routine administrative matters are handled by the course administrator,
+including petitions for regrade and misrecorded grades.
+
+
+
+
+
+
+
+CS631 home page

@@ -1,0 +1,33 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 15-Jan-97 00:48:11 GMT
+Content-Type: text/html
+Content-Length: 893
+Last-Modified: Friday, 20-Dec-96 23:59:31 GMT
+
+
+
+
+ECMP 280 Projects
+
+
+
+ECMP 280: Logic Design of Digital Systems
+Information on Electronics Workbench
+
+General Hints for Using EWB
+Accessing EWB at Smith Lab
+Links to Official LIT instructions for Accessing EWB over CWRUnet
+Alternative Methods for running EWB under Windows 95
+Alternative Method for running EWB under Windows 3.1
+Bad News for MacIntosh Users
+
+Here is a link back to the
+ECMP 280 home page.
+
+
+Joan Carletta,
+  carletta@ces.cwru.edu
+
+
+

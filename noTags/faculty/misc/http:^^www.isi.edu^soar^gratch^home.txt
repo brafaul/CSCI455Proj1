@@ -1,0 +1,36 @@
+Server: Netscape-Commerce/1.1
+Date: Thursday, 21-Nov-96 21:11:43 GMT
+Last-modified: Tuesday, 29-Aug-95 21:08:16 GMT
+Content-length: 1379
+Content-type: text/html
+
+
+
+Jonathan Gratch's Home Page
+
+
+Jonathan Matthew Gratch
+Information Sciences Institute
+Computer Science Department
+University of Southern California
+4676 Admiralty Way
+Marina del Rey, CA 90292
+Phone: (310) 822-1511 x730
+Fax:   (310) 822-6714
+Email: gratch@isi.edu
+
+Areas of Research Interest
+My research lies at the intersection of artificial intelligence, 
+operations research, and statistics.  My dissertation research focused on
+adaptive problem solving; that is, flexible problem solving approaches
+that improve their behavior through experience.  I developed a statistically
+rigorous learning approach for improving problem solving performance and 
+demonstrated its effectiveness on a prototype scheduling system being
+developed for NASA.  This learning system improved scheduling performance
+over problem distributions based on actual NASA mission requirements.  
+For more information, look at my statement of 
+research interests.
+VITA
+Selected Publications
+Personal Information
+

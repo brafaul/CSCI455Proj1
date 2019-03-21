@@ -1,0 +1,42 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 08-Jan-97 16:37:24 GMT
+Content-Type: text/html
+Content-Length: 1129
+Last-Modified: Tuesday, 19-Mar-96 17:09:02 GMT
+
+
+About CS304P
+
+
+
+Introduction
+
+
+CS304P is the introductory programming course for both majors and non-majors.
+It is designed to impart a firm foundation in programming and
+elementary principles.
+
+It is not possible to pass this course without learning to program.
+
+Prior programming experience is not necessary, but definitely makes it
+easier.
+This course may take more work than you expect, again, depending on your
+preparation.
+
+Since individual students' backgrounds vary considerably,
+this course is partially self-paced.
+Quizzes may be taken up to three times and still receive full credit.
+Very well-prepared students may even elect an
+early final.
+
+The utility of some Pascal constructs does not become obvious until
+large programs are attempted, larger than is sensible to require in
+one semester.  Accordingly, some artificial requirements are levied
+to force students to practice such constructs.
+Top-Down Design is required for all but the first two programs.
+
+
+(Updated 3/18/96)
+
+

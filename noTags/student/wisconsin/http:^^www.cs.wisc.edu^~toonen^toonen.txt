@@ -1,0 +1,177 @@
+Date: Thu, 07 Nov 1996 19:15:20 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 16 Aug 1996 21:49:13 GMT
+Content-length: 5522
+
+
+
+Brian's Home Page
+
+
+Brian R. Toonen
+    Computer Sciences Department
+University of Wisconsin
+1210 W. Dayton Street
+Madison, WI 53706
+
+
+
+
+Office: 
+CS&ST 6613
+
+
+Email: 
+toonen@cs.wisc.edu
+
+
+Office Phone: 
+(608) 262-6613
+
+
+Home Phone: 
+(608) 276-7871
+
+
+
+
+
+
+
+Advisor: 
+
+      David Wood
+
+
+
+
+ Table of Contents 
+
+ Interests
+ Schedule for Summer 96
+ Publications
+ Something to think about
+
+
+ Interests 
+
+ Professional: Computer architecture, operating systems,
+compilers, high speed networks, distributed and parallel systems,
+security and accountability, and high performance I/O
+
+ Personal: Bicycling, walking, hiking, camping, traveling,
+billiards, darts, home brewing, cooking, computing, electronics, and
+reading
+
+
+
+ Schedule 
+
+Monday:
+
+ 15:30-16:30  WWT meeting
+
+
+Wednesday:
+
+ 13:30-14:30  Meeting with David
+ 15:30-16:30  BLZ/COW meeting
+
+
+When, Where and Why
+
+ 08/09 - 08/10  Milwaukee - Brian and Heidi's wedding
+ 08/22 - 08/23  Madison - Computer Architecture Affiliates Meeting
+ 08/25          Chicago - Michalakes' Grill Based Viener Roast
+
+
+ Publications 
+ Journal Articles 
+
+ I. T. Foster, B. Toonen, and P. H. Worley, 
+Performance of Massively Parallel Computers for Spectral
+Atmospheric Models, Jornal of Atmospheric and Oceanic
+Technology, 13(5):1031-45, 1996.  (228517 bytes)
+
+ J. B. Drake, I. T. Foster, J. G. Michalakes, B. Toonen, and
+P. H. Worley, 
+Design and Performance of a Scalable Parallel Community Climate
+Model,  Parallel Computing, December, 1995.  (255024 bytes)
+
+
+ Proceedings Papers 
+
+ P. H. Worley, I. T. Foster, and B. Toonen,  Algorithm
+comparison and benchmarking using a parallel spectral transform
+shallow water model, in Proccedings of the Sixth Workshop on
+Parallel Processing in Meteorology, eds. G.-R. Hoffmann and N. Kreitz,
+World Scientific, Singapore, 1995, pp. 277-289. (124793 bytes)
+
+ J. B. Drake, I. T. Foster, J. J. Hack,
+     J. G. Michalakes, B. D. Semeraro, B. Toonen,
+     D. L. Williamson, and P. H. Worley, 
+
+PCCM2: A GCM adapted for scalable parallel computers,
+in Proceedings of the Fifth Global Change Symposium,
+American Meteorological Society, 1994, pp. 91-98.
+(258657 bytes)
+
+ I. T. Foster and B. Toonen,  Load
+balancing algorithms for climate models, in Proceedings of the
+Scalable High Performance Computing Conference, eds. J. J. Dongarra
+and D. W. Walker, IEEE Computer Society Press, 1994,
+pp. 674-681. (607260 bytes)
+
+
+ Technical Reports 
+
+ P. H. Worley and B. Toonen,   A
+users' guide to PSTSWM,  ORNL Technical Report ORNL/TM-12779,
+July 1995.  (232512 bytes)
+
+ I. T. Foster and B. R. Toonen,  
+Load-Balancing Algorithms for the Parallel Community Climate
+Model, ANL Technical Report ANL/MCS-TM-190, January 1995.
+(180420 bytes)
+
+
+ Poster Presentations 
+
+ K. Dritz, I. Foster, M. Minkoff, P. Sutton, B. Toonen, Z. Wu,
+R. Shepard, J. Tilson, A. Wagner, R. Harrison, R. Kendall, and
+J. Nieplocha,  Semidirect Hartree-Fock Calculations Using the
+CHEMIO Library,  1995 Gordon Research Conference High-Performance
+Computing and National Information Infrastructure, Plymouth, NH, July
+16-21, 1995.
+
+ K. Dritz, I. Foster, M. Minkoff, R. Shepard, P. Sutton,
+J. L. Tilson, B. Toonen, A. Wagner, and Z. Wu,  Nondirect SCF
+Calculations Using the CHEMIO Library, High Performance
+Computational Chemistry Workshop, Pleasanton Hilton, Pleasanton,
+California, August 13-16, 1995.
+
+
+
+Something to think about...
+
+The Earth does not belong to man, man belongs to the Earth.
+All things are connected, like the blood that unites us all.
+Man did not weave the web of life, he is but a strand in it;
+whatever he does to the web, he does to himself.
+
+                                   -Chief Seattle
+
+
+The man who sat on the ground in his tipi meditating on life and its
+meaning, accepting the kinship of all creatures and acknowledging
+unity with the universe of things, was infusing into his being the
+true essence of civilization.
+
+                                   -Luther Standing Bear,
+                                    Oglala Sioux
+
+
+Last Modified: Mon Aug  5 18:40:23 CDT 1996
+
+

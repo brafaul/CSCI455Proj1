@@ -1,0 +1,110 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 20:51:06 GMT
+Content-Type: text/html
+Content-Length: 3273
+Last-Modified: Wednesday, 27-Nov-96 22:42:30 GMT
+
+
+
+
+
+Programming in Prolog
+
+
+
+
+
+
+
+ 
+ Next: How to run Prolog 
+ 
+Programming in Prolog
+
+   Logic programming works by defining a set of facts and rules. Facts are 
+simplest form of Prolog predicates. For example, suppose we want to express 
+the fact that it is raining. In Prolog, it will be expressed as
+
+ raining.
+
+
+
+Whereas in Pascal, we will declare a boolean variable raining, and then 
+assign it a value true.
+
+ var ¯
+
+		 raining :  boolean ;
+
+		 
+
+		 raining :=  true ;
+
+
+
+Note the use of period (`.') after the statement. Each statement in Prolog must be 
+ended by a period. Note all the predicates like raining must start with
+small letters. The words starting with capital letters are assumed to be
+variables. A rule can be expressed using propositional logic taught in
+lecture. For example, the fact that `I'll get wet if it's raining', can
+be expressed as
+
+ wet :- raining.
+
+
+
+and its equivalent code in Pascal will look like
+
+ if ¯( raining ) then
+
+		wet :=  true ;
+
+
+
+The symbol `:-' is read as if. The and and or
+operators can also be expressed in Prolog easily. For example,
+
+ miserable :- cold, wet.
+
+
+
+means that `I'll be miserable if it's cold and if I get wet'. The
+symbol `,' is read as and. Similarly,
+
+ miserable :- cold.
+
+miserable :- wet.
+
+
+
+expresses the fact that 'I'll be miserable if it's cold or if I get wet'.
+
+1)
+ Write prolog statements for the following
+
+
+ I am mortal. A metal is gold if it is yellow and heavy. I will pass the course if I do well in the finals.
+
+
+
+   Comments can we written in Prolog by putting a percent sign (%) at the 
+beginning of a line.
+
+ % This is an example program
+
+% It illustrates how to put comments
+
+wet :- raining.
+
+miserable :- cold.
+
+miserable :- wet.
+
+ 
+
+Dwip Narayan Banerjee 
+Wed Nov 27 16:24:30 CST 1996
+
+
+

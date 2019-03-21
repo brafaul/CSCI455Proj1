@@ -1,0 +1,177 @@
+Date: Tue, 14 Jan 1997 22:21:01 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 14733
+Last-modified: Thu, 02 Jan 1997 07:29:24 GMT
+
+
+
+Logic Software from CSLI
+
+
+
+
+Logic Software from CSLI
+By Jon Barwise and John Etchemendy
+
+
+
+
+The text/software packages described here -- Hyperproof, The Language of First-order Logic, Tarski's World and Turing's World -- are all published by the Center for the Study of Language and Information and distributed by Cambridge University Press.  Click here for ordering information.  If you already own any of these packages, click here for up-to-date version information and other information of interest to current users.  Click here if you have any comments, suggestions or questions.
+
+If you would like to read a new paper by Barwise and Etchemendy
+describing the reasons they developed this software and how it has
+changed their view of logic, check out "Computers,
+Visualization, and the Nature of Reasoning."  You will need
+Adobe's Acrobat Reader to read this file.
+        
+
+
+
+
+
+Hyperproof
+
+
+
+
+
+
+
+
+
+
+Hyperproof is a system for learning the principles of analytical reasoning and proof construction, consisting of a text and a Macintosh software program.  Unlike traditional treatments of first-order logic, Hyperproof combines graphical and sentential information, presenting a set of logical rules for integrating these different forms of information.  This strategy allows students to focus on the information content of proofs rather than the syntactic structure of sentences.  It also reflects the heterogeneity of information encountered in everyday reasoning. 
+
+Using Hyperproof the student learns to construct proofs of both consequence and non-consequence using an intuitive proof system that extends the standard set of sentential rules to incorporate information represented graphically.  Proofs of consistency and inconsistency are also covered as well as independence proofs.  The Hyperproof software checks the logical validity of each type of proof.
+Hyperproof is compatible with various natural-deduction-style proof systems, including the system used in the authors' The Language of First-order Logic.
+"Hyperproof is wonderful!  With it you can construct and check proofs in an expanded version of the language of Tarski's World.  And there is more, much more, another whole dimension.  Hyperproof lets you use pictorially-presented information and pictorially-oriented deduction techniques, in combination with sentences and syntactic rules, to reason about its block worlds.  It is an extraordinarily impressive programming achievement.  Hyperproof will make learning first-order logic enormously more fun."  --Carl Ginet, Cornell University
+
+Hyperproof is designed to be used in a first course in logic.  Since it presupposes familiarity with the program Tarski's World, it should be used in tandem with either the textbook The Language of First-order Logic or the stand-alone version of Tarski's World (Tarski "Lite").  Hyperproof is currently available only for the Macintosh.  A Microsoft Windows version is under development.
+ Ordering information  Show me Hyperproof
+
+[Top | Hyperproof Table of Contents | Information for current users | Acknowledgements]  
+
+The Language of First-order Logic (Mac or PC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Language of First-order Logic presents a new approach to teaching first-order logic.  Taking advantage of the accompanying program
+Tarski's World, the text skillfully balances the semantic conception of logic with methods of proof.  The book contains eleven
+chapters, in four parts.  Part I is about propositional logic and Part II
+covers quantifier logic.  Part III contains chapters on set theory and
+inductive definitions.  Part IV contains advanced topics in logic,
+including topics of importance in applications of logic in computer
+science.  The Language of First-order Logic contains hundreds of
+problems and exercises.
+
+An instructor's manual and instructor's disk are available to
+accompany this book.  The instructor's manual, written by Ruth Eberle,
+provides a wealth of material to make grading exercises and teaching
+from the text easier.  The instructor's disk allows you to grade most
+of the Tarski's World problems automatically, directly off the
+student's disks.  It is possible to grade both IBM PC and Macintosh
+disks using the Macintosh version of the program. 
+
+"[The Language of First-order Logic] is packed with interesting exercises and problems which make imaginative use of [Tarski's World].  This is an excellent package and we recommend it highly as the basis of either a complete first course in logic or as an initial part of such a course."  --Doug Goldson, Steve Reeves and Richard Bornat, University of London
+"The Language of First-order Logic and Tarski's World redress one of the main shortcomings of traditional beginning-level logic texts which emphasize the formal aspects of logic and pay scant attention to semantics.  Tarski's World sets a high standard for those who follow."  --Kevin Compton, Journal of Symbolic Logic.
+"The emphasis throughout is on the user doing logic by working the many problems in the text.  Recommended unreservedly as a fascinating approach to a fascinating subject."  --R. J. Wernick, Choice
+The Language of First-order Logic comes packaged with the program Tarski's World.  Since Hyperproof uses an extension of the natural-deduction-style proof system taught in The Language of First-order Logic, it can be used to accompany this text.  The Language of First-order Logic is available in versions for Macintosh and Microsoft Windows.  A version of the software for computers running NeXTstep is also available.  To receive it, purchase a copy of either the Macintosh or Windows version and follow the instructions contained in the book.
+ Ordering information  Show me Tarski's World
+[Top | LOFOL Table of Contents | Information for current users | Acknowledgements]  
+
+
+Tarski "Lite" (Mac or PC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tarski's World is an innovative and enjoyable way to introduce
+your students to the language of first-order logic.  Using this
+program students quickly master the meaning of the connectives and
+quantifiers, and soon become fluent in the symbolic language at the
+core of modern logic.  Tarski's World allows the students to build
+three-dimensional worlds and to describe them in first-order logic.
+They evaluate the sentences in the constructed worlds and if their
+evaluation is incorrect, the program provides them with a game that
+leads them to understand where they went wrong.  
+Tarski's World is available in two ways, either alone (called Tarski's World 4.0 or Tarski "Lite") or as part of the logic textbook/software package called The Language of First-order Logic.
+Tarski "Lite", the stand-alone package, is intended as a supplement to any standard logic text or for use by anyone who wants to learn the language.  The disk and manual contain over a hundred exercises from very basic to highly sophisticated.    
+
+"If you have had a small amount of experience with a Macintosh and enjoy logical matters, then you will almost certainly enjoy using (or just playing with) this software for the Mac."  --George Boolos, Journal of Symbolic Logic
+"The authors are pioneers.  [Tarski's World] is the only program that I know for teaching first-order semantics, and it sets a high standard.  I warmly recommend it."  --Wilfrid Hodges, Queen Mary College
+Tarski "Lite" is available for Macintosh or Microsoft Windows.  A version of the software for computers running NeXTstep is also available.  To receive it, purchase a copy of either the Macintosh or Windows version and follow the instructions contained in the book.
+ Ordering information  Show me Tarski's World
+[Top | Tarski "Lite" Table of Contents | Information for current users | Acknowledgements] 
+
+Turing's World
+
+
+
+
+
+
+
+
+
+
+Turing's World is a self-contained introduction to Turing machines,
+one of the fundamental notions of logic and computer science.  The
+text and accompanying diskette allow the user to design, debug, and
+run sophisticated Turing machines in a graphical environment on the
+Macintosh.
+Turing's World introduces users to the key concepts in
+computability theory through a sequence of over 100 exercises and
+projects.  Within minutes, users learn to build simple Turing machines
+using a convenient package of graphical functions.  Exercises then
+progress through a significant portion of elementary computability
+theory, covering such topics as the Halting problem, the Busy Beaver
+function, recursive functions, and undecidability.
+
+ Version 3.0 is an extensive revision and enhancement of earlier
+releases of the program, allowing the construction of one-way and
+two-way finite state machines (finite automata), as well as
+nondeterministic Turing and finite-state machines.  Special exercises
+allow users to expore these alternative machines.
+
+"Turing's World is a delight....I heartily recommend [it]."  --James Moor, Teaching Philosophy
+"Turing's World quite literally revolutionizes the way the fundamental theoretical issues of computing can be taught."  
+--Keith Devlin, The Guardian
+
+"There is not the slightest hint of jargon anywhere in [Turing's World].  The explanations are so direct that a beginner will understand them and an old hand will enjoy them."  
+--Wilfrid Hodges, Queen Mary College
+
+"The program and manual are the best introduction to Turing machines the reviewer knows of, or can imagine."  
+--George Boolos, Journal of Symbolic Logic
+
+ Ordering information  Show me Turing's World
+[Top | Turing's World Table of Contents | Information for current users | Acknowledgements]
+
+
+ John Etchemendy (left) and Jon Barwise (right) 
+Jon Barwise is a professor of philosophy, mathematics, and computer science at Indiana University in Bloomington.  His email address is barwise@phil.indiana.edu.
+John Etchemendy is a professor of philosophy and symbolic systems at Stanford University.  His email address is etch@proof.stanford.edu.
+
+ Stanford Home Page  CSLI Home Page; CSLI Publications Home Page
+
+
+

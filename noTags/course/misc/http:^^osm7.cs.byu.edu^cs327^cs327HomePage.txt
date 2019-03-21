@@ -1,0 +1,144 @@
+Date: Wed, 20 Nov 1996 21:55:09 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 18 Jun 1996 19:49:42 GMT
+Content-length: 6827
+
+
+
+CS 327 Home Page
+
+
+ CS 327 - Software Engineering - Spring 1996
+
+
+ Instructor:
+
+
+  Scott N. Woodfield
+ Office: TMCB 3332
+         Hours: 1st hour after class
+         Phone: 378-2915
+         woodfiel@cs.byu.edu
+
+
+Teaching Assistant:
+ Eric Sokolowsky
+ TMCB 2247
+     Phone: 225-8926 or 229-1861
+     esok@cs.byu.edu
+
+Office Hours: M  12 noon - 5 pm
+              T   4 pm   - 9 pm
+              W  12 noon - 5 pm
+              Th  9 am   - 2 pm
+
+
+
+ New Things:
+
+ Course Goals
+You are to become familiar with some of the basic topics of
+    Software Engineering. These include Specification, Architectural Design, 
+    Detailed Design, Coding, Testing, Maintenance, Metrics, Cost Estimation, Quality Assurance, 
+    Configuration Management.
+
+ Text
+
+
+Software Engineering: A Practitioner's Approach: 
+    by Roger S. Pressman
+    
+
+ Workload
+
+
+ Tests (40%)
+         There will be Many Surprise  quizzes instead of in class tests.
+         -- The lowest  25%(approximately) of your quiz grades will be dropped--
+         The quizzes will account for 15% of your grade.
+         There will be two in lab programming tests (10%) 
+         There is also a comprehensive  final  (15%) which includes
+             one in lab test.   
+                 THURSDAY MORNING, THIS REFERENCE WILL CONTAIN THE ACTUAL PROGRAM 
+     and one in class final(review topics).   
+         Programming Assignments (60%)
+        
+Assignment 1 ( 7%)
+Assignment 2 (16%)
+Assignment 3 (16%)
+Assignment 4 (21%)
+
+ TEST 2 can be found in ~cs327/TEST_2
+
+
+ Example Project
+
+
+ Day Planner
+
+
+ Cheating Policy
+The cheating policy is simple.  If your are caught  once  at cheating  you 
+    will be given an E for the course.  All cheating instances will  be  brought  
+    to  the  attention  of  the department  chairman  in  an  attempt  to  have  
+    the student removed from the department,  college,  or  university.  You shall 
+    not  cheat  on  quizzes.  You should work together as much as possible.  
+    However, it is considered cheating if you copy another person's work or do not 
+    do the work yourself.
+
+ Communication
+We would like to meet with you when you have problems,  but, if  you  can't,  
+    please use e-mail.  Much of the information for the class will not be given 
+    on paper but instead through the WEB.
+
+ Other Points of Intrest
+
+
+  Grades
+  Schedule
+  Outlines
+ OSA Tutorial
+ CS 327 Newsgroup
+ Bug Reporting Criteria 
+
+
+
+Frequently Asked Questions
+
+
+
+      Make files
+
+
+      .cshrc file
+
+
+      Linker errors
+
+
+      Beware when making test programs!
+
+
+      How to turn assignments in.
+
+
+      Important note about in-lab test #1.
+
+
+YOU ARE RESPONSIBLE FOR  ALL  INFORMATION  CONTAINED  WITHIN
+THIS  SYLLABUS,  ANYTHING  ON  THE WEB  AND  ANYTHING SAID IN
+CLASS!!!
+
+
+
+
+
+
+
+
+Last updated 20 May 1996.
+Scott Woodfield (woodfiel@cs.byu.edu)
+
+
+

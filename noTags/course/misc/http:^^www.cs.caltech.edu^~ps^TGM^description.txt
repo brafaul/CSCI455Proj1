@@ -1,0 +1,88 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 21:57:36 GMT
+Content-Type: text/html
+Content-Length: 3481
+Last-Modified: Friday, 09-Feb-96 02:04:57 GMT
+
+
+ 
+ Course Description -- Topics in Geometric Modeling 
+
+
+CS284b: Seminar in Computer Science
+Topics in Geometric Modeling
+Instructors: Profs. Arvo and Schröder
+
+Location: Tu 3:30-5:00, Fr 12:30-2:00, room 121,
+ Beckmann Institute
+Online Resources
+
+Projects
+Java drawing program
+Java Resources
+Researchers and Papers
+Class handouts
+Assignments
+Announcements
+
+Description
+
+This course will explore a number of topics that relate to the
+construction and representation of geometric models on a computer,
+with the emphasis on three-dimensional surfaces.  Rather than
+attempting to survey the field of geometric modeling, the purpose of
+the course is to allow students to explore several aspects in depth
+through programming and reading recently published articles.
+
+
+The course will begin with a number of lectures aimed at covering the
+basics of techniques based on approximating and interpolating
+polynomials. Once the basics are covered we'll move into state of the
+art algorithms addressing various problems such as
+
+reconstruction of surfaces from unorganized points;
+  mesh decimation;
+  smooth interpolation and approximation for arbitrary topologies;
+  hierarchical, or multi-level, decompositions of geometry;
+  interactive techniques for surface design;
+  meshing for finite element methods.
+
+What we'll actually get to during the quarter will be determined by
+the interests of the participants.
+
+
+A possible list of basic topics to be covered includes
+
+Spline Curves: Bezier form, B-Spline form, blossoming,
+      polar forms, construction, evaluation, differentiation, knot
+      insertion, subdivision, degree lifting;
+  Spline Surfaces: Cross product domains, triangular
+      patches, Bezier form, B-Spline form;
+  Subdivision Surfaces based on Splines: Catmull-Clark,
+      Doo-Sabin, Loop, Reif, Peters;
+  Interpolating Subdivision Curves: Deslauriers-Dubuc,
+      Donoho, Herley;
+  Interpolating Subdivsion Surfaces: Dyn.
+
+Requirements
+
+There will be small programming assignments in the beginning of the
+course to study some of the basic techniques. In the latter part of
+the course Students will be required to summarize and present one
+recent research paper related to geometric modeling, and to devise and
+complete a programming project that builds upon any of the techniques
+covered in class.
+
+Recommended Background
+Mathematics: multi-variable calculus, real analysis, linear
+algebra.
+Computer Science: solid programming ability in at least one language
+(Java, C++, C, Matlab, Maple, Fortran, Mathematica). Based on the
+chosen project some familiarity with advanced data structures, 3D
+computer graphics algorithms, and interactive techniques may be desirable.
+
+
+Copyright © 1995 Jim Arvo and Peter Schröder
+
+

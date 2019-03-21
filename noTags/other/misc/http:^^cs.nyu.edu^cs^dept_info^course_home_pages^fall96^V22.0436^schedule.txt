@@ -1,0 +1,226 @@
+Date: Tue, 14 Jan 1997 22:48:34 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Tue, 26 Nov 1996 17:22:16 GMT
+Content-length: 6768
+
+
+
+
+V22.0036 - Computer Architecture - Fall 1996
+
+
+V22.0436 - Computer Architecture - Fall 1996 Prof. Grishman
+
+Course Schedule
+Last revised October 9, 1996
+
+
+
+Class
+Date
+Topic
+Text
+Assignment 
+
+1
+Sept. 5
+Historical Perspective 
+Chap. 1
+
+
+
+
+Logic Design 
+Appendix B
+
+
+2
+Sept. 10
+Gates, TTs, & logic eqns 
+B.2
+
+
+3
+Sept. 12
+Canonical forms; fan-in&out 
+B.3
+uh (universltíy) 
+
+4
+Sept. 17
+Comb. logic; FFs
+B.4
+#1 (comb. ckt.)
+
+5
+Sept. 19
+Sequential circuits;
+B.5
+
+
+6
+Sept. 24
+Finite state machines
+B.6
+#2 (FSM)
+
+7
+Sept. 26
+Register files and RAMs
+
+
+
+
+
+MIPS and Arithmetic 
+Chap. 3 and 4
+
+
+8
+Oct. 1
+MIPS Architecture; addn/subtn
+3; 4.2 & 4.3
+
+
+9
+Oct. 3
+ALU; CLA
+4.4 & 4.5
+
+
+10
+Oct. 8
+CLA; shifters
+
+uh (MIPS);
+#3 (ALU)
+
+11
+Oct. 10
+Multiplier 
+4.6
+
+
+
+
+Processor: Data Path 
+Chap. 5
+
+
+12
+Oct. 15
+Building a data path 
+5.1
+
+
+13
+Oct. 17
+Review for Mid-term 
+
+
+
+14
+Oct. 22
+Mid-term 
+
+
+
+15
+Oct. 24
+A simple implementation 
+5.2
+
+
+16
+Oct. 29
+Processor implement., cont'd 
+
+#4 (data paths)
+
+
+
+Performance Issues 
+
+
+
+17
+Oct. 31
+measuring performance 
+Chap. 2
+
+
+18
+Nov. 5
+improving perf.:  pipelining
+Chap. 6.1-6.2
+
+
+
+
+Memory 
+Chap. 7
+
+
+19
+Nov. 7
+memory technology
+7.2
+
+
+20
+Nov. 12
+cache 
+
+#5 (perf.) 
+
+21
+Nov. 14
+cache, cont'd 
+7.3
+
+
+22
+Nov. 19
+virtual memory
+
+
+
+
+
+Input-output 
+Chap. 8
+
+
+23
+Nov. 21
+types of devices; busses
+8.2
+
+
+24
+Nov. 26
+busses and interrupts
+8.3
+#6 (memory)
+
+25
+Dec. 3
+interfacing devices 
+8.4
+
+
+25
+Dec. 5
+spare 
+
+
+
+26
+Dec. 10
+Review for final exam 
+
+
+
+
+

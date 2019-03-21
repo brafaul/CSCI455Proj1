@@ -1,0 +1,462 @@
+Date: Tue, 05 Nov 1996 21:01:49 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 18 Sep 1996 20:05:28 GMT
+Content-length: 11461
+
+
+
+  WWT Technical Papers 
+
+
+
+
+
+
+
+WWT Technical Papers
+
+
+ Overview
+ Tempest, Typhoon, Blizzard
+ Custom Protocols
+ Compiling for Tempest
+ Hardare Design
+ Tools
+ Cooperative Shared Memory
+ Wisconsin Wind Tunnel
+ Miscellaneous
+ Return to WWT Home Page
+
+
+
+ Overview 
+
+
+
+The Wisconsin Wind Tunnel Project: An Annotated Bibliography,
+
+
+Mark D. Hill, James R. Larus, David A. Wood
+(unpublished manuscript, revised frequently).
+
+
+
+
+Parallel Computer Research in the Wisconsin Wind Tunnel Project
+
+
+Mark D. Hill James R. Larus, David A. Wood
+(NSF Conference on Experimental Research in Computer Systems, Jun. 1996).
+
+
+
+ Tempest, Typhoon, Blizzard 
+
+
+
+Typhoon and Tempest: User-Level Shared Memory,
+
+
+Steven K. Reinhardt, James R. Larus, David A. Wood
+(ACM/IEEE International Symposium on Computer Architecture (ISCA), April 1994).
+
+
+
+
+Fine-grain Access Control for Distributed Shared Memory,
+
+
+Ioannis Schoinas, Babak Falsafi, Alvin R. Lebeck,
+Steven K. Reinhardt, James R. Larus, David A. Wood
+(The Sixth International Conference on Architectural Support for Programming
+Languages and Operating Systems (ASPLOS VI), Oct. 1994).
+
+
+
+
+Tempest: A Substrate for Portable Parallel Programs,
+
+
+Mark D. Hill James R. Larus, David A. Wood
+(Compcon, Mar. 1995).
+
+
+
+
+Tempest Interface Specification,
+
+
+Steven K. Reinhardt
+(UW CS TR #1267, Feb. 1995).
+
+
+
+
+StormWatch: A Tool for Visualizing Memory System Protocols,
+
+,
+Trishul M. Chilimbi, Thomas Ball, Stephen G. Eick, and James R. Larus
+(Supercomputing '95, Dec. 1995).
+
+
+
+
+Decoupled Hardware Support for Distributed Shared Memory,
+
+
+Steven K. Reinhardt, Robert W. Pfile, and David A. Wood
+(23rd International Symposium on Computer Architecture (ISCA), May 1996).
+
+
+
+ Custom Protocols 
+
+
+
+Application-Specific Protocols for User-Level Shared Memory,
+
+
+Babak Falsafi, Alvin R. Lebeck, Steven K. Reinhardt, Ioannis Schoinas,
+Mark D. Hill James R. Larus, Anne Rogers, David A. Wood
+(Supercomputing '94, Nov. 1994).
+
+
+
+
+Efficient Support for Irregular Applications on Distributed-Memory Machines,
+
+
+Shubhendu S. Mukherjee, Shamik D. Sharma, Mark D. Hill, James R. Larus,
+Anne Rogers, and Joel Saltz
+(PPoPP, July 1995).
+
+
+
+
+Teapot: Language Support for Writing Memory Coherence Protocols,
+
+
+Satish Chandra,
+Brad Richards and
+James R. Larus
+(SIGPLAN Conference on Programming Languages Design and Implementation (PLDI),
+May 1996).
+
+
+
+
+Dynamic Self-Invalidation: Reducing Coherence Overhead in Shared-Memory Multiprocessors,
+
+
+Alvin R. Lebeck and
+David A. Wood
+(ACM/IEEE International Symposium on Computer Architecture (ISCA),
+June 1995).
+
+
+
+ Compiling for Tempest 
+
+
+
+Compiling for Shared-Memory and Message-Passing Computers,
+
+
+James R. Larus
+(ACM LOPLAS, Vol. 2, No. 1-4, March-Dec. 1993).
+
+
+
+
+Where is Time Spent in Message-Passing and Shared-Memory Programs?,
+
+
+Satish Chandra, James R. Larus, Anne Rogers
+(The Sixth International Conference on Architectural Support for Programming
+Languages and Operating Systems (ASPLOS VI), Oct. 1994).
+
+
+
+
+
+LCM: Memory System Support for Parallel Language Implementation,
+
+
+James R. Larus, Brad Richards, Guhan Viswanathan
+(The Sixth International Conference on Architectural Support for Programming
+Languages and Operating Systems (ASPLOS VI), Oct. 1994).
+
+
+
+
+HPF on Fine-Grain Distributed Shared Memory: Early Experience,
+
+
+Satish Chandra and
+James R. Larus
+(To appear:
+Ninth Workshop on Languages and Compilers for Parallel Computing,
+August 1996).
+
+
+
+
+Parallel Programming in C**: A Large-Grain Data-Parallel Programming Language,
+
+
+James R. Larus and Brad Richards and Guhan Viswanathan
+(In: Gregory V. Wilson and Paul Lu, eds.,
+Parallel Programming Using C++,
+MIT Press 1996).
+
+
+
+
+Compiler-directed Shared-Memory Communication for Iterative Parallel Applications,
+
+
+Guhan Viswanathan and
+James R. Larus
+(To appear:
+Supercomputing 96,
+November 1996).
+
+
+
+ Hardware Design 
+
+
+
+An Evaluation of Directory Protocols for Medium-Scale Shared-Memory Multiprocessors,
+
+Shubhendu S. Mukherjee and Mark D. Hill
+(International Conference on Supercomputing (ICS), July 1994).
+
+
+
+
+Coherent Network Interfaces for Fine-Grain Communication,
+
+
+Shubhendu S. Mukherjee,
+Babak Falsafi,
+Mark D. Hill, and
+David A. Wood
+(Proceedings of the 23rd International Symposium on
+Computer Architecture (ISCA), 1996).
+Raw Data.
+
+
+
+ Tools 
+
+
+
+EEL: Machine-Independent Executable Editing,
+
+
+James R. Larus and Eric Schnarr
+(SIGPLAN '95 Conference on Programming Languages Design and Impelementation
+(PLDI), June 1995).
+
+
+
+
+Active Memory: A New Abstraction For Memory System Simulation,
+
+
+Alvin R. Lebeck and
+David A. Wood
+(ACM SIGMETRICS, May 1995).
+
+
+
+
+Instruction Scheduling and Executable Editing,
+
+
+Eric Schnarr and
+James R. Larus
+(Workshop on Compiler Support for System Software (WCSSS),
+February 1996).
+
+
+
+
+Instruction Scheduling and Executable Editing,
+
+
+Eric Schnarr and
+James R. Larus
+(IEEE/ACM Int'l Symp. on Microarchitecture (MICRO-29),
+Dec. 2-4, 1996, Paris, France).
+
+
+ Cooperative Shared Memory 
+
+
+
+Cooperative Shared Memory: Software and Hardware for Scalable Multiprocessors,
+
+
+Mark D. Hill, James R. Larus, Steven K. Reinhardt, David A. Wood
+(ACM Transactions on Computer Systems (TOCS), November 1993).
+
+
+
+
+Mechanisms for Cooperative Shared Memory,
+
+
+David A. Wood,
+Satish Chandra,
+Babak Falsafi,
+Mark D. Hill,
+James R. Larus,
+Alvin R. Lebeck,
+James C. Lewis,
+Shubhendu S. Mukherjee,
+Subbarao Palacharla,
+Steven K. Reinhardt
+(ACM/IEEE International Symposium on Computer Architecture (ISCA), May 1993).
+
+
+
+
+CICO: A Shared-Memory Programming Performance Model,
+
+
+James R. Larus, Satish Chandra, David A. Wood
+(Portability and Performance for Parallel Processors, John Wiley & Sons, Ltd.,
+1994).
+
+
+
+
+Solving Microstructure Electrostatics on a Proposed Parallel Computer,
+
+
+Frank Traenkle, Mark D. Hill, Sangtae Kim
+(Computers and Chemical Engineering, 1995).
+
+
+
+
+Parallel Programming Models and Boundary Integral
+Equation Methods for Microstructure Electrostatics,
+
+
+Frank Traenkle
+(Masters Thesis (Univ. of Wisconsin--Madison, Ch.E. Dept.), 1993).
+
+
+
+
+Cachier: A Tool for Automatically Inserting CICO Annotations,
+
+
+Trishul M. Chilimbi and James R. Larus
+(International Conference on Parallel Processing (ICPP), August, 1994).
+
+
+
+ Wisconsin Wind Tunnel 
+
+
+
+The Wisconsin Wind Tunnel:  Virtual Prototyping of Parallel Computers,
+
+
+Steven K. Reinhardt,
+Mark D. Hill,
+James R. Larus,
+Alvin R. Lebeck,
+James C. Lewis,
+David A. Wood
+(ACM SIGMETRICS, May 1993).
+
+
+
+
+Kernel Support for the Wisconsin Wind Tunnel,
+
+
+Steven K. Reinhardt, Babak Falsafi, David A. Wood
+(Usenix Symposium on Microkernels
+and Other Kernel Architectures, September 1993).
+
+
+
+
+A Programming Tutorial for the Wisconsin Wind Tunnel,
+
+
+Shubhendu S. Mukherjee,
+Alan Kagi, and
+Douglas Burger
+(Unpublished manuscript, revised January 1995).
+
+
+
+
+Cost/Performance of a Parallel Computer Simulator,
+
+
+Babak Falsafi and David A. Wood
+(SCS PADS, July 1994).
+
+
+
+
+Accuracy vs. Performance in Parallel Simulation of Interconnection Networks,
+
+
+Douglas C. Burger and David A. Wood
+(ACM/IEEE International Parallel Processing Symposium (IPPS), April 1995).
+
+
+
+
+Optimistic Simulation of Parallel Architectures Using Program Executables,
+
+
+Sashikanth Chandrasekaran and Mark D. Hill
+(Workshop on Parallel and Distributed Simulation (PADS), May 1996).
+
+
+
+Miscellaneous
+
+
+
+Paging Tradeoffs in Distributed-Shared-Memory Multiprocessors,
+
+
+Douglas C. Burger, Rahmat S. Hyder, Barton P. Miller, David A. Wood
+(Supercomputing '94, Nov. 1994).
+
+
+
+
+Cost-Effective Parallel Computing,
+
+
+David A. Wood and Mark D. Hill
+(IEEE Computer, February 1995).
+
+
+
+
+Efficient Path Profiling,
+
+
+Thomas Ball, James R. Larus
+(MICRO 29, Dec. 1996).
+
+
+
+ Last Updated: September 11, 1996 by James R. Larus (larus@cs.wisc.edu) 
+
+
+

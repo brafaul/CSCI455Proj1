@@ -1,0 +1,50 @@
+Date: Mon, 25 Nov 1996 23:26:44 GMT
+Server: NCSA/1.5.1
+Last-modified: Thu, 28 Sep 1995 19:10:56 GMT
+Content-type: text/html
+Content-length: 1295
+
+
+Steven Robbins
+
+
+
+
+
+ Steven Robbins
+
+Associate Professor 
+srobbins@runner.utsa.edu
+
+Ph.D. Mathematics (1973) 
+Massachusetts Institute of Technology 
+
+
+ Areas of Interest:
+
+  
+ Parallel architectures and distributed computing 
+ 
+ Visualization and auralization  
+
+
+
+
+ Publications 
+ Technical Reports 
+
+ Summary of Research
+
+My research is in the areas of parallel architectures and
+algorithms, distributed computing, visualization, and auralization.  I have
+received funding from Cray Research
+to develop
+alternative designs for parallel memories,
+the National Science Foundation
+to develop a concurrency-based approach to teaching operating systems,
+and the San Antonio Area Foundation to develop new methods for understanding
+using visualization techniques.
+
+
+ Computer Science Visualization Lab
+ Computer Science Division

@@ -1,0 +1,41 @@
+Date: Mon, 02 Dec 1996 15:57:30 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+Laboratory for Animation Arts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Laboratory for Animation Arts (LA2) features top-of-the-line 
+hardware and software for creating computer animation.  Occupying
+two rooms, it features 7 animation workstations featuring SGI
+Indigo2 Extremes.  
+
+
+The laboratory is supported by the Center for Advanced Research Technology
+in the Arts and Humanities
+(CARTAH), and was founded
+as a joint effort
+among the School of Art, Department of Computer Science and
+Engineering, and School of Music.
+
+
+LA2 is equipped via industrial gifts from the following companies:
+
+Silicon Graphics, Inc.
+Alias | Wavefront
+Pixar
+

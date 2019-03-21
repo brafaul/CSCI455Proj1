@@ -1,0 +1,46 @@
+Date: Tue, 26 Nov 1996 18:49:22 GMT
+Server: NCSA/1.5.2
+Last-modified: Sat, 17 Aug 1996 17:10:23 GMT
+Content-type: text/html
+Content-length: 1456
+
+
+CSC 114 - Introduction to Computing - C++:  Homepage
+
+
+
+
+ 
+
+
+[ Section 1  | 
+ Section 2  | 
+ Section 3 ]
+
+
+
+
+Course Objectives:  CSC 114 is an 
+introductory course in programming using the language C++. Its primary 
+purpose is to teach you problem solving and design in the context of the
+object-oriented program development in C++. Upon satisfactory completion of 
+this course, you should:
+
+
+have a fundamental understanding of what object-oriented program
+development is all about
+be familiar with problem solving techniques commonly used in
+elementary programming
+know syntax and proper use of functions, control structures, arrays,
+text files, and simple structs and 
+classes in C++
+know debugging and testing techniques
+know commonly used elementary algorithms
+develop a style of programming that makes programs readable and
+readily modified
+understand the need for abstraction and verification
+
+
+ Return to  
+   CSC Department Home Page
+

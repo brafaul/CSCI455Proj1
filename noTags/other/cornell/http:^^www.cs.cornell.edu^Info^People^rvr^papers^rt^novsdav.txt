@@ -1,0 +1,67 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 23:04:06 GMT
+Content-Type: text/html
+Content-Length: 2933
+Last-Modified: Tuesday, 13-Dec-94 19:57:07 GMT
+
+
+
+
+
+Support for Complex Multi-Media Applications using the Horus system
+
+
+
+
+
+
+    
+ Next:  Introduction
+  
+
+Support for Complex Multi-Media Applications using the Horus system
+
+
+         Werner Vogels                  
+      vogels@cs.cornell.edu
+
+         Robbert van Renesse
+      rvr@cs.cornell.edu
+
+Dept. of Computer Science Cornell University, Ithaca, NY 14853
+
+
+
+December 1994
+Abstract:
+A distributed multi-media application involves more than just protocols for
+the dissemination of video and audio data.
+As in any other distributed application, protocols are necessary that
+guarantee the consistency, fault-tolerance, and security of shared data
+objects.
+The Horus system offers a framework for building complex distributed systems
+that involve any number of protocols, as well as a variety of protocols for
+the different aspects of a distributed application (including some
+protocols specific to multi-media applications).
+We believe that this integrated approach is superior to combining different
+toolkits, and illustrate this with a detailed example of an existing
+video-on-demand application.
+
+
+
+ 
+
+  Introduction
+  Horus
+  Horus and Multi-Media
+  Conclusion and ongoing work
+ References
+  About this document ... 
+
+ 
+
+ Robbert VanRenesse 
+Tue Dec 13 13:08:33 EST 1994
+
+

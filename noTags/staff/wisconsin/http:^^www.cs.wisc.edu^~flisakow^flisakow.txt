@@ -1,0 +1,106 @@
+Date: Thu, 07 Nov 1996 19:20:52 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sat, 02 Nov 1996 23:04:14 GMT
+Content-length: 3627
+
+Shaun Flisakowski
+
+Shaun Flisakowski
+
+
+Research Associate
+Department of Computer Sciences
+University of Wisconsin - Madison
+1210 West Dayton St - Rm 7360
+Madison, WI 53706
+Work Phone: (608)-263-6623
+Home Phone: (608)-238-8069
+email: flisakow@cs.wisc.edu
+
+
+
+ Work 
+
+I work on the Coral project.
+It's a deductive (logic-based) database system similar to Prolog. I hope to
+be wrapping up some changes soon, and have it move into the background (with
+me remaining its main maintainer).
+
+I've starting getting involved with the
+DEVise project,
+a package for examining large quantities of data in a visual fashion.
+
+
+
+ Class 
+This semester (my last) I'm doing a Master's project.  I'm going to be
+cleaning-up/rewriting Minibase.  Minibase is a simple database
+intended for instructional use in mid-level database classes.  The
+students will rewrite a section of it at a time, compiling their section
+with the rest of program, so that they always have a working version of
+the database.
+
+
+ Projects (and other programming stuff I have available) 
+I am (very slowly) working on a C lexer/parser with a symbol and type table.
+The latest beta version is available as
+ ctree-0.03.tar.gz.  My intent in writing it was to create a C parsing library that 
+could be used as a basis for creating source-transforming tools.  As is, it
+still has quite a way to go, but some people seem to find it useful for their
+own purposes.
+
+LaserPoint is distributing a
+game of mine, Patience, a set of 25 card games for Windows.
+
+
+Miscellaneous Small Things
+
+
+callstk.tar.gz:
+A set of C++ classes that keep track of the call stack and program trace
+with minimum hassle.
+
+
+wire.tar.gz:
+A simple X-based wire framer.
+
+
+self.tar.gz:
+A program that assists in making other programs capable of printing themselves.
+(Pure silliness.)
+
+
+
+
+
+ Play 
+ I've started investing in
+Borland stock,
+you should as well before it jumps back up as a result of
+Delphi's
+ tremendous success. 
+You can also take a look at how Borland
+has been performing in the past.
+
+
+Track the movements of your favorite electrical engineer and his dog on the
+Dilbert Page.
+ My Bookmark's.
+
+
+ Suggested Reading 
+
+Snow Crash: Neal Stephenson
+The Diamond Age*: Neal Stephenson
+Zodiac: Neal Stephenson
+Permutation City: Greg Egan
+Quarantine: Greg Egan
+Resurrection Man: Sean Stewart
+
+
+* - Hugo Winner
+
+
+Mail me at: 
+    flisakow@cs.wisc.edu

@@ -1,0 +1,36 @@
+Date: Tue, 05 Nov 1996 21:01:30 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+
+
+
+People in the robotics lab
+
+
+People in the UW-Madison Robotics Lab
+ Faculty 
+
+
+      Vladimir Lumelsky
+
+      Nicola Ferrier
+
+Graduate students
+
+Rame Chitturi
+Liu Fei
+Susan Hert
+Juan Alvarez
+Nick Leavy
+Lei Shen
+Andrei Shkel
+Branimir Stankovic
+Dugan Um
+Jeffery Watson
+  Masahiro Yagi
+Vladimir Yegorov
+ 
+
+ Comments/suggestions/errata: hert@cs.wisc.edu 
+
+

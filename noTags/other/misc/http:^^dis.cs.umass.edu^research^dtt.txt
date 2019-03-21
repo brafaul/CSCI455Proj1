@@ -1,0 +1,90 @@
+Date: Wednesday, 15-Jan-97 02:08:39 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 22-Mar-95 16:48:03 GMT
+Content-length: 4784
+
+Design-to-time Real-time Scheduling
+Design-to-time Real-time Scheduling
+
+  Design-to-time is an approach to real-time problem solving in situations
+where multiple methods exist for many tasks that a system needs to solve.
+Design-to-time involves designing a solution to a problem that uses all
+available resources to maximize the solution quality within the available
+time.  One important area of research has focused on interdependencies that
+may exist between methods, such as the execution of one method enabling the
+execution of another, or the use of a rough approximation by one method
+negatively affecting the performance of a method that uses its result.
+
+The methodology is known as design-to-time because it advocates the use
+of all available time to generate the best solutions possible.  It is a
+problem-solving method of the type described by D'Ambrosio as
+those which "given a time bound, dynamically construct and execute a
+problem solving procedure which will (probably) produce a reasonable
+answer within (approximately) the time available."
+
+If design-to-time is to be generally useful, it must be possible to
+embed design-to-time schedulers in larger application systems.  There
+are many reasons why a distinct separation should exist between a
+design-to-time scheduler and its invoker, including at least
+modularity and efficiency.  Modularity suggests that separate
+functionality should be kept in separate modules with clearly defined
+interfaces.  In general it is difficult for all current problem
+solving criteria to be encapsulated into an evaluation function and
+transmitted to the scheduler, because deciding what to do is a
+evolving computational process.  Another reason why a separation might
+exist between a decision maker and a design-to-time scheduler is that
+they work at different levels of abstraction.  One of the roles of the
+decision maker is to constrain the search done by the design-to-time
+scheduler, for example, by using commitments to tell the scheduler
+what parts of the task structure to focus on.  While it is possible
+for the scheduler to use all available information to make such
+decisions itself, for efficiency reasons it is useful to have the
+decision maker constrain the search space for the scheduler.  More
+details on this aspect of design-to-time scheduling can be found in
+our page on integrating scheduling and
+decision-making.
+
+To date we have examined
+design-to-time scheduling in the Distributed Vehicle Monitoring
+Testbed (DVMT), looked at
+simplified DVMT-like tasks with limited subtask interactions, explored the
+interaction between a design-to-time scheduler and a
+decision-maker, briefly
+described extensions to design-to-time for uncertainty, and
+experimented with an optimal design-to-time scheduling algorithm.
+
+
+
+Garvey, A., Decker, K., and Lesser, V. "A
+Negotiation-based Interface Between a Real-time Scheduler and a
+Decision-maker," UMass CS Technical Report 94-08.
+
+Garvey, A., Humphrey, M., and Lesser, V. "Task Interdependencies in
+Design-to-time Real-time Scheduling," Proceedings of the Eleventh National
+Conference on Artificial Intelligence, 1993. 
+
+Garvey, A. and Lesser, V., "Design-to-time Real-Time Scheduling," IEEE
+Transactions on Systems, Man and Cybernetics - Special Issue on Planning,
+Scheduling and Control, Vol. 23, No. 6, 1993. 
+
+Garvey, A. and Lesser, V. "Design-to-time
+Scheduling with Uncertainty," UMass CS Technical Report 95-03.
+
+ Decker, K., Garvey, A., Humphrey, M. and Lesser, V.,"Real-Time Control of
+Approximate Processing," International Journal of Pattern Recognition and
+Artificial Intelligence, Vol 7, No. 2, 1993.
+
+ Decker, K., Lesser, V.  and Whitehair, R., "Extending a Blackboard
+Architecture for Approximate Processing," The Journal of Real-Time Systems, Vol
+2, No.  1/2, 1990.
+
+
+  Back to the DIS Lab Home Page
+
+
+If you have questions, problems or suggestions send mail to 
+www@dis.cs.umass.edu
+
+Last Update: 3/22/95

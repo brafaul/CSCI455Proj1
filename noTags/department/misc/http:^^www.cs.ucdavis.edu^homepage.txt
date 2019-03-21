@@ -1,0 +1,73 @@
+Server: Netscape-Communications/1.1
+Date: Tuesday, 26-Nov-96 22:55:54 GMT
+Last-modified: Tuesday, 26-Nov-96 19:21:27 GMT
+Content-length: 2041
+Content-type: text/html
+
+
+
+Computer Science Department Home Page
+
+
+
+
+
+
+
+
+Welcome to our Home Page
+
+
+
+
+ Department Information
+
+
+
+  Department Information 
+ Personnel
+  Research
+  Colloquia
+  Technical Reports, Publications, and Current Projects 
+  Undergraduate Information
+  Graduate Information
+  Systems Support Group (Local Users Only)
+
+
+
+
+
+ Instruction
+
+
+
+  Announcements
+ Academic Calendar
+ Class Schedule (Fall 1996)
+ Class Schedule (Winter 1997)
+ Class Schedule (Spring 1997)
+ 1996-97 Course Offerings in CS
+  Expanded Course Descriptions
+  Recipients of the Department Citation Award
+  Computer Science Instructional Facility (CSIF)
+
+
+
+
+
+
+ Faculty Recruitment
+
+
+
+
+   Application Information
+
+
+
+
+webmaster@cs.ucdavis.edu
+
+
+
+Last modified November 26, 1996

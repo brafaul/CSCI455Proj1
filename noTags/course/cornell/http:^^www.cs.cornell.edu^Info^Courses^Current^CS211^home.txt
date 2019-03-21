@@ -1,0 +1,77 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 20:18:13 GMT
+Content-Type: text/html
+Content-Length: 2508
+Last-Modified: Monday, 18-Nov-96 19:24:30 GMT
+
+
+
+
+ CS211 Fall 96 Home Page 
+
+
+ CS211, Computers and Programming 
+
+
+Computer Science Department  
+Cornell University 
+Fall 1996 
+
+
+Question and problems about this page should be emailed to Nawaaz Ahmed,
+ nawaaz@cs.cornell.edu .
+You may have trouble viewing the tables if you're using an early
+version of NetScape.
+
+ Changes to this document are logged. Click  here 
+for the latest updates. The order of the updates since November 1st
+has been changed so that the latest updates are at the  top  of
+the page.
+
+
+ You can also post problems you have found, solutions to them and
+any other cs211 related material to the 
+CS211 newsgroup. (This is an
+experiment -- let me know if using the newsgroup link is a problem
+on the macs).
+
+
+
+ Course description 
+ Course staff  (Updated with office hours information)
+ Additional References 
+ Lecture notes 
+ Handouts 
+ Assignments  
+ Code samples  
+ Exams and Solutions  
+
+
+ Course description 
+
+ COM S 211  Computers and Programming (also ENGRD 211) 
+
+Fall, spring, summer.  3 credits.  Credit will not be granted for both
+COM S 211 and 212.   Prerequisite: COM S 100 or equivalent programming
+experience.
+
+
+Intermediate programming in a high-level language and introduction to
+computer science.  Topics include program development, proofs of
+program correctness, program structure, recursion, abstract data
+types, object-oriented programming, data structures, and analysis of
+algorithms.  Java is the principal programming language.
+
+
+
+There will be two prelims and one final for this course.
+
+ Prelim 1 : October 17th, 7:30PM. 
+ Prelim 2 : November 19th, 7:30PM 
+ Final : December 19th, 3:00-5:30PM 
+
+ The exact location of the prelims will be announced later. 
+
+
+

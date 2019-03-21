@@ -1,0 +1,33 @@
+Date: Tue, 05 Nov 1996 00:26:58 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 19 Jan 1996 22:17:36 GMT
+Content-length: 786
+
+
+Coral Database Project - Announcement Mailing List
+
+
+Announcement Mailing List
+
+You can add or remove your email address from the Coral Database
+Users mailing list.  This list will recieve periodic updates on the
+state of Coral, new releases, general announcements, etc.
+
+
+
+Your e-mail address: 
+
+
+ Add my address to the Coral mailing list.
+ Remove my address from the Coral mailing list.
+
+
+
+
+
+
+
+Return to the  Coral home page.
+
+

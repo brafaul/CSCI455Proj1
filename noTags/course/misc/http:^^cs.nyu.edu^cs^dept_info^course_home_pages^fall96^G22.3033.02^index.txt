@@ -1,0 +1,71 @@
+Date: Tue, 26 Nov 1996 18:48:16 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Mon, 25 Nov 1996 20:44:48 GMT
+Content-length: 2029
+
+Design and Analysis of Cryptographic Protocols Home Page
+
+Design and Analysis of Cryptographic Protocols
+G22.3033.02
+
+Tuesdays 5:00 - 7:00
+
+Room 102, Warren Weaver Hall
+
+Professors Aviel Rubin and Matt Franklin
+
+Reaching  Avi Rubin
+
+ email rubin@cs.nyu.edu
+ office: 424 WWH
+ office hours: 4:00 - 5:00 Tuesday
+
+Reaching Matt Franklin
+
+ email franklin@research.att.com
+ office: 424 WWH
+ office hours: 4:00 - 5:00 Tuesday
+
+Teaching Assistant
+
+ name: Thuy Nguyen
+ email thuy@cs.nyu.edu
+
+
+
+ References 
+ Syllabus
+
+ Teaching Cryptography
+
+ Books on security
+
+ Assignments
+ Homework 1
+
+ Homework 2
+
+ Homework 3
+
+ Homework 4
+
+ Lecture scribes 
+ Signup list for scribes
+
+September 10  Lecture 1
+September 17 Lecture 2 --  scribe 1 (postscript)
+,  scribe 2 (postscript)
+September 24  Lecture 3 (postscript)
+October 1  Lecture 4 (postscript)
+October 8  Lecture 5 (postscript)
+October 15  Lecture 6 (postscript)
+October 22
+October 29 Lecture 7 --  scribe 1 (postscript), 
+ scribe 2 (postscript)
+November 5  Lecture 8 (postscript)
+November 12
+November 19
+November 26
+December 3
+December 10

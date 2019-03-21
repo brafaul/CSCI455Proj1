@@ -1,0 +1,48 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:46:17 GMT
+Content-Type: text/html
+Content-Length: 1742
+Last-Modified: Thursday, 09-May-96 13:41:13 GMT
+
+
+
+UTCS Neural Nets Research Group Software
+
+
+
+
+ Software 
+
+
+
+ DISCERN 
+--- Processing script-based stories, including
+  
+ PROC
+  --- Parsing, generation, question answering
+   HFM
+  --- Episodic memory organization
+   DISLEX
+  --- Lexical processing
+   DISCERN
+  --- The full integrated model 
+  
+ SPEC 
+--- Parsing complex sentences
+ FGREPNET 
+--- Learning distributed representations
+ FM
+--- Generic self-organizing feature maps
+ LISSOM
+ --- Feature maps with self-organizing lateral connections.
+ SANE
+ --- Symbiotic, Adaptive Neuro-Evolution for sequential decision tasks
+  Pole Balancing
+ --- SANE on the Pole Balancing task
+
+
+ Back to UTCS Neural Networks home page 
+
+martym@cs.utexas.edu
+

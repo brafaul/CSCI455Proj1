@@ -1,0 +1,32 @@
+Date: Tue, 14 Jan 1997 21:34:16 GMT
+Server: NCSA/1.5.2
+Last-modified: Fri, 02 Aug 1996 13:42:47 GMT
+Content-type: text/html
+Content-length: 909
+
+
+
+
+Project Demonstrations
+
+
+
+  Project Demonstrations  
+
+
+
+
+  Location-dependant Information Browsing 
+ Indirect TCP
+ Exactly-once delivery of multicast messages to mobile hosts 
+  Pyramid broadcasting 
+  Energy-efficient data filtering
+
+
+
+Last modified: August 1, 1996 
+Julio Cesar Navas 
+(navas@cs.rutgers.edu)
+
+
+

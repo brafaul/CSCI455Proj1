@@ -1,0 +1,89 @@
+Date: Tue, 26 Nov 1996 16:27:02 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+
+
+
+ Home Page of P. Evans
+
+
+   Patricia A. Evans
+
+
+Patricia A. Evans
+Department of Computer Science      Office: ELW A212
+University of Victoria              Ph#: (604) 721-8763
+Victoria, British Columbia          FAX: (604) 721-7292
+V8W 3P6                             pevans@csr.csc.uvic.ca
+CANADA
+
+
+ Patricia Evans is a graduate student currently working
+towards her Ph.D. in Computer Science, working with
+
+Dr. Michael Fellows .
+She is currently active in research in
+
+parameterized complexity and
+
+computational biology ,
+while maintaining an interest in other areas of theoretical
+research, including computational learning theory, cryptography,
+graph theory, and data structures. Patricia has also
+worked at
+
+Los Alamos National Laboratory.
+
+
+
+
+  Research Interests 
+
+  Publications 
+
+  CV 
+
+  Chez Llyr 
+
+
+  Looking for Patricia 
+
+
+
+
+Interesting and Useful Links Elsewhere
+
+
+
+
+
+
+LACES, an electronic server for combinatorics papers.
+
+
+The home page for  SIGACT , the ACM special interest group on algorithms
+and computation theory.
+
+
+Abstracts and bibliographies of papers are available both
+for the  Journal of
+the ACM and for 
+Information and Computation. 
+
+
+The  Classification
+Society of North America, including links to classification
+and sequence analysis bibliographies.
+
+
+The Genome Data Base,
+with links to the Human Genome Project and the Johns Hopkins
+Bioinformatics server.
+
+
+
+
+
+
+Created: June 5, 1995
+Last Modified: Sept. 19,1996

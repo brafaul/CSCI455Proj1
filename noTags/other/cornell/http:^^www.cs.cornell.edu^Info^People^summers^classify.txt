@@ -1,0 +1,40 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:18:01 GMT
+Content-Type: text/html
+Content-Length: 1457
+Last-Modified: Wednesday, 28-Feb-96 20:31:20 GMT
+
+
+Kristen Summers -- Document Structure Classification
+
+Near-Wordless Document Structure Classification
+In Proceedings of the International Conference on Document
+Analysis and Recognition (ICDAR '95), pp. 462 - 465, Montréal,
+August 1995.
+
+Abstract
+Automatic derivation of logical document structure from generic layout
+would enable a multiplicity of electronic document manipulation
+tools of a type that is becoming crucial to users who wish
+to browse the internet.
+This problem can be divided into segmentation (dividing the text
+into a hierarchy of pieces) and classification (categorizing
+these pieces as particular logical structures.)
+This paper proposes an approach to the classification of
+logical document structures, according to their
+distance from prototypes that are primarily geometric.  The
+prototypes consider linguistic information minimally,
+thus relying minimally on the accuracy of OCR and 
+decreasing language-dependence.  Different classes of logical
+structures and the differences in the
+requisite information for classifying them are presented.
+A prototype format is proposed,
+existing prototypes and a distance measurement are described, and 
+performance results are provided.
+
+
+You can view the full postscript file
+or return to my home page.
+
+

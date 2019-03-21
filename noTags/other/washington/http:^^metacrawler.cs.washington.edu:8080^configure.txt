@@ -1,0 +1,105 @@
+Server: Apache-nbfp/1.1.1
+Content-type: text/html
+
+
+
+
+MetaCrawler Configuration
+
+
+
+
+
+
+METACRAWLER
+Configuration Options 
+
+This page is for users who wish to personalize
+MetaCrawler.  Many features can be tailored to function the way
+you desire.
+To configure MetaCrawler, simply select the options you prefer, and then
+click the Save Configuration button.
+MetaCrawler will remember the options you choose, and next time
+you visit our site the configuration will be the same.
+Technical note: If your browser does not support Cookies, the
+configuration will not be saved properly.  The solution is to bookmark
+the link produced after saving the configuration and using
+this bookmark to access MetaCrawler in the future.
+
+
+
+Extra Functionality
+
+
+Enable
+
+Some features supported by MetaCrawler are not displayed by default.  This
+option will allow the user to utilize this extra functionality.
+
+
+Dynamic Status Displays
+
+
+Enable
+
+If you have a Java
+capable browser, you may wish to view your search results
+with the MetaCrawler control applet.  This allows you to request results
+updates at any time during a search.  Java capable browsers include 
+Netscape
+Navigator version 2.0 and greater and 
+Internet Explorer 
+version 3.0 and greater.
+Note for Internet Explorer users: Internet Explorer version 3.0
+will crash when it tries to run our applet.  Please either turn off
+Java just-in-time compilation or upgrade to Internet Explorer
+version 3.01.
+
+
+Frame Support
+
+
+Enable
+
+If Dynamic Status Displays are enabled above, the display applet may be located
+in a 
+
+frame
+of its own, which allows the user to scroll through search results
+while still viewing search progress. Note that some versions of Netscape
+will not save your place after following a link out of a frame, a potential
+annoyance.
+
+
+Link Targets
+
+
+
+Same windowSame frameNew window
+
+
+If frame support is enabled above, the default is to replace the search page
+with the target page when links are followed.  You may optionally choose to
+display these results in the same frame as the followed link, or even in an
+entirely new window.
+
+
+
+
+
+
+
+
+Home
+· Configure 
+· About 
+· Problems
+
+
+
+webmaster@metacrawler.com
+
+Copyright © 1996 Erik Selberg, Oren Etzioni and Greg Lauckhart.  All Rights Reserved.
+
+
+

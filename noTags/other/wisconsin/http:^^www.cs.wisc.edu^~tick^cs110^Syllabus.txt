@@ -1,0 +1,92 @@
+Date: Mon, 11 Nov 1996 17:19:30 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 11 Sep 1996 17:06:32 GMT
+Content-length: 2222
+
+
+
+CS 110 Section 2, Syllabus - Weeks 1-8
+
+
+ Syllabus - Weeks 1-8
+
+Week 1
+
+Topic:
+   Introduction to computers and programming. How to use Microsoft Windows and Microsoft FORTRAN on the Hewlett-Packard Vectra's.
+Text:
+   Chp. 1.1 - 1.5
+
+
+Week 2
+
+Topic:
+   Program structure. Constants and variables. Arithmetic expressions. The assignment statement. Built-in functions. Unformatted input and output.
+Text:
+   Chp. 2.1 - 2.8
+Due:
+   Program #0 (0%)
+
+
+Week 3
+
+Topic:
+   Conditional execution and logical expressions. IF/THEN/ELSE/END IF statement.
+Text:
+   Chp. 3.2, 3.4, 3.5, 3.8, 3.9
+Due:
+   Program #1 (25%)
+
+
+Week 4
+
+Topic:
+   Repetition and loops. DO/END DO, DO WHILE/END DO and DO/CONTINUE statement.
+Text:
+   Chp. 4.1 - 4.4, 4.6, 4.7, 4.9, 4.10
+
+
+Week 5
+
+Topic:
+   Formatted input and output. Reading and writing files.
+Text:
+   Chp. 5.1, 5.3, 5.5 - 5.7
+Due:
+   Program #2 (25%)
+
+
+Week 6
+
+Topic:
+   User-defined functions and subroutines. Input arguments and local variables.
+Text:
+   Chp. 6.1 - 6.6, 6.8
+Due:
+   Program #3 (25%)
+
+
+Week 7
+
+Topic:
+   One-dimensional arrays. Passing arrays as arguments.
+Text:
+   Chp. 7.1 - 7.4, 7.6, 7.9
+
+
+Week 8
+
+Topic:
+   Two-dimensional arrays.
+Text:
+   Chp. 8.1, 8.2
+Due:
+   Program #4 (25%)
+
+
+
+
+Copyright © 1996 Modified from Gareth S. Bestor (bestor@cs.wisc.edu).  Last modified August 30, 1996.
+
+

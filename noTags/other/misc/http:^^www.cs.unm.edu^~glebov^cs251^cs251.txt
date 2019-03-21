@@ -1,0 +1,24 @@
+Date: Wed, 15 Jan 1997 02:12:47 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 08 Oct 1996 22:19:02 GMT
+Content-length: 368
+
+
+
+CS251, section 005
+
+ Introduction to Data Structures, section 5 (CS 251.005) Fall'96 
+
+ Week 2
+  
+   hello.C 
+   style examples 
+
+ Week 7
+  
+   linked_list.C 
+
+
+
+

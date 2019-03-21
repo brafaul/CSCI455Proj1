@@ -1,0 +1,101 @@
+Date: Tue, 26 Nov 1996 03:44:09 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 21 Nov 1996 17:18:33 GMT
+Content-length: 3992
+
+
+
+Cristian Ungureanu
+
+
+
+
+
+Cristian Ungureanu
+
+
+Ph.D. student  
+ Department of Computer Science
+ Courant Institute of Mathematical Sciences
+New York University
+251 Mercer Street
+New York, NY 10012, U.S.A.
+
+
+My office is in: 
+719 Broadway, Rm 715
+New York, NY 10003
+
+Phone: 212-998-3525 
+Email:  ungurean@cs.nyu.edu 
+
+ Brief Biography I received my MS
+in Computer Science at Bucharest
+Polytechnic Institute in 1987.  After that, I worked at the
+Research Institute for Computers in 
+Bucharest until 1990, when I became
+assistant lecturer at Bucharest Polytechnic Institute.
+
+
+Current Work and Research
+
+My advisor is Prof. Ben Goldberg.
+
+
+
+ Garbage collection in concurrent and distributed systems
+ Functional programming languages: semantics, static analysis, implementation
+ Lambda Calculus
+ Compiler optimizations: instruction scheduling, data flow analysis
+ The 
+                 Griffin prototyping language. 
+
+
+Publications
+
+ A. Leung, K. Palem and C. Ungureanu, 
+      
+        Run-time versus Compile-time Instruction Scheduling in  Superscalar 
+        (RISC) Processors:  Performance and Tradeoffs 
+     NYU technical report TR-699, July 1995. 
+ Cristian Ungureanu, 
+      
+        A Note on Scheduling Algorithms for Processors with Lookahead 
+     NYU technical report TR-722, June 1996. 
+ A. Leung, K. Palem and C. Ungureanu, 
+     "Run-time versus Compile-time Instruction Scheduling in  Superscalar 
+        (RISC) Processors:  Performance and Tradeoffs" to appear
+     in Proceedings of the 3rd International Conference on High Performance Computing,
+     Dec. 1996 
+     Extended version submitted to the Journal of Parallel and Distributed Computing. 
+ Cristian Ungureanu and Ben Goldberg,
+      Formal Models of Distributed Memory Management,
+     submitted to the 2nd  International Conference on Functional Programming, June 1997. 
+
+
+Interesting Links
+
+  Technical Reports from NYU
+  
+        SEL-HPC Functional Programming Archive
+  Theory and Semantics Group   at Cambridge
+
+  LFCS at Edinburgh 
+  Functional Programming at Glasgow 
+  The Hypertext Bibliography  at MIT
+
+ Programming language research 
+     homepage  at CMU
+
+ Paul Wilson's  Garbage Collection Archive
+     at University of Texas
+
+ Henry Baker's 
+     Archive of Research Papers 
+ The WWW Virtual Library: 
+     Conferences 
+
+
+
+

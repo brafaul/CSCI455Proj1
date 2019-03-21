@@ -1,0 +1,81 @@
+Date: Mon, 11 Nov 1996 17:16:01 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 04 Nov 1996 18:28:21 GMT
+Content-length: 2937
+
+
+
+Using Projects - CS 302 Fall 1996 - Section 4
+
+
+
+CS 302
+  Fall 1996 - Section 4
+
+Algebraic Language Programming in C++
+Instructor: 
+  Milo M. Martin 
+  (milo@cs.wisc.edu)
+
+Using Projects
+
+
+ The first thing to do is to make sure that you have a directory
+"u:\programs\prog6\".  You can do this by going to file manager.  Make
+sure you can see a window displaying the u: drive.  Also make sure
+that the "u:\programs" is highlighted in the left pane.  Then go to
+"File->create directory", and make a directory called "prog6."
+
+   From now on, we will be using a project to manage our many
+programs.  If you want to work on program 6, you will have to make
+sure that you've opened the project file for program 6.  To create
+this project, we follow these steps:
+
+
+ Go to "Project->new project".  This should bring up a dialog box.
+   In this dialog box, for "Project Path and Name," we will fill in "u:\programs\prog6\prog6.ide."
+   In this dialog box, for "Target Type," make sure that "EasyWin [exe]" is selected.
+   Then click on the button "Advanced".  This should bring up another dialog box.
+
+ In this dialog box, make sure that the "initial node" is ".cpp", and that .rc and .def are not checked.
+   click okay to close this dialog.  This should return us to the other dialog.
+   Click okay to close this dialog.
+
+
+ We should now be in Borland, and there should be a new window with the
+title "project" that has something like this in it:
+
+
+  [ ] prog6.exe [.exe] .....
+   |
+    - prog6.cpp [.cpp]
+
+
+This tells us that the project wants to make the program "prog6.exe",
+and it knows that "prog6.cpp" is used to make that program.  We want
+to add one more file to this project.
+
+
+ First, click on "prog6.exe" to make sure it is highlighted.
+   Next, press the "insert" key on the keyboard.  This should bring up a dialog.
+   Go to "u:\programs\prog6\" and enter "Appointment.cpp", and click okay.
+   Notice that we did not add the "Appointment.h" file to the
+list.  You should not add header (.h) files to this list.
+
+
+ 
+
+That should be it.  You run your program in the same way, and debug it
+in the same way.  To actually write the program, you will need to edit
+the files "prog6.cpp", "Appointment.cpp", and "Appointment.h".
+
+
+
+
+Milo M. Martin
+
+  (milo@cs.wisc.edu)
+
+
+

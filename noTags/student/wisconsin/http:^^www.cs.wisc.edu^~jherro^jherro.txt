@@ -1,0 +1,84 @@
+Date: Thu, 07 Nov 1996 19:12:46 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 10 Sep 1996 17:45:37 GMT
+Content-length: 5024
+
+
+Smu's Home Page of Relief and Happiness
+
+ 
+ 
+ (Java, good; censorship bad) 
+THIS IS BIG, REALLY 
+
+
+
+
+
+
+ 
+
+e-mail me at jherro@cs.wisc.edu 
+ 
+Some notes for my  CS 132 classes. 
+There, you've made it to my home page. Now you can relax. Hee hee! 
+Lets see, what would be a cool thing to put in a home page? How about a
+picture?  Here, this is a picture me and my girlfriend of 4 and a half years. I'm afraid its a bit dated though. Its almost 4 years old itself.
+
+ 
+
+After many years of torture this is me now. 
+ 
+After disembodyment, I became the floating head of death.
+ 
+
+         -- the directory that has the animation
+                                    frames (a series of pictures in GIF or JPEG
+                                    format, by default named T1.gif, T2.gif,..)
+                    -- number of the starting frame (1..n)
+            -- number of the end frame (1..n)
+                -- milliseconds to pause between images
+                                    default - can be overriden by PAUSES)
+               -- repeat the sequence?
+     -- explicit order for frames - see below
+ 
+
+ 
+  
+   Stuff about me   Here is some vital information about me and how I aquired the nickname: SMU. 
+ 
+ I would like to take this time to apologize for the lameness of my page. Please bear with me. Here are some pretty 
+pictures of jack skellington and kermit the frog.>
+
+ 
+There, those are interesting.  Here is something else neat. This is
+a link to my friend Dan's homepage. He writes Haiku's and he said that
+he was going to put some there. click 
+here to get to Dan's stuff. Dan was a roomate of mine in under-grad at Notre Dame.  Here are some memories of that forgotten time with Dan and my roomates.
+ 
+ The cult of the Wax Hippo
+This is the most exploratory intervention of chaotic existence in reality.
+ Follow this link and enjoy all the benefits of a matriarchical society.  JOIN TODAY!!  
+ 
+ An exclusive club.  Hierarchy and Rules!!! What fun! 
+ 
+ 
+These are some of my old friends  Homepages .    
+
+Here are some semi-cool links. 
+ Notre Dame's home page  
+ YAHOOOOOOOOOOOOO!!!! 
+ work. 
+This link contains the Free Software Shack. 
+And here are a bazillion search engines in one:W3 Search Engines 
+mpeg movie archive
+  
+
+HERE IS A REALLY COOL LINK:
+ A great muppet page. Sounds, images and links. Very cool.
+ 
+Rachel  If you want to see select cool canoe trip pictures look here. 
+There is a bout 2.2 meg of them. Here they are. Have fun!
+Canoe Pictures
+

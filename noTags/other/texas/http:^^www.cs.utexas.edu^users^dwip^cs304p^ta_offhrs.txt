@@ -1,0 +1,89 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 20:50:51 GMT
+Content-Type: text/html
+Content-Length: 3017
+Last-Modified: Thursday, 10-Oct-96 16:12:18 GMT
+
+
+
+
+
+
+
+TAs for CS304P
+
+
+
+
+
+TAs for CS304P
+
+
+
+
+
+
+Name
+E-mail
+Off. Hrs.
+
+
+Nimar Arora
+nimar@cs.utexas.edu
+Mon & Wed 5:00-6:00pm 
+
+
+Dwip Banerjee
+dwip@cs.utexas.edu
+Mon & Fri: noon-1:00pm
+
+
+Eugene Gorbatov
+eugene@cs.utexas.edu
+Tue & Thu 9:30-10:30am
+
+
+Shailesh Kumar
+skumar@cs.utexas.edu
+Tue & Thu 3:30-4:30pm
+
+
+Neeraj Mittal
+neerajm@cs.utexas.edu
+Mon noon-1:00pm  Tue 4:00-5:00pm
+
+
+Jacob Sarvela
+sarvela@cs.utexas.edu
+Mon & Wed 10:00-11:00pm
+
+
+Isaac Sheldon
+isheldon@cs.utexas.edu
+Tue & Thu 2:30-3:30
+
+
+Administrative Assistant: Yingjum Wu 
+
+Note : All TAs will be holding office in PAI 3.08
+
+
+
+Send comments,criticisms,
+suggestions,useful links,additions etc to 
+dwip@cs.utexas.edu.
+
+[ home|
+TAs|
+description|
+discussion sessions|
+news articles|
+newsgroup|
+programs|
+study guides|
+test solutions ]
+
+
+
+

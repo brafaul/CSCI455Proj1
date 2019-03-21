@@ -1,0 +1,73 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 21:26:43 GMT
+Content-Type: text/html
+Content-Length: 2228
+Last-Modified: Thursday, 12-Oct-95 01:54:35 GMT
+
+
+Formal Methods at Cornell
+Formal Methods at Cornell
+Cornell University
+Ithaca, NY 14853
+Faculty
+
+
+Bard Bloom
+(bard@cs.cornell.edu):
+semantics of programming languages, distributed algorithms
+
+
+Robert L. Constable
+(rc@cs.cornell.edu):
+theory of computation, programming logics, automated reasoning
+
+
+David Gries
+(gries@cs.cornell.edu):
+programming methodology, programming languages, compiler construction
+
+
+Thomas A. Henzinger
+(tah@cs.cornell.edu):
+formal support for the development and analysis of concurrent, real-time,
+and embedded systems
+
+
+Dexter Kozen
+(kozen@cs.cornell.edu):
+theory of computation, computational complexity, programming logics,
+semantics
+
+
+Miriam Leeser
+(mel@cs.cornell.edu):
+application of formal methods to hardware verification and synthesis
+
+
+Anil Nerode
+(anil@math.cornell.edu):
+game methods for extracting correct concurrent programs, 
+relaxed variational methods for extracting correct digital control
+programs for continuous plants
+
+
+Fred B. Schneider
+(fbs@cs.cornell.edu):
+concurrent programming, particularly for fault-tolerant, real-time, and 
+distributed systems
+
+Projects
+
+
+HyTech
+(tah@cs.cornell.edu):
+a symbolic model checker for linear hybrid systems
+
+
+NuPrl
+(rc@cs.cornell.edu):
+an interactive proof development system
+
+Last updated on September 18, 1994.
+tah@cs.cornell.edu

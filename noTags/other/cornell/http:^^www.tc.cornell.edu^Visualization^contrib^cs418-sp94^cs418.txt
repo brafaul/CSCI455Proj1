@@ -1,0 +1,316 @@
+Date: Sun, 24 Nov 1996 23:10:00 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 20 Jun 1996 16:17:25 GMT
+Content-length: 12721
+
+CS 418 Final project animation
+
+
+
+Computer Science 418   Cornell University 
+Final Project Animations.
+
+
+
+These animations were submitted as final class projects 
+ by students in 
+
+Computer Science 418
+(Cornell University) during 
+the 1994 through 1996 spring semesters.  
+This course provides an introduction to the principles of 
+interactive computer graphics and
+scientific visualization.  Topics include two- and three-dimensional
+graphics algorithms (perspective transformations, hidden-line and
+hidden-surface algorithms, parametric surfaces), lighting models, image
+synthesis, and application to scientific data analysis.
+They were created using 
+
+IBM's Data Explorer.  
+The instructor is 
+Bruce Land.
+
+
+ Animation from 1996 
+ (Maximum mpeg size is 5 Mbytes, average is 3). 
+Numbers are for reference and indicate no other ordering.
+
+ USS Hornet.  
+ mpeg  and 
+ description. 
+ Mt. Cyclone: A virtual Coaster.  
+ mpeg  and 
+ description. 
+ Shadows.  
+ mpeg  and 
+ description. 
+ DIDI & the magic helmet.  
+ mpeg  and 
+ description. 
+ The unabomber's fatal mistake.  
+ mpeg 
+ The Magic.  
+ mpeg  and 
+ description. 
+ Ignag: the one with whiskers.  
+ mpeg  and 
+ description. 
+ Judgement Day.  
+ mpeg  and 
+ description. 
+ Godzilla vs. Megalon (In a Game of Chess).  
+ mpeg  and 
+ description. 
+  Veritech Battle. 
+ mpeg  and 
+ description. 
+ Typical Day on the Plains. 
+ mpeg  and 
+ description. 
+ Enemy Invasion. 
+ mpeg  and 
+ description. 
+ Tanks on Fire. 
+ mpeg  and 
+ description. 
+ Nuke. 
+ mpeg 
+ Barney Must Die...The Future of Dragon Day. 
+ mpeg  and 
+ description. 
+ Cornell Fly-through. 
+ mpeg  and 
+ description. 
+ Intergalactic Journey. 
+ mpeg  and 
+ description. 
+ James Blob Saves Orphange. 
+ mpeg  and 
+ description. 
+ Ride To Heaven. 
+ mpeg  and 
+ description. 
+ Robbie vs the Daleks. 
+ mpeg  and 
+ description. 
+  Attack of the fly. 
+ mpeg  and 
+ description. 
+  The HEAD. 
+ mpeg  and 
+ description. 
+ Pinball. 
+ mpeg  and 
+ description. 
+ My Dixie Wrecked. 
+ mpeg  and 
+ description. 
+Origami Dinosaur Park. 
+ mpeg 
+ Transformer from Hell to Heaven. 
+ mpeg  and 
+ description. 
+ Captain Kirk has a bad day. 
+ mpeg  and 
+ description. 
+ Springtime in Ithaca. 
+ mpeg   and 
+ description. 
+ Spring SnoSkiing. 
+ mpeg  and 
+ description. 
+
+ Welcome to Rebel Attack!.  
+ mpeg  and
+ description. 
+ Lands-End. 
+ mpeg  and 
+ description. 
+ Annihilation. 
+ mpeg  and 
+ description. 
+ Mr. Conehead goes jogging. 
+ mpeg  and 
+ description. 
+ Crew Boat Rowing on a Lake. 
+ mpeg  and 
+ description. 
+
+
+ Animation from 1995 
+
+  Phoenix Rejuvenation
+A bird is reborn.
+(8.5 Mbyte)
+  The Penalty Shot. 
+A hockey player scores in a breakaway play.
+Orientation of the player's body and hands are calculated from
+the trajectories of the puck and body.
+(8.7 Mbyte)
+  HOTH. An ATAT from StarWars.
+(8.5 Mbyte)
+  Empire Strikes Back:
+The Opening Battle. A starwars saga with a bit of lab humor
+at the end.
+(4.4 Mbyte)
+  Knight Rider - Kitt vs. Karr -
+Part III. An automobile duel.
+(4.8 Mbyte)
+  F-1 Race Car.A driver's view of
+a car race.
+(2.6 Mbyte)
+  Dogfight. A dogfight between
+a carefully modelled Me109 and a Spitfire.
+(7.9 Mbyte)
+  House Design.
+A house is built.
+(7.5 Mbyte)
+  MacroMouse in The Hallway of Death.
+A spoof on certain role-playing games.
+(2.5 Mbyte)
+  Demento the Robot. A robot
+which rebuilds itself.
+(10.7 Mbyte)
+  Head Trip. A human head in strange
+surroundings.
+(4.5 Mbyte)
+  Riding A Bike. A detailed bike 
+and rider. The bike includes spokes, chain and pedals.
+(2.7 Mbyte)
+ Water Wonderful World. A diver
+hunts for treasure.
+(4.9 Mbyte)
+  Fly by the Pool Side. A fly
+trys to avoid a pool cue.
+(2.4 Mbytes)
+  Fasten Your Seat Belt.
+A car crash with realistic crumpling.
+(5.1 Mbyte)
+  Trotting Quadraped, A Horse?
+The title says it all.
+(0.7 Mbyte)
+  VR Trooper. A robot
+which changes shape.
+(1.3 Mbyte)
+  House of Lost Dreams (Under
+Construction). An accurately modelled house from actual plans.
+(8.4 Mbyte)
+ Bungee Jumper. A jumper who
+meets a tragic end.
+(5 Mbyte)
+ As Time Goes By. A traditional
+alarm clock.
+(1.6 Mbyte)
+  Outpost. A StarWars scene.
+(21 Mbytes)
+  Dandelion.  A high-performance
+dandelion grows, goes to seed and blows away, all in a single day.
+(3.3 Mbyte)
+  Tank War. An alogrithmically controlled
+tank battle. The tank detects the terrain it starts on, then follows a
+"streamline" down the hillside, while keeping its cannon aimed correctly.
+(2.2 Mbyte)
+  Voyager's Journey Home. A
+spacecraft returns to earth.
+(2.5 Mbyte)
+  Surreal Descent. A space-faring
+octopus lands in a bad spot.
+(6.7 Mbyte)
+  Silicon Frog. A frog
+with a serious thirst who trys to hijack a beverage truck with 
+his tongue.
+(1.9 Mbyte)
+  The Match.
+A robot volley ball match.
+(11.5 Mbyte)
+ Rower at Sunrise. A person rowing
+a shell on Cayuga inlet.
+(2.4 Mbyte)
+ Space Shuttle. A shuttle blastoff
+with volume rendered exhaust smoke.
+(1.5 Mbyte)
+  A Light Death.
+Insect meets streetlight.
+(1.2 Mbyte)
+ Tunnel of Doom. A
+first-person exploration of a very dangerous place.
+(4.8 Mbyte)
+  I'll be Back. A rocket launch
+which includes a very convincing thrust flame and texture-mapped Earth.
+(4.0 Mbyte)
+  It's a Bug not a Spider. 
+An animation combining heirarchally modelled motion of a bug with
+the motion of a rubber sheet. The shape of the rubber sheet was solved 
+for each frame using Laplace's equation with constraints derived from
+the bug position.
+(9.6 Mbyte)
+  The Great Space Coaster. A simulation
+of a camera riding in a roller coaster on the moon. The coaster is
+an arbitrary parametric curve specified at runtime.
+(2.0 Mbyte)
+
+
+
+
+ Animation from 1994 
+
+Bubblebee
+(1.6 Mbytes) A bumblebee with texture mapping.
+Juggle
+(0.5 Mbytes) An invisible juggler.
+Weird Science
+(5.6 Mbyte) From dragonfly to butterfly.
+Virtual Fight
+(2.9 Mbytes) Choreography of two figures.
+Day at the Pool
+(1.9 Mbytes) Particle systems at the pool.
+Rad Spider
+(9.1 Mbytes) A spider and her web.
+GIS Ithaca.mpg
+(1.5 Mbytes) Real GIS data of the Ithaca area and the airport.
+Death Trek
+(0.3 Mbytes) Star Trek vs. Death Star.
+Drive
+(3.1 Mbytes) Oceanside driving.
+Flight
+(1.9 Mbytes) A flock of birds and a parachute over real terrain.
+Flush
+(2.7 Mbytes) Follow a bug down the drain.
+HBO
+(5.0 Mbytes) Walk-through of the Hartung-Boothroyd Observatory.
+Hoop
+(2.9 Mbytes) Robot basketball.
+Pursuit
+(1.7 Mbytes) A running figure.
+Race
+(4.5 Mbytes) A racetrack and spectators.
+Stage Robot
+(1.9 Mbytes) A robot puts on a show.
+Tour of the Solar System
+(0.3 Mbytes) Fly through the whole solar system.
+
+
+
+Related Topics:
+
+  
+MPEG software. 
+  MPEG FAQ 
+  
+How to make/play MPEG movies (UNIX) 
+
+An Introduction to IBM Data Explorer (DX)
+ Visualization at the Theory Center
+
+
+Comments about Theory Center online documents are welcome and may be sent to
+doc-comments@tc.cornell.edu.
+ 
+
+Last modified, 11/7/94, D Dwyer
+
+
+
+
+Copyright Statement 

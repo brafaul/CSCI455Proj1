@@ -1,0 +1,74 @@
+Date: Tue, 10 Dec 1996 21:28:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 12 Aug 1996 05:41:50 GMT
+Content-length: 2409
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+ Fast Rendering of Subdivision Surfaces 
+
+
+ Fast Rendering of Subdivision Surfaces 
+
+ Here are the slides that I presented for a Technical Sketch at
+SIGGRAPH '96.  I have also added to each page a narrative I prepared
+for the talk.
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+These pages were created with Webify.
+Webify is a program which makes web-browsable trees of hypertext
+files and JPEG images from Postscript source files.  It was motivated
+by the need to convert Powerpoint presentations to humane web form,
+such as the following simple example:
+
+
+Resolution and other parameters are adjustable, allowing most any
+postscript file (papers, manuals, books) to be automatically converted
+to page-browsable form.
+
+
+Webify is freely distributed in C source form, and runs on UNIX
+systems having Ghostscript installed with PPM conversion along with
+the cjpeg utility (both available free).  It
+can be used (on UNIX systems) to convert postscript files generated
+on Macs, PCs, and elsewhere.
+
+
+CLICK HERE to DOWNLOAD 
+a large compressed tar file containing webify source.  The size of
+the file stems from the postscript containing the above
+presentation; webify is a simple, single C program which
+invokes GhostScript to do most of the real work.  Documentation
+is sparse.
+
+
+

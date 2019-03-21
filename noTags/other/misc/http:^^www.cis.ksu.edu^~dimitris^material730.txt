@@ -1,0 +1,44 @@
+Date: Tue, 14 Jan 1997 23:00:06 GMT
+Server: NCSA/1.5.2
+Last-modified: Tue, 07 May 1996 19:22:17 GMT
+Content-type: text/html
+Content-length: 2367
+
+
+CIS 730 
+
+   Principles of Artificial Intelligence
+
+Lecture Notes
+
+ Lecture 1:  Introduction and Overview 
+ Lecture 2:  Symbolic Programming -- Lisp 
+ Lecture 3:  Lisp (cont'd) 
+ Lecture 4:  Lisp (cont'd) 
+ Lecture 5:  Lisp (cont'd) 
+ Lecture 6:  Propositional Logic 
+ Lecture 7:  Formal Systems for Propositional Logic 
+ Lecture 8:  Automated Theorem Proving in Propositional Logic, Predicate Calculus 
+ Lecture 9:  Automated Theorem Proving in Predicate Calculus 
+ Lecture 10:  Unification, Concept Description Languages, Semantic Nets
+ Lecture 11:  Nonmonotonic Logic 
+ Lecture 12:  Deductive Retrieval Systems 
+ Lecture 13:  Search 
+ Lecture 14: Midterm Exam 
+ Lecture 15:  Heuristic Search 
+ Lecture 16:  Genetic Algorithms, Minimax Search 
+ Lecture 17:  Alpha-Beta Pruning, Satisfiability as Search 
+ Lecture 18:  Learning 
+ Lecture 19:  Version Spaces, Decision Trees 
+ Lecture 20:  Learning in Neural Networks
+ Lecture 21:  Perceptrons 
+ Lecture 22:  Reasoning about Change  
+ Lecture 23:  Interval Temporal Logic 
+ Lecture 24:  Reasoning about Belief, Spatial Reasoning
+ Lecture 25:  Planning
+ Lecture 26:  Hierarchical and Adaptive Planning
+ Lecture 27:  Planning under Uncertainty
+ Lecture 28:  Image Understanding
+ Lecture 29:  Natural Language Processing 
+
+

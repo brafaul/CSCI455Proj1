@@ -1,0 +1,177 @@
+Date: Thu, 21 Nov 1996 20:24:30 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 06 Sep 1996 00:16:36 GMT
+Content-length: 4600
+
+
+
+
+Steve Hanks
+
+
+
+
+University of Washington
+
+Department of Computer Science & Engineering
+
+
+
+Steve Hanks, Associate Professor
+
+Box 352350 
+University of Washington 
+Seattle, WA 98195-2350
+
+(206)543-4784
+
+
+
+I am on leave
+
+
+
+Personal information
+
+
+Research projects
+
+  
+         Probabilistic Planning
+  
+         Utility Models
+ 
+   Probabilistic temporal reasoning and medical applications
+  
+         Planning testbeds and empirical evaluation of 
+                  agents
+ 
+           The automated travel assistant 
+
+
+Some recent papers
+
+ 
+Oren Etzioni, Steve Hanks, Tao Jiang, Richard Karp, Omid Madani, Orli Waarts
+
+
+Optimal Information Gathering on the Internet with Time and Cost Constraints 
+
+ 
+To appear, FOCS, 1996.
+
+ 
+Mike Williamson and Steve Hanks
+
+
+Flaw Selection Strategies for Value-Directed Planning
+
+ 
+Proceedings, AIPS96.
+
+ 
+Steve Hanks, David Madigan, Jonathan Gavrin
+
+
+Probabilistic Temporal Reasoning with Endogenous Change
+
+
+Proceedings, UAI95.
+
+ 
+Craig Boutilier, Tom Dean, Steve Hanks
+
+
+Planning under Uncertainty: Structural Assumptions and Computational Leverage
+
+
+Proceedings, European Planning Workshop 1995.
+
+
+ 
+Nick Kushmerick, Steve Hanks, Dan Weld
+
+
+An Algorithm for Probabilistic Planning
+
+
+TR version of a paper appearing in AI Journal vol 76, 1995.
+
+
+Denise Draper, Steve Hanks
+
+
+Localized Partial Evaluation of Belief Networks
+
+
+Proceedings UAI'94.
+
+
+
+Denise Draper, Steve Hanks, Dan Weld
+
+
+Probabilistic Planning with Information Gathering and Contingent Execution
+
+
+Proceedings AIPS'94.
+
+
+Mike Williamson, Steve Hanks
+
+
+Optimal Planning with a Goal-Directed Utility Model
+
+
+Proceedings AIPS'94.
+
+
+Steve Hanks, Martha Pollack, Paul Cohen
+
+
+Benchmarks, Testbeds, Controlled Experimentation & the Design of Agent
+   Architectures
+
+
+AI Magazine 13(4), 1993.
+
+
+Some serious links
+
+  Home page for 
+            CSE341 Spring 1996.
+ 
+    Uncertainty in AI 1996 Conference Information
+     
+  
+         Uncertainty in AI page 
+      
+  
+         UW AI Group Page
+      
+
+
+Some other links
+
+ Seattle restaurants
+ 
+        Seattle symphony schedule
+ Seattle wine
+ Opera schedule server
+  
+    Edita Gruberova fan page!
+     
+
+ and some photos!!
+
+ Carlo Maria Giulini discography!
+ Yma Sumac information!
+ Tennis news
+
+
+ 
+hanks@cs.washington.edu (Last Update: 03/01/96)
+
+
+

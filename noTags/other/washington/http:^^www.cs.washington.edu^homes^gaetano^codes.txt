@@ -1,0 +1,123 @@
+Date: Tue, 10 Dec 1996 14:48:06 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 11 Oct 1996 18:45:10 GMT
+Content-length: 4195
+
+
+
+CODES/CASHE '97 Home Page
+
+
+
+5th International Workshop on Hardware/Software Co-Design
+
+( CODES/CASHE '97 )
+
+Braunschweig, Germany
+
+March 24-26, 1997
+
+
+
+
+
+
+ACM
+
+
+IEEE
+
+
+IFIP
+
+
+
+ 
+         Co-sponsored by:
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGDA
+SIGSOFT
+
+
+Computer Society
+CAS
+
+
+WG 10.5
+
+
+
+Announcements and answers to commonly asked questions.
+European mirror site: http://www.ida.ing.tu-bs.de/codes.html
+
+
+Workshop information:
+
+Call for Participation (postscript form )
+    Request for Information
+Braunschweig Information
+Technical Program Committee
+Pointers to Current Research Activities (in care of D. Thomas at CMU) 
+March 1996 Workshop (4th) Web Pages (including program)
+  
+
+For more information and/or questions, please use the form or contact:
+
+General Chair
+        
+Prof. Rolf Ernst
+
+Institut fuer Datenverarbeitungsanlagen
+
+Technical University of Braunschweig
+
+        Hans-sommer-Str. 66
+        
+        D-38106  Braunschweig  [Germany]
+        
+        Tel: +49 (531) 391-3730
+        
+        Fax: +49 (531) 391-4587
+        
+        Email: ernst@ida.ing.tu-bs.de
+
+Program Chair
+        
+
+Prof. Gaetano Borriello
+
+Department of Computer Science and Engineering
+
+University of Washington
+
+	Box 352350
+	
+        Seattle, WA  98195-2350  [USA]
+        
+        Tel: +1 (206) 685-9432 or +1 (206) 685-3796 (Sandra Larsen, Assistant)
+        
+        Fax: +1 (206) 543-2969
+        
+        Email: gaetano@cs.washington.edu
+
+
+
+codes97@cs.washington.edu
+
+
+

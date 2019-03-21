@@ -1,0 +1,88 @@
+Date: Tue, 14 Jan 1997 23:30:00 GMT
+Server: NCSA/1.5.1
+Last-modified: Thu, 25 Jul 1996 18:50:51 GMT
+Content-type: text/html
+Content-length: 3186
+
+
+
+UMDL IPE Subgroup
+
+
+
+Intellectual Property and Economic Issues
+
+Team Members
+(umdl.ipe@umich.edu)
+
+Michael Wellman (Team 
+Leader), Dept of EECS
+
+
+Faculty and Staff:
+
+Gene 
+    Alloway, University Library
+Bill 
+Birmingham, Dept of EECS and School of Information
+Colin Day, University Press
+Wendy Lougee, 
+University Library
+Jeffrey 
+MacKie-Mason, Dept of Economics, School of Public Policy, and School of Information
+Katherine Willis, 
+    Information Technology Division
+
+
+Graduate Students:
+
+
+John 
+Cheng
+Tracy Mullen
+Sunju Park
+William Walsh
+Kimberly White
+
+
+External Participants:
+
+
+Karen Hunter, Elsevier
+Ann Okerson, 
+Yale University Library
+
+IPE Documents
+Mission Statement
+
+The main responsibilities of this subgroup are 
+
+to provide mechanisms for providing access and managing licenses to use intellectual
+property in the digital library, and 
+to design and implement facilities for economic 
+allocation of resources, including
+
+documents in the collections,
+information services, and
+computation (processing, storage, and transport).
+
+
+In designing these mechanisms, we seek to maximize the value accruing to 
+both providers and consumers participating in the UMDL. Our approach will 
+be to provide an environment whereby the participants engage in 
+transactions they deem mutually beneficial.  This will include a general 
+framework for negotiation of terms and delivery of information services, as 
+well as a suite of specific protocols implementing some standard forms of 
+agreement.  We will evaluate alternate mechanisms according to allocation 
+efficiency, equity, and computational and other transaction costs.
+
+Go to UMDL Organization
+
+Go to the Main Page
+
+Comments or questions may be sent to:  UMDL.INFO@umich.edu
+
+Updated 25 Jul 96 by Michael Wellman
+
+
+

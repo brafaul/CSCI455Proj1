@@ -1,0 +1,73 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 19:06:13 GMT
+Content-Type: text/html
+Content-Length: 2396
+Last-Modified: Sunday, 14-Jul-96 18:30:10 GMT
+
+
+
+
+Cachet Related Project: Efficient Incremental Computation
+
+
+Deriving Incremental Programs
+
+A general systematic transformational approach to improving the efficiency 
+of computation.
+
+Theme
+
+Program analysis and transformations for  incrementalization .
+
+Cachet 
+
+An incremental-attribution-based interactive system that uses
+systematic program analysis and transformation techniques to derive
+incremental programs written in a functional language.
+
+Selected Publications
+ Y. A. Liu and T. Teitelbaum.
+
+Systematic derivation of incremental programs.
+Science of Computer Programming, 24(1):1-39, February, 1995.
+
+ Y. A. Liu and T. Teitelbaum.
+
+Caching intermediate results for program improvement.
+In Proceedings of the ACM SIGPLAN Symposium on
+   Partial Evaluation and Semantics-Based Program Manipulation,
+pages 190-201, La Jolla, California, June 1995.
+
+ Y. A. Liu, S. D. Stoller, and T. Teitelbaum.
+
+Discovering auxiliary information for incremental computation.
+In Proceedings of the 23rd Annual ACM SIGPLAN-SIGACT Symposium on
+  Principles of Programming Languages,
+St. Petersburg Beach, Florida, January 1996.
+
+ Y. A. Liu.
+
+CACHET: An interactive, incremental-attribution-based program 
+  transformation system for deriving incremental programs.
+In Proceedings of the 10th Knowledge-Based Software Engineering 
+  Conference,
+Boston, Massachusetts, November 1995.  IEEE Computer Society Press.
+
+ Y. A. Liu.
+
+Principled strength reduction. July 1996.
+
+People
+Y. Annie Liu
+Tim Teitelbaum
+Keywords 
+
+incremental computation, incremental programs, efficiency improvement,
+optimization, program analysis, program transformation, Cachet
+
+
+
+Y. Annie Liu yanhong@cs.cornell.edu 
+Last updated 7/14/96 
+

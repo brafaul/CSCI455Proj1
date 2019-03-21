@@ -1,0 +1,57 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:16:14 GMT
+Content-Type: text/html
+Content-Length: 3832
+Last-Modified: Tuesday, 07-Jan-97 10:01:17 GMT
+
+
+  UTCS Faculty  
+
+ UTCS Faculty 
+This page contains entries only for those faculty members who
+have set up personal www home pages. A complete set of more
+general 
+faculty profiles included with the departmental
+annual report is also available.
+Email goes to <login@cs.utexas.edu>
+
+    Login           Name
+    -----           ----
+    lorenzo         Lorenzo Alvisi
+    dsb             Don Batory
+    rdb             Robert D. Blumofe
+    boyer           Robert Boyer
+    browne          J. C. Browne
+    dahlin          Michael Dahlin
+    ndale           Nell Dale
+    emerson         E. Allen Emerson
+    fussell         Don Fussell
+    gouda           M. G. Gouda
+    kincaid         David R. Kincaid
+    kuipers         Benjamin J. Kuipers
+    lam             Simon S. Lam
+    lavender        Greg Lavender
+    vl              Vladimir Lifschitz
+    lin             Calvin Lin
+    risto           Risto Miikkulainen
+    miranker        Daniel P. Miranker
+    misra           Jayadev Misra
+    mooney          Raymond Mooney
+    novak           Gordon Shaw Novak  Jr.
+    plaxton         Greg Plaxton
+    porter          Bruce Porter
+    vlr             Vijaya Ramachandran
+    vin             Harrick Vin
+    walkerh         Henry M. Walker
+    lwerth          Laurie Werth
+    wilson          Paul Wilson
+    young           David M. Young
+    diz             David Zuckerman
+    rvdg            Robert van de Geijn
+
+
+This page was automatically updated Tue Jan  7 04:01:16 CST 1997.
+gripe@cs.utexas.edu
+
+

@@ -1,0 +1,53 @@
+Date: Tue, 10 Dec 1996 03:25:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+The SkyBlue Constraint Solver and Its Applications
+
+
+The SkyBlue Constraint Solver and Its Applications
+
+
+Author: Michael Sannella
+
+
+
+To appear in Vijay Saraswat and Pascal van Hentenryck (eds),
+Proceedings of the 1993 Workshop on Principles and Practice of
+Constraint Programming, MIT Press, 1994.  
+
+
+
+Abstract
+
+The SkyBlue constraint solver uses multi-way local propagation to
+efficiently maintain constraints organized in a constraint hierarchy.  As
+individual constraints are added and removed, SkyBlue executes
+method procedures associated with each constraint to incrementally
+resatisfy the constraints.  SkyBlue is a successor to the DeltaBlue
+algorithm, which has two significant limitations: cycles of constraints are
+prohibited, and constraint methods can only have a single output variable.
+SkyBlue relaxes these restrictions, satisfying cycles of constraints by
+calling external solvers and supporting multi-output methods.
+
+
+
+This paper compares SkyBlue to other constraint solvers, describes the
+SkyBlue algorithm and discusses several applications that have been built
+using SkyBlue.  The SkyBlue algorithm description introduces several new
+concepts including method vines (used to select which methods to
+execute) and walkbounds (a generalization of DeltaBlue's
+walkabout strengths).
+
+
+
+
+
+Click 
+here to get the postscript file.
+
+
+
+Return to Constraints home page

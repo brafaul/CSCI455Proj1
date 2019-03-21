@@ -1,0 +1,75 @@
+Date: Tue, 10 Dec 1996 03:33:11 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sat, 11 May 1996 10:39:35 GMT
+Content-length: 5087
+
+
+
+The Ingram softbot
+
+
+
+
+
+TheINGRAMsoftbot project
+
+
+
+Ingram is an INformation GatheRing Agent called ingraM.  The user can specify the information 
+he or she in 
+terms of a database query and Ingram will try its best to use all kinds of deviated methods
+not unlike those in the Internet hunt to obtain the information.
+
+Ingram is different from many other similar projects in many ways.  Ingram is designed to
+be small,  efficient and distributed,  so that eventually it can reside on the web as a
+java application.  Dream on.
+
+At the core of Ingram is a forward chaining planner Occam.  Occam is novel in that it 
+performs heuristic search on database objects.  Occam is a joint work with 
+Dan Weld,  
+and recently we co-authored a paper on Occam that was accepted to appear in AAAI96.  
+
+Publications:
+
+Planning for Information Gathering (Technical Report)
+Planning to Gather Information (Accepted to AAAI 96)
+
+
+Coming attractions:  we're going to model the following sites:
+        Modeling
+
+Commercial Sites Index; Browse
+Future Fantasy Bookstore - Home Page
+Geographical and Weather
+Infinite Ink's Finding, Writing, & Distributing FAQs
+Library of Congress World Wide Web Home Page
+Mailing List WWW Gateway
+NPR Online
+NYNEX Interactive Yellow Pages - Home Page
+Netfind Search
+Reference
+Telephone Directories On The Web
+The World-Wide Web Virtual Library: Subject Catalogue
+Virtual WordsWorth -- The Complete Discount Bookseller Home Page
+WSMV InfoSource -- News Master Page
+Welcome to ISN
+netlib home page
+
+
+
+Here are some of the related systems:
+
+Information Manifold
+TSMMIS
+ SIMS
+ The Context Interchange Project
+
+Here are some other softbots we have in UW:
+
+Rodney
+Simon
+
+Cody Kwok Last modified Feb 1
+
+

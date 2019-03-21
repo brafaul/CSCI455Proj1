@@ -1,0 +1,118 @@
+Date: Tue, 26 Nov 1996 18:48:59 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Wed, 11 Sep 1996 16:50:18 GMT
+Content-length: 2246
+
+
+
+V22.0036 - Computer Architecture - Fall 1996
+
+
+
+
+V22.0036 - Computer Architecture - Fall 1996 
+
+
+Basic Information
+
+
+Instructor:
+
+Ralph Grishman
+
+
+office: 715 Broadway, Room 703
+
+office hour: Tues 10:45 - 11:45
+
+phone: 998-3497
+
+email: grishman@cs.nyu.edu
+
+
+Textbook:
+
+
+Hennessy and Patterson, Computer Organization and Design 
+
+(Morgan Kaufmann, 1994)
+
+
+Lectures:
+
+
+
+can be accessed through the course schedule
+
+Assignments:
+
+are listed on the course schedule
+6 graded assignments
+
+assignments 1 through 4 will involve programming: sample programs
+
+in class will be given in C, but assignments may be done in any
+
+general purpose language 
+
+(please ask if you want to use something other than C or Pascal)
+
+programming assignments will involve simulation of circuits,
+
+starting with very simple circuits and leading (in assignment
+
+#4) to simulation of an entire very simple CPU
+
+for graded assignments, there is a penalty of 10% of grade
+
+for each weekday the assignment is late (assignments submitted
+
+after class on the date due should be put in my mailbox, either
+
+in Warren Weaver or at 715 Broadway)
+
+occasional ungraded assignments: 
+
+
+we will record only whether these have been submitted
+
+these will be used to make decisions in case of borderline
+
+grades
+
+these assignments will be gone over in class
+
+will not be accepted after the date due 
+
+
+
+
+Grading:
+
+50% assignments
+
+(assignment #4 is the largest, and will be counted more heavily
+
+than the others)
+
+20% mid-term
+
+30% final exam 
+
+
+
+Course goals:
+
+
+philosophical: understand how a computer can be built from basic
+
+components (switches)
+
+
+
+practical: understand how the constant quest for higher performance
+
+is affecting architecture development
+
+

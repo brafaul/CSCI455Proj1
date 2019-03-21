@@ -1,0 +1,55 @@
+Date: Tue, 10 Dec 1996 03:35:54 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+Cecil paper: "Whole-Program Optimization of Object-Oriented Languages"
+
+
+Whole-Program Optimization of Object-Oriented Languages
+
+
+Craig Chambers, 
+
+Jeffrey Dean, and
+
+David Grove
+
+
+We describe Vortex, an optimizing compiler intended to produce
+high-quality code for programs written in a heavily-object-oriented
+style.  To achieve this end, Vortex includes a number of intra- and
+interprocedural static analyses that can exploit knowledge about the
+whole program being compiled, including intraprocedural class
+analysis, class hierarchy analysis, and exhaustive class testing, and
+profile-guided optimizations such as receiver class prediction and
+selective specialization.  To make whole-program optimization
+practical, Vortex automatically tracks cross-file optimization
+dependencies at a fine granularity, triggering selective
+recompilation of affected compiled files whenever the source
+program changes.  Empirical measurements of five purely
+object-oriented benchmark programs written in Cecil, ranging in size
+from several hundred to 75,000 lines of source code, indicate that
+these optimization techniques improve performance of large programs
+by more than a factor of three over a system with only intraprocedural
+static optimizations.  Vortex is written in Cecil, and it has been
+used as its own compiler and optimizer during its development for the
+past two years.  Vortex's optimizations and implementation
+techniques should be useful for any language or program where
+optimizations to reduce the cost of polymorphism are important,
+including object-oriented languages (we are currently adding
+front-ends for C++, Modula-3, and Java to Vortex to study its effectiveness
+on these other language styles) and other high-level
+symbolic, functional, and logic languages.
+ 
+Note:  This document is 70 pages long.
+
+
+University of Washington Department of Computer Science and Engineering Technical Report UW-CSE-96-06-02. 
+
+To get the PostScript file, click
+here.
+
+
+Return to Cecil/Vortex papers page

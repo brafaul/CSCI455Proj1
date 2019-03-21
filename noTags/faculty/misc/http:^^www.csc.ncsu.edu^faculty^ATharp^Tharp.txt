@@ -1,0 +1,79 @@
+Date: Mon, 25 Nov 1996 22:01:46 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 25 Sep 1996 18:20:09 GMT
+Content-type: text/html
+Content-length: 4516
+
+
+
+NCSU/CSC: Alan L. Tharp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alan L. Tharp
+
+
+
+Alumni Distinguished Professor
+and Department Head
+Ph. D., Northwestern University, 1969
+
+Dr. Tharp's primary research interest is in the area of
+developing new and improved file structures. Of
+particular interest are structures which improve system
+performance and ones which allow new applications -
+tasks which were previously not doable because of a lack
+of appropriate data structures. He is also interested in
+database architectures, in improving the usability of
+software systems, and in computer science education.
+
+In the area of file structures, he is currently investigating
+improvements to perfect hashing techniques, file
+structures for use with optical disks and with information filtering. In database architecture, he is
+examining distributed architectures which incorporated recent computer technologies such as
+optical disks. 
+
+For user interfaces, he is considering what makes computer software usable. In computer science
+education, he is interested in encouraging greater emphasis on teaching endeavors and in
+improving the quality of instruction. 
+
+Representative Publications
+
+File Organization and Processing, John Wiley & Sons, New York, 1988, 398 pp.
+"Adaptive Hashing with Signatures," (with E. A. Schweitz), Information Systems, Vol.
+18, No. 8, 1994, pp. 597-608.
+"Using Tries to Eliminate Pattern Collisions in Perfect Hashing," (with M. D. Brain),
+IEEE Transactions on Knowledge and Data Engineering, Vol. 6, No. 2, 1994, pp.
+329-247.
+"Multi-character Tries for Text Searching," (with L. K. D. Cooper), Information
+Processing & Management, Vol. 29, No. 2, 1993, pp.197-207.
+"High Storage Utilization for Single-Probe Retrieval Linear Hashing," (with S. F. Ou),
+The Computer Journal, Vol 34, No. 5, 1991, pp.455-468.
+"Users, a Software Model, and Product Evaluation," (with R. Holcomb), Interacting
+with Computers, Vol. 3, No. 2, 1991, pp.155-166.
+
+
+
+Department of Computer Science, Box 8206
+College of Engineering,
+North Carolina State University,
+Raleigh, NC 27695 
+
+(last update 21-Aug-96 by Auto-Format Script) 
+
+

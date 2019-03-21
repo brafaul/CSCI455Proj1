@@ -1,0 +1,138 @@
+Date: Tue, 14 Jan 1997 21:53:39 GMT
+Server: Apache/1.2-dev
+Connection: close
+Content-Type: text/html
+Last-Modified: Wed, 16 Oct 1996 18:12:55 GMT
+ETag: "7674a-2217-326525a7"
+Content-Length: 8727
+Accept-Ranges: bytes
+
+
+
+John C. Mallery
+
+
+ Yosemite Valley
+[The Nose on El Capitan Topo +
+Beta | Big Wall | Climbing Magazine | Rock Climbing |
+Rock & Ice | Areas, Rock, Mountain |
+Gyms
+| Gear | Guides | Yosemite
+National Park + Photos + Map]
+ John C. Mallery
+
+is a research scientist directing the Intelligent
+Information Infrastructure Project (Demos), but
+who is basically having fun hacking computational politics at the national
+and international level. His research areas span intelligent email routing,
+automatic form processing, distributed hypermedia, document categorization and
+routing, learning if-then rules on non-rectangular data, distributed data
+integration, knowledge representation, reference, analogy, sentence
+generation, natural language understanding.... and related fields.
+
+
+ Current
+Research: involves integrating, documenting, and deepening these systems as part of a three-year
+project aimed at developing tools for an intelligent infostructure, which
+special emphasis on the White House and the Congress.
+
+  Wish
+List: a knowledge-based operating system running on a MIMD parallel
+machine.  The system should exceed the productivity of the Lisp Machine by
+several orders of magnitude and integrate seamlessly with a global knowledge
+base and with a global computational environment.
+
+
+Funding: looking for a few motivated Lisp hackers who are ready to work
+hard and win big on incredibly cool technology
+with mind boggling implications.
+
+
+
+
+Artificial Intelligence Laboratory
+Massachusetts Institute of Technology
+545 Technology Square, NE43-797
+Cambridge, Massachusetts 02139-4301
+  Voice: (617) 253-5966
+    FAX: (617) 253-5060
+  Email: JCMa@AI.MIT.EDU
+
+
+
+Major Lisp Systems
+
+ RELATUS Natural Language System: An
+environment for parsing and representing texts that has built referentially
+integrated representations for text up to 600 pages
+in length.   The implementation runs the full cycle from parsing through
+representation back through generation. The emphasis is on a new
+constructivist, interpretive approach to
+perception and meaning.
+
+  Communications Linker System: A
+form-based system for automatically processing email (and now WWW) requests.
+Also, serves a content-based routing system for documents and an automatic
+survey system. It has been applied in a hierarchical, adaptive
+survey of over 1600 respondents from 30 or so countries was conducted to
+ascertain the usage of White
+House Electronic Publications. It was generalized into wide-area
+collaboration system for the Vice President's
+Open Meeting on the National Performance Review.
+
+  The Feature Vector Editor and I2D Rule
+Learner: An object-oriented system for manipulating and analyzing
+data.  The I2D rule learner operates within this framework and has learned
+several hundred pages of empirically interesting rules on the history of
+international conflict since 1945.
+
+ Common
+Lisp Hypermedia Server: This fully object-oriented server makes it
+easy for AI researchers to interface complex systems to the World-Wide Web and
+reap the benefits of rapid prototyping in Lisp for Hypermedia applications.
+
+
+
+Selected Writings
+
+ ``The
+Open Meeting: A Web-Based System for Conferencing and Collaboration,''
+with R. Hurwitz, Proceedings of The Fourth International Conference on The
+World-Wide Web, Boston: MIT, December 12, 1995.
+``A Common
+LISP Hypermedia Server,'' Proceedings
+of The First International Conference on The
+World-Wide Web, Geneva: CERN, May
+25, 1994.
+
+``Beyond
+Correlation: Bringing Artificial Intelligence to Event Data,'' 
+International Interactions, 1994, 20 (1-2): 101-145. Postscript.
+
+ ``Semantic
+Content Analysis: A New Methodology for The RELATUS Natural Language
+Environment,'' in Artificial Intelligence and International
+Politics, V. Hudson, ed., Boulder: Westview Press, 1991. Postscript.
+
+
+Thinking About Foreign Policy: Finding an Appropriate Role for Artificially
+Intelligent Computers, Cambridge: Master's Thesis, M.I.T.  Political Science
+Department, 1988.  Also, presented at  The 1988 Annual Meeting of the
+International Studies Association, St. Louis, Missouri, 1988. 
+Postscript
+  ``Hermeneutics,''
+with R. Hurwitz and G.  Duffy, The Encyclopedia of Artificial
+Intelligence, New York: John Wiley & Sons, 1987. Postscript.
+
+
+
+Selected Pointers on Computational Politics
+
+Daniel
+K. Schneider, Modelisation
+de la demarche du decideur politique dans la perspective de l'intelligence
+artificielle, Geneva: Doctoral Thesis, Department of Political
+Science, University of Geneva, 1994.
+
+
+

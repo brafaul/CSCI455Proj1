@@ -1,0 +1,39 @@
+Date: Thursday, 21-Nov-96 20:44:53 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Monday, 07-Oct-96 19:34:53 GMT
+Content-length: 1561
+
+Victor Lesser (lesser@cs.umass.edu)
+Victor Lesser
+
+
+
+Professor of Computer Science
+Computer Science Department
+University of Massachusetts
+Amherst, MA 01003
+(413) 545-1322 (office)
+(413) 545-1249 (fax)
+lesser@cs.umass.edu
+
+Victor R. Lesser received his B.A. in Mathematics from Cornell University in
+1966, and the M.S. and Ph.D. degrees in Computer Science from Stanford
+University in 1969 and 1972, respectively.  He is a professor in the Computer
+Science Department of the University of Massachusetts on the Amherst campus
+since 1977. His major research focus is on the control and organization of
+complex AI systems. Professor Lesser is a fellow of the American Association of
+Artificial Intelligence (AAAI), and is considered a leading researcher in the
+areas of blackboard systems for interpretation, distributed AI, and real-time
+AI. He has also made contributions in the areas of diagnostics, plan
+recognition, and intelligent user interfaces, and has been recently working on
+techniques for more closely integrating signal processing technology with signal
+understanding for use in applications domains involving acoustics and radar.
+
+  Back
+to the DIS Lab Home Page
+
+
+DIS WWW Administrator 
+

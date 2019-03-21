@@ -1,0 +1,693 @@
+Date: Tuesday, 14-Jan-97 21:39:22 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Friday, 13-Sep-96 18:36:47 GMT
+Content-length: 10136
+
+
+
+
+
+Leonard Kleinrock's Home Page
+
+
+
+
+Leonard Kleinrock, Professor
+
+
+
+
+
+
+
+lk@cs.ucla.edu
+
+
+
+A Father of the Internet
+
+
+ Kleinrock's Key Internet Accomplishments
+ Personal History of the Internet
+
+
+Modeling and Performance Evaluation
+
+
+ Kleinrock's Key Modeling and Performance Evaluation Accomplishments
+
+
+Queueing and All That
+
+
+ Kleinrock's Major Queueing and Other Accomplishments
+
+Recent Presentations
+
+ 
+	The Latency-Bandwidth Tradeoff
+ 
+	Research Review 95 WWW Bookmarks
+		
+ 
+	Florida ARPA PI Meeting Presentation - July, 1995
+		
+
+Reports
+
+ 
+	Realizing the Information Future -- The Internet and Beyond
+	   
+ 
+	XIWT: Nomadicity in the NII
+	   
+
+
+
+
+
+
+
+
+
+FACTOIDS ON LEONARD KLEINROCK
+
+
+
+
+ 
+    Born
+  
+
+
+
+	June 13, 1934 Manhattan
+	
+
+
+
+ 
+    Married
+  
+
+
+
+	Four children, five grandchildren
+	
+
+
+
+ 
+    Education
+  
+
+
+
+	Bronx High School of Science         
+	
+
+
+	1951
+
+
+
+
+	Bachelor of Electrical Engineering, CCNY  
+	
+
+
+	1957
+
+
+
+
+	Masters in Electrical Engineering, MIT    
+	
+
+
+	1959
+
+
+
+
+	Ph.D. in Electrical Engineering, MIT      
+	
+
+
+	1963
+
+
+
+
+ 
+    Position
+  
+
+
+
+
+	Professor
+	
+
+	University of California at Los Angeles, Computer Science Dept.
+
+
+	1963-present
+
+
+
+
+
+	Chair
+	
+
+	University of California at Los Angeles, Computer Science Dept.
+
+
+	1991-1995
+
+
+
+
+
+	Founder/President
+	
+
+	Nomadix, LLC
+	an organization developing software and hardware products for nomadic computing
+
+
+	1995-present
+
+
+
+
+
+	Founder/Chair
+	
+
+	Technology Transfer Institute
+	a Santa Monica based computer seminar and conference company
+
+
+	1976-present
+
+
+
+
+
+	Founder
+	
+
+	Computer Channel Inc.
+
+
+	1988
+
+
+
+
+
+	Founder
+	
+
+	Linkabit Corporation                                         
+
+
+	1968
+
+
+
+
+
+	Staff Associate
+	
+
+	MIT Lincoln Labs                                             
+
+
+	1957-1963
+
+
+
+
+
+	Engineer
+	
+
+	Photobell Company                                            
+
+
+	1951-1957
+
+
+
+
+ 
+    Publications
+  
+
+
+
+
+	6 books and 200 professional papers
+	
+
+
+
+
+
+Honors
+
+
+
+
+
+
+	L.M. Ericsson Prize
+	
+
+
+	- The "Nobel Prize" in telecommunications,           
+	presented by the King of Sweden
+
+
+	1982
+
+
+
+
+
+
+	12th Marconi International Fellowship Award
+	
+
+
+	- Presented by Prince of Belgium                     
+
+
+	1986
+
+
+
+
+
+
+	National Academy of Engineering
+	
+
+
+	- Elected as one of its youngest members             
+
+
+	1980
+
+
+
+
+
+	Guggenheim Fellowship                                
+	
+
+
+
+	1971
+
+
+
+
+
+
+	IEEE Fellow                                          
+	
+
+
+
+
+	1973
+
+
+
+
+
+	IEEE Harry M. Goode Award                            
+	
+
+
+
+	1996
+
+
+
+
+
+
+	ACM SIGCOMM AWARD
+	
+
+
+
+
+	1990
+
+
+
+
+
+
+	ORSA Lanchester Outstanding Research Prize           
+	
+
+
+
+
+	1976
+
+
+
+
+
+
+	Computer Design Hall of Fame                         
+	
+
+
+
+
+	1982
+
+
+
+
+
+
+	CCNY Townsend Harris Medal                           
+	
+
+
+
+
+	1982
+
+
+
+
+
+
+	UCLA Faculty Research Lecturer                       
+	
+
+
+
+
+	1995
+
+
+
+
+
+
+	Communications Society Leonard G. Abraham Prize Paper
+	
+
+
+
+
+	1975
+
+
+
+
+
+
+	ICC Prize Paper                                      
+	
+
+
+
+
+	1978
+
+
+
+
+
+
+	UCLA Distinguished Teaching Award                    
+	
+
+
+
+
+	1986
+
+
+
+
+
+	UCLA Distinguished Teaching Award                    
+	
+
+
+
+	1967
+
+
+
+
+
+	UCLA Outstanding Faculty Member                      
+	
+
+
+
+	1966
+
+
+
+
+
+	IBM Science Advisory Committee                       
+	
+
+
+
+	1982-88
+
+
+
+
+
+	CCNY Electrical Engineering Award                    
+	
+
+
+
+	1956
+
+
+
+
+
+	Sr. Class President, CCNY evening session            
+	
+
+
+
+	1956
+
+
+
+
+ 
+    Founder
+  
+
+
+
+
+	Linkabit Corporation
+	
+
+
+	1968
+    
+
+
+
+
+	Technology Transfer Institute
+	
+
+
+	1976
+    
+
+
+
+
+	Computer Science and Telecommunications Board 
+	of the National Research Council 
+	
+
+
+	1986
+    
+
+
+
+
+	Computer Channel Inc.
+	
+
+
+
+	1988
+    
+
+
+
+
+	Nomadix, LLC
+	
+
+
+	1995
+    
+
+
+
+ 
+    Public Service
+  
+
+
+
+
+	Founding Member
+	
+
+	Computer Science and Telecommunications Board of the NRC
+
+
+
+
+
+	Invited Consultant
+	
+
+	Mayor's Office of the City of Los Angeles 
+
+
+
+
+
+	Member 
+	
+
+	Gigabit Testbed Advisory Board
+
+
+
+
+
+	Chair 
+	
+
+	Committee that produced 
+	Realizing the Information Future, The Internet and Beyond
+	National Research Council 
+
+
+
+
+
+	National Research Council
+	
+
+	Member
+	Committee that produced 
+	Computing the Future - A Broader Agenda for Computer Science & Engineering
+
+
+
+
+
+	Member
+	
+
+	Committee that  produced 
+	Towards a National Research Network 
+	National Research Council
+
+
+
+
+
+	Member 
+	
+
+	Alan T. Waterman Award Committee
+	National Science Foundation
+
+
+
+
+
+	Founding Member 
+	
+
+	Science Council of the Cross Industry Working Team
+
+
+
+
+
+	Congressional Testimony 
+	
+
+	on Realizing the Information Future 
+	before the
+	Subcommittee on Technology, Environment, and Aviation
+	Committee on Science, Space, and Technology
+	U.S. House of Representatives
+	May 26, 1994
+    
+
+
+
+
+	Congressional Testimony 
+	
+
+	1988
+    
+
+
+
+
+	VIP Project Participant
+	
+
+	Telethon for Cerebral Palsy 
+
+
+
+
+ 
+    Hobbies
+  
+
+
+
+
+	Karate (Black Belt); marathon runner;
+	
+
+	swimming; puzzles; and exotic nature trips.
+
+
+
+

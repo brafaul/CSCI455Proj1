@@ -1,0 +1,54 @@
+Date: Tue, 05 Nov 1996 20:52:14 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sat, 26 Oct 1996 01:17:54 GMT
+Content-length: 1809
+
+
+
+Kelly Bauman's X-win32 HowTo Page
+
+
+
+
+
+
+
+Member of the Internet Link Exchange
+
+
+How to set up an Xsession on a Windows 95 PC.
+
+Requirements:
+	
+Windows 95, or Windows 3.1 with win32s on your PC
+	X-win32
+	runX Shell Script
+	
+Files:
+	
+Here is a copy of Xwin32
+runX Shell Script
+
+Directions:
+	
+Unzip and install xdemo32.zip
+	Unzip runX.zip in your private directory
+	Decompress it, and you will find a read.me and the script file.
+	Start Xwin32
+	Telnet to any sol or vega machine
+	Type runX {ip address} at the command prompt
+	Be patient and an xterm will come up on your local screen.
+	Type xterm & in the xterm to get another xterm.
+	
+Notes:
+	
+Run winipcfg from the c:\windows directory.  This will give you your IP address.
+	
+
+
+If you have any questions, feel free to send me some email, I'll get back to you as soon as possible!  bauman@cs.wisc.edu
+Last updated Sep 12, 1996 
+Back to Kelly Bauman's Home Page
+
+

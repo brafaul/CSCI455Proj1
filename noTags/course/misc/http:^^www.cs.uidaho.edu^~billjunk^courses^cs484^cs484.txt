@@ -1,0 +1,110 @@
+Date: Tue, 26 Nov 1996 19:05:04 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 18 Apr 1996 16:51:55 GMT
+Content-length: 4482
+
+
+CS 484/584 
+
+
+
+CS 484/584 Software Quality Assurance
+Spring 95-96
+3 semester credits
+ http://www.cs.uidaho.edu/~billjunk/courses/cs484/cs484.html
+ Last updated: 18 April 1996 
+
+ Computer Science Home 
+Page
+
+ Univ. of Idaho Home 
+Page
+Instructor:
+William S. 
+Junk, 
+	Computer Science Dept., 
+	University of Idaho,
+	Moscow, ID  83844-1010
+Telephone:	208-885-7530 / 
+	800-824-2889
+Fax:	208-885-6165
+	 (alternate: 208-885-9052)
+E-
+Mail: billjunk@cs.uidaho.edu ,
+
+
+Courses for Academic Credit:
+
+CS 484 and 584 are available on video tape from Engineering Video Outreach
+CS 584 is available to National
+Technological University subscribers as NTU
+SE-760-S on the North American service and the Asia-Pacific service
+
+
+Video Tapes Are Available For Rent or Purchase:  
+The Spring 93-94 offering of 
+CS 484/585 is available for purchase or rental.  The content 
+of that course are similar to that described below.  
+Click here to see the 93-94 course outline.  
+The Spring 95-96 version will also be available beginning in May 1996.
+Contact Engineering Video Outreach 
+at 1-208-885-6373 for more information.
+
+Course Description
+Software quality assurance is the planned and systematic pattern 
+of actions necessary to provide adequate confidence that a software 
+product or system conforms to established technical requirements.  
+We will study concepts of software quality, the means for defining 
+measurable quality characteristics, as well as techniques for 
+ensuring that quality is present in software products.  This will 
+include activities such as specifying quality requirements, 
+performing product reviews, developing test plans and procedures, 
+auditing, performing configuration management, and measuring quality.  
+Concepts of Total Quality Management and performing SQA activities 
+consistent with ISO-9001 will be stressed.
+
+
+Specific topics to be covered include: 
+
+Concepts of software quality
+Hierarchical quality models
+User-oriented quality models
+Specifying quality requirements
+Quality management system
+Total Quality Management
+Software quality assurance techniques
+Software measurement
+Relationship to process management
+Quality assurance standards (ISO 9001)
+Theory of software testing
+White-box testing
+Black-box testing
+Design for testability
+Test management
+
+
+
+
+Syllabus
+Schedule
+References (Books & Web Sites)
+Term Project
+Exercise 1
+Exercise 2
+Exercise 3
+Exercise 4
+Final Exam 
+       
+
+
+
+ Computer Science Home 
+Page
+
+ Univ. of Idaho Home 
+Page 
+
+WWW:  http://www.cs.uidaho.edu/~billjunk/
+e-mail:  billjunk@cs.uidaho.edu
+

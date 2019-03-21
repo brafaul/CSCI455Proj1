@@ -1,0 +1,32 @@
+
+
+CWRU ProSE Research Group
+
+
+
+
+Welcome to the home page for the Prolog for Software Engineering
+(ProSE) Group in the Department of Computer
+Engineering and Science at Case
+Western Reserve University 
+Please select from the following:
+
+ ProSE
+Research Group Profile
+Recent ProSE
+Technical Reports/Publications
+ Links to Other Home Pages
+
+ CWRU
+Autonomous Agent Research Group
+ The
+World-Wide Web Virtual Library: Logic Programming
+
+
+
+For further information, please contact Leon Sterling
+(leon@ces.cwru.edu). 
+
+This home page maintained by Ashish Jain (jain@ces.cwru.edu)
+
+

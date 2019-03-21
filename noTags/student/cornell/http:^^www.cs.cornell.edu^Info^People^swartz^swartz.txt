@@ -1,0 +1,34 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:46:40 GMT
+Content-Type: text/html
+Content-Length: 1031
+Last-Modified: Monday, 07-Oct-96 21:37:40 GMT
+
+
+Jonathan Swartz's Home Page
+
+
+
+ Jonathan Swartz 
+swartz@cs.cornell.edu
+
+I'm a Ph.D. student in the Department
+of Computer Science at Cornell University. I spend a lot of my time here
+developing
+
+Rivl, a language for multimedia processing.
+
+Here is my
+address, phone number, etc.
+
+A little humor to brighten your day
+
+Jon's movie connection
+
+Cool web sites
+
+
+Last Modified: Mon Jan 16 14:40:10 EST 1995
+ Jonathan Swartz /
+swartz@cs.cornell.edu 

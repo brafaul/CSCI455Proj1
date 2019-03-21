@@ -1,0 +1,53 @@
+Date: Thu, 07 Nov 1996 19:10:16 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 12 Apr 1996 16:10:55 GMT
+Content-length: 1966
+
+
+
+Steven Huss-Lederman's Home Page
+
+
+ Steven Huss-Lederman's Home Page
+ My research interests include:
+
+ My research at the Univ. of Wisconsin at Madison relates to the
+Wisconsin Wind Tunnel project.
+
+ My other big research area is parallel linear algebra which is
+covered by the PRISM
+project.
+
+ I am also heavily involed in the  MPI
+standard.
+
+I and several others recently published a book about the original MPI
+standard.  You can get information on ordering the book from  MIT Press (ISBN
+95-80471).  You can also look at MPI:
+The Complete Reference on the web.
+
+As the MPI-2 editor, I can get you the current draft of the MPI Forum.
+Please keep in mind that the work of the MPI Forum is ongoing and
+its documents are intended for use by those interested in the ongoing
+work of the MPI Forum. For committee members, the 
+compressed postscript, complete sources as a  compressed
+tar file, and the 
+individual source files are available.
+
+
+ Information you would get if you did a finger on me:
+ Steven Huss-Lederman
+ Computer Science Dept.
+ Univ. of Wisconsin-Madison
+ 1210 W. Dayton St.
+ Madison, WI 53706
+ Phone: (608)262-0664
+        (608)265-4892 (for message if desperate)
+ FAX: (608)262-9777
+ e-mail: lederman@cs.wisc.edu
+ WEB: http://www.cs.wisc.edu/~lederman/lederman.html
+ Office: 6367 Computer Science and Statistics Building
+
+
+

@@ -1,0 +1,88 @@
+Date: Tue, 14 Jan 1997 20:02:34 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 01 Feb 1996 17:13:18 GMT
+Content-type: text/html
+Content-length: 2967
+
+
+
+Computer Science 510 - Numerical Analysis
+
+
+Computer Science 510 - Numerical Analysis
+Instructor:
+Professor Andrew Gelsey, (gelsey@cs.rutgers.edu)
+402 Hill Center, Busch Campus, 5-4869
+Office Hours: Wed 11am-noon
+
+TA:
+Daqing Li, (daqing@paul.rutgers.edu)
+429 Hill Center, Busch Campus, 5-3766 (ext. 40)
+Office Hours: Fri 2pm-4pm
+
+Course Objective: derivation, analysis, and implementation of algorithms for
+numerical problems.
+Optional text books (should be available at Rutgers Bookstore):
+
+S. D. Conte, Carl de Boor, Elementary Numerical Analysis: an
+Algorithmic Approach, 3rd edition.
+
+Gene Golub, James M. Ortega, Scientific Computing : an
+Introduction with Parallel Computing.
+
+
+
+Additional references:
+
+Kendall E. Atkinson, An Introduction to Numerical Analysis,
+2nd edition.
+
+Germund Dahlquist and Ake Bjorck, Numerical Methods.
+
+
+
+(All of these books are on reserve for CS 510 in the Hill Center
+Math library.)
+Prerequisites: Calculus, Linear Algebra, ability to program in a high
+level language (preferably Fortran or C)
+Grading:
+
+written homework(approx 10) + computer programs(approx 4) -- approx 25%
+midterm	approx 30%
+final	approx 45%
+
+
+Course Outline:
+
+Floating point numbers and roundoff error: (brief treatment)
+Solution of nonlinear algebraic equations:
+	 bisection method, regula falsi (binary and interpolation
+	 search), fixed point iteration, Newton's method,
+	 convergence rates (linear, quadratic), secant method,
+	 systems of nonlinear equations --- Newton's method.
+Solution of linear algebraic systems:
+	  Gaussian elimination/ LU decomposition, pivoting schemes,
+	  complexity, matrix inversion,
+	  variants of elimination for symmetric and banded matrices,
+	  sparse matrices (connections to graph theory),
+	  norms, condition number,
+	  error analysis,
+	  iterative methods (SOR, convergence rates),
+	  parallel solution of linear systems.
+Interpolation, approximation of functions:
+	  the interpolating polynomial (construction and error term),
+	  piecewise polynomial interpolation, splines,
+	  multidimensional interpolation,
+	  least squares approximation, orthogonal polynomials,
+	  trigonometric approximation, fast Fourier transform.
+Numerical differentiation and integration:
+	  derivation of polynomial-based quadrature formulas, error terms,
+	  adaptive quadrature, Romberg integration, Gaussian quadrature,
+	  numerical differentiation, error terms.
+Numerical solution of ordinary differential equations:
+	  basic methods (e.g., Euler's method, quadrature-based methods),
+	  truncation error,
+	  higher order equations, systems.
+
+
+

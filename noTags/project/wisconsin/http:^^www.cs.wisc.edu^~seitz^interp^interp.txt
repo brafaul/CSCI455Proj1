@@ -1,0 +1,87 @@
+Date: Thu, 07 Nov 1996 19:22:43 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 08 Apr 1996 19:47:19 GMT
+Content-length: 2866
+
+
+
+Steve Seitz's View Interpolations
+
+
+ View Synthesis by Image Interpolation 
+
+Investigators:
+Steve Seitz,
+ Chuck Dyer
+
+
+
+We have devised a provably-correct automated technique for creating new 
+views of a scene from two basis views of the same scene.  The technique 
+relies on geometric image interpolation, known as "morphing" in the graphics
+community, to produce intermediate images.  Although morphing techniques
+currently enjoy widespread use, their theoretical validity
+has not been established.  In particular, does 2D interpolation of two views
+of the same scene produce a sequence of physically valid in-between views of
+that scene?
+Surprisingly, the answer is yes, providing the images first undergo a simple
+rectification procedure and certain assumptions about visibility and the
+projection process are satisfied.
+The view synthesis work described here uses automated stereo techniques to
+determine image correspondences.  Our more recent work on 
+ View Morphing 
+considers how user-interaction may be used to guide the interpolation.
+
+
+Below are computed interpolations for three different image pairs.  The
+rectified original images are shown at left and right.  Click on the
+interpolated images (center) to see mpeg movies (~50K) showing the computed
+interpolations.
+
+
+ View Interpolations
+
+  Original (1)  
+  Interpolated (1.5) 
+  Original (2) 
+
+
+
+  
+ 
+ 
+  
+
+
+
+  
+ 
+ 
+  
+
+
+  
+ 
+ 
+  
+
+
+
+
+
+This work is described in: 
+ 
+Physically-Valid View Synthesis by Image Interpolation,
+
+ 
+S. M. Seitz and C. R. Dyer, 
+Proc. Workshop on Representation of Visual Scenes, 
+1995.
+
+
+ 
+Last Changed: June 30, 1995 
+
+
+

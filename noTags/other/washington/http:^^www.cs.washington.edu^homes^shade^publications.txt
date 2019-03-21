@@ -1,0 +1,47 @@
+Date: Thu, 16 Jan 1997 03:32:09 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 03 Jul 1996 21:29:55 GMT
+Content-length: 1463
+
+
+
+j ward shade pages -- Publications
+
+
+Publications
+
+
+
+
+
+
+Hierarchical Image Caching for Accelerated
+	   Walkthroughs of Complex Environments. 
+	Jonathan Shade, Dani Lischinski, David H. Salesin,
+	Tony DeRose, and John Snyder. 
+	In Proceedings of SIGGRAPH 96. ACM, New York,
+	1996 (to appear).
+	
+
+Bridging the Gap Between Visualization and Data Management:
+	   A Simple Visualization Management System. 
+	Peter Kochevar, Zahid Ahmed, Jonathan Shade, and Colin Sharp. 
+	In Proceedings of Visualization 93. IEEE Computer Society Press,
+	Los Alamitos, CA, 1993.
+	
+
+Database System Management for the Sequoia 2000 Project
+	   Using Postgres and AVS. 
+	Peter Kochevar, Zahid Ahmed, Jonathan Shade, and Colin Sharp. 
+	In Proceedings of AVS 93.
+	
+
+A Visualization Architecture for the Sequoia 2000 Project. 
+	Peter Kochevar, Zahid Ahmed, Jonathan Shade, and Colin Sharp. 
+	Sequoia 2000 Technical Report 93/35, University of California,
+	Berkeley, 1993.
+	
+
+
+

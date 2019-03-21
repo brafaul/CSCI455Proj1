@@ -1,0 +1,53 @@
+Date: Wed, 20 Nov 1996 20:12:07 GMT
+Server: Apache/1.1.1+
+Content-type: text/html
+Content-length: 2554
+Last-modified: Fri, 01 Nov 1996 20:56:44 GMT
+
+
+ Scientific Computing and Imaging
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ Projects |
+Software |
+Personnel |
+Publications |
+Facilities | 
+Images |
+Mission |
+Seminar ]
+
+ ** UNDER RENNOVATION ** (10/10/96)  
+
+
+The Scientific Computing and Imaging (SCI) research group in the Department of Computer Science at the
+University of Utah has ongoing research
+projects in many areas of scientific computing: geometric modeling,
+numerical analysis, parallel computing, scientific visualization, 
+human-computer interaction, and software development tools.  Our
+group is involved in both designing efficient and accurate tools for
+scientific computing, and in utilizing these tools for scientific
+applications.  
+
+
+ Last modified : October 24, 1996 
+
+

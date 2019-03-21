@@ -1,0 +1,89 @@
+Date: Wed, 20 Nov 1996 19:27:45 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Mon, 12 Aug 1996 00:41:26 GMT
+Content-length: 3119
+
+
+ ARCADE-PROJECT 
+
+
+
+
+ ARCADE-Project
+
+
+Architectural Computer-Aided Design and Evaluation
+
+
+Principal Investigator: 
+Carlo H. Séquin
+
+This project is loosely coupled with research going on in the Department of Architecture
+in the College of Environmental Design.
+We explore the constructions of a database to store generic knowledge about
+the design of institutional buildings as well as specific information
+about particular projects such as Soda Hall.
+
+
+
+This research is closely linked with:
+
+
+
+The WALKTHRU Project
+
+
+Another important component are a couple of experimental classes offered in 1995 and 1996:
+
+
+
+
+CS 294-5: ARCHITECTURAL CAD: (Spring 1995)
+
+
+CS 294-5: ARCHITECTURAL CAD: (Spring 1996): "ARCAD'96"
+
+
+
+Here are some of the projects in progress:
+
+
+Developing tools to make building model generation easier.
+
+Rick Lewis:
+
+1995 Abstract:
+ Building Model Generation
+ 1996 ILP Presentation:
+The BMG Building Model Generator
+Integrating the Soda Hall model with the CFAST fire simulator.
+
+Rick Bukowski:
+ 
+Interactive Walkthru Environments for Simulation
+A Study of the database issues concerning the description of architectural projects
+
+with Prof. Yehuda Kalay, CED, Dept. of Architecture
+
+A Study of efficient data structures to represent building model plans
+at various levels of abstraction, capturing the duality
+between spaces and the physical elements that define them
+
+Laura Downs:
+  Symbolic Layout Tools for Architectural Design
+
+
+
+
+
+^^^
+
+<-- Back to
+
+GRAPHICS Projects Page
+
+Page Editor: 
+Carlo H. Séquin 
+
+

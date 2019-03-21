@@ -1,0 +1,59 @@
+Date: Tue, 10 Dec 1996 20:41:02 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 11 Dec 1995 23:03:15 GMT
+Content-length: 1643
+
+
+
+Rex's Advanced C Home Page
+
+
+ Rex's Advanced C Home Page
+
+Congratulations, you found it!
+
+Click  
+here for help.
+
+
+  
+	C++ Linked List Class 
+
+  
+	HW 9 Problem 
+  
+	HW 9 HINT 
+
+  
+	HW 8 Problem 
+  
+	HW 8 Solution 
+
+  
+	HW 6 Problem 
+  
+	HW 6 Solution 
+
+  
+	HW 5 Problem 
+  
+	HW 5 Solution 
+
+  
+	HW 4 Problem 
+  
+	HW 4 Solution 
+
+  
+	HW 3 Solution 
+
+
+
+ These web pages are maintained by 
+ Rex Jakobovits. 
+ Email comments and questions to  
+rex@cs.washington.edu 
+
+
+

@@ -1,0 +1,20 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:20:17 GMT
+Content-Type: text/html
+Content-Length: 326
+Last-Modified: Wednesday, 17-Jan-96 23:13:29 GMT
+
+
+
+Boyer's Education
+
+
+Education:
+  Ph. D., Mathematics, 1971
+  University of Texas, Austin, Texas
+
+  B. A., Mathematics, Magna cum laude, 1967
+  University of Texas, Austin, Texas
+
+  King High School, Kingsville, Texas, 1964

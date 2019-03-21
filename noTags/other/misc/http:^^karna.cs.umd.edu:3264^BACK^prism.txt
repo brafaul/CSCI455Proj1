@@ -1,0 +1,356 @@
+Content-Length: 17296
+Content-Type: text/html
+
+
+
+
+Options
+Comments
+System Administration
+
+
+
+
+
+Back-links for The PRISM Group at Maryland
+Back-links for The PRISM Group at Maryland
+
+
+
+    Research Project Profiles at UMCP Computer Science
+    
+
+    Our (WISDOM) WWW server 
+    WISWWW
+    
+
+    More DBMS Research
+    
+
+    CNACS: Research
+    
+
+InfoSeek Guide: Search Results
+qt = Prism col = WW
+    
+
+    guide-p.infoseek.com/WW/NS/frames/BTitles
+    qt = %22group logic%22 col = WW st = 0
+    
+
+    guide-p.infoseek.com/WW/NS/frames/BTitles
+    qt = prism col = WW st = 10
+    
+
+InfoSeek Guide: Search Results
+qt = %22PRISM%22 col = WW
+    
+
+    More Winners!
+    
+
+    guide-p.infoseek.com/Titles
+    qt = PRISM col = WW sv = NS lk = frames st = 0 pg = results_body.html
+    
+
+    guide-p.infoseek.com/Titles
+    qt = The Prism Group col = WW sv = NS lk = frames pg = results_body.html
+    
+
+Logic Programming Research Groups
+
+
+Infoseek Guide: Search Results
+qt = Deductive Databases col = WW sv = IS lk = frames
+    
+
+Infoseek Guide: Search Results
+qt = Prism Group
+    
+
+InfoSeek Net Search Results: Deductive Database
+qt = Deductive Database
+    
+
+Infoseek Guide: Search Results
+qt = prism col = WW st = 10 sv = NS lk = noframes
+    
+
+Infoseek Guide: Search Results
+qt = prism col = WW st = 10 sv = N1 lk = noframes
+    
+
+Infoseek Guide: Search Results
+qt = prism col = WW st = 20 sv = N1 lk = noframes
+    
+
+Infoseek Guide: Search Results
+qt = meg fells PRISM col = WW sv = N1
+    
+
+InfoSeek Net Search Results: prism
+qt = prism col = WW st = 20 sv = MS lk = noframes
+    
+
+    Lycos search: deductive database
+    first = 11 maxhits = 10 minterms = 2 minscore = 0.1 terse = standard query = deductive database
+    
+
+    www.inform.umd.edu:8080/EdRes/Colleges/ResCtr/cnacs/research.html
+    
+
+Infoseek Guide: Search Results
+qt = %22deductive database%22 col = WW sv = N1
+    
+
+Glen Crossman
+
+
+    Chaos File #24
+    
+
+    Lycos search: prism
+    first = 21 maxhits = 10 minterms = 1 minscore = 0.01 terse = standard ab = the_catalog query = prism
+    
+
+    Lycos search: statistic databases logic
+    first = 21 maxhits = 10 minterms = 1 minscore = 0.01 terse = standard ab = the_catalog query = statistic databases logic
+    
+
+    guide-p.infoseek.com/Titles
+    qt = prism col = WW st = 10 sv = N1 lk = frames pg = results_body.html
+    
+
+    Lycos search: logic group
+    query = logic group ab = the_catalog
+    
+
+    Lycos search: prism database
+    ab = the_catalog query = prism%20database
+    
+
+    Lycos search: deductive databases
+    first = 11 maxhits = 10 minterms = 1 minscore = 0.01 terse = standard ab = the_catalog query = deductive databases
+    
+
+     Proxy list of WWW.csie.nctu.edu.tw 
+    
+
+    Khachaturov Vassilii's Bookmarks
+    
+
+    Lycos search: minker database
+    query = minker database ab = the_catalog
+    
+
+    Lycos search: physician group databases
+    query = physician group databases ab = the_catalog
+    
+
+Infoseek Guide: Search Results
+qt = prism col = WW st = 10 sv = IS lk = noframes
+    
+
+    Lycos search: prism group
+    query = %22prism group%22 ab = the_catalog
+    
+
+    Lycos search: disjunctive deductive databases
+    query = disjunctive deductive databases
+    
+
+    query.webcrawler.com/cgi-bin/WebQuery
+    text = Prism%20NEMOSTATE.EDU offset = 25
+    
+
+    Infoseek Guide 
+qt = Prism col = WW sv = N1 lk = noframes
+    
+
+    Research Project Profiles at UMCP Computer Science
+    
+
+    Maryland White Pages
+    
+
+    MetaCrawler Search Results: (prism research) 
+general = prism research logic = 2 searchType = Normal Search region = The World orgType = Any maxwait = 1 score = 0
+    
+
+    MetaCrawler Search Results: (prism research) 
+general = prism research logic = 2 searchType = Normal Search region = The World orgType = Any maxwait = 1 score = 0
+    
+
+     Thomas Lindgren's Home Page 
+    
+
+    Lycos search: Deductive Databases
+    first = 11 maxhits = 10 minterms = 1 minscore = 0.01 terse = standard ab = the_catalog query = Deductive Databases
+    
+
+    query.webcrawler.com/cgi-bin/WebQuery
+    searchText = PAPER PRISM maxHits = 25
+    
+
+     Proxy list of WWW.csie.nctu.edu.tw 
+    
+
+    Infoseek Guide 
+qt = Prism col = WW sv = N2
+    
+
+    Infoseek Guide 
+qt = prism rel = 1098524 col = WW sv = N2 lk = noframes
+    
+
+    Vassilii Khachaturov's Bookmarks
+    
+
+    AltaVista: Advanced Query "deductive database"
+    pg = aq what = web fmt = . q = %22deductive database%22 r = d0 = d1 = 
+    
+
+    AltaVista: Advanced Query deductive near database
+    pg = aq what = web fmt = . q = deductive near database r = d0 = d1 = 
+    
+
+    Lycos search: Prism data
+    query = Prism data
+    
+
+    Lycos search: deductive databases
+    first = 11 maxhits = 10 minterms = 1 minscore = 0.01 terse = standard query = deductive databases
+    
+
+Logic Programming Research Groups
+
+
+    Lycos search: prism database
+    query = prism database searchButton.x = 44 searchButton.y = 13
+    
+
+    Infoseek Guide
+    qt = The Prism Group col = WW sv = N2 lk = noframes x = 47 y = 9
+    
+
+    Infoseek Guide
+    qt = Prism col = WW sv = IS lk = noframes
+    
+
+    Lycos search: deductive databases magic sets
+    first = 21 maxhits = 10 minterms = 1 minscore = 0.01 terse = standard query = deductive databases magic sets
+    
+
+    Infoseek Guide
+    qt = PRISM col = WW sv = N2 lk = noframes
+    
+
+    Lycos search: deductive database
+    first = 31 maxhits = 10 minterms = 2 minscore = 0.1 terse = standard query = deductive database
+    
+
+    Infoseek Guide 
+qt = karna chat page col = WW sv = N2
+    
+
+    Infoseek Guide 
+qt = prism and database col = WW sv = I1
+    
+
+    Infoseek Guide
+    qt = prism col = WW st = 10 sv = N2 lk = noframes
+    
+
+    Lycos search: prism database
+    cat = lycos query = prism database x = 34 y = 10
+    
+
+    SavvySearch results for ""PRISM" programming language"
+    KW = %22PRISM%22 programming language Boolean = AND Hits = 10 Mode = MakePlan df = normal AutoStep = on
+    
+
+     Other AI and Robotics Labs 
+    
+
+Logic Programming Research Groups
+
+
+    Carolina Ruiz
+    
+
+    Related Research
+    
+
+    webcrawler.com/cgi-bin/WebQuery
+    text = prism group;summaries = yes
+    
+
+    Infoseek 
+qt = PRISM GROUP col = WW sv = N2 seek now.x = 38 seek now.y = 10
+    
+
+    Patrick Sathyanathan's Home Page
+    
+
+    Infoseek 
+qt = prism group col = WW sv = N2 seek now.x = 34 seek now.y = 7
+    
+
+    Carolina Ruiz
+    
+
+    Infoseek
+    qt = %28deductives database%29 sv = N1 lk = noframes st = 20
+    
+
+    webcrawler.com/cgi-bin/WebQuery
+    cookie = %23%23%23%23%23 mode = compact maxHits = 25 searchText = PRISM
+    
+
+    MetaCrawler Search Results: prism picture 
+general = prism picture logic = 0 verify = 1 searchType = Comprehensive Search region = The World orgType = Any maxwait = 10 maxHits = 50
+    
+
+    www.webcrawler.com/cgi-bin/WebQuery
+    cookie = %23%23%23%23%23 mode = compact maxHits = 25 searchText = prism
+    
+
+    Infoseek 
+qt = prism sv = N2 st = 10
+    
+
+    Infoseek 
+qt = Prism Group rel = 87068
+    
+
+    Infoseek 
+qt = PRISM col = WW sv = N2 seek now.x = 12 seek now.y = 0
+    
+
+     AltaVista Search: Simple Query PRISM WWW scripting
+    pg = q stq = 10 q = PRISM WWW scripting
+    
+
+    query.webcrawler.com/cgi-bin/WebQuery
+    text = deductive database summaries = yes fromhome = 0 offset = 50
+    
+
+    Infoseek
+    qt = THE PRISM GROUP col = WW%2Ccat_RES oq = PRISM sv = N3 lk = ip-noframes nh = 10
+    
+
+    Research Project Profiles at UMCP Computer Science
+    
+
+Logic Programming Research Groups
+
+
+    query.webcrawler.com/cgi-bin/WebQuery
+    searchText = Prism Merchandising Group maxHits = 25
+    
+
+
+About back-links...
+
+Last modified: Sun Jan  5 20:52:02 1997
+

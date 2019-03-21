@@ -1,0 +1,36 @@
+Date: Tue, 05 Nov 1996 00:25:46 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 06 Jul 1995 21:54:22 GMT
+Content-length: 934
+
+
+
+  Origin of WWT Project Name 
+
+
+
+
+
+Origin of WWT Project Name
+
+
+ Return to WWT Home Page
+
+
+We refine our parallel supercomputer design ideas
+with an execution-driven simulation system
+called the 
+Wisconsin Wind Tunnel.  It runs a parallel shared-memory
+program on a parallel computer (Thinking Machines CM-5) and uses
+execution-driven, distributed, discrete-event simulation to accurately
+calculate program execution time.  
+
+The project is gets its name from tools--such as the Wisconsin Wind
+Tunnel--that allow us to cull the design space of parallel
+supercomputers in a manner similar to how aeronautical engineers use
+conventional wind tunnels to design airplanes.
+
+
+
+

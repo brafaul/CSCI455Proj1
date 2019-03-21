@@ -1,0 +1,84 @@
+Date: Tue, 26 Nov 1996 00:01:48 GMT
+Server: Apache/1.2-dev
+Connection: close
+Content-Type: text/html
+Last-Modified: Fri, 23 Aug 1996 03:00:48 GMT
+ETag: "5d870-cef-321d1ee0"
+Content-Length: 3311
+Accept-Ranges: bytes
+
+ 
+Haptics
+
+
+Haptics
+
+The haptics group at the MIT
+Artificial Intelligence Lab conducts research in a wide variety of
+topics related to touch perception and feedback including the development
+of devices to effect haptic stimulation and software to render the sensations
+of touch.  The group is headed
+by Dr. Kenneth
+Salisbury.
+Another group headed up by Ken is the
+Vision
+and Touch Guided Manipulation group. 
+
+The people in the Haptics group are: 
+
+ Brian Anthony
+   Donald Green
+   Craig Latimer
+   Akhil Madhani 
+   Thomas Massie
+   Derek Schulte
+   Nick Swarup (graduated)
+   Chris Tarr
+   Criag Zilles (graduated)
+
+
+
+One of our first developments was the Phantom Haptic Interface (distributed by
+SensAble Devices, Inc.): 
+Touching is Believing
+
+
+
+
+The PHANToM represents a new generation of computer input devices. More than
+just another passive, 3D mouse, the PHANTom allows users to actually feel
+virtual objects. Unlike buzzing tactile stimulators, the PHANToM actively
+exerts an external force on the user's finger tip - creating the illusion of
+interactions with solid virtual objects. Smoothe spheres, flat walls, sharp
+corners, and even texture can be convincingly conveyed to the human haptic
+sytem using the device. This is not a bulky exoskelatal device - one simply
+inserts his or her finger tip into the PHANToM and interacts with the virtual
+environment. 
+
+High Fidelity
+
+The PHANToM contains 3 motors which control the x, y, and z forces exerted on
+the user's finger tip. Mounted on each motor is an optical encoder to
+determine the x, y, and z position of the user's finger tip. The torque from
+the motors is transmitted through a proprietary cable transmission to a stiff,
+light-weight linkage. At the end of this linkage is a passive, 3 degree of
+freedom gimbal attached to a thimble. The passive gimbal allows the thimble to
+rotate so that a user's finger tip may assume any comfortable orientation. The
+user's finger tip can then be modelled as a point or frictionless sphere
+within the virtual world. The device has low friction, low inertia, and no
+unbalanced weight so movements through free virtual space are unimpeded. 
+
+Versatility
+
+The PHANToM is best described as a universal force-reflecting interface. In
+fact, a stylus can be substituted for the thimble. A user can then manipulate
+the stylus to control the tip of a virtual pencil or paint brush. Users can
+actually feel the tip of the stylus touch virtual surfaces. The PHANToM can be
+used as a high precision force-reflecting master for teleoperation or as a 3
+DOF input device for CAD. Artists can mold clay within the computer and
+surgeons can practice procedures on virtual patients.
+
+special-effects@ai.mit.edu
+
+
+ 

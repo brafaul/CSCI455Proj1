@@ -1,0 +1,25 @@
+Date: Wed, 20 Nov 1996 23:22:25 GMT
+Server: NCSA/1.5.1
+Last-modified: Tue, 30 Jan 1996 21:49:59 GMT
+Content-type: text/html
+Content-length: 665
+
+ COMP 203 HOME PAGE 
+ COMP 203: PARALLEL AND DISTRIBUTED COMPUTING 
+ Spring 1996 
+Instructor: Dr. Siddhartha 
+Chatterjee
+Time: TuTh 9:30am-10:45am
+Location: SN 014
+Credit: 3 hours
+Course description
+Announcements
+Lecture notes
+ Manuals and References for Parallel Programming Systems
+
+ NESL
+
+
+Revised Tue Jan 30 16:49:48 EST 1996 by sc@cs.unc.edu
+
+

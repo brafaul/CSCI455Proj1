@@ -1,0 +1,79 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:05:27 GMT
+Content-Type: text/html
+Content-Length: 4568
+Last-Modified: Wednesday, 25-Sep-96 18:51:36 GMT
+
+Papers on failure detection
+
+Papers on failure detection
+This page contains WWW pointers to research on failure detection.
+
+
+
+       Unreliable failure detectors for Reliable Distributed Systems
+       introduces failure detectors for message passing systems (To appear in JACM). By
+       Tushar Deepak Chandra and
+        Sam Toueg.
+  
+
+	The weakest failure detector for solving consensus:
+	determines what information about failures is necessary and sufficient
+	to solve Consensus in asynchronous distributed systems (message
+	passing) subject to crash failures (a preliminary version of this
+	paper appeared in PODC92).  By
+       Tushar Deepak Chandra,
+       Vassos Hadzilacos, and
+        Sam Toueg.
+  
+Tushar Deepak Chandra's
+	thesis
+	combines the results in
+	
+	Unreliable failure detectors for Reliable Distributed Systems and
+	
+	the weakest failure detector for solving consensus.
+  
+Using
+       Failure Detectors to Solve Consensus in Asynchronous Shared-Memory
+       Systems extends the work mentioned above to shared-memory systems
+       with registers.  This paper also contains results on resource complexity
+       that have no analogue in the work mentioned above (a preliminary version
+       of this paper appeared in WDAG94).  By Wai Kao Lo and
+       Vassos Hadzilacos.
+  
+Failure Detectors
+       and the Wait-Free hierarchy extends the work on shared-memory systems with
+       registers to shared-memory systems with arbitrary objects (a preliminary
+       version of this paper appeared in PODC96).  By Gil Neiger.
+  
+Simulating Fail-Stop in Asynchronous
+       Distributed Systems shows that it is possible to specify and
+       implement a failure model that is indistinguishable from the
+       fail-stop model from the point of view of any process within an
+       asynchronous system.  By
+       Laura Sabel and
+       Keith Marzullo.
+  
+
+       Election Vs. Consensus in Asynchronous Systems.  By
+       Laura Sabel and
+       Keith Marzullo.
+  
+
+       Revisiting the relationship between Non Blocking Atomic Commitment and Consensus problems.  By R. Guerraoui.
+  
+Non-Blocking Atomic Commitment with an Unreliable Failure Detector.  By R. Guerraoui, Miquel Larrea, and A. Schiper
+  
+Gamma-Accurate failure detectors.
+       By R. Guerraoui and A. Schiper
+  
+The Decentralized Non Blocking Atomic Commitment Protocol.
+       By R. Guerraoui and A. Schiper
+  
+The Transaction Model vs The Virtual Synchrony Model: Bridging the gap
+       By R. Guerraoui and A. Schiper
+
+
+Maintained by tushar@watson.ibm.com

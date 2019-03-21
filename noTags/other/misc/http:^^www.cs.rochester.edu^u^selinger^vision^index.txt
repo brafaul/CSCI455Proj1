@@ -1,0 +1,51 @@
+Date: Wednesday, 15-Jan-97 02:03:18 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Friday, 15-Nov-96 19:55:08 GMT
+Content-length: 2334
+
+
+Curve Finder
+
+
+
+
+
+
+ Boundary Extraction by Lineal Feature Growing
+
+This web page is brought to you by Christopher Eveland, Sotiris Ioannidis, and
+Andrea
+Selinger, a group of first year graduate students in the University of
+Rochester.  In the form below, you will be able to type in the URL
+of an image, and the boundaries in the images will be found,
+overlayed, and sent back to you.  The boundary extraction application
+was developed by 
+Prof. Randal Nelson.  Click 
+here if you want to see a detailed description of the application.
+
+You can use this application if you want to find the curved
+and straight lineal features in an image.  The program works on grey scale images. However, if you send us a color image we'll convert
+it to grey scale, find the curves and overlay them on the color image.
+You can send us your image in GIF, JPEG or IFF format. You will get it
+back in GIF format.  Please allow a few minutes for the processing, as
+it is being run on a busy server.
+
+If you are ready to run the program on your image file, please use the
+submission form below: Please type in the complete URL of a
+GIF, JPEG or IFF file.  This file must be accessible to the outside
+world.
+
+
+Image URL: 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+Date: Tue, 10 Dec 1996 03:31:29 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+The METIP Remote Testing Program
+
+
+
+ 
+The METIP Remote Testing Program
+Project Director: Steven Tanimoto
+
+
+Computer Science & Engineering Department, 
+University of Washington, FR-35, 
+Seattle, WA 98195 USA
+
+
+
+TEACH MATHEMATICS WITH IMAGE PROCESSING!
+WANTED: K-12 Mathematics Teachers To Participate
+        in Testing Experimental Learning Materials
+
+Digital image processing is a powerful new technology that
+can add an exciting dimension to mathematics classes.
+The project "Mathematics Experiences Through Image Processing"
+(or METIP) has developed experimental software and student
+activities with the following objectives:
+
+
+To interest students in image processing and enhance their interest in mathematics.
+To teach fundamental concepts of digital image representation.
+To make connections between mathematics and applications such
+as special visual effects, cryptography, image enhancement,
+computer vision, photography, multi-media presentation, and art.
+
+
+We are looking for teachers who are willing to use these materials
+in their classes and help us evaluate the materials.  Teachers who
+are enrolled in the program will receive the following benefits:
+
+
+Free copies of the software and materials.  These include
+ image-processing programs and student worksheets.
+Assistance via electronic mail.
+
+
+In exchange we request that enrolled teachers help us in the following
+ways:
+
+
+Administer the materials in a systematic manner.
+Report data and observations to us through electronic mail,
+ or through the post ("snail mail").
+
+
+Here is a description of the "course" that these materials support.
+
+
+A 5-hour course on basic digital image manipulation targeted at
+grades 7 and 8, but which may work well in grades 5, 6, 9, 10, 11,
+or 12, as well.
+
+A 10-hour course on basic and more advanced digital image
+manipulation.  This is targeted at grades 8 and 9, but may be suitable
+for other grades in the range 7-12.
+
+
+These courses requires that each student have the use of a PC.
+The PC must be a 386, 486, or Pentium, with SVGA graphics,
+at least 4 MB RAM, running Windows 3.1.  
+
+
+Teachers will be asked to give students a questionnaires
+at the beginning and end of the course, and to report the
+following data by mail, or email: test responses, "log files"
+created by the software, and anecdotal information about
+the students' and teacher's experiences.
+
+Timing:
+
+The first testing phase is to take place between February 1, 1995
+and April 30, 1995.  Participating teachers should schedule the
+course to begin after February 1 and end before April 30.
+In the 5-hour course, students may participate one hour a day for
+five days (all in one week) or in any other distribution of the
+hours.  (We are interested in finding out which arrangements work
+best.)
+
+
+We would like to have all requests to participate by January 15.
+In the event that we receive more applications than we can support
+we may have to limit the level of support we provide to some.
+However, we expect to be able to handle most participants who
+apply.
+
+To apply:
+
+Please answer the following questions and press the SUBMIT button, or send the following information via email or snail-mail to the following address:
+
+
+Prof. Steven Tanimoto, Project Director
+Mathematics Experiences Through Image Processing
+Dept of Computer Science and Engineering, FR-35
+University of Washington
+Seattle, WA 98195
+206-543-4848
+tanimoto@cs.washington.edu
+
+
+Name: 
+
+Position:
+
+Institution:
+
+Complete address:
+
+
+Country: 
+
+Class in which materials are to be used (e.g., 8th Grade integrated math,
+ 7th grade computer literacy, etc.):
+
+Course preference: 5 Hour 10 Hour 
+
+Number and type of PCs available:
+
+Proposed start date:   Proposed end date:  
+
+Any previous experience with computer-based teaching materials:Yes No  
+
+Email address:
+
+
+
+
+ 
+
+  bricker@cs.washington.edu or tanimoto@cs.washington.edu 
+  Last modified: Friday, December 9, 15:34:58 PST 1994
+
+

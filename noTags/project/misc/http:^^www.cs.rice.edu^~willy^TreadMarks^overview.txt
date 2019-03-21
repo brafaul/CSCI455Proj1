@@ -1,0 +1,54 @@
+Date: Tue, 26 Nov 1996 00:22:10 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 12 Sep 1996 18:50:26 GMT
+Content-length: 2464
+
+
+
+The TreadMarks Distributed Shared Memory (DSM) System
+
+
+The TreadMarks Distributed Shared Memory (DSM) System
+
+Treadmarks supports parallel computing on networks of workstations.
+Its main novel feature is that it provides a global shared address
+space across the different machines on a cluster.  The shared address
+space distinguishes it from other well-known packages such as PVM that
+provide a message passing interface between machines.  There is
+growing consensus in the parallel computing community that a shared
+memory interface is more desirable from the application programmer's
+viewpoint, allowing him or her to focus on algorithmic development
+rather than on managing communication.  The challenge in providing a
+shared memory interface is to do so efficiently.  To this end,
+TreadMarks incorporates several innovative features, including release
+consistency and multiple-writer protocols.
+
+Current research going on in the TreadMarks project includes the
+integration of compiler and runtime techniques, the use of high-level
+synchronization operators, and the use of multithreading, in
+particular on multiprocessor nodes.  TreadMarks runs on IBM, DEC, SUN,
+HP, x86 (running FreeBSD 2.1R or Linux Slackware 3.0) and SGI hardware.  
+C, C++, and Fortran are supported.  TreadMarks was developed with support 
+from the Texas Advanced Technology Program (TATP). 
+
+TreadMarks is being distributed at a small cost to universities and 
+nonprofit institutions.
+For more information about the software, contact Tim Miller, 
+treadmarks@ece.rice.edu.
+For commercial information about TreadMarks, contact
+ParallelTools, L.L.C.,
+phone 713-398-7035, fax 713-398-7035.
+
+ People
+ Overview Paper 
+ Slides 
+ Technical Papers
+ Theses
+ Applications
+  Documentation
+ User Sites
+ Information about Releases
+ Related Projects
+
+

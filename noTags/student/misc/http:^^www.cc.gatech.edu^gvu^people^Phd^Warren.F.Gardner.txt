@@ -1,0 +1,86 @@
+Date: Thu, 21 Nov 1996 22:15:53 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3080
+Last-modified: Wed, 13 Dec 1995 20:57:35 GMT
+
+Warren Gardner Information Page
+
+
+
+Warren Gardner
+
+
+
+
+Warren is a PhD student working in the Image Understanding Lab
+at Georgia Tech.  His research interests include Computer Vision
+and Robotics.  His dissertation is concerned with constructing
+robust motion interpretation algorithms for complex environments.
+An example of some of his work is an algorithm capable of
+robust motion interpretation using
+
+line correspondences.
+He has also recently worked on the
+
+ARPA Image Database and an on-line version of the 
+
+1994 ARPA Image Understanding Workshop.
+
+
+
+In his free time Warren enjoys training in the martial arts
+(Wing Chun Kung Fu, Muay Thai, and Bando),
+riding his motorcycle, and camping.
+He can often be found working in his brother's office
+at Hofstra University.
+
+
+
+
+
+Here is an ASCII version of Warren's resume.
+
+Here is a postscript version of
+Warren's resume.
+
+
+Publications:
+Daryl T. Lawton, Warren F. Gardner, and Jun-Hoy Kim,
+"An Interactive Model Based Vision System for Vehicle Tracking,"
+IEEE International Conference on Robotics and Automation,
+1993, Vol 3, pp. 403-409.
+Warren F. Gardner and Daryl T. Lawton,
+"Local Translational Decomposition Under Rigid Body Motion,"
+SPIE Conference on OE/Aerospace and Remote Sensing,
+1993, pp. 12-23.
+Daryl T. Lawton, David Dai, MaryAnn Frogge, Warren F. Gardner,
+Heather Pritchett, Andrew T. Rathkopf, Ian Smith, and the IUE Committee,
+"The IUE User Interface,"
+DARPA Image Understanding Workshop,
+1993, pp. 289-300.
+Daryl T. Lawton, Warren F. Gardner, and Jun-Hoy Kim,
+"Interactive Model-Based Vehicle Tracking,"
+DARPA Image Understanding Workshop,
+1993, pp. 527-533.
+Daryl T. Lawton and Warren F. Gardner,
+"Translational Decomposition of Flow Fields,"
+DARPA Image Understanding Workshop,
+1993, pp. 697-705.
+Warren F. Gardner and Daryl T. Lawton,
+"Shape and Motion from Linear Features,"
+DARPA Image Understanding Workshop,
+1993, pp. 1091-1095.
+Ronald C. Arkin and Warren F. Gardner,
+"Reactive Inclinometer-Based Mobile Robot Navigation,"
+IEEE International Conference on Robotics and Automation,
+1990, Vol 2, pp. 936-941.
+
+
+Contact information:
+Warren Gardner
+111 Stockade Road
+South Glastonbury, CT  06073
+(860) 633-5184
+
+warren@cc.gatech.edu

@@ -1,0 +1,83 @@
+Date: Tue, 05 Nov 1996 00:32:06 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 25 Sep 1996 20:46:03 GMT
+Content-length: 2940
+
+
+
+
+a1hw.ans.html
+
+
+
+CS354, Fall 1996
+Homework 1, due Wednesday September 18 at the
+
+(1) T/F, 10 points, 1 point each
+Note: The complete SAL instruction set is given in
+Appendix A of the textbook, page 386.
+(a) all variables in SAL programs are global (T)
+(b) the SAL statement "get x" works the same for all types of "x"
+(F)
+(c) the label "b" could be used for a variable in a SAL program
+(F,  it's  a reserved word)
+(d) variables must be declared before they are used in SAL
+programs (F, the ".data" section can come after the ".text"
+section of the source code)
+(e) when executed, the SAL statement "b (ret)" will cause a branch
+to the SAL statement labeled by "ret:" (F,  in this context, ret
+is a variable name, not a statement label)
+(f) when executed, the SAL statement "j ret" will cause a branch
+to the SAL statement labeled by "ret:" (T, here ret is a statement
+label)
+(g) every SAL program must have a "__start:" label in it somewhere
+(T)
+(h) "done" is part of the SAL instruction set (F, it's a
+"macro")
+(i) "rem" is used to put a remark or comment in a SAL program
+(F)
+(j) type declarations are made in SAL programs so that type
+checking can be done by the assembler (F, type defs are to reserve
+space only)
+(2) 2 points
+In a single sentence, explain what "computer architecture" means.
+
+
+In the context of CS354, "computer architecture" is defined
+   by the basic instruction set of the computer.
+
+3) 8 points
+Translate the following C code into the equivalent SAL statements.
+Assume that all variables are of C type "int."
+if ((A > 0 ) || ( B == 1 )) {
+     C = A + B * 5;
+} else {
+     A++; 
+     B = ( A / B ) % C;
+}
+--------------------------------------------
+      bgtz A, then    # if A > 0, do 
+then part
+      beq  B, 1, then # or if B == 1, do then part
+      add  A, A, 1    # else part ...
+      div  B, A, B
+      rem  B, B, C
+      j    cont       # jump over then part
+then: mul  C, B, 5    # then part
+      add  C, A, C
+-------------------------------------------------------------
+	### Another solution
+         blez   A, check2
+then:    mul    C, B, 5
+         add    C, C, A
+         b      cont
+check2:  beq    B, 1, then
+         add    A, A, 1
+         div    B, A, B
+         rem    B, B, C
+-------------------------------------------------------------
+
+cont: ...
+
+

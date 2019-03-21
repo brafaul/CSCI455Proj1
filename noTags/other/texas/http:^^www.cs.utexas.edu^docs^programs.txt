@@ -1,0 +1,32 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 08-Jan-97 16:47:28 GMT
+Content-Type: text/html
+Content-Length: 691
+Last-Modified: Monday, 08-Jul-96 14:32:12 GMT
+
+
+
+
+UTCS Related Programs
+
+
+
+Related Programs of Interest
+
+ 
+	Computational and Applied Mathematics
+ 
+	Electrical and Computer Engineering
+ 
+	Mathematics Education Graduate Program
+ 
+	Operations Research and Industrial Engineering
+ 
+	Software Quality Institute
+
+
+
+gripe@cs.utexas.edu
+
+

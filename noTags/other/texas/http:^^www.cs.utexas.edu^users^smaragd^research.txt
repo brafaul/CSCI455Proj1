@@ -1,0 +1,66 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:41:26 GMT
+Content-Type: text/html
+Content-Length: 6152
+Last-Modified: Wednesday, 11-Dec-96 21:46:21 GMT
+
+
+
+
+Yannis's Research
+
+
+
+
+
+
+Research Interests
+I am interested in several topics from the general areas of programming languages, software components and transformation systems.
+
+My main research interests lie in the field of meta-programming. Meta-programming 
+is the activity of creating programs that (re-)write other programs (or even 
+themselves). I find both the theoretical and the practical aspects of meta-
+programming particularly fascinating. My belief is that with the right support tools 
+meta-programming can not only become a realistic programming technique but also significantly
+help the software design process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Work
+
+I am a member of the Software Systems Generator   Research Group at UT, working under the supervision of Don Batory. The group's work concerns software system generators: tools for assembling complex software from interchangeable, reusable components.
+Current Projects
+My current work focuses on both meta-programming applications and language support (in essence, generators and tools to construct them). Support for this project has been provided by Microsoft Research. Additionally, during the past two summers I've worked for the Intentional Programming (IP) group of MSR. As part of this work I designed and implemented code template operators for IP.
+Meta-programming Language Support
+The best known example of language support for meta-programming are the backquote and comma operators of LISP and its variants. Various techniques have been used (for instance, hygienic macro-expansion) to facilitate writing programs that manipulate code fragments. Unfortunately, such techniques are oriented towards small-scale program rewrites that are fairly local (hygienic macro-expansion is in fact based on generating related code fragments in a single step). My work is mainly on tools to help manipulate code fragments generated and altered by many distinct program components acting at different time instances. These tools have been heavily used in the implementation of the DiSTiL application generator (see below).
+Meta-programming Applications
+For the past year I've been working on DiSTiL: a software generator for data structures. The goal of DiSTiL is to increase productivity by enabling programming
+in high-level data structures primitives. DiSTiL programs are automatically
+checked for consistency and transformed into efficient code. DiSTiL is packaged
+as a library for the Intentional Programming system. The library structure is highly factored with a large
+number of orthogonal abstract components. These can be composed in a variety of
+ways to form a wide range of concrete data structures.
+DiSTiL has been demonstrated in the 4th ICSR (International Conference on Software Reuse) and the Component-Based Software Development Workshop organized by Microsoft this summer. The accompanying presentation can be found here in HTML format. The presentation is also available in Powerpoint format from the workshop page.
+All feedback is welcome.
+Home Page   |   Photo Album   |   Favorite Sites
+
+
+
+
+
+smaragd@cs.utexas.edu
+
+

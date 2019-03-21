@@ -1,0 +1,58 @@
+Date: Mon, 04 Nov 1996 23:49:49 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 04 Jan 1996 15:45:51 GMT
+Content-length: 2699
+
+
+
+Links to More Sites
+
+
+Research Sites
+
+UW DBMS Home
+       Page
+Berkeley Sequoia 2000
+IBM Almaden Research Center
+DEC Home Page
+ETH Zurich
+Helsinki Univ. Technology
+ACM SIGMOD Home Page
+VLDB '96
+VLDB Home Page
+Sequoia/Illustra FAQ
+
+Interesting Web Stuff
+
+Weather World
+Current Weather Maps
+Krannert Art Museum
+NASA Home Page
+PDS Demo Page
+NCSA Mosaic Home
+Mosaic Demo Document
+Edmund's Used Car Guide (gopher)
+Human Languages Page
+
+Fun Stuff
+
+Deep Thought
+Doctor Fun
+Doctor Fun Archive
+Virtual Tourist World
+Avid Explorer
+Soccer World Cup '94
+Costa Travel
+
+Newsgroups
+
+comp.arch.storage
+rec.travel.air
+rec.sport.hockey
+uwisc.general
+
+
+jussi@cs.wisc.edu 
+
+

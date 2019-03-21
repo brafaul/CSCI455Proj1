@@ -1,0 +1,33 @@
+Date: Wed, 20 Nov 1996 19:15:13 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 1161
+Last-modified: Thu, 25 Apr 1996 14:57:22 GMT
+
+
+ Negation 
+
+ Negation 
+Description:   This is a study of various
+treatements of negation in non-classical logics.  It grows out of my
+work on "gaggle theory" wherein negation, being a unary operator, is
+given a semantics using a binary "perp" relation. This has precedents
+in the model-theoretic definitions of negation in quantum logic and in
+linear logic, but is unusual in its application to intuitionistic
+logic and relevance logic. This leads to a study of when various 
+semantical treatements of negation are equivalent.
+ 
+
+ Associated Faculty: 
+Michael Dunn
+
+ Associated Graduate Students:   
+Steve Crowley (Philosophy)
+
+ Affiliated Projects:  Chrysafis Hartonas (University
+of Ioannina, Greece), Greg Restall (Automated Reasoning Project,
+Australian National University) 
+ Support:  
+College of Arts and Sciences
+
+Return to Computer Science Research Page  

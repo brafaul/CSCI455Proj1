@@ -1,0 +1,208 @@
+Date: Mon, 25 Nov 1996 22:13:37 GMT
+Server: NCSA/1.5.2
+Last-modified: Fri, 15 Nov 1996 03:48:34 GMT
+Content-type: text/html
+Content-length: 9112
+
+
+Miles Murdocca's Home Page
+
+
+
+About Miles Murdocca
+I am an assistant professor in the Computer Science Department
+at Rutgers University.  
+
+
+
+
+Click on the speaker for an audio greeting.
+Please feel free to correspond:
+Miles Murdocca
+Department of Computer Science
+Rutgers University, Hill Center
+New Brunswick, NJ 08903
+murdocca@cs.rutgers.edu
+http://www.cs.rutgers.edu/~murdocca/
+(908) 445-2654 (phone);  (908) 445-0537 (fax)
+
+
+This page has been visited
+ 
+times since 5 December 1995, as recorded by the
+web counter.
+
+Teaching Interests
+CS211: Introduction to Computer Architecture
+CS352: Internet Technology
+Graduate and Undergraduate Independent Studies
+
+What I am Working on These Days
+Internet based
+distributed archiving system (The DISTANCE Project).
+Multimedia
+computer architecture courseware (The MARC Project).
+Networking projects
+<-- under daily construction (includes links to other Rutgers networking projects).
+
+Other Topics
+Summer '95 Undergraduate Research Internship
+
+
+On-line book project. Principles of Computer
+Architecture is a full, class-tested textbook that I created for our
+sophomore-level introduction to computer architecture course (CS 211).
+I am in the process of putting it up with hypertext links and in-line
+images. All of this takes time (there are over 400 illustrations,
+and lots of equations and other details that need to be reworked) but
+you can have a look at how far the project has progressed.
+
+Some of my Favorite Web Sites
+
+ Yahoo. You name it;
+it's here This site has
+links to all of the cool Internet stuff you've been hearing about.
+
+   Netscape home page. From
+the creators of the original Mosaic Web browser.
+
+   The Web Museum. (Famous
+creative works).
+
+    
+The Vatican library. A digitized art collection brought to you by IBM.
+
+   Internet Underground Music 
+Archive. Music from unaffiliated artists.
+
+   
+Index to the whole world. Explore the Web geographically.
+
+   CNN. Cable Network News.
+
+   PBS. Public broadcasting system.
+
+   The Discovery channel. From
+the makers of the cable TV Discovery channel.
+
+   IN Jersey. Online newspaper
+provided by New Jersey's Asbury Park Press. 
+
+   Targum Online. The 
+Rutgers University daily newspaper.  This project was enabled in part by one
+of my undergraduates (Ryan Kriger).  
+Here is
+what he has to say about the project.
+
+   The Astrophysical Journal 
+A full-fledged, refereed, on-line version of the 100-year-old scientific 
+journal.  
+
+   Send an 
+electronic postcard to somebody.  
+
+   Walt Disney Company. 
+Promotional movie clips, kid games, Disneyland, and other fun stuff.
+
+   Paramount Pictures. 
+Promotional clips from the movie giant.
+
+   MCA / Universal. 
+Promotional clips from another movie giant.
+
+   Video camera at Niagara 
+Falls. 
+You need an MPEG player for the 15 second video.
+
+   Interesting devices connected to the Internet.
+
+
+
+
+
+
+
+
+
+Internet/Web Stuff (Mostly Reference Info for Power Users)
+Links to HTML tutorials.
+(Compiled by Anna Shukhina, http://remus.rutgers.edu/~anya). 
+
+"Learn HTML" by Mary
+Going
+VDS'96 - HTML is 
+the language of Web Pages
+Internet Information & Tools - 
+HTML Tutorial
+Xi'an Jiaotong 
+University - About HTML
+HTML
+ references
+HTML Tutorial
+
+HTML Documents : A 
+Hypertext Tutorial
+FastNet - HTML User Web 
+Page Tutorial
+HTML Tutorial : Authoring
+ methods for the WWW
+A Brief 
+HTML Tuturial by Damon Muller
+
+For more information on HTML you can do Net Search for "HTML" or "HTML Tutorial"
+.
+
+Other Internet/Web Links
+ World Wide Web
+Frequently Asked Questions (WWW FAQ)
+ NCSA server.  Lots of good free
+software for networking, multimedia, and other things. 
+The
+Web Masters page. Expert tips on designing Web pages.  
+
+Where did he get that  
+background pattern? 
+
+Thinking of starting an Internet or Web service? Here is
+an example of what  one service  
+charges.
+ A Beginner's
+Guide to HTML (HyperText Markup Language). (362 KB) This is a compressed
+PostScript file that will be downloaded to your machine using ftp.
+After it is downloaded, you should use the uncompress utility to
+uncompress it.  At Rutgers University, you can print it out using
+the lpr command from a Unix machine: % lpr -Pprinter_name HTMLPrimer.ps
+If you can't do it this way, then you can find an on-line hypertext
+version at the 
+URL: http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html.
+ Click
+here for on-line version.
+
+How do I download and view a file in format ... 
+(Click here). 
+
+CGI 
+(Common Gateway Interface) FAQ
+CGI 
+(Common Gateway Interface) standard (you may have to browse a bit to
+find it here).
+
+
+
+
+
+
+Click here to see a
+simple CGI action.  All this does is execute a C program on
+athos.rutgers.edu in ~murdocca/public_html/server1-cgi
+and print a simple message. (Note: this doesn't
+do anything interesting so don't click it.  I keep it here to remind
+myself of how to do it.)
+
+
+Miles Murdocca / Rutgers University / murdocca@cs.rutgers.edu
+
+
+
+[Computer Science Department Home Page]
+

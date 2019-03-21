@@ -1,0 +1,125 @@
+Date: Wed, 20 Nov 1996 21:44:33 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+		
+
+BU CAS CS 113: Introduction to Computer Science II with Intensive C ---Home Page
+		
+
+
+
+BU
+CAS
+		
+CS 113
+
+Introduction to Computer Science II with Intensive C  
+
+Spring 1996
+		
+
+HOME PAGE
+		
+
+ Weekly programming assignments: 
+0,  
+1,  
+2, 
+3, 
+4, 
+5, 
+6, 
+7,
+8,
+9,
+10.
+
+ Mid-term quiz: Thu Feb 29, make-up quiz Thu Mar 21
+ Final exam: Tue May 7, 2-4PM 
+ Study sheets: Quiz, 
+Final
+ Code from Standish chapters: 
+1,  
+2,  
+3,  
+4,  
+5,  
+6,  
+7,  
+8,  
+9,  
+10,  
+11,  
+12,  
+13,  
+14,
+15,
+16
+
+
+Course Description:
+
+Designed for students who program proficiently in Pascal, BASIC,
+Fortran, or some other high-level programming language.  Begins with
+an intensive introduction to the C programming language and then
+covers all the materials in CLA CS 112.
+Work Load:
+
+Heavy, fast. This is an intensive course that covers
+the topics of CS 111 and CS 112 in one semester.
+
+Lectures:
+
+	Tue, Thu: 2:00-3:30PM in MCS-148
+
+Sections:
+
+	A2: Mon 10:00-11:00AM in MCS B24 (labs) or MCS B33 (discussions) 
+	A3: Wed 4:00-5:00PM in MCS B24 (labs) or MCS 148 (discussions)
+	A4: Fri 12:00-1:00PM in MCS B24 (labs) or PSY B49 (discussions)
+
+
+Lab section meetings convene in the CS computer lab (MCS B24), and
+discussion section meetings convene in the corresponding class room.
+For a schedule of section meeting labs and discussions, please see the
+
+Course Schedule.
+
+Programming exercises will be completed during lab section that will
+contribute towards your final grade. 
+
+Instructor:
+
+Stan Sclaroff 
+	Room MCS-279, phone 353-8928.
+	E-mail: sclaroff@cs.bu.edu
+ Office hours:  Tue 5:30-7PM, Thu 3:30-5:00 or by appointment  
+
+Teaching Assistant:
+
+Elena Machkasova
+	Room MCS-205B, phone 353-5231.
+	E-mail: elenam@cs.bu.edu
+ Office hours:  Mon 11-12, Wed 12-1
+
+Graders:
+
+Jeffrey Considine
+Hani Mawlawi
+
+
+Syllabus
+
+
+Course Policy, Grading,  etc.  
+
+
+Useful Tutorial Information about Unix, emacs, and the internet 
+
+
+Page Created: Nov 9, 1995      
+Last Modified: May 13, 1996
+Maintained by: Stan Sclaroff
+
+

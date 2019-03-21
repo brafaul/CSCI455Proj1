@@ -1,0 +1,124 @@
+Date: Tue, 26 Nov 1996 03:45:42 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 23:04:49 GMT
+Content-length: 3987
+
+
+
+
+Ron Even's Home Page
+
+
+
+
+Ron Even
+
+
+
+This page is undergoing reconstruction!
+
+Here I am, in my former office.
+Where to find Me
+
+
+Department of Computer Science
+
+
+Courant Institute of Mathematical Sciences
+
+New York University
+
+251 Mercer Street
+New York, NY 10012, U.S.A.
+Phones: (+1) 212 998-3120 (voice) (+1) 212 995-4122 (fax)
+
+
+
+Table of Contents
+
+Education
+Research Interests
+Publications
+School
+Cool Links
+
+
+Education
+
+
+MS 1994 in Computer Science, Courant Institute of
+Mathematical Sciences, New York
+University.
+
+
+BS 1991 in Computer Science, Cornell University. 
+
+
+Research
+Interests
+
+
+Right now, I am working on a simulator for complex adaptive systems.  In its
+current incarnation it simulates a simple market.  Since it is
+implemented in Java, I have the alpha version
+on-line.
+
+My longer range goal is the application of market ideas to
+the design and analysis of systems in several areas of computer
+science including intelligent agents, distributed 
+systems, and networks.  For example, I plan to use my simulator to
+explore credit based control strategies for ATMs.
+
+
+Publications
+
+
+CAFE: A Complex Adaptive Financial Environment, co-authored with 
+Bud Mishra, to appear in
+CIFEr
+'96.   Here's the abstract.
+
+
+Other School-Related Stuff
+
+
+My advisor is Bud Mishra.
+His other students are Toto "Saro" Paxia
+and my officemate, Amy
+Greenwald.   
+
+
+Cool Links
+
+
+News
+
+Dilbert
+
+David
+Letterman
+
+The Economist
+
+Paper
+Guide a decent guide to life in New York.
+
+The Far Side
+
+The CIA's
+World Factbook
+
+
+CMU Guide to Research and Writing
+
+My Complete Bookmark List
+
+
+
+
+
+ 
+PGP public key
+
+

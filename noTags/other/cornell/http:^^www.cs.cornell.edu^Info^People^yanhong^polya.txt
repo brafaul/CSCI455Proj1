@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 19:06:03 GMT
+Content-Type: text/html
+Content-Length: 1247
+Last-Modified: Saturday, 29-Jun-96 22:21:34 GMT
+
+
+
+
+Polya Related Project: Composing Efficient Programs
+
+
+Composing Efficient Programs
+
+Optimization and selection techniques for building effcient programs
+from components.
+
+Theme
+
+It is a trend that software be composed from existing components,
+forming even larger components.  One of the most challenging issues is
+the efficiency of the resulting programs, which depends largely on
+optimization across component interfaces and selection of appropriate
+components given complicated interactions among them.  How to perform
+such optimization and selection systematically is one of my particular
+interests.
+
+Other People
+David Gries
+Tim Teitelbaum
+Aswin van der Berg
+Thomas Yan
+Keywords 
+
+program specification, refinement, program optimization,
+data-structure selection, program analysis, program transformation,
+program composition
+
+
+
+Y. Annie Liu yanhong@cs.cornell.edu 
+Last updated 12/14/95 
+

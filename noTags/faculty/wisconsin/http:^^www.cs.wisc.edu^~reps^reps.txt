@@ -1,0 +1,1097 @@
+Date: Thu, 07 Nov 1996 19:07:37 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 24 Sep 1996 21:36:54 GMT
+Content-length: 37011
+
+
+
+ Thomas W. Reps's Home Page 
+
+
+  Thomas W. Reps
+
+Professor
+Computer Sciences Department
+University of Wisconsin-Madison
+1210 West Dayton Street
+Madison, WI 53706-1685
+USA
+E-mail:  reps@cs.wisc.edu  
+Telephone:  (608) 262-2091
+Secretary:  (608) 262-0017
+Department: (608) 262-1204
+Fax:        (608) 262-9777
+
+Ph.D., Cornell University, 1982
+(Curriculum Vitae)
+
+Research Interests:
+
+  Program slicing, differencing, and merging 
+  Interprocedural dataflow analysis 
+  Alias analysis, pointer analysis, and shape analysis 
+  Language-based program-development environments 
+  Incremental computing 
+  Attribute grammars 
+
+(See also the
+
+home page of the Wisconsin Program Slicing Project
+.)
+
+
+
+Contents
+
+  Research Summary 
+  Categorized Index to Publications 
+  List of Publications 
+  Visitors, Post-Doctoral Associates, and Students 
+
+
+
+Research Summary
+
+My research is aimed at creating tools to support the
+development of complex software systems.  The objective is to create
+tools that provide powerful language-specific program-manipulation
+operations.  In particular, my work has explored how program slicing
+can serve as the basis for such program-manipulation operations.
+
+The slice of a program with respect to a set of program elements
+S is
+a projection of the program that includes only program elements that
+might affect (either directly or transitively) the values of the
+variables used at members of S.  Slicing allows one to find
+semantically meaningful decompositions of programs, where the
+decompositions consist of elements that are not textually contiguous.
+
+Program slicing is a fundamental operation that can aid in solving
+many software-engineering problems.  For instance, it has applications
+in program understanding, maintenance, debugging, testing,
+differencing, specialization, reuse, and merging.
+
+The projects that my co-workers and I are carrying out are aimed at
+
+
+improving the underlying technology for program slicing (and related
+operations),
+
+implementing program slicers,
+
+developing methods for using slicing in software-engineering tools, and
+
+building slicing-based program-manipulation tools.
+
+(Click
+here
+for the home page of the Wisconsin Program Slicing Project.)
+
+Recently, we established some unexpected connections between
+interprocedural dataflow analysis and our previous work on
+interprocedural program slicing.
+In particular, we showed that a large class of interprocedural
+dataflow-analysis problems can be solved by transforming
+them into a special kind of graph-reachability problem.
+This graph-reachability problem can be solved precisely in polynomial time
+by the algorithm originally developed for interprocedural slicing.
+
+I am also interested in the subject of incremental algorithms.
+By an incremental algorithm,
+I mean an algorithm that makes use of the solution to one problem
+instance to find the solution to a ``nearby'' problem instance.
+
+
+
+Categorized Index to Publications
+
+
+Program Slicing, Differencing, Merging, etc.
+
+Overview
+
+
+[icse92]
+
+
+Slicing
+
+
+[dagstuhl96]
+
+[fse94]
+
+[slicing_patent]
+
+David Binkley's Thesis
+
+[acta91]
+
+[toplas90] (also [pldi88])
+
+
+Chopping
+
+
+[fse95b]
+
+
+Differencing
+
+
+[differencing91]
+
+Wuu Yang's Thesis
+
+
+Merging
+
+
+[tosem95]
+
+[tosem92] (also [sigsoft90])
+
+David Binkley's Thesis
+
+Wuu Yang's Thesis
+
+[iwscm89]
+
+[toplas89] (also [popl88a], [esop88], and [iwsvcc88])
+
+
+Algebra of slices (and applications to program merging)
+
+
+[scp91] (also [esop90])
+
+[ccpsd91]
+
+[amast91]
+
+[npfo_submission]
+
+
+Semantics and slicing
+
+
+[tr900]
+
+[ccipl89]
+
+[tr890]
+
+[popl88b]
+
+
+Other applications of slicing
+
+
+[dagstuhl96]
+
+[pepm95a]
+
+
+Implemented slicing system
+
+
+[prog_integration_system]
+
+[prog_integration_manual]
+
+[tr819]
+
+Note: the system described in these papers handles a small subset
+of Pascal.
+The system is distributed under license, which you may obtain by clicking
+here.
+We are currently retargeting the implementation to handle C programs, and
+expect to distribute a system that supports slicing, chopping, and
+differencing (but probably not integration) of C programs in 1996.
+
+
+Miscellaneous
+
+
+[tr947]
+
+
+Ph.D. Theses
+
+
+David Binkley's Thesis
+
+Wuu Yang's Thesis
+
+Phil Pfeiffer's Thesis
+
+
+
+Interprocedural Dataflow Analysis
+
+Demand IDFA via bottom-up logic programming and the magic-sets transformation
+
+
+[ald94] (also [cc94])
+
+
+Exhaustive and Demand IDFA via graph reachability
+
+
+[tr1283] (also [fse95a])
+
+[popl95]
+
+[diku94]
+
+
+IDFA using more than graph reachability
+
+
+[tcs_ide_paper] (also [fase95])
+
+
+PTIME completeness of IDFA
+
+
+[acta_paper]
+
+
+
+Alias Analysis, Pointer Analysis, and Shape Analysis
+
+
+
+[rsw96]
+
+[dagstuhl96]
+
+[tr1323] (also [popl96] and  [tr1276])
+
+[pepm95b]
+
+[pfeiffer_thesis]
+
+[sigplan89]
+
+
+
+Language-Based Program-Development Environments
+
+
+ [fse96]
+ [dagstuhl92]
+ Synthesizer Generator Book
+ Synthesizer Generator Manual
+ [computer87] (also [lape92])
+ [popl86]
+ T. Reps's Thesis
+ [psde84]
+ [toplas83] (also [popl82] and [popl81])
+ [compcon83]
+ [cacm81] (also [ipe84])
+ [stm81] (also [sde81])
+
+
+
+Incremental Computing
+
+
+ G. Ramalingam's Thesis
+ [jalg_paper]
+ [tcs96]
+ [ipl94]
+ [dagstuhl94]
+ [popl94]
+ [popl93]
+ [popl93_notes]
+ Synthesizer Generator Book
+ [acta88]
+ [computer87] (also [lape92])
+ [popl86]
+ T. Reps's Thesis
+ [toplas83] (also [popl82] and [popl81])
+
+
+
+Attribute Grammars
+
+
+ [spaa93]
+ Synthesizer Generator Book
+ Synthesizer Generator Manual
+ [acta88]
+ [toplas87]
+ [popl86]
+ T. Reps's Thesis
+ [psde84]
+ [popl84]
+ [toplas83] (also [popl82] and [popl81])
+ [compcon83]
+
+
+
+
+List of Publications
+
+Books
+
+
+
+Reps, T. and Teitelbaum, T.,
+The Synthesizer Generator: A System for Constructing
+Language-Based Editors.
+Springer-Verlag, New York, NY, 1988.
+
+
+
+Reps, T. and Teitelbaum, T.,
+The Synthesizer Generator Reference Manual: Third Edition.
+Springer-Verlag, New York, NY, 1988.
+
+Chinese reprint published by the World Publishing Corporation,
+Beijing, China, 1991.
+
+
+
+Reps, T.,
+Generating Language-Based Environments.
+The M.I.T. Press, Cambridge, MA, 1984.
+
+Journal Publications
+
+
+
+Sagiv, M., Reps, T., and Horwitz, S.,
+Precise interprocedural dataflow analysis with applications to
+constant propagation.
+To appear in Theoretical Computer Science.
+ tcs-ide.ps 
+
+
+
+Reps, T.,
+On the sequential nature of interprocedural program-analysis problems.
+To appear in Acta Informatica.
+ acta95.ps 
+
+
+
+Ramalingam, G. and Reps, T.,
+An incremental algorithm for a generalization of the shortest-path problem.
+To appear in Journal of Algorithms.
+ j_alg95.ps 
+
+
+
+Ramalingam, G. and Reps, T.,
+On the computational complexity of dynamic graph problems.
+In Theoretical Computer Science A 158 (May 1996), 233-277.
+ tcs96.ps 
+
+
+
+Binkley, D., Horwitz, S., and Reps, T.,
+Program integration for languages with procedure calls.
+ACM Transactions on Software Engineering and Methodology 4, 1
+(January 1995), pp. 3-35.
+ tosem95.ps 
+
+
+
+Ramalingam, G. and Reps, T.,
+On competitive on-line algorithms for the dynamic priority-ordering problem.
+Information Processing Letters 51 (1994), 155-161.
+ ipl94.ps 
+
+
+
+Yang, W., Horwitz, S., and Reps, T.,
+A program integration algorithm that accommodates semantics-preserving
+transformations.
+ACM Transactions on Software Engineering and Methodology 1, 3
+(July 1992), 310-354.
+
+
+
+Reps, T.,
+Algebraic properties of program integration.
+Science of Computer Programming 17 (1991), 139-215.
+ scp91.ps 
+
+
+
+Horwitz, S. and Reps, T.,
+Efficient comparison of program slices.
+Acta Informatica 28 (1991), 713-732.
+
+
+
+Horwitz, S., Reps, T., and Binkley, D.,
+Interprocedural slicing using dependence graphs.
+ACM Transactions on Programming Languages and Systems 12, 1
+(January 1990), 26-60.
+ toplas90.ps 
+
+
+
+Horwitz, S., Prins, J., and Reps, T.,
+Integrating non-interfering versions of programs.
+ACM Transactions on Programming Languages and Systems 11, 3 (July 1989),
+345-387.
+ toplas89.ps 
+
+
+
+Reps, T.
+Incremental evaluation for attribute grammars
+with unrestricted movement between tree modifications.
+Acta Informatica 25 (1988), 155-178.
+
+
+
+Reps, T. and Teitelbaum, T.,
+Language processing in program editors.
+IEEE Computer 20, 11 (November 1987), 29-40.
+
+
+
+Reps, T. and Demers, A.,
+Sublinear-space evaluation algorithms for attribute grammars.
+ACM Transactions on Programming Languages and Systems 9, 3 (July 1987),
+408-440.
+
+
+
+Reps, T., Teitelbaum, T., and Demers, A.,
+Incremental context-dependent analysis for language-based editors.
+ACM Transactions on Programming Languages and Systems 5, 3 (July 1983),
+449-477.
+
+
+
+Teitelbaum, T. and Reps, T.,
+The Cornell Program Synthesizer: A syntax-directed programming environment.
+Communications of the ACM 24, 9 (September 1981), 563-573.
+
+Invited Papers
+
+
+
+Horwitz, S. and Reps, T.,
+The use of program dependence graphs in software engineering.
+In Proceedings of the Fourteenth International Conference
+on Software Engineering, (May 11-15, 1992, Melbourne, Australia),
+ACM, New York, NY, 1992, pp. 392-411.
+ icse92.ps 
+
+
+
+Reps, T. and Horwitz, S.,
+Semantics-based program integration.
+In Proceedings of the Second European Symposium on Programming,
+(Nancy, France, March 21-25, 1988), Lecture Notes in Computer Science,
+Vol. 300, H. Ganzinger (ed.), Springer-Verlag, New York, NY, 1988, pp. 1-20.
+
+Book Chapters
+
+
+
+Reps, T.,
+Demand interprocedural program analysis using logic databases,
+In Applications of Logic Databases,
+R. Ramakrishnan (ed.), Kluwer Academic Publishers, Boston, MA, 1994,
+pp. 163-196.
+ ald94.ps 
+
+
+
+Horwitz, S., Reps, T., and Binkley, D.,
+Interprocedural slicing using dependence graphs.
+In Software Change Impact Analysis,
+S.A. Bohner and R.S. Arnold (eds.), IEEE Computer Society,
+Los Alamitos, CA.
+(To appear.)
+
+Reprinted from
+ACM Transactions on Programming Languages and Systems 12, 1
+(January 1990), 26-60.
+ toplas90.ps 
+
+
+
+Horwitz, S., Reps, T., and Binkley, D.,
+Interprocedural slicing using dependence graphs.
+In Software Merging and Slicing,
+V. Berzins (ed.), IEEE Computer Society, Los Alamitos, CA, pp. 10-44.
+
+Reprinted from
+ACM Transactions on Programming Languages and Systems 12, 1
+(January 1990), 26-60.
+ toplas90.ps 
+
+
+
+Horwitz, S., Prins, J., and Reps, T.,
+Integrating non-interfering versions of programs.
+In Software Merging and Slicing,
+V. Berzins (ed.), IEEE Computer Society, Los Alamitos, CA, pp. 137-179.
+
+Reprinted from
+ACM Transactions on Programming Languages and Systems 11, 3 (July 1989),
+345-387.
+ toplas89.ps 
+
+
+
+Ramalingam, G. and Reps, T.,
+A theory of program modifications.
+In Software Merging and Slicing,
+V. Berzins (ed.), IEEE Computer Society, Los Alamitos, CA, 90-105.
+
+Reprinted from
+Proceedings of the Colloquium on Combining Paradigms
+for Software Development, (Brighton, UK, April 8-12, 1991),
+Lecture Notes in Computer Science, Vol. 494,
+S. Abramsky and T.S.E. Maibaum (eds.),
+Springer-Verlag, New York, NY, 1991, pp. 137-152.
+
+
+
+Reps, T. and Teitelbaum, T.,
+Language processing in program editors.
+In Language Architectures and Programming Environments,
+T. Ichikawa and H. Tsubotani (eds.),
+The World Scientific Publishing Company, Singapore, 1992, pp. 146-169.
+
+Reprinted from IEEE Computer 20, 11 (November 1987), 29-40.
+
+
+
+Teitelbaum, T. and Reps, T.,
+The Cornell Program Synthesizer: A syntax-directed programming environment.
+In Interactive Programming Environments,
+D. Barstow, E. Sandewall, and H. Shrobe (eds.), McGraw-Hill, 1984, pp. 97-116.
+
+Reprinted from Communications of the ACM 24, 9 (September 1981), 563-573.
+
+
+
+Teitelbaum, T., Reps, T., and Horwitz, S.,
+The why and wherefore of the Cornell Program Synthesizer.
+In Software Development Environments, A.I. Wasserman (ed.),
+IEEE Computer Society, Washington, DC, 1981, 64-72.
+
+Reprinted from Proceedings of the ACM SIGPLAN/SIGOA Symposium
+on Text Manipulation, (Portland, OR, June 8-10, 1981),
+ACM SIGPLAN Notices 16, 6 (June 1981), pp. 8-16.
+
+Conference Publications
+
+
+
+Siff, M. and Reps, T.,
+Program generalization for software reuse: From C to C++,
+To appear in SIGSOFT 96: Proceedings of the Fourth ACM SIGSOFT
+Symposium on the Foundations of Software Engineering,
+(San Francisco, CA, October 16-18, 1996),
+ACM SIGSOFT Software Engineering Notes, 1996.
+ fse96.ps 
+
+
+
+Reps, T. and Turnidge, T.,
+Program specialization via program slicing,
+In Proceedings of the Dagstuhl Seminar on Partial Evaluation,
+(Schloss Dagstuhl, Wadern, Germany, Feb. 12-16, 1996),
+Lecture Notes in Computer Science, Vol. 1110,
+O. Danvy, R. Glueck, and P. Thiemann (eds.),
+Springer-Verlag, New York, NY, 1996, pp. 409-429.
+ dagstuhl96.ps 
+
+
+
+Sagiv, M., Reps, T., and Wilhelm, R.,
+Solving shape-analysis problems in languages with destructive updating.
+In Conference Record of the Twenty-Third ACM Symposium
+on Principles of Programming Languages,
+(St. Petersburg, FL, Jan. 22-24, 1996), ACM, New York, NY, 1996, pp. 16-31.
+ popl96.ps 
+
+
+
+Horwitz, S., Reps, T., and Sagiv, M.,
+Demand interprocedural dataflow analysis.
+In SIGSOFT '95: Proceedings of the Third ACM SIGSOFT
+Symposium on the Foundations of Software Engineering,
+(Washington, DC, October 10-13, 1995),
+ACM SIGSOFT Software Engineering Notes 20, 4 (1995), pp. 104-115.
+ fse95a.ps 
+
+
+
+Reps, T. and Rosay, G.,
+Precise interprocedural chopping.
+In SIGSOFT '95: Proceedings of the Third ACM SIGSOFT
+Symposium on the Foundations of Software Engineering,
+(Washington, DC, October 10-13, 1995),
+ACM SIGSOFT Software Engineering Notes 20, 4 (1995), pp. 41-52.
+ fse95b.ps 
+
+
+
+Das, M., Reps, T., and Van Hentenryck, P.
+Semantic foundations of binding-time analysis for imperative programs.
+In PEPM '95: Proceedings of the ACM SIGPLAN Symposium on
+Partial Evaluation and Semantics-Based Program Manipulation,
+(La Jolla, California, June 21-23, 1995),
+ACM, New York, NY, 1995, pp. 100-110.
+ pepm95a.ps 
+
+
+
+Reps, T.,
+Shape analysis as a generalized path problem.
+In PEPM '95: Proceedings of the ACM SIGPLAN Symposium on
+Partial Evaluation and Semantics-Based Program Manipulation,
+(La Jolla, California, June 21-23, 1995),
+ACM, New York, NY, 1995, pp. 1-11.
+ pepm95b.ps 
+
+
+
+Sagiv, M., Reps, T., and Horwitz, S.,
+Precise interprocedural dataflow analysis with applications to
+constant propagation.
+In Proceedings of FASE '95: Colloquium on Formal
+Approaches in Software Engineering, (Aarhus, Denmark, May 22-26, 1995),
+Lecture Notes in Computer Science, Vol. 915,
+P.D. Mosses, M. Nielsen, and M.I. Schwartzbach (eds.), Springer-Verlag,
+New York, NY, 1995, pp. 651-665.
+ tapsoft95.ps 
+
+
+
+Reps, T., Horwitz, S., and Sagiv, M.,
+Precise interprocedural dataflow analysis via graph reachability.
+In Conference Record of the Twenty-Second ACM Symposium
+on Principles of Programming Languages,
+(San Francisco, CA, Jan. 23-25, 1995), pp. 49-61.
+ popl95.ps 
+
+
+
+Reps, T., Horwitz, S., Sagiv, M., and Rosay, G.,
+Speeding up slicing.
+In SIGSOFT '94: Proceedings of the Second ACM SIGSOFT Symposium on
+the Foundations of Software Engineering,
+(New Orleans, LA, December 7-9, 1994),
+ACM SIGSOFT Software Engineering Notes 19, 5 (December 1994), pp. 11-20.
+ fse94.ps 
+
+
+
+Reps, T.,
+Solving demand versions of interprocedural analysis problems.
+In Proceedings of the Fifth International Conference on Compiler
+Construction, (Edinburgh, Scotland, April 7-9, 1994),
+Lecture Notes in Computer Science, Vol. 786, P. Fritzson (ed.),
+Springer-Verlag, New York, NY, 1994, pp. 389-403.
+ cc94.ps 
+
+
+
+Ramalingam, G. and Reps, T.,
+An incremental algorithm for maintaining the dominator tree of a reducible
+flowgraph.
+In Conference Record of the Twenty-First ACM Symposium
+on Principles of Programming Languages, (Portland, OR, Jan. 16-19, 1994),
+pp. 287-296.
+ popl94.ps 
+
+
+
+Reps, T.,
+Scan grammars: Parallel attribute evaluation via data-parallelism.
+In Proceedings of the Fifth ACM Symposium on Parallel Algorithms and
+Architectures, (Velen, Germany, June 30 - July 2, 1993).
+ spaa93.ps 
+
+
+
+Ramalingam, G. and Reps, T.,
+Modification algebras.
+In Proceedings of the Second International Conference on
+Algebraic Methodology and Software Technology (AMAST),
+(Iowa City, Iowa, May 22-24, 1991).
+
+
+
+Ramalingam, G. and Reps, T.,
+A theory of program modifications.
+In Proceedings of the Colloquium on Combining Paradigms
+for Software Development, (Brighton, UK, April 8-12, 1991),
+Lecture Notes in Computer Science, Vol. 494,
+S. Abramsky and T.S.E. Maibaum (eds.),
+Springer-Verlag, New York, NY, 1991, pp. 137-152.
+
+
+
+Yang, W., Horwitz, S., and Reps, T.,
+A program integration algorithm that accommodates semantics-preserving transformations.
+In SIGSOFT '90: Proceedings of the Fourth ACM SIGSOFT Symposium
+on Software Development Environments, (Irvine, CA, December 3-5, 1990),
+ACM Software Engineering Notes 15, 6 (December 1990), pp. 133-143.
+
+
+
+Reps, T.,
+Algebraic properties of program integration.
+In Proceedings of the 3nd European Symposium on Programming
+(Copenhagen, Denmark, May 15-18, 1990),
+Lecture Notes in Computer Science, Vol. 432, N. Jones (ed.),
+Springer-Verlag, New York, NY, 1990, pp. 326-340.
+
+
+
+Reps, T. and Bricker, T.,
+Illustrating interference in interfering versions of programs.
+In Proceedings of the Second International Workshop on Software
+Configuration Management, (Princeton, NJ, October 24-27, 1989),
+ACM Software Engineering Notes 17, 7 (November 1989), pp. 46-55.
+
+
+
+Horwitz, S., Pfeiffer, P., and Reps, T.,
+Dependence analysis for pointer variables.
+In Proceedings of the ACM SIGPLAN 89 Conference on Programming Language
+Design and Implementation, (Portland, OR, June 21-23, 1989),
+ACM SIGPLAN Notices 24, 7 (July 1989), pp. 28-40.
+
+
+
+Reps, T. and Yang, W.,
+The semantics of program slicing and program integration.
+In Proceedings of the Colloquium on Current Issues
+in Programming Languages, (Barcelona, Spain, March 13-17, 1989),
+Lecture Notes in Computer Science, Vol. 352,
+J. Diaz and F. Orejas (eds.), Springer-Verlag, New York, NY, 1989,
+pp. 360-374.
+
+
+
+Horwitz, S., Reps, T., and Binkley, D.,
+Interprocedural slicing using dependence graphs.
+In Proceedings of the ACM SIGPLAN 88 Conference on Programming
+Language Design and Implementation, (Atlanta, GA, June 22-24, 1988),
+ACM SIGPLAN Notices 23, 7 (July 1988),  pp. 35-46.
+
+
+
+Reps, T., Horwitz, S., and Prins, J.,
+Support for integrating program variants in an environment for
+programming in the large.
+In Proceedings of the International Workshop on Software Version
+and Configuration Control, (Grassau, W. Germany, Jan. 27-29, 1988),
+Berichte des German Chapter of the ACM, Vol. 30, J.F.H. Winkler (ed.),
+B.G. Teubner, Stuttgart, W. Germany, 1988, pp. 197-216.
+
+
+
+Horwitz, S., Prins, J., and Reps, T.,
+Integrating non-interfering versions of programs.
+In Conference Record of the Fifteenth ACM Symposium on Principles of
+Programming Languages, (San Diego, CA, January 13-15, 1988),
+ACM, New York, NY, 1988, pp. 133-145.
+
+
+
+Horwitz, S., Prins, J., and Reps, T.,
+On the adequacy of program dependence graphs for representing programs.
+In Conference Record of the Fifteenth ACM Symposium on Principles of
+Programming Languages, (San Diego, CA, January 13-15, 1988),
+ACM, New York, NY, 1988, pp. 146-157.
+ popl88b.ps 
+
+
+
+Reps, T., Marceau, C., and Teitelbaum, T.,
+Remote attribute updating for language-based editors.
+In Conference Record of the Thirteenth ACM Symposium on Principles of
+Programming Languages, (St. Petersburg, FL, January 13-15, 1986),
+ACM, New York, NY, 1986, pp. 1-13.
+
+
+
+Reps, T. and Teitelbaum, T.,
+The Synthesizer Generator.
+In Proceedings of the ACM SIGSOFT/SIGPLAN Software Engineering
+Symposium on Practical Software Development Environments,
+(Pittsburgh, PA, April 23-25, 1984),
+ACM SIGPLAN Notices 19, 5 (May 1984),  pp. 42-48.
+
+
+
+Reps, T. and Alpern, B.,
+Interactive proof checking.
+In Conference Record of the Eleventh ACM Symposium on
+Principles of Programming Languages,
+(Salt Lake City, Utah, January 15-18, 1984),
+ACM, New York, NY, 1984, pp. 36-45.
+
+
+
+Reps, T.,
+Static-semantic analysis in language-based editors.
+In Digest of Papers of the IEEE Spring CompCon 83,
+(San Francisco, CA, March 1-3, 1983),
+IEEE Computer Society, Washington, DC, 1983, pp. 411-414.
+
+
+
+Reps, T.,
+Optimal-time incremental semantic analysis for syntax-directed editors.
+In Conference Record of the Ninth ACM Symposium on Principles
+of Programming Languages, (Albuquerque, NM, January 25-27, 1982),
+ACM, New York, NY, 1982, pp. 169-176.
+
+
+
+Teitelbaum, T., Reps, T., and Horwitz, S.,
+The why and wherefore of the Cornell Program Synthesizer.
+In Proceedings of the ACM SIGPLAN/SIGOA Symposium on Text Manipulation,
+(Portland, OR, June 8-10, 1981),
+ACM SIGPLAN Notices 16, 6 (June 1981),  pp. 8-16.
+
+
+
+Demers, A., Reps, T., and Teitelbaum, T.,
+Incremental evaluation for attribute grammars with application to
+syntax-directed editors.
+In Conference Record of the Eighth ACM Symposium on Principles
+of Programming Languages, (Williamsburg, VA, January 26-28, 1981),
+ACM, New York, NY, 1981, pp. 105-116.
+
+Software
+
+
+
+Reps, T., Bricker, T., Rosay, G., et al.,
+The Wisconsin Program-Integration System.
+Release 0.5, April 1990;
+Release 1.0, April 1992.
+Release 2.0, July 1993.
+Licensed to 9 sites.
+(Click here
+for license information.)
+
+Patents
+
+
+
+Reps, T., Horwitz, S., and Binkley, D.,
+Interprocedural slicing of computer programs using dependence graphs.
+U.S. Patent Number 5,161,216, November 3, 1992.
+
+Pending Submissions
+
+
+
+Reps, T., Sagiv, M., and Wilhelm, R.,
+Solving shape-analysis problems in languages with destructive updating.
+TR-1323, Computer Sciences Department,
+University of Wisconsin, Madison, WI, August 1996.
+ tr1323.ps 
+
+Submitted for journal publication.
+
+
+
+Horwitz, S., Reps, T., and Sagiv, M.,
+Demand interprocedural dataflow analysis.
+TR-1283, Computer Sciences Department, University of Wisconsin,
+Madison, WI, August 1995.
+(Click here to access paper.
+Click  here 
+to access the latest version.)
+
+Submitted for journal publication.
+
+
+
+Ramalingam, G. and Reps, T.,
+New programs from old.
+TR-1057,
+Computer Sciences Department, University of Wisconsin-Madison, November 1991.
+(Click  here 
+to access the latest version.)
+
+Submitted for journal publication.
+
+Other Publications and Reports
+
+
+
+Reps, T., Sagiv, M., and Wilhelm, R.,
+On shape abstractions and shape analyses.
+Computer Sciences Department, University of Wisconsin,
+Madison, WI, July 1996.
+
+
+
+Reps, T., Sagiv, M., and Wilhelm, R.,
+Solving shape-analysis problems in languages with destructive updating.
+TR-1276, Computer Sciences Department,
+University of Wisconsin, Madison, WI, July 1995.
+ tr1276.ps 
+
+
+
+van Leeuwen, J., Mehlhorn, K., and Reps, T. (eds.),
+Incremental computation and dynamic algorithms.
+Dagstuhl Seminar Report 88,
+International Conference and Research Center for Computer Science (IBFI),
+Schloss Dagstuhl, Wadern, Germany, 1994.
+
+
+
+Reps, T., Sagiv, M., and Horwitz S.,
+Interprocedural dataflow analysis via graph reachability.
+TR 94-14, Datalogisk Institut, University of Copenhagen,
+Copenhagen, Denmark, April 1994.
+ diku-tr94-14.ps 
+
+
+
+Reps, T.,
+The Wisconsin Program-Integration System Reference Manual: Release 2.0.
+Computer Sciences Department, University of Wisconsin-Madison,
+July 1993.
+manual.2.0.ps
+
+
+
+Ramalingam, G. and Reps, T.,
+A categorized bibliography on incremental computation.
+In Conference Record of the Twentieth ACM Symposium
+on Principles of Programming Languages, (Charleston, SC, Jan. 11-13, 1993),
+ACM, New York, NY, 1993, pp. 502-510.
+(Tutorial paper.)
+
+
+
+Reps, T.,
+Incremental computation.
+Unpublished tutorial notes, 1993.
+(Presented at the Twentieth ACM Symposium on Principles of Programming Languages, (Charleston, SC, Jan. 11-13, 1993).)
+
+
+
+Klint, P., Reps, T., and Snelting, G. (eds.),
+Programming environments.
+Dagstuhl Seminar Report 34, 
+International Conference and Research Center for Computer Science (IBFI),
+Schloss Dagstuhl, Wadern, Germany, 1992.
+
+
+
+Binkley, D., Horwitz, S., and Reps, T.,
+Identifying semantic differences in programs with procedures (Extended
+abstract).
+Computer Sciences Department, University of Wisconsin-Madison,
+September 1991.
+
+
+
+Ball, T., Horwitz, S., and Reps, T.,
+Correctness of an algorithm for reconstituting a program from a dependence graph.
+TR-947, Computer Sciences Department, University of Wisconsin-Madison,
+July 1990.
+(Click here to access paper.)
+
+
+
+Ramalingam, G. and Reps, T.,
+Semantics of program representation graphs.
+TR-900, Computer Sciences Department, University of Wisconsin-Madison,
+December 1989.
+(Click here to access paper.)
+
+
+
+Binkley, D., Horwitz, S., and Reps, T.,
+The multi-procedure equivalence theorem.
+TR-890, Computer Sciences Department, University of Wisconsin-Madison,
+November 1989.
+(Click here to access paper.)
+
+
+
+Reps, T.
+Demonstration of a prototype tool for program integration.
+TR-819, Computer Sciences Department, University of Wisconsin-Madison,
+January 1989.
+(Click here to access paper.)
+
+
+Visitors, Post-Docs, and Students
+
+Visitors
+
+ Mooly Sagiv,
+IBM Israel Scientific Center, 1994-95.
+
+ Jiazhen Cai, NYU, 1990-91.
+
+ Robert Paige,
+NYU, 1990-91.
+
+Post-Doctoral Associates
+
+  Wuu Yang 
+(Ph.D., Univ. of Wisconsin), 1990-91.
+(Currently Associate Professor, Department of Computer and Information Science,
+National Chiao-Tung University, Taiwan.)
+
+  Jan Prins 
+(Ph.D., Cornell Univ.), 1986-87.
+(Currently Associate Professor, Department of Computer Science,
+University of North Carolina, Chapel Hill.)
+
+Students
+
+
+
+Ramalingam, G.,
+Bounded Incremental Computation,
+Lecture Notes in Computer Science, Vol. 1089,
+Springer-Verlag, New York, NY, 1996.
+
+
+Binkley, D.,
+Multi-procedure program integration.
+Ph.D. dissertation and Tech. Rep. TR-1038,
+Computer Sciences Department, University of Wisconsin,
+Madison, WI, August 1991.
+(Click here to access paper.)
+
+
+
+Pfeiffer, P.,
+Dependence-based representations for programs with reference variables.
+Ph.D. dissertation and Tech. Rep. TR-1037,
+Computer Sciences Department, University of Wisconsin,
+Madison, WI, August 1991.
+(Click here to access paper.)
+
+
+Yang, W.,
+A new algorithm for semantics-based program
+integration.
+Ph.D. dissertation and Tech. Rep. TR-962, Computer Sciences Department,
+University of Wisconsin, Madison, WI, August 1990.
+(Click here to access paper.)
+
+
+

@@ -1,0 +1,31 @@
+Date: Thu, 21 Nov 1996 19:18:00 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Content-length: 1001
+Last-modified: Tue, 08 Oct 1996 18:57:46 GMT
+
+
+ I-Ling Yen
+
+
+
+ 
+  
+
+
+I-Ling Yen
+
+
+
+
+
+Assistant Professor. 
+ Ph.D., University of Houston
+
+
+
+My research interests include modular programming for parallel systems, object-oriented programming, parallel languages, multi-media programming environments, parallel and distributed data structures and algorithms, processor allocation and load balancing, high performance resilient programs.
+
+
+ email: yen@cps.msu.edu 
+

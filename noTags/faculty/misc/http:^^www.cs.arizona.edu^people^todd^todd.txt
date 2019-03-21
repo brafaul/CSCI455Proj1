@@ -1,0 +1,203 @@
+Date: Thu, 21 Nov 1996 19:51:04 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 11 Nov 1996 20:20:59 GMT
+Content-length: 5556
+
+
+
+
+	Todd Proebsting
+	
+
+
+
+
+ Todd Proebsting's Home Page 
+
+
+
+
+Todd is an Assistant Professor of Computer Science at the
+University of Arizona,
+where he conducts research in compiler related areas.
+Todd's longterm goal is to set up the "Uniprocessor Research Lab."
+
+ During the Fall 1996 semester, Todd is teaching undergraduate compilers,
+CS 453,
+and a graduate seminar on Java Language Implementation,
+CS 620.
+
+ Todd plays first base for the 
+Geek Gods.
+
+ He holds a B.A. degree in Mathematics from
+Carleton College,
+and M.S. and Ph.D. degrees in Computer Science from
+University of Wisconsin-Madison.
+
+
+
+
+
+  Research Projects 
+
+
+
+ Todd leads the  Sumatra Project,
+	which investigates high-performance mobile code.
+	The projects first project is a "reference compiler" for Java, 
+	 Toba ,
+	which is a Java-bytecode-to-C translation system that yields very
+	efficient (but non-mobile) Java executables.
+	
+
+
+
+  On-line Help 
+
+
+
+ 
+	Windows 95 for Moms,
+	Todd A. Proebsting,
+	On-line answers to routine Windows 95 questions, which should be easy to find in the documentation, but aren't.
+	
+
+
+
+  Tech Reports 
+
+
+
+ 
+	Very Fast YACC-Compatible Parsers (For Very Little Effort),
+	Achyutram Bhamidipaty and Todd A. Proebsting,
+Technical Report 95-09.
+	
+
+
+
+  Unpublished 
+
+
+
+ 
+	Induction Operators and Intermediate Forms,
+Christopher W. Fraser and
+	Todd A. Proebsting
+	 
+	Custom Instruction Sets For Code Compression,
+Christopher W. Fraser and
+	Todd A. Proebsting
+	
+
+
+
+
+  Published 
+
+
+
+ 
+	One-Pass, Optimal Tree Parsing - With Or Without Trees,
+	Todd A. Proebsting and Benjamin R. Whaley,
+CC'96 April 1996.
+	 
+	Filter Fusion,
+	Todd A. Proebsting and Scott A. Watterson,
+POPL'96, January 1996.
+	
+
+	Optimizing an ANSI C Interpreter with Superoperators,
+	Todd A. Proebsting,
+POPL'95, January 1995, pages 322--332.
+	
+
+	DCG: An Efficient, Retargetable Dynamic Code Generation System,
+Dawson R. Engler
+	and Todd A. Proebsting,
+ASPLOS'94, October 1994, pages 263--273.
+	
+
+	Detecting Pipeline Structural Hazards Quickly,
+	Todd A. Proebsting and
+	Christopher W. Fraser and
+	
+POPL'94, January 1994, pages 280--287.
+	
+
+
+
+ Workshops 
+
+
+
+
+Todd was Program Chairman for the Inaugural Workshop on Compiler Support for Systems Software (WCSSS'96).
+
+	
+
+
+
+
+ Software 
+
+
+
+
+	Press on
+	BURG
+	to get a compressed shar file of the BURG code-generator generator
+	system.
+	BURG is based on tree-pattern matching and dynamic programming.
+	
+	Press on
+	IBURG to
+	go to the IBURG home page where you can get the IBURG code-generator
+	generator system.
+	IBURG is compatible with
+	BURG.
+	IBURG produces slower code generators, but does so very quickly.
+	
+
+
+
+
+
+
+
+
+  Office Hours 
+
+
+
+ 2:00-3:00 MW, 1:00-2:00 T, or by appointment.
+	
+
+
+
+
+
+
+
+Department of Computer Science
+The University of Arizona
+Gould-Simpson Building, Room 727
+1040 E. Fourth St.
+P.O. Box 210077
+Tucson, AZ  85721-0077
+
+
+
+(520) 621-4326
+(520) 621-4246 [FAX]
+
+todd@cs.arizona.edu
+
+
+
+
+
+
+

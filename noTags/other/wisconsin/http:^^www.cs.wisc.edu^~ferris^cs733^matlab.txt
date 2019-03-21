@@ -1,0 +1,80 @@
+Date: Mon, 11 Nov 1996 17:26:53 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 23 Jan 1996 21:12:51 GMT
+Content-length: 1904
+
+
+
+ CS 733: Instructions to set up MATLAB 
+
+
+CS 733: Instructions to set up MATLAB
+ Introduction 
+
+Most of the assignments for this course will be carried out with the
+aid of MATLAB, an interactive package for high performance scientific
+computing.  To set up your ``sol'' account to use MATLAB, the
+following should be carried out.
+
+If logged in directly to a sol (e.g. sol10) then:
+
+At the unix prompt, immediately after you login, carry out the following:
+  
+
+sol10> mkdir matlab
+sol10> cp /u/c/s/cs733-1/public/startup.m  ~/matlab/startup.m
+sol10> xterm -g 80x40 -e matlab &
+
+
+The last command should set up a separate window from in which matlab
+is running.  You can then use your favourite editor in the login
+window to create any `m' files that you might need for your work.  All
+the `m' files that are created by the instructor as well as the
+homework and project data files in the public directory:
+
+
+  /u/c/s/cs733-1/public  
+
+  
+are now available to you for use in MATLAB. 
+
+For all homework assignments you should hand in your results produced 
+as follows:
+ 
+
+sol10> matlab
+>> diary hwk1.lst
+>> load hwk1 
+>> .....whatever homework 1 requires 
+>> diary off
+>> exit
+sol10> print hwk1.lst
+
+Remote Unix Machine Users
+
+Suppose that the machine you are logged on is not a sol, but is called
+cheddar.  On a cheddar window you do the following:
+
+
+cheddar> xhost +sol10
+
+
+
+In the sol10 window on cheddar:
+
+
+sol10> setenv DISPLAY cheddar:0
+sol10> matlab
+
+ Other Relevant Links 
+ 
+	Introduction to UNIX at UW
+ MATLAB Primer (CS 412, Handout #1, available at MACC).
+   
+	MATLAB home page
+
+ This page was updated January 23, 1996.
+
+
+

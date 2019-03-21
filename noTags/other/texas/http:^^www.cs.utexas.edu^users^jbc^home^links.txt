@@ -1,0 +1,213 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:05:30 GMT
+Content-Type: text/html
+Content-Length: 7139
+Last-Modified: Wednesday, 04-Dec-96 19:15:44 GMT
+
+
+
+
+John B. Chambers: Interesting Places
+
+
+
+
+Under Construction
+
+
+1996 November 15-- My hot lists are being reorganized
+(almost constantly, it seems).
+However, nothing has been removed in a long time, so if you're looking for
+something in particular, it's still here ... somewhere ....
+
+
+
+Archives
+Computer Science Bibliographies (
+    ftp ,
+    www )
+
+	Computational Mathematics 
+
+    Information Security Institute 
+
+    Intelligent Manufacturing Systems 
+
+    Internet Drafts
+
+    Netlib 
+
+    OR/MS Virtual Library 
+
+    Perl Archives (Florida) 
+
+    Random Number Generation 
+
+    Site Security Handbook 
+
+    TechHelper 
+
+E-Journals
+ 
+	The Intranet Journal
+ 
+	Los Alamos Combinatorics E-print Server 
+ 
+	World Combinatorics Exchange 
+ 
+	WWW Virtual Library 
+ 
+	WWW Virtual Library Electronic Journals Catalog 
+
+Education
+ 
+	CAUSE/EFFECT 
+
+Employment Information
+ 
+	Academic Position Network 
+ 
+	America's Help Wanted 
+ 
+	AMS Career Info 
+ 
+	Career Connections 
+ 
+	Career Planning Center @ NAS  (beginning sci/eng)
+	Chronicle of Higher Education (
+	gopher , 
+	www )
+ 
+	Computing Research Association Job List 
+ 
+	Job Bank USA 
+ 
+	Online Career Center 
+ 
+	Science JobNet 
+ 
+	Texas Employment Commission 
+	University of Texas (
+	
+	UTCAT Plus
+	 ,
+	
+	dpweb
+	 )
+ 
+	UT JobNet
+ 
+	Young Scientist Network 
+
+Grant Information
+ 
+	NSF 
+ 
+	UT Research Funding Page  (lots of links)
+ 
+	Young Scientist Network 
+
+Net Resources
+ 
+	EINet Galaxy 
+	Electronic Newstand
+	(
+	Gopher ,
+	
+	Web )
+ 
+	Stanford GIFs and Graphics
+	
+ 
+	USENET search
+	
+
+Organizations
+ 
+	American Association for the Advancement of Science
+	 (Science magazine)
+ 
+	American Association for Artificial Intelligence 
+ 
+	American Mathematical Society 
+ 
+	Association for Computing Machinery 
+ 
+	Computing Research Association 
+ 
+	IEEE Computer Society 
+ 
+	INFORMS Online and
+	
+	Practice Online
+ 
+	International Society of Applied Intelligence 
+ 
+	National Academy of Science  (+NAE/NRC/etc)
+ 
+	Operational Research Society 
+ 
+	Society for Industrial and Applied Mathematics 
+ 
+	Tech Expo Directory of High Tech Companies and Products 
+ 
+	USENIX/SAGE 
+
+People and Their Pages
+	Brian Borcher's
+	
+ 
+		Combinatorial optimization bibliography 
+
+ 
+	Tony Hoare's 
+
+ 
+		1993-94 Sabbatical Papers 
+
+ 
+	Gene Spafford's 
+
+ 
+		COAST Project 
+
+	Michael Trick's
+	
+ 
+		Operations Research Page 
+
+
+Vendors, Booksellers, etc.
+ 
+	Baltzer Science Publishers 
+ 
+	Black Box Catalog 
+ 
+	Cambridge University Press 
+ 
+	DEC Direct 
+ 
+	Federal Express 
+ 
+	MasterCard 
+ 
+	Net Center 
+ 
+	O'Reilly and Associates 
+ 
+	Other bookstores 
+ 
+	Still more publishers 
+ 
+	UPS 
+ 
+	VocalTec (Internet Phone purveyors) 
+ 
+	Whole Earth Provision Company 
+
+
+Non-tech Miscellany
+
+
+

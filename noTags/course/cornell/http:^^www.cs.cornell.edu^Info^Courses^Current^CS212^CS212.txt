@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 20:18:10 GMT
+Content-Type: text/html
+Content-Length: 1736
+Last-Modified: Monday, 21-Oct-96 17:29:26 GMT
+
+
+
+
+
+CS212 Home Page
+
+
+
+CS212
+ Structure and Interpretation of Computer Programs
+Computer Science Department
+    Cornell University
+    Fall 1996
+
+
+
+ 
+Course Materials 
+(Access to course materials requires a user-id and password which you can request by attempting to access the materials)
+
+Course Info
+
+
+Dylan Interpreter (New window)
+
+Dylan Interpreter (This window)
+                              
+(Note, some Web browsers, including Netscape, do not correctly check for changed Java class files.  Thus when NOODLLE is changed you may see inconsistent behavior. Here's how to fix it.)
+
+If you are working with a parter, link you directories with the PartnerJoin Utility.
+
+
+Announcements
+

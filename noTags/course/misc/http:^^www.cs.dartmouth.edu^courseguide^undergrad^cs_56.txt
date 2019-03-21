@@ -1,0 +1,30 @@
+Date: Wed, 20 Nov 1996 22:12:21 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 03 Sep 1996 13:09:11 GMT
+Content-length: 898
+
+
+Numerical Analysis
+
+Numerical Analysis
+(Computer Science 56)
+Identical to Mathematics 56
+Times: 98S: Arrange 
+Prerequisite: Computer Science 5 and Mathematics 33, or permission of the instructor. 
+Dist: QDS 
+
+
+This course introduces the student to the concepts of modern numerical analysis. The main emphasis will be
+on developing effective numerical methods to solve problems in ordinary and partial differential equations.
+Other topics will be chosen from optimization, approximation, Fourier Transform, and Monte Carlo
+methods. The specific content will depend in part on the instructor. Offered in alternate years. 
+
+
+
+
+
+Back to Dartmouth CS Home Page
+
+
+

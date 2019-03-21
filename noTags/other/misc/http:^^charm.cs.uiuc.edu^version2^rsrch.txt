@@ -1,0 +1,82 @@
+Date: Tue, 14 Jan 1997 21:37:08 GMT
+Server: Apache/0.8.8
+Content-type: text/html
+Content-length: 4142
+Last-modified: Tue, 19 Nov 1996 17:34:26 GMT
+
+
+ Parallel Programming Laboratory: Research 
+
+
+
+Parallel Programming Laboratory Research
+ Tools
+ Applications
+
+
+
+Converse
+runtime system for interoperable languages.
+
+
+Charm/Charm++,
+message-driven languages.
+
+
+Structured Dagger
+synchronization language.
+
+
+Fast Multipole Algorithm.
+
+
+Parallel Simulation
+languages and algorithms.
+
+
+Graph Algorithms and parallel Sorting.
+
+
+Dynamic Load Balancing strategies.
+
+
+Projections
+performance Feedback and Analysis tool.
+
+
+Paradise
+system for automatic runtime optimizations.
+
+
+Dagtool
+visual programming tool.
+
+
+Computational Fluid
+Dynamics research.
+
+
+AI / Search
+algorithms, including branch and bound.
+
+
+DP, Data Parallel
+Fortran with message-driven efficiency.
+
+
+mdPerl,
+Message-driven Perl.
+
+
+
+[Home]
+ [Map]
+ [Papers]
+ [Manuals]
+ [Presentations]
+ [Download]
+ [Group]
+ [Links]
+ [Private]
+ [Questions]
+

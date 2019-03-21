@@ -1,0 +1,120 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 22:49:07 GMT
+Content-Type: text/html
+Content-Length: 3653
+Last-Modified: Wednesday, 04-Oct-95 21:09:15 GMT
+
+
+Zen Timer Code
+
+Zen Timer Code
+
+I have implemented a class library in C++ that uses an undocumented
+feature of the Intel(tm)
+Pentium(tm) processor to very precisely time your executable code for
+purposes of profiling. Information about this feature and other
+undocumented Pentium features is available
+here. Simultaneous timing of any
+number of routines is supported, as well as suspending and resuming
+the timing at any point during the timed interval.
+
+
+
+This code was inspired by Michael Abrash's excellent book  Zen of Code
+Optimization.
+
+
+
+My code works by accessing a 64-bit register in the Intel Pentium
+processor that is incremented on every clock cycle.  On a 100 MHZ
+Pentium, this gives a clock resolution of 10 nanoseconds (one cycle),
+and a maximum time interval of about 5,800 years.
+
+
+
+This code keeps track of the minimum, maximum, and average time
+intervals for the pieces of code that you are profiling.  In addition,
+it is possible to specify a dribble file that will record every
+interval of time measured.
+
+
+
+This code has been implemented and tested on a Pentium running Linux
+1.2.13 with gcc 2.7.0 and the GNU assembler version
+cygnus/linux-2.5.2l.15.  To use this code, you must patch your
+assembler with the supplied patch file.
+
+
+
+Click here to download a copy of the
+Zen timer code.
+
+
+
+Click here to
+download a copy of the patch file for the GNU assembler.
+
+
+
+Click here to download a test program
+that makes use of the timer code.
+
+
+
+I also developed two useful utilities for use with the Zen Timer.
+The first converts a time dribble file into an ascii (human
+readable) version.
+
+
+
+Click here to download the time2ascii
+code.
+
+
+
+The second converts a time dribble file into an ascii histogram file
+(suitable for use with a spreadsheet for example).
+
+
+
+click here to download the time2histo
+code.
+
+
+An important note on accounting for the overhead caused by the
+timer itself
+
+
+The zen timer introduces some overhead into every timed interval by
+virtue of it having to execute a few instructions to do the profiling.
+In an attempt to account for this overhead, I have defined some macros
+in the file zentimer.h that have overhead values that work for my
+system.
+
+
+
+I have, however, found that there are a number of different factors
+that can affect the overhead introduced by running the timer.  In
+particular, I suggest that you not use x-windows while using the timer
+as it seems to add particularly unpredictable overheads to the timing
+results.  Also, different disks, or a different system board can cause
+these overheads to change.  You should try running the timer on your
+system with my small test program, and see if you get an average
+interval of 0 cycles.  If not, adjust the overhead macros in
+zentimer.h until you do.
+
+
+
+
+
+  Last updated 10/03/95
+Mark Johnstone.
+  Any  suggestions, comments welcome.
+Department of Computer Sciences
+  at  UT Austin 
+
+  Click to send e-mail to 
+  Mark Johnstone 
+
+

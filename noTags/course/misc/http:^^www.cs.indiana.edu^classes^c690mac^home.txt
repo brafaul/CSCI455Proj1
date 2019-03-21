@@ -1,0 +1,92 @@
+Date: Wed, 20 Nov 1996 22:28:43 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 3360
+Last-modified: Sun, 28 Apr 1996 02:02:49 GMT
+
+
+
+ 
+Mind and Computation Main Page
+
+
+
+Mind and Computation Main Page
+C690: Mind and Computation, 1995-6
+
+
+
+The Mind and Computation Seminar features talks
+by IU graduate students and faculty and occasional visitors on
+topics in artificial intelligence, other areas of computational
+cognitive science, and human-computar interaction.  All Computer
+Science students doing or considering research in AI are encouraged to
+enroll.  Enrollees who have already passed the Computer Science
+Screening Examination will be expected to present one talk during the
+academic year, either on their own research or on a survey of a topic
+of general interest.  Others will be expected to attend regularly.
+
+
+
+The Seminar is offered as a 1-credit course
+in both the fall and spring semesters.  In order to receive credit for
+more than one semester, students must make at least one presentation
+to the group for every two semesters in which they are enrolled.  For
+students who have passed the Computer Science
+Screening Exam, this will normally take
+the form of a 50-minute talk on their own research.  For less advanced
+students, the presentation will usually consist of a 20-minute talk,
+either on their own research or on an area of current interest in AI.
+
+
+
+Graduate students from departments other than Computer Science are
+also welcome to enroll, and people not enrolled are welcome to
+attend the talks.
+
+
+
+There are six or seven MaC meetings each semester, Fridays, 3:30-4:30 in
+Lindley Hall 102.
+
+Fall Schedule
+
+Sept. 22: Pei Wang (IU Computer Science)
+Sept. 29: John Rehling (IU Computer Science)
+Oct. 6: David Leake (IU Computer Science)
+Nov. 3: Andy Kinley and Dave Wilson (IU Computer Science)
+Nov. 17: Jonathan Mills (IU Computer Science)
+Dec. 8: Kyle Wagner (IU Computer Science)
+
+
+Spring Schedule
+
+ Jan. 26: Bob Port (IU Linguistics and Computer Science)
+ Feb. 16: Georg Dorffner (University of Vienna)
+ Mar. 1: Doug Eck
+and Mike Gasser (IU Computer Science)
+ Mar. 22: Jim Newkirk (IU Computer Science)
+ Apr. 5: Jenett Tillotson and Matthias Scheutz
+(IU Computer Science)
+ Apr. 26: Pantelis Papadopoulos (IU Computer Science)
+
+
+
+
+
+
+
+
+
+
+Last updated: 26 April 1996
+URL: http://www.cs.indiana.edu/classes/c690mac/home.html
+Comments: gasser@salsa.indiana.edu
+Copyright 1996,
+The Trustees of
+Indiana University
+
+
+
+
+

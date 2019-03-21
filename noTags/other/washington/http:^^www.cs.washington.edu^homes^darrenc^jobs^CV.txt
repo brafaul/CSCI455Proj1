@@ -1,0 +1,130 @@
+Date: Tue, 10 Dec 1996 17:53:43 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 16 Jan 1996 01:56:57 GMT
+Content-length: 3939
+
+
+
+Curriculum Vita for DARREN C. CRONQUIST
+
+DARREN C. CRONQUIST
+
+
+
+Department of Comp. Sci. and Eng.           
+University of Washington                    
+Box 352350                                  
+Seattle, WA 98195-2350                      
+
+
+darrenc@cs.washington.edu                  
+(206) 616-1853 (Weekdays)
+(206) 726-8216 (Evenings/Machine)
+http://www.cs.washington.edu/homes/darrenc/
+
+
+
+
+Education
+
+University of Washington                       
+Major Field:  VLSI                             
+Research interests: Field programmable logic devices and synthesis
+methods, each with application to efficient data-intensive
+computation.
+Cumulative GPA 3.8/4.0
+
+Ph.D. expected: 1997
+M.S.: December 1994
+
+
+
+
+University of Arizona                              
+Major Field:  Electrical Engineering
+Cumulative GPA 3.96/4.00
+
+B.S.E.: May 1992
+
+
+Publications
+
+D. C. Cronquist and L. McMurchie, ``Emerald -- An Architecture-Driven
+Tool Compiler for FPGAs,'' to appear in Proceedings of the Fourth
+International Symposium on Field-Programmable Gate Arrays, 1996.
+
+
+
+
+D. C. Cronquist and S. M. Burns, ``Synthesis and Analysis of a
+Delay-Insensitive Folded FIFO,'' Proceedings of the ACM Workshop
+of Timing Issues in the Specification and Synthesis of Digital Systems
+(TAU), pp 176-184, 1995.
+
+
+
+
+D. C. Cronquist, ``Simultaneous Place and Route for Wire-Constrained
+FPGAs,'' TR #95-03-01, University of Washington, 1995.
+
+
+Honors
+
+IBM Fellowship
+Summa Cum Laude, B.S.E., University of Arizona
+Eta Kappa Nu Honor Society
+Phi Kappa Phi Freshman Achievement Award
+
+1996
+1992
+1990-1992
+1989
+
+WorkExperience
+
+Research Assistant
+University of Washington Comp. Sci. & Eng.
+Contributed to the research and development of Emerald, a system
+for the exploration of new FPGA architectures and synthesis tools,
+and (in progress) RaPiD, a programmable logic device targeting
+applications with intense computation and data requirements.
+1993-1995
+
+
+
+Teaching Assistant: CSE 321 Discrete Structures
+University of Washington Comp. Sci. & Eng.
+Fall 1992
+
+
+
+
+Software Design Engineer
+Microsoft, Redmond, WA.
+Visual Basic 4.0 Development Group                    
+Windows 4.0 Test Development Group                    
+Windows 3.1 Test Development Group                    
+OS/2 Test Development Group                           
+Worked on variety of projects including the design of a DLL to
+query hardware configuration in preparation for OS/2 testing,
+the development of the application 'Stress' for the Windows 3.1
+SDK, and the improvement of printing support for Visual Basic 4.
+
+
+Summer 1993
+Summer 1992
+Summer 1991
+Summer 1990
+
+
+
+
+Computer Programmer
+Universal Insurance Services, Phoenix, AZ.
+Summer 1989
+
+
+References available upon request.
+
+

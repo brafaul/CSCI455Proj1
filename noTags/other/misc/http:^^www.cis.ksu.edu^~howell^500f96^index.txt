@@ -1,0 +1,80 @@
+Date: Tue, 14 Jan 1997 20:22:02 GMT
+Server: NCSA/1.5.2
+Last-modified: Tue, 17 Dec 1996 22:49:22 GMT
+Content-type: text/html
+Content-length: 2587
+
+CIS 500
+Course materials for CIS 500, Fall '96
+
+ Syllabus - updated 9/25: Due dates for Projects 2 and 3 delayed.
+   
+ Hypertext
+ Postscript
+
+ Project #1 - Due September 9
+   
+ Hypertext
+ Postscript
+ 1st input file
+ 2nd input file
+
+ Homework #1 - Due September 19
+   
+ Hypertext
+ Postscript
+ Hypertext solutions
+ Postscript solutions
+
+ Homework #2 - Due October 3 - typos corrected 10/1.
+   
+ Hypertext
+ Postscript
+ Hypertext solutions
+ Postscript solutions
+
+ Project #2 - Due October 14
+   
+ Hypertext
+ Postscript
+ Input files
+
+ Project #3 - Due November 4
+   
+ Hypertext
+ Postscript
+ Input file.  Note:  The contents of this file
+        were extracted from the Stanford GraphBase, copyright 1993, Stanford
+        University; however, the file itself is not part of the Stanford
+        GraphBase.
+   
+ Project #4 - Due November 18
+   
+ Hypertext
+ Postscript
+ Input
+
+ Homework #4 - Due November 14
+   
+ Solutions
+
+ Homework #5 - Due Dec. 5
+   
+ From 1st Ed. of text
+ From 2nd Ed. of text
+  Solutions
+
+ Project #5 - Due December 9
+   
+ Hypertext
+ Postscript
+ Input
+ Notes
+ Output for 2nd input file
+
+
+
+
+Rod Howell
+(howell@cis.ksu.edu)
+

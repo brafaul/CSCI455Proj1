@@ -1,0 +1,65 @@
+Date: Mon, 04 Nov 1996 23:44:00 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sun, 08 Oct 1995 22:43:55 GMT
+Content-length: 2642
+
+
+
+
+To Appear: Supercomputing '95, Dec. 1995.
+HTML version (with figures) at http://www.cs.wisc.edu/~chilimbi/paper/StormWatch_SC95_1.html
+ 
+
+
+
+
+
+StormWatch:
+A Tool for Visualizing Memory System Protocols
+
+
+Authors:
+Trishul M. Chilimbi
+Computer Sciences Department
+University of Wisconsin-Madison
+chilimbi@cs.wisc.edu
+http://www.cs.wisc.edu/~chilimbi/chilimbi.html
+Thomas Ball
+Software Production Research Dept.
+AT&T Bell Laboratories
+tball@research.att.com
+http://www.research.att.com/orgs/ssr/people/tball/
+Stephen G. Eick
+Software Production Research Dept.
+AT&T Bell Laboratories
+eick@research.att.com
+http://www.research.att.com/orgs/ssr/people/eick/
+James R. Larus
+Computer Sciences Department
+University of Wisconsin-Madison
+larus@cs.wisc.edu
+http://www.cs.wisc.edu/~larus/larus.html
+
+
+Keywords:
+parallel programming, shared-memory, message passing, software coherence protocols, visualization tools
+
+
+
+                                                        Abstract
+1   - Introduction
+2   - Custom Protocols
+3   - Traces
+4   - Three Views into Parallel Execution
+5   - Experience and Benchmarks 
+6   - Related Work
+7   - Conclusions 
+  References
+
+
+  - 27 MAR 95
+
+Generated with CERN WebMaker
+
+

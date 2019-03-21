@@ -1,0 +1,43 @@
+Date: Thu, 21 Nov 1996 20:23:41 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 22 Jun 1994 16:06:57 GMT
+Content-type: text/html
+Content-length: 999
+
+Harandi, Mehdi
+
+Mehdi T. Harandi
+
+
+Areas of research interest:
+
+
+Artificial Intelligence
+:  Automatic Programming; Knowledge Based Systems
+Software Engineering:  Specifications
+& Prototyping; Design Tools & Environments
+
+Research Group:
+
+
+Advanced Collaborative Systems Laboratory(ACSL)
+
+
+Administrative help:
+
+
+Anda Harney
+
+
+3122 Digital Computer Laboratory
+1304 West Springfield Avenue
+Urbana, IL 61801
+
+(217) 333-4865
+(217) 333-3501- fax
+harandi@cs.uiuc.edu
+
+
+
+
+Go back to Faculty Index

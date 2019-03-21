@@ -1,0 +1,96 @@
+Date: Tue, 05 Nov 1996 00:23:53 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+
+
+
+Univeristy of Wisconsin - Madison Robotics Lab. Technical Reports
+
+
+
+ UW-Madison Robotics Lab. Technical Reports 
+
+Most of these reports are available in compressed postscript form
+via anonymous ftp from
+robios8.me.wisc.edu.
+
+
+ S. Hert, V. Lumelsky,  Polygon Area Decomposition for Multiple-Robot
+Workspace Division Tech. Report RL-96003, September 1996.
+
+ S. Hert, V. Lumelsky,  Deforming Curves in the Plane for 
+Tethered-Robot Motion Planning Tech. Report RL-96002, April 1996.
+
+ A. Shkel, V. Lumelsky,  Sensor-based motion planning: The
+Maximum Turn Strategy, Tech. Report RL-95003, November 1995.
+
+ S. Hert, D. Reznik,  The Simulation Library: A Basis for Animation
+Programs Version 2.0, Tech. Report RL-95002, July 1995.
+
+ S. Hert, S. Tiwari, and V. Lumelsky A Terrain-Covering Algorithm for
+an AUV, Tech. Report RL-95001, July 1995.
+
+ A. Shkel, V. Lumelsky,
+The Jogger's Problem: Accounting for body dynamics in real-time motion
+planning, Tech. Report RL-94007, December 1994.
+
+ S. Hert, V. Lumelsky, 
+Moving multiple tethered robots between arbitrary configurations, 
+Tech. Report RL-94006, December 1994.
+
+ S. Hert, V. Lumelsky, 
+ The Ties that Bind: Motion Planning for Multiple Tethered Robots, 
+Tech. Report RL-94005, May 1994.
+
+ V. Lumelsky, S. Tiwari,  Velocity Bounds for Motion
+Planning in the Presence of Moving Planar Obstacles,
+Tech. Report RL-94004
+, May 1994.
+
+ V. Lumelsky, S. Tiwari,  On using the compass instead
+of dead reckoning in mobile robot navigation, 
+Tech. Report RL-94003, May 1994.
+
+ S. Hert, V. Lumelsky, 
+ Computational Geometry Issues in the Tethered Robot Problem, 
+Tech. Report RL-94002, February 1994.
+
+ K.R. Harinarayan, V. Lumelsky,  Sensor-Based Motion
+Planning for Multiple Robots in an Uncertain Environment ,
+Tech. Report RL-94001, January 1994.
+
+ D. Reznik, V. Lumelsky,  Multi-Finger "Hugging":
+A Robust Approach to Sensor-Based Grasp Planning,
+Tech. Report RL-93003, October 1993.
+
+ D. Reznik, V. Lumelsky,  Sensor-Based Motion Planning  for
+Highly Redundant Kinematic Structures. II. The Case of a Snake
+Arm Manipulator, Tech. Report RL-93002, May 1993.
+
+ S. Hert, D. Reznik,  K.R. Harinarayan, 
+ The Simulation Library: A Basis for Robot Animation Programs ,
+Tech. Report RL-93001, May 1993.
+
+  S. Seaney, B. Stankovic,  Design and Construction of the
+Human Tester Algorithm Experiment Booth , 
+Tech. Report RL-92004,
+July 1992.
+
+ V. Lumelsky, S. Tiwari,  Real-Time Motion Planning
+for RRR Arm Manipulators: The Case of Convex Obstacles ,
+Tech. Report RL-92003, December 1992.
+
+ K. Kutulakos, V. Lumelsky, C. Dyer,  Vision-Guided
+Exploration: A Step Toward General Motion Planning in Three
+Dimensions, Tech. Report RL-92002, October 1992.
+
+  S. Seaney, V.  Lumelsky, Experimental Analysis of
+Performance of a Capacitance Proximity Sesnor,
+Tech. Report RL-92001, April 1992.
+
+ V. Lumelsky, D. Reznik, Motion Planning with Uncertainty for
+Highly Redundant Kinematic Structures. I. "Free Snake" Motion,
+Tech. Report RL-91001, September 1991.
+
+
+

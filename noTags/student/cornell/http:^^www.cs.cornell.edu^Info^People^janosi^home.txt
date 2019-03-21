@@ -1,0 +1,25 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:49:06 GMT
+Content-Type: text/html
+Content-Length: 588
+Last-Modified: Wednesday, 10-Apr-96 03:39:17 GMT
+
+Tibor Jánosi
+Tibor Jánosi
+
+
+Welcome to my
+
+WWW Home Page.
+
+
+
+ Permanently Under Construction
+
+Office: 4132 Upson Hall, Cornell University, Ithaca, NY 14850, USA
+Office Phone: +1 607 255-1179
+
+Interesting Sites:
+Project Zeno
+Tibor Jánosi (janosi@CS.Cornell.EDU)

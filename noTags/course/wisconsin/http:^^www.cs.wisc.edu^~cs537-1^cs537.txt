@@ -1,0 +1,578 @@
+Date: Thu, 07 Nov 1996 19:24:02 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 22:24:20 GMT
+Content-length: 19459
+
+
+
+CS 537 - Introduction to Operating Systems - Fall 1996
+
+
+
+CS 537Introduction to  Operating SystemsSection 1, Fall 1996
+
+Instructor
+
+
+Marvin Solomon
+
+ 
+
+office:  7397 Computer Sciences
+office hours:  9:00 TR
+office phone:  263-2844
+email address:
+ solomon@cs.wisc.edu 
+
+TA
+
+
+Rob Mellencamp 
+
+ 
+
+office:  1349 Computer Sciences
+office hours:  10-11 MWF
+office phone:  262-5340
+email address:
+ mellen@cs.wisc.edu 
+
+ News 
+ Watch this space for the latest updates. 
+
+Oct 31
+
+The  answers to the midterm exam 
+and a summary of the scores are now available.
+
+A  more detailed breakdown of the grade distribution
+is also available.
+
+Oct 27
+
+The specification for
+
+Project 4
+
+is now avaiable.
+
+Oct 21
+
+The due date for Project 3 has been moved to Thursday, Oct 24.
+
+A few typographical errors in the notes on
+ Deadlock Avoidance 
+have been corrected.  Most importantly, the same array
+was being called D in some places and M in others.
+It is now called M in all places.
+
+By popular demand, an  old midterm exam  is
+available for you to look at.
+Warning:
+You should take this example with a large grain of salt.
+The exam is from a very long time ago when the course
+used a different text and covered topics in a different order.
+This semester's midterm will likely
+be quite different.
+
+Oct 15
+
+The time and place for the Midterm exam have been determined.
+It will be in room 1240 Comp Sci from 7:15 to 9:15 pm on October 23.
+
+Oct 14
+
+The specification for
+
+Project 3
+
+is now avaiable.
+
+Oct 9
+
+A discussion of the issues presented
+in class to day is available.
+
+Oct 8
+
+A summary of the grades for project 1 are
+ available.
+
+Oct 6
+
+The electronic 
+hand-in directions for
+program 2 have now been posted.
+
+Oct 1
+
+The procedure giveFork in Algorithm 2 of the
+Project 2 specification
+should contain a call to notify().
+The web page has been corrected to show this.
+
+Sept 26
+
+I've fixed two more bugs in the
+Project 2 specification,
+one minor and one that is more important.
+
+The first caused the Introduction paragraph to be slightly garbled.
+Thanks to Jake Dawley-Carr for pointing this one out.
+
+The second was a line omitted from the sample code for Algorithm I in the
+Programming Details
+section.
+After you create a ThreadScheduler, you have to start it
+
+  ThreadScheduler sched = new ThreadScheduler();
+  sched.start();
+
+This was specified correctly in the later section on the ThreadScheduler, 
+but not in the Details section.  The Web page is now fixed.
+Thanks to Liping Zhang for this one.
+
+Sept 20
+
+Test data files for 
+
+Project 2
+
+are now available.
+The directory
+
+~cs537-1/public/src
+
+contains three data files and a Java class for reading them.
+The file
+
+~cs537-1/public/src/Graph.java
+
+contains the definition of the class
+
+Graph
+
+described in the project specification.
+
+The file
+
+~cs537-1/public/src/petersonCyclic.graph
+
+contains the Peterson graph shown in the project specification
+ 
+As mentioned there, this initial placement of forks is not
+acyclic.
+The file
+
+~cs537-1/public/src/petersonAcyclic.graph
+
+contains the Peterson graph with an acyclic initial placement of forks.
+The file
+
+~cs537-1/public/src/star.graph
+
+contains a ``star'' topology, with one central philosopher sharing
+forks with each of nine others.
+
+Sept 19
+
+Todd Jenner pointed out two typos in the specification for Project 2
+   ``The 15 forks ... are the numbers 0 through 15.''
+should read 
+   ``The 15 forks ... are the numbers 0 through 14.''
+and in eat(), MAXTHINK should be replaced by MAXEAT.
+
+The 
+
+online version
+
+has been corrected.
+Thanks, Todd.
+
+Sept 18
+
+There was a mistake in the
+
+Java tutorial notes
+ in the section on Strings.
+In the two-argument version of String.substring(), the second argument
+is the offset of the end of the substring, not the number of characters
+in the string.
+The notes have been corrected.
+Thanks to Franco Tung Fai Chan for pointing this out.
+Sept 17
+
+
+We occasionally send urgent messages directly to a mailing list
+of students registered for this course.
+There is an 
+archive of all messages sent to this list on the web.
+If you are not receiving these messages and think you should be, send
+mail to solomon@cs.wisc.edu.
+The specification for
+
+Project 2
+
+is now avaiable.
+I have received a few requests for makefiles for Java.
+There is a sample Makefile in 
+~cs537-1/public/src/Makefile.
+Copy that file to the working directory where your Java source files are
+(remember, you should use a separate directory for each project),
+edit it as described in the comments in it, and then type make
+to compile and run your program, or make classes to compile
+without running.
+
+Sept 13
+
+Notes on handing in your assignment and simulating 
+preemptive multitasking for the Solaris computers
+have been added here.
+Sept 12
+
+The 
+
+Java tutorial
+
+is now finished (or about as finished as it's going to get).
+In the section on
+
+threads,
+
+you will find some helpful hints on how to structure
+ project 1.
+
+You should be aware that there is a weekly seminar on operating systems
+and networking, meeting Mondays at 2:30.
+The first seminar of the semester is Monday the 16th.
+Check
+
+the Colloquia and Seminars web page
+ for more details.
+Sept 5
+
+The Java Book is finally available at the
+University Bookstore!
+Sept 4
+
+The beginnings of a
+
+Java tutorial
+ are now available.
+Sept 4
+
+To use Java on CS Department Unix workstations, you must create a
+file named .cshrc.local in your home directory containing one
+line:
+
+    set path=($path /s/java/bin)
+
+To make the change take effect, either type
+
+    source .cshrc.local
+
+or simply log out and log back in.
+Sept 3
+
+The specification for
+ project 1  is ready.
+Sept 3
+The Unix Orientation Sessions, for all new Unix users, are scheduled for
+the following times:
+
+
+Tues - Thurs, Sept 3 - 54 pm and 6pm, room 1221 CS
+
+Mon - Thurs, Sept 9 - 124 pm, room 1221 CS
+
+
+
+Last updated:
+Wed Sep  4 14:10:06 CDT 1996
+
+
+
+Contents
+
+         News
+     Summary
+     Lecture Information
+         Text
+     Projects
+     Grading
+     Course Schedule
+         Lecture Notes
+
+
+  Summary  
+
+CS 537 is intended as a general introduction to the techniques used
+to implement operating systems and related kinds of systems software.
+Among the topics covered will be
+process management (creation, synchronization, and communication);
+processor scheduling;
+deadlock prevention, avoidance, and recovery;
+main-memory management;
+virtual memory management (swapping, paging, segmentation and page-replacement
+algorithms);
+control of disks and other input/output devices;
+file-system structure and implementation;
+and protection and security.
+
+  Lecture Information  
+Lecture:  11:00 - 12:15 Tuesday and Thursday, 1221 Computer Sciences
+and Statistics
+
+Discussion:  11:00 - 11:50 Wednesday, 107 Psychology
+
+
+The discussion section is not ``optional'':  it is at least as important as the 
+lectures.
+The primary focus of the Wednesday meetings will be topics related to the
+projects
+(including introduction to the
+Java
+programming language), but time will also be available for answering any
+questions you have regarding points raised in the the lectures or the
+text.
+
+ Text 
+ Required 
+Modern Operating Systems
+by Andrew S. Tanenbaum,
+Prentice Hall, 1992.
+
+ Strongly Recommended 
+The Java Programming Language
+by  Ken Arnold and James Gosling,
+Addison Wesley, 1996.
+
+ Online References 
+
+Lots of additional helpful materials about Java are available on the WEB.
+
+The following references have been collected locally for fast access.
+
+The Java Tutorial
+The Java Language Specification
+Java API Documentation
+
+Watch this spot for additional links to the web.
+
+ Projects 
+
+There will be five programming projects, all in the
+Java
+programming language.
+Sun SparcStation workstations running the Solaris dialect of the Unix
+operating system are provided for your use, but you may use any
+computer to which you have access that implements the Java programming
+language.
+However, if you do not use the Computer Sciences Department's computers, 
+you will be responsible for transferring any required
+data sets or software packages to your computer.
+
+The first assignment will be an easy ``get acquainted'' exercise designed
+to help you become familiar with the computing environment and the
+Java language.
+Subsequent projects will involve
+process synchronization,
+processor scheduling,
+disk scheduling,
+and file-system implementation.
+On all but the first project, students will be required to work in pairs.
+Both members of a pair will receive the same grade on a project.
+Feel free to discuss projects with anyone, but
+
+you must not share code with anyone but your partner.
+
+
+Cheating will be vigorously punished.
+
+Enough said!
+
+
+Assignments are due at the beginning of class (11 a.m.) on the date
+indicated.
+Over the entire semester, you have
+three late days
+of credit.
+You can use these late days on different assignments (e.g., one day on each
+of three assignments) or all three days on one assignment.
+Late days may not be used for the last assignment.
+
+ Why Java? 
+
+Most students taking this course will be familiar with C++ but not Java.
+Why, then, did we choose Java?
+There are several arguments in favor of it.
+
+Java is a more congenial programming environment.
+Runtime errors such as bad subscripts, null pointers,
+and uninitialized variables cause exceptions caught by the language runtime
+rather than mysterious crashes or random behavior.
+Java Strings are much easier to use than char *
+arrays.  Garbage collected storage management is extremely handy.
+And more!
+Java is very trendy.
+Java had caught on faster than any other new language in history.
+Many of the reasons for Java's growing popularity have little to do with
+the way we will use it in this course (we will discuss these issues in class),
+but a byproduct of this course
+will be knowledge of Java, which is becoming quite a marketable commodity.
+Java has ``operating system'' features built in.
+In particular, it is the first widely-used programming language with
+language-level support for concurrency (threads) and synchronization
+(monitors).
+
+
+On the other hand, switching to a new programming language is always
+a bit dislocating.
+Fortunately, there are excellent resources are available to ease the
+transition.
+The Java Programming Language
+by Arnold and Gosling is amazingly good.
+It is neither an introductory programming primer (the authors assume you
+already know how to program)
+nor a reference manual (although a
+reference manual
+is available online),
+but a readable introduction to the language, which takes you all to the way
+from getting started to everything you need to write quite sophisticated
+programs in Java.
+This book is available at the University Bookstore.
+You are strongly encouraged to buy it.
+We have also gathered a variety of
+other resources together, including a nice
+online tutorial
+about Java programming, and
+a reference manual
+for the standard class libraries you will be using.
+
+  Grading  
+
+There will be a midterm and a final exam, each of which will count for 25%
+of your grade.
+The midterm will be in the evening of Wednesday, October 23
+from 7:15 to 9:15 pm in room 1240, Computer Sciences and Statistics.
+The final, as scheduled in the timetable, will be Tuesday, December 17
+at 5:05 p.m.
+The first programming project (getting started) will count for 2% of your
+grade.
+The remaining four projects will count for 12% each.
+
+  Course Schedule  
+
+The following schedule is tentative;
+it may be updated later in the semester, so check back here frequently.
+
+
+Sept 3 - 6
+    Introduction
+    Chapter 1
+Sept 10 - Oct 8
+    Processes, Synchronization, Processor Scheduling
+    Chapters 2 and 6
+Sept 17
+     Project 1  Due
+    Learning Java
+Oct 10
+     Project 2  Due
+    Synchronization
+Oct 10 - Nov 11
+    Memory Management and Virtual Memory
+    Chapter 3
+Oct 22
+     Project 3  Due
+    CPU Scheduling
+Oct 23
+    Midterm Exam
+Room 1240 Comp Sci.
+Nov 14 - Dec 5
+    I/O Devices, File Systems
+    Chapters 4 and 5
+Nov 14
+    Project 4  Due
+    Disk Scheduling
+Dec 10 - 12
+    Protection and Security
+    Sections 4.4 and 4.5
+Dec 12
+    Project 5 Due
+    File Systems
+Dec 17
+    Final Exam
+
+  Lecture Notes  
+
+Introduction
+
+     History
+         What is an OS For?
+     Bottom-up View
+     Top-Down View
+     Course Outline
+
+ Java for C++ Programmers
+ Processes and Synchronization
+
+ Using Processes 
+ What is a Process? 
+ Why Use Processes 
+ Creating Processes 
+ Process States 
+ Synchronization 
+
+ Race Conditions 
+ Semaphores 
+ The Bounded Buffer Problem 
+The Dining Philosophers 
+Monitors 
+ Messages 
+
+ Deadlock
+
+ Terminology 
+ Deadlock Detection 
+ Deadlock Recovery 
+ Deadlock Prevention 
+ Deadlock Avoidance 
+
+ Implementing Processes
+
+ Implementing Monitors 
+ Implementing Semaphores 
+ Implementing Critical Sections 
+ Short-term Scheduling 
+
+
+Memory Management 
+
+ Allocating Main Memory 
+
+ Algorithms for Memory Management 
+ Compaction and Garbage Collection 
+ Swapping 
+
+
+Paging 
+Disks 
+ More to come ...
+
+
+
+
+
+
+solomon@cs.wisc.edu
+
+
+Thu Oct 31 16:24:20 CST 1996
+
+
+
+Copyright © 1996 by Marvin Solomon.  All rights reserved.
+
+
+

@@ -1,0 +1,66 @@
+Date: Mon, 11 Nov 1996 17:16:57 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sat, 31 Aug 1996 20:43:41 GMT
+Content-length: 2412
+
+
+
+CS302:  E-mail info for Chad's section(s)
+
+
+
+
+E-mail Information
+
+
+Electronic mail is a convenient way for people to communicate, and
+will sometimes be used to disseminate information to class members 
+between class
+meetings (the home page will be used first, though).  
+Students are also encouraged to communicate via e-mail
+using either the e-mail list, or by sending 
+e-mail directly to me.  When sending e-mail, make
+certain that you have a brief, informative subject line, so that others
+can easily determine the content of your message.
+
+Class E-mail List
+Our class has a "mailing list" associated with it that we will use
+this semester.  The e-mail address is cs302-13list.
+E-mail sent to this e-mail list will be received by me 
+and all class members registered for this section.  
+You may also send e-mail to
+this list, and you are encouraged to do so for the following purposes:
+
+Forming study groups, or
+  discussion of course material
+  (I may or may not participate in such discussion, but such discussions
+  are often useful to the participants as well as onlookers).
+
+Sending E-mail to me (
+hcl@cs.wisc.edu)
+You are welcome to send e-mail to me, and I will do my best to answer your
+questions or other concerns promptly.  However, to avoid being swamped by
+e-mail, I will follow this e-mail reply policy:
+
+
+Office visits take priority over e-mail.  Thus if I have
+e-mail pending and also students waiting at my office, I will attend
+to the students first and then e-mail.
+
+I will give priority to e-mail of general concern.  Thus
+e-mail pertaining to important/relevant class material or problems with
+my assignments will be handled first.  Questions that are narrow in scope,
+such as debugging problems that pertain to an individual student, will
+be handled when possible (consultants in the lab should be your first
+line of attack).
+
+I can't guarantee that I will reply to all e-mail.  Though,
+I will try my best to do so.
+
+
+
+Last Modified:  Aug 31 1996 by H. Chad Lane
+
+
+

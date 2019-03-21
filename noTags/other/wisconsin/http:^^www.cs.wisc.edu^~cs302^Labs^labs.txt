@@ -1,0 +1,33 @@
+Date: Tue, 05 Nov 1996 00:33:21 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sun, 10 Sep 1995 02:38:38 GMT
+Content-length: 943
+
+
+
+Microcomputer Laboratories
+
+
+Microcomputer Laboratories
+
+Room 1350 Computer Science and Statistics
+Laboratory for all CS302 students
+
+  CAE Laboratories
+Laboratories with Borland C++ 4.0 for engineering students only.
+
+  B122 Computer Science and Statistics
+From here, You can access the Borland C++ compiler and your files from
+      the network in room 1350.  However, consultants for CS302 are in
+      the CS1350 lab only.  You may need to use this lab if room CS1350 is
+      reserved, or if the printer server for the 1350 lab is down.  This lab
+      is open 24 hours/day, and a student ID card is required.
+
+
+Last modified: Sat Sep  9 18:12:41 1995 by Jim Skrentny
+
+< 
+	CS302 home page >
+
+

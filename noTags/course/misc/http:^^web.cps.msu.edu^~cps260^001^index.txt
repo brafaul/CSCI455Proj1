@@ -1,0 +1,48 @@
+Date: Tue, 14 Jan 1997 20:12:37 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Content-length: 1392
+Last-modified: Mon, 16 Dec 1996 19:53:36 GMT
+
+
+
+CPS260, Section 1
+
+
+ Course: CPS260 - Discrete Structures in Computer Science
+ Section 001
+
+ Instructor Information 
+Professor: Stephen W. Turner
+ Office: A-723 Wells Hall
+ Office Hours: M W F 2:45-3:45
+ Email: turner@cps.msu.edu
+
+ TA Information 
+TA: Radhika Srivatsa
+ Office: 314 EB
+ Office Hours: 11:00-1:00 MWF
+
+
+
+ Final Exam 
+
+ [click here] 
+for the information on the final.
+
+
+
+ Final Grades 
+
+ [click here] 
+for the information on the final.  The last 5 digits of your student number will be next to your grade.
+
+
+ Course Information:
+
+ view/download Syllabus
+Notes
+Homework and Solutions
+Quiz and Exam Scores
+
+

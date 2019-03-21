@@ -1,0 +1,366 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:02:11 GMT
+Content-Type: text/html
+Content-Length: 8369
+Last-Modified: Tuesday, 22-Oct-96 20:19:58 GMT
+
+
+
+Alan Heirich: Research in Parallel Computing and Computational Science
+(load balancing, mapping, rendering)
+
+
+
+
+
+
+
+
+Alan Heirich
+
+Computational Scientist
+
+
+
+California Institute of Technology
+
+Center for Advanced Computing Research
+
+Department of Computer Science
+
+
+
+ Email: heirich@caltech.edu
+ Phone: (818) 395-4600
+ Fax:   (818) 584-5917
+ Snail mail: 158-79 Caltech, Pasadena CA 91125 USA
+
+
+ This page is permanently under construction! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The results of some parallel
+global illumination calculations performed on the 
+IBM SP2s
+at Caltech's 
+Center for Advanced Computing Research
+and the 
+Cornell Theory Center.
+Click on these images for the full size versions 
+(they look best in 24 bit color).
+Models provided by 
+
+Greg Ward 
+
+and Anat Grynberg, 
+Lawrence Berkeley Laboratories,
+by 
+Jim Arvo
+(butterfly),
+and 
+Eric Haines 
+(SPD database).
+
+
+
+Interests:
+
+
+
+Diffusion algorithms.
+
+Computer Graphics.
+
+Cluster computers.
+
+Parallel computing, scientific computing.
+
+Parallel rendering and animation.
+
+Parallel mapping and load balancing.
+
+Computational fluid dynamics.
+
+Finite element analysis.
+
+NASTRAN (language for structural FEA).
+
+Nonlinear programming and optimization.
+
+Nonlinear dynamical systems and bifurcation theory.
+
+
+ Recent Refereed Publications: 
+
+
+A Scalable Diffusion Algorithm for
+Dynamic Mapping and Load Balancing
+on Networks of Arbitrary Topology.
+
+
+(To appear in the International Journal of Foundations of Computer Science).
+
+
+
+Scalable Photorealistic Rendering of Complex Scenes.
+
+
+To appear in the proceedings of the 
+
+First Eurographics Workshop on Parallel Graphics and Visualization.
+
+
+(Under consideration for publication in Parallel Computing).
+
+
+
+A Parabolic Load Balancing Method.
+
+
+1995 International Conference on Parallel Processing
+"outstanding paper". 
+
+
+
+(Click 
+here 
+for a related talk by Y.F. Hu).
+
+
+ Miscellania. 
+
+
+I am the organizer for the informal
+C.A.C.R. 
+Journal Club.
+
+
+
+It looks like I will graduate very soon,
+here is an
+abstract of the dissertation defense.
+
+
+
+Here is a bibliography of Diffusion in Parallel Computing
+
+
+ I gratefully acknowledge support from the following sources: 
+
+National Science Foundation, Graduate Fellowship Program.
+
+NSF Center for Research on Parallel Computation.
+
+Cornell Program of Computer Graphics, NSF project ASC-9523483.
+
+Caltech Center for Advanced Computing Research.
+
+Advanced Research Projects Agency, ARPA contract N00014-91-J-1986.
+
+
+ Honors/horrors. 
+
+Program Committee Member,
+Parallel Rendering Symposium,
+Phoenix, Arizona,
+October 1997.
+
+
+Program Committee Member,
+ISATA
+dedicated conference on
+simulation, diagnosis and virtual reality applications
+in the automotive industry,
+Florence, Italy,
+June 1997.
+
+
+Program Committee Member,
+ISATA
+dedicated conference on
+computational fluid dynamics and supercomputing in the 
+automotive industry,
+Florence, Italy,
+June 1996.
+
+
+"Outstanding paper",
+1995 International Conference on Parallel Processing.
+
+
+Society for Industrial and Applied Mathematics,
+student member, 1992.
+
+
+National Science Foundation Graduate Fellow,
+1989.
+ 
+
+Honors in Computer Science,
+The University of Michigan, 
+1986.
+
+
+Regents Alumni Scholar,
+The University of Michigan,
+1978.
+
+
+National Merit Finalist, 1978.
+
+
+Finalist, Michigan Mathematics Competition, 1977.
+
+
+
+
+
+Rogues Gallery: some places I have worked
+
+
+ Research notes, and (interesting?) tidbits: 
+
+
+
+
+Scalable photorealistic rendering.
+
+
+
+
+
+
+Diffusion Algorithms
+
+
+Presented at the 1996 
+
+Center for Research on Parallel Computation
+
+Annual Meeting
+
+
+
+
+
+
+Multibody fluid dynamics (with O. Schreiber)
+
+
+
+
+
+Topological Search
+
+
+Recursive search
+for fixed points of functions of two parameters
+or one complex parameter.
+Applications include nonconvex optimization,
+roots of polynomials,
+and geometric intersection.
+Immune to roundoff.
+
+
+
+Skeptical that topology has relevance to computer programs?
+Check  this  out.
+
+
+
+
+
+Nonlinear Scaling and Speedup
+
+
+Some non-obvious sources in numerical calculations.
+
+
+
+
+
+Mapping, Sorting, and Load Balancing
+
+
+
+
+CS-TR-94-04: Dynamic Load Balancing 
+(Lengthy!)
+
+
+
+To read a brief summary of CS-TR-94-04
+Press Here.
+
+
+
+
+
+
+Revenge of the humanists
+
+
+A rebuttal to a silly talk by L.A. Times/Wired columnist
+Michael Schrage.
+
+
+
+ Other home pages: 
+
+
+
+
+California Institute of Technology
+
+
+
+
+
+Cornell Theory Center
+
+
+
+
+
+Cornell Program of Computer Graphics
+
+
+
+
+
+Caltech Department of Computer Science
+
+
+
+
+
+Caltech Department of Applied Mathematics
+
+
+
+
+
+Caltech Center for Advanced Computing Research
+
+
+
+
+heirich@caltech.edu, 13 June 1995
+
+
+
+
+

@@ -1,0 +1,57 @@
+Date: Mon, 11 Nov 1996 17:19:37 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 08 Nov 1996 22:04:46 GMT
+Content-length: 4183
+
+
+
+CS 110 Section 1 - Announcements
+
+
+ Announcements
+
+
+Make sure to check these announcements and reminders on a regular basis to keep up-to-date with the latest news and changes.
+
+[11/8/96] REMINDER
+   Remember to send me your email address. If you do not, program 0 will
+not be graded (We should have them back to you by Monday).
+[11/8/96] Week2 Notes up, due date extended for Program 1
+   Program 1 is now due Wed, 11/13 at 5:00. REMEMBER to turn in a printed
+copy of your work or if will not be graded. You must turn it in before the
+deadline to avoid late days.
+[11/1/96] DOS/FORTRAN steps fixed on Web; Week1 lecture notes up
+   There were a few differences between what I covered in class on Wed. and what the "What to do in DOS/FORTRAN" page said; The Web page has been fixed,
+so you should be able to follow the steps there to write and run your programs.
+Also, the Week1 lecture notes are up (click on the menu in the main page where
+it says Lecture Notes).
+[10/26/96] Program0 is available
+   Program0 will get you used to working on Microsoft Fortran, as well as the few basic DOS commands that you'll need in the future. Also, it will give you a sense of how the directories are arranged for class. I will be in the lab during my office hours (11-12:30 W, 2:30-4 Th) this week for help.
+[10/26/96] Read our home page thoroughly:
+   Please make sure that you have read everything in the class home page thoroughly. It contains everything you need to know about this course: gradesheets, late policy, academic misconduct, etc. This constitutes a "class handout" so you are required to be familiar with everything in it.
+[10/26/96] Class Mailing List:
+   Please send me a piece of E-mail from the same account you normally read your E-mail from (e.g. your-name@students.wisc.edu) or otherwise somehow let me know your E-mail address so that I can add you to the class mailing list. Note that this is part of program 0 See the program 0 web page for more details.
+
+Click here to send me E-mail.
+   
+
+
+
+
+ Reminders
+
+
+Logging Out:
+   Remember to exit Windows to logout before you leave the lab.  Otherwise the next person has complete access to your account (e.g. change your password, delete your files, etc).  Also remember to remove your floppy disk before you go.  In case you forget make sure you have your name, class and section number written on all your disks so that they can be returned to you.
+Sending and Reading E-mail:
+   The default when you first run the E-mail program is to use your Computer Science E-mail account (i.e. your-name@cs.wisc.edu).  However, you probably want to use your WiscWorld account most of the time (i.e. your-name@students.wisc.edu).  To change this go to the "Special" menu in the E-mail program, select the "Configuration" menu option and change the "account name" to your-name@students.wisc.edu.  When you send me E-mail make sure you send it from the account you will read your E-mail from because I will reply to the same account that you E-mailed me from.
+Forwarding E-mail:
+   To forward all the E-mail sent to your Computer Science account to your WiscWorld account you need to talk to the PC lab administrator on the 2nd floor of the Computer Science building.
+
+
+
+
+Copyright © 1996 Modified from Gareth S. Bestor (bestor@cs.wisc.edu).  Last modified August 30, 1996.
+
+

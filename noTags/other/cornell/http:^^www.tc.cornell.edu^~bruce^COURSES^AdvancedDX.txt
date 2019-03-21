@@ -1,0 +1,95 @@
+Date: Sun, 24 Nov 1996 23:09:04 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 20 Aug 1996 18:53:06 GMT
+Content-length: 2487
+
+
+
+
+Advnaced DX topics
+
+
+  Workshop on Advanced Topics in High Performance Computing 
+ August 20, 1996
+ Data Explorer for Scientific Visualization. 
+
+  Vis Introduction:
+
+ Examples
+	
+ 
+	 Recent VIS Projects 
+ 
+	A Molecular graphics workshop 
+
+ Development
+	
+ 
+	Virtual Reality
+  WorkSpace 
+	&  WorkSpace example
+  VPLA 
+
+ Software
+	
+  Data Explorer 
+	(Attempts to launch DX--requires some
+	 hacks. )
+	 RenderMan
+	 3DIX
+	
+
+
+ Data Explorer: 
+
+ Introduction
+	
+ 
+	 training materials 
+
+ Applications
+	
+  Curvature-based rendering
+ A Generic VIS application
+	
+ Modules/Macros
+	
+
+	VR module 
+  Shadow generation
+ 
+	An OpenGL-based DX stereo Image module 
+  
+	Chemistry Suite  
+	A  DX program 
+	which uses some of the modules and its 
+	 output.
+  Other Macros 
+
+ Utilities
+	
+ 
+	DX to VRML 
+ 
+	DX to MPEG 
+ DX to RenderMan RIB
+	 DX to Abekas A66 recorder
+	
+ Teaching
+	
+ 
+	Computer Science 418
+ 
+	Student animation 
+ Student projects
+		
+  93-94 
+ 
+		94-95
+ 
+		95-96
+
+
+
+

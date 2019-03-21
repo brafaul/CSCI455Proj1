@@ -1,0 +1,54 @@
+Date: Thu, 21 Nov 1996 20:59:25 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 16 Aug 1996 19:24:59 GMT
+Content-type: text/html
+Content-length: 1501
+
+
+
+William E. Groves's Home Page
+
+
+
+William E. Groves
+ Adjunct Associate Professor 
+
+Contact Information
+
+Information Technology Services
+University of North Carolina at Chapel Hill
+CB #3420, Abernathy Hall
+Chapel Hill, NC 27599-3420
+
+(919) 962-5317 (Voice)
+
+To send me e-mail, click here: bill_groves@unc.edu
+
+Other Appointments
+In addition to my position at the Department of Computer Science, I am also director of Emerging Technology Research at UNC-Chapel Hill's Information Technology Services.
+
+Education
+
+M.S. 1959, Ph.D. 1962 (Illinois-Urbana)
+Certif. in DP 1979 (Inst. for Certification of Computer Professionals)
+M.S. 1986 (S. Carolina)
+
+
+ Research Interests 
+
+Object-oriented programming
+Multimedia server technology
+Wireless/mobile computing
+Bioinformatics
+
+
+
+Last updated 16 August 1996
+
+
+
+To the faculty information page
+
+To the Computer Science Department home page
+
+

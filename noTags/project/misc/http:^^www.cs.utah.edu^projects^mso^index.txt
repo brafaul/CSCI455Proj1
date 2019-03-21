@@ -1,0 +1,77 @@
+Date: Wed, 20 Nov 1996 20:12:26 GMT
+Server: Apache/1.1.1+
+Content-type: text/html
+Content-length: 2694
+Last-modified: Thu, 14 Dec 1995 21:26:58 GMT
+
+
+
+Mach Shared Objects
+
+
+
+The Mach Shared Objects Project
+
+
+
+Principal Faculty: Gary Lindstrom
+
+Affiliated Faculty: Robert R.  Kessler,
+John Carter,
+Mark Swanson,
+Robert Mecklenburg
+Nature of Work
+
+The Mach Shared Objects project is an effort to apply object-oriented
+techniques to the problems of operating systems interface and
+implementation, language implementations, and storage techniques.
+These areas are covered by a variety of software components and
+theoretical groundwork which operate in concert to enhance existing
+technonogies.
+
+
+ OMOS -
+	 An Object/Meta-Object Server
+ OMOS is an active object server which manages executable
+	 programs and their components as a set of composable objects.
+	 Besides replacing the traditional services of a linker, OMOS
+	 is able to provide dynamic object loading, shared libraries,
+	 program analysis, and custom application construction.
+ The Object Manager
+
+     The object manager provides a centralized service for
+	 storing, retrieving, and naming object instances and the
+	 meta-objects.  This provides the services commonly attributed
+	 to a persistent object data manager.
+ A General Object-Oriented
+	 Framework for Interface Expression
+ GOOFIE is a meta-object generator capable of creating
+	 portable object descriptions.  These meta-objects are used to
+	 store and retrieve objects, marshal and unmarshal arguments
+	 to function calls and provide a ``platform'' for univeral
+	 polymorphism in the C++ programming language.
+
+Funding
+
+MSO is funded under the 
+Persistent Object Bases
+program of the
+
+Software and Intelligent Systems Office
+of  ARPA.
+Quarterly Report
+
+Here is our latest ONR Project Summary and
+Quarterly Report.
+Publications
+
+Here is a 
+complete list of MSO project publications.
+
+ 
+
+Department of Computer Science, University of Utah
+gary@cs.utah.edu
+Last modified Wed Sep 14 1994
+
+

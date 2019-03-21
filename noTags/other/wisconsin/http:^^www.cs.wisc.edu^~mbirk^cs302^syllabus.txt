@@ -1,0 +1,84 @@
+Date: Mon, 11 Nov 1996 17:00:30 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 01 Oct 1996 20:08:43 GMT
+Content-length: 2393
+
+
+
+ CS302 Syllabus 
+
+
+  CS302 Syllabus  
+
+
+
+ Week 1
+       Introduction; algorithms; simple C++ program
+       Reading (Savitch): 1.1 - 1.4
+       Reading (Perry & Levin): 1, 2.1 - 2.4
+    
+
+
+ Week 2
+       Output using cout; data types; expressions; 
+           numerical operators; variables; input using cin
+ Reading (Savitch): 2.1 - 2.3
+       Reading (Perry & Levin): 2.5 - 2.8
+    
+
+
+ Week 3
+       Boolean expressions; if ... else statement;
+           while, do ... while, and for loops
+       Reading (Savitch): 2.4, 2.5
+       Reading (Perry & Levin): 4.1, 4.2, 5.1 - 5.4, 2.5
+    
+
+
+ Week 4
+       Calling functions; function prototypes; return values; pass-by-value;
+           function definitions; local variables and scope;
+       Reading (Savitch): 3.1 - 3.5
+       Reading (Perry & Levin): 3.1 - 3.3
+    
+
+
+ Week 5
+       Functions continued; abstraction and "black box design"; 
+           function overloading; void functions and side-effects;
+           references and pass-by-reference; introduction to classes;
+           calling member funcitons
+       Reading (Savitch): 3.6, 4.1 - 4.3
+       Reading (Perry & Levin): 3.4, 3.6
+    
+
+
+ Week 6
+       More flow control; Boolean values; short-circuit operators;
+           switch statement; enumerated types; nested loops;
+           break and continue; the conditional operator
+       Reading (Savitch): 7.1 - 7.4
+       Reading (Perry & Levin): 4.2 - 4.5, 5.5 - 5.6
+    
+
+ EXAM I
+
+
+
+ Week 7
+       Arrays; the list template class; built-in C arrays
+       Reading (Savitch): 9.1 - 9.4
+       Reading (Perry & Levin): 6.1 - 6.4, 6.6
+    
+
+
+ Week 8
+       Pointers; C-style strings; multi-dimensional arrays
+       Reading (Savitch): 11.1, 10.1, 10.2
+       Reading (Perry & Levin): none
+    
+
+
+mbirk@cs.wisc.edu
+

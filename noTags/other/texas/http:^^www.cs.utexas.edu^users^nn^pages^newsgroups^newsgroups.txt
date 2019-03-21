@@ -1,0 +1,66 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:46:05 GMT
+Content-Type: text/html
+Content-Length: 2083
+Last-Modified: Wednesday, 29-May-96 00:47:32 GMT
+
+
+
+Related Neural Nets Newsgroups
+
+
+
+
+ Newsgroups and Mailing Lists
+
+
+
+ Newsgroups
+  
+ bionet.neuroscience
+
+Bionet FAQ
+
+ comp.ai.neural-nets
+
+  
+         Comp.ai.neural-nets FAQ 
+
+ comp.theory.dynamic-sys
+ comp.theory.self-org-sys
+ sci.cognitive
+ sci.psychology.research
+
+ Mailing Lists
+  
+Connectionists
+    
+Subscription Address: Connectionists-Request@cs.cmu.edu
+
+Neuron Digest
+    
+Subscription Address: neuron-request@psych.upenn.edu
+Contact: Peter Marvit
+    
+Neuron Emulation List
+    
+WWW Page
+
+
+  Archives 
+ Links to Other Lists
+  
+ 
+       Pacific Northwest National Laboratory 
+ 
+       Stanford University
+ 
+       National Reseach Council of Canada
+
+
+
+ Back to UTCS Neural Networks home page 
+
+martym@cs.utexas.edu
+

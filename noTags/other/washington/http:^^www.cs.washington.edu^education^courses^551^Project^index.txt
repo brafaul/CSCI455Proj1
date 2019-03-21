@@ -1,0 +1,17 @@
+Date: Mon, 02 Dec 1996 15:05:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+Project
+ The Project
+
+The project is divided into three parts.
+
+
+Part1 -- Minithreads. Click here for postscript.
+Part2 -- Preemption and
+Synchronization. Click here for postscript.
+Part3 -- IPC. 
+ Click here for postscript.
+
+

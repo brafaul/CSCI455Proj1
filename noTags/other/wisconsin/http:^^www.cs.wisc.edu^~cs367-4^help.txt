@@ -1,0 +1,61 @@
+Date: Tue, 05 Nov 1996 00:27:02 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 23 Sep 1996 21:19:22 GMT
+Content-length: 2232
+
+
+
+
+Getting Help for CS367
+
+
+
+Getting Help for CS367
+
+
+General help from a HUMAN:
+
+CS367 Tutors
+CS302 Tutors
+See the UNIX consultant in CS1359: Consultants
+       Information,
+  
+UNIX help from the COMPUTER:
+
+Refer to Working with C++ in UNIX
+Refer to Common C++ Programming Errors
+Refer to CS1000 online
+   See CSL's Getting
+       Help
+Refer to the online UNIX man(ual) pages:
+       man program
+       Information
+
+General help from the TAs/INSTRUCTOR/CLASSMATES:
+
+Stop by office hours: Office Hours Information
+E-mail the Class: discussions, study groups, etc.
+   E-mail the TAs
+E-mail the Lecturer
+See guidelines for e-mailing
+       TAs/lecturer
+   Check the class email archives:
+       cs367-1
+       and
+       cs367-4
+
+Other places to look for information:
+
+Refer to text or optional sources
+Check the class announcements
+Check the programming assignment's announcements
+  
+
+
+
+Copyright © 1996 James D. Skrentny,
+skrentny@cs.wisc.edu
+
+
+

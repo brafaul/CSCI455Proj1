@@ -1,0 +1,58 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 18:55:50 GMT
+Content-Type: text/html
+Content-Length: 1306
+Last-Modified: Thursday, 30-Nov-95 21:21:29 GMT
+
+
+
+Catherine M. Wagner
+
+
+
+
+Catherine M. Wagner
+Senior Lecturer
+PhD Cornell University, 1979 
+
+
+
+
+
+My primary responsibilities in the Computer Science Department are in 
+teaching.  I am working with others in the department to revise the 
+curriculum for our lower level courses.  I am specifically interested in 
+the development of a course for students who are under-prepared for our 
+introductory course in programming.
+
+
+University Activities
+
+Computer Science Undergraduate Curriculum Committee 
+
+Professional Activities
+
+Association for Symbolic Logic 
+Association for Computing Machinery 
+Institute of Electrical and Electronics Engineers 
+Association for Women in Mathematics 
+
+
+
+Return to: 
+
+
+ 
+	1994-1995 Annual Report Home Page
+
+ 
+	Departmental Home Page
+
+If you have questions or comments please contact:
+www@cs.cornell.edu.
+
+
+Last modified: 27 November 1995 by Denise Moore 
+(denise@cs.cornell.edu).
+

@@ -1,0 +1,95 @@
+Server: Netscape-Commerce/1.1
+Date: Tuesday, 26-Nov-96 01:00:51 GMT
+Last-modified: Friday, 10-Nov-95 21:18:45 GMT
+Content-length: 4058
+Content-type: text/html
+
+
+
+  Computational Science: Atomic Structure Calculations 
+
+
+
+
+ Computational Science: Atomic Structure Calculations 
+
+The wave equation describing the structure of an atom is a partial
+differential equation of eigenvalue type.  High performance architectures
+and efficient algorithms are needed to solve systems with three or more 
+electrons.  The atomic structure project is concerned with the development of
+software for the accurate determination of wave functions from
+which a number of atomic properties can be predicted.  Of particular 
+importance are properties associated with energy transfer mechanisms 
+such as transition probabilities.  Over the years, an atomic structure
+package has been developed. Currently a parallel version has been
+implemented on a network of IBM Risc 6000/370 workstations using a
+a sparse matrix eigenvalue solver. 
+Much of this work was supported since 1978 by the Division of Chemical Sciences,
+Office of Basic Energy Science, Office of Energy Research, U.S.
+Department of Energy. An NSF grant No. ASC-9005687 for ``Parallel
+Algorithms for the Many-Body Problem'' supported the work on parallel
+algorithms.
+
+ Faculty 
+ 
+
+ Fischer, Charlotte F., B.A., M.A. (British Columbia 1952, 1954),
+ Ph.D. (Cambridge 1957). 
+ Postdoctoral Fellow 
+ 
+ Jonsson, Per 
+ Ph. D. Students 
+ 
+ Xi, Jinhua
+ 
+ 
+ Mikail Saparov
+
+ Collaborators 
+ 
+ Bieron, Jacek (Visiting Scientist, National Institute of Standards
+and Technology, MD) 
+ 
+   Brage, Tomas 
+   (National Research Council Fellow, Goddard Space Flight
+     Center, MD) 
+ 
+ Godefroid, Michel 
+     (Senior Research Associate of the Belgian National Fund for 
+     Scientific Research, Brussels) 
+ 
+ Hansen, Jorgen (Van der Waals-Zeeman Laboratorium, Amsterdam) 
+ 
+ Hibbert, Alan (Professor, Queen's University of Belfast) 
+ 
+ Parpia, Farid A. (Research Scientist, POWERparallel systems, IBM) 
+ Recent Publications  
+ 
+ MCHF: algorithms, distributed computing 
+ 
+ Large-scale atomic structure calculations 
+ Computational Facilities 
+The group uses Sun workstations for Unix tasks. Large scale computation
+and parallel applications are performed on 5 IBM 
+Risc 6000/370 workstations, most with 2Gigabyte disks.
+The group also has access to 
+VUPAC switch.  Access to an SP2 parallel system is possible
+ through a Joint Study Agreement with IBM, Kingston, NY. Through
+  funding from the Department of Energy, Cray time is available from NERSC. 
+ Software 
+The MCHF atomic structure software is available from the Computer Physics
+Communication Library at Belfast.  For information send a message with
+the one word Help to cpcserver@daresbury.ac.uk .  
+
+
+
+
+ Phone Number:
+ (615) 322-2926
+ FAX Number:
+ (615) 343-5459
+ Electronic Mail:
+ cff@vuse.vanderbilt.edu
+
+
+

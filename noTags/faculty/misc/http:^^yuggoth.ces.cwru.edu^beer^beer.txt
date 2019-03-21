@@ -1,0 +1,84 @@
+Date: Mon, 25 Nov 1996 20:13:45 GMT
+Server: Apache/0.6.5
+Content-type: text/html
+
+ 
+Randall D. Beer
+
+Director, CWRU Autonomous Agents Research Group
+Associate Professor of Computer Engineering and Science, Case Western Reserve University
+Associate Professor of Biology, Case Western Reserve University
+
+Address:  
+Dept. of Computer Engineering and Science
+Case Western Reserve University
+Cleveland, OH 44106
+Tel (216) 368-2816
+Fax (216) 368-2801
+Email: beer@alpha.ces.cwru.edu
+Research Interests My general area of interest is the
+adaptive behavior of autonomous agents.  More specifically, I am
+interested in the evolution of dynamical neural networks for
+autonomous agents, the analysis of evolved dynamical neural networks,
+biologically-inspired robotics, neuroethological modeling, and the
+theory of adaptive behavior.
+Recent Publications
+
+Beer, R.D., Quinn, R.D., Chiel, H.J., and Ritzmann, R.E. (in press).
+Biologically-inspired approaches to robotics.  To appear in
+Communications of the ACM.
+
+Beer, R.D. (1996).
+
+Toward the evolution of dynamical neural networks for minimally
+cognitive behavior. (Compressed Postscript)  In P. Maes, M. Mataric, 
+J. Meyer, J. Pollack and S. Wilson (Eds.), From animals to animats 4:  
+Proceedings of the Fourth International Conference on Simulation of
+Adaptive Behavior (pp. 421-429).  MIT Press.
+
+Dellaert, F. and Beer, R.D.  (1996).  A developmental model for the
+evolution of complete autonomous agents.  In P. Maes, M. Mataric, 
+J. Meyer, J. Pollack and S. Wilson (Eds.), From animals to animats 4:  
+Proceedings of the Fourth International Conference on Simulation of
+Adaptive Behavior (pp. 393-401).  MIT Press.
+
+Beer, R.D. (in press).  The dynamics of adaptive behavior:  A 
+research program.  To appear in Robotics and Autonomous Systems.
+
+Gallagher, J.C., Beer, R.D, Espenschied, K.S. and Quinn, R.D. (in
+press).  Application of evolved locomotion controllers to a hexapod
+robot. To appear in Robotics and Autonomous Systems.
+
+Espenschied, K.S., Quinn, R.D., Beer, R.D. and Chiel, H.J.  (1996). 
+ Biologically-based distributed control and local reflexes
+improve rough terrain locomotion in a hexapod robot.  
+Robotics and Autonomous Systems. 18:59-64
+
+Yamauchi, B. and Beer, R.D.  (1996).  Spatial learning for
+navigation in dynamic environments.  IEEE Transactions
+on Systems, Man and Cybernetics-Part B 26(3):496-505.
+
+Beer, R.D.  (1995).  On the dynamics of small continuous-time
+recurrent neural networks. Adaptive Behavior 3(4):471-511.
+
+Beer, R.D. and Chiel, H.J.  (1995).  Locomotion, invertebrate.
+In M.A. Arbib (Ed.), The Handbook of Brain Theory and
+Neural Networks (pp. 553-556).  MIT Press.
+
+Beer, R.D. (1995).  A dynamical systems perspective on
+agent-environment interaction.  Artificial Intelligence
+72:173-215.
+
+Beer, R.D. (1995).  Computational and dynamical languages for
+autonomous agents.  In R. Port and T. van Gelder (Eds.), Mind as
+Motion: Explorations in the Dynamics of Cognition (pp. 121-147).
+MIT Press.
+
+Beer, R.D., Ritzmann, R.E. and Chiel, H.J. (1995).  Models of the
+neural basis of insect behavior.  In S. Zornetzer, J. Davis, C. Lau
+and T. McKenna (Eds.), An Introduction to Neural and Electronic
+Networks, Second Edition (pp. 165-184).  Academic Press.
+Complete
+Publication List
+
+ Randall D. Beer (beer@alpha.ces.cwru.edu) 

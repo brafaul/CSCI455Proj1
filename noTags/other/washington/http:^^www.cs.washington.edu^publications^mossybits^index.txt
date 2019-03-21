@@ -1,0 +1,53 @@
+Date: Tue, 10 Dec 1996 21:20:30 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 25 Nov 1996 19:07:57 GMT
+Content-length: 2037
+
+
+
+Mossy Bits
+
+
+
+Welcome to Mossy Bits
+
+   Mossy Bits is the Computer Science and Engineering department's
+nearly annual graduate student online creative arts journal.  This
+journal is intended to be a creative outlet for the department's
+graduate students, and nearly all forms of creativity are appreciated.
+Past submissions have included poetry, short fiction, essays,
+travelogues, contests, music, drawings, photography, and computer art,
+but anything that is reasonably entertaining and is transmissable over
+the Web is fair game.
+
+Little is known about the origins of Mossy Bits.  It was originally
+a spoof of the department's far more sensibly named newsletter, Most
+Significant Bits.  It has since undergone various modifications and
+mutations, including the change to a Web format last year.  Since this
+format allows submissions that would never have been publishable on
+paper, such as music and animation, and allows far more people to view
+the journal, Mossy Bits will continue to be published on the Web for
+some time.  
+
+   So welcome, and we hope you enjoy our journal.  If you have any
+questions, comments, complaints, or suggestions, feel free to email us
+at mossy-bits@cs.washington.edu.
+
+
+Brian Michalowski, Editor-in-cheek
+Jim Fix, Editor-in-chief
+
+
+Relevant links
+ The Autumn 1995 edition of Mossy Bits
+ The Winter 1997 call for
+submissions
+ The Winter 1997 It Was a
+Dark and Stormy Mossy Bits contest
+ The department's home page.
+
+
+Mossy Bits - It's more fun than what you're supposed to be doing.
+
+

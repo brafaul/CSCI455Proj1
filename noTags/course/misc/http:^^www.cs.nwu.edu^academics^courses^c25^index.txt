@@ -1,0 +1,64 @@
+Date: Wed, 20 Nov 1996 22:44:28 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 2094
+Last-modified: Thu, 03 Oct 1996 14:08:40 GMT
+
+
+
+
+CS C25 Home Page
+
+
+
+
+Computer Science C25-1:
+Introduction to AI Programming
+
+Note: all announcements are made to
+the C25 newsgroup.
+You are responsible for checking that newsgroup on a regular basis.
+You are encouraged to contribute to it as well.
+Check What's New for a quick
+summary of what other pages have changed recently.
+
+
+
+
+Things to Know
+      
+Things to Read
+      
+
+
+about this course,
+         faculty,
+         syllabus,
+         grades,
+         what's new
+
+resources,
+         the class
+         newsgroup, AI Notes ,
+         Lisp Notes,
+         Web Notes ,
+         Xlisp Notes,
+         lecture notes (directory)
+      
+
+
+Things to Run
+      
+Things to Do
+      
+
+
+example code (directory)
+      
+exercises
+
+
+Comments?  Send mail to 
+Chris Riesbeck.
+
+

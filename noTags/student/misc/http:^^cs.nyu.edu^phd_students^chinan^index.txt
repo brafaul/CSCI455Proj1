@@ -1,0 +1,22 @@
+Date: Tue, 26 Nov 1996 03:44:48 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 07 Nov 1996 21:57:10 GMT
+Content-length: 628
+
+
+ Chi-Nan Liu Home Page 
+
+
+
+ Welcome to Chinan's HomePage 
+ 1995 Fall Courses 
+ Computer Graphics 
+
+  Syllabus  
+  Homework2  
+  Homework3  
+  Homework4  
+  Homework5  
+  Homework6  
+ Computer Vision 

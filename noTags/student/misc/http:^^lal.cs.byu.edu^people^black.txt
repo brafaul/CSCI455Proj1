@@ -1,0 +1,213 @@
+Date: Tue, 14 Jan 1997 20:33:41 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 7757
+Last-modified: Wed, 04 Dec 1996 00:47:34 GMT
+
+
+
+Home Page for Paul E. Black
+
+
+
+
+
+
+
+
+
+
+Home Page for Paul E. Black
+Paul E. Black
+
+Laboratory for Applied Logic
+
+
+Dept. of Computer Science, 
+TMCB 3325
+
+
+Brigham Young University
+
+
+Provo,
+Utah
+       84602-6576
+
+
+ 
+  +1 801 378 8113
+black@cs.byu.edu
+p.black@ieee.org
+KC7PKT
+
+Paul Black is studying at
+Brigham Young University
+where he is pursuing a Ph.D. in Computer Science.  He began his Ph.D.
+program at 
+UC Berkeley, and
+transferred to BYU in 1993.  His research interests are
+formal verification of software and software engineering.
+
+
+Black earned an MS in Computer Science at the 
+University of Utah
+in 1983 and a BS in Mathematics at 
+Southern Utah State College (now
+Southern Utah University) in 1973.  He
+has 17 years industrial experience developing IC design and
+verification tools, designing configuration management systems,
+assuring software quality, and managing business data processing.  He
+is a student member of the ACM and
+the IEEE. 
+
+
+He served a mission for the
+LDS Church in
+Brazil, 
+and has visited 
+Belgium, 
+Canada, 
+Finland,
+Germany, 
+Great Britain, and 
+Mexico.
+There's even a recent 
+picture on-line.
+He keeps favorite links in a
+personal hotlist
+which he updates occasionally.
+
+
+Published Papers On-Line
+
+
+Paul E. Black and Phillip J. Windley,
+Verifying Resilient Software,
+to be printed in the Proceedings of the
+
+Thirtieth Hawai`i International Conference on on System Sciences
+(HICSS-30), January 1997.
+
+DVI (36 kb) and
+
+Postscript (123 kb).
+
+
+Paul E. Black and Phillip J. Windley,
+Inference Rules for Programming Languages with Side Effects in
+Expressions,
+
+Theorem Proving in Higher Order Logics:
+9th International Conference, (TPHOLs '96),
+edited by Joakim von Wright, Jim Grundy, and John Harrison,
+Springer-Verlag, Berlin, Germany, 1996, pp. 51-60.
+
+DVI (34 kb) and
+
+Postscript (128 kb).
+
+
+Paul E. Black, Kelly M. Hall, Michael D. Jones, Trent
+N. Larson, and Phillip J. Windley, 
+A Brief Introduction to Formal Methods,
+Proceedings of the IEEE 1996 Custom Integrated Circuits Conference, San
+Diego, California, May 1996. 
+
+Postscript (96 kb).
+
+
+Paul E. Black and Phillip J. Windley,
+Automatically Synthesized Term Denotation Predicates: A Proof Aid,
+
+Higher Order Logic Theorem Proving and Its Applications (HOL '95), 
+edited by E. Thomas Schubert, Phillip J. Windley, and James Alves-Foss,
+Springer-Verlag, Berlin, Germany, 1995, pp. 46-57.
+
+Postscript (120 kb).
+
+
+Mor Harchol-Balter and Paul E. Black,
+Queuing Analysis of Oblivious Packet-Routing Networks,
+5th ACM/SIAM Symposium on Discrete
+Algorithms (SODA '94), Washington, D.C., (January 1994), ACM, pp. 583 - 592. 
+
+Postscript (190 kb).  Expanded version with application to tori in
+
+Postscript (203 kb).
+
+
+Finished Projects
+
+I taught Scientific
+Programming - C.
+
+
+Notes on my lecture to the Software Engineering course on
+
+Formal Methods
+On the
+Composition of the Universe
+The Orbiter
+Discovery's
+Visit to Utah.
+
+
+Other, Less Directed Links
+
+I've put together some web sites and collections.  Here
+are some I'm especially happy with and links to other miscellaneous
+on-line stuff of mine.
+
+
+
+The
+
+Emily Dickinson home page including an
+
+archive of a discussion list and links to over
+370 of her poems on-line.
+
+
+I led a group consisting of most of my OO class in building a hypertext
+
+OSA Tutorial.  There are 
+
+links to on-line quizes, but the quiz program is currently
+(21Mar96) not working.
+
+
+As an experiment in HTML graphics and interfaces, I designed some
+pages to resemble
+
+control panels on the Enterprise.
+
+
+To help a professor, I put the
+
+Language And Learning Across Curriculum Committee on line,
+converting their
+bibliography,
+brochure,
+etc. to HTML.
+
+
+Learning HOL lessons.
+
+Goal Directed Proof (#1),
+
+Induction (#2),
+
+The Assumption List (#4).
+
+
+
+Updated
+Tue Dec  3 17:47:33 1996
+
+by Paul E. Black
+
+ (black@lal.cs.byu.edu)
+
+
+

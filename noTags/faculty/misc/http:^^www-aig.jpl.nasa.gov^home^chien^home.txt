@@ -1,0 +1,72 @@
+Date: Thu, 21 Nov 1996 21:15:23 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 2643
+Last-modified: Thu, 12 Sep 1996 23:28:35 GMT
+
+
+Steve Chien - JPL AI Group
+
+
+ Click here to jump to my Personal Home Page
+Official Bio
+
+Steve Chien
+
+Dr. Steve Chien is Technical Group Supervisor of the Artificial
+Intelligence Group, Advanced Information Systems Section at the Jet
+Propulsion Laboratory, California Institute of Technology where he
+leads efforts in automated planning and scheduling. Dr. Chien is also
+an Adjunct Assistant Professor with the Department of Computer Science
+of the University of Southern California.  He holds B.S., M.S., and
+Ph.D. degrees in Computer Science, all from the University of
+Illinois. His Ph.D. dissertation title was: An Explanation-based
+Learning Approach to Incremental Planning. Dr.  Chien was a program
+committee member for: the Sixth International Workshop on Machine
+Learning in 1989 (co-organizer of the session on Learning Plan
+Knowledge); the Eighth International Workshop on Machine Learning in
+1991 (the session on Learning for Engineering Automation); the 1992
+AAAI Fall Symposium on Applications of Artificial Intelligence to
+Autonomous Mobile Robotics; and the 1994 AAAI Fall Symposium on
+Learning and Planning.  He is also an invited member of the IEEE
+Technical Committee on Pattern Analysis and Machine Intelligence.  Dr.
+Chien is a recipient of the 1995 Lew Allen Award for excellence, JPLs
+highest award recognizing outstanding technical achievements by JPL
+personnel in the early years of their careers.  Dr. Chien has
+presented invited seminars on machine learning, planning, and expert
+systems and has authored numerous publications in these areas. His
+current research interests lie in the areas of: planning and
+scheduling, machine learning, operations research, and decision
+theory.
+
+
+ Work Contact Information:
+	
+ Address:
+		Jet Propulsion Laboratory
+		M/S 525-3660
+		4800 Oak Grove Drive
+		Pasadena CA 91109-8099
+	 Phone:
+		(818) 306-6144
+	 FAX:
+		(818) 306-6912
+	 Email:
+		Steve.Chien@jpl.nasa.gov
+		chien@aig.jpl.nasa.gov
+	
+ Projects:
+	
+ MVP
+ NewMAAP
+ Data Chaser
+ OMP
+ DPLAN
+ APS
+ HRST
+
+ Other:
+	
+ Tutorial on Planning presented at AAAI96
+
+

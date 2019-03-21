@@ -1,0 +1,28 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 21-Nov-96 20:18:07 GMT
+Last-modified: Wednesday, 24-Apr-96 21:12:27 GMT
+Content-length: 906
+Content-type: text/html
+
+
+Richard F. Walters - Field of Interest
+UC Davis
+Department of Computer Science
+
+
+
+
+
+Richard F. Walters
+Professor
+
+Professor Walters' current research focus is in the field of computer support of distance learning.  He leads a multidisciplinary project entitled Remote Technical Assistance (RTA) which seeks to provide seamless interactive platform-independent support by remote technical consultants in the learning and business fields.  Additional research interests include distributed databases, medical informatics, and computer support of multilingual research and product support.
+
+
+
+Office: 3057 Engineering II
+Phone: (916) 752-3241
+E-mail: walters@cs.ucdavis.edu
+
+
+Last modified April 24, 1996

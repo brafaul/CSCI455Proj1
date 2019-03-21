@@ -1,0 +1,38 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:43:35 GMT
+Content-Type: text/html
+Content-Length: 1483
+Last-Modified: Thursday, 19-Oct-95 06:41:53 GMT
+
+
+
+
+Cornell Info sites
+
+
+Cornell Info links
+
+
+Cornell CS Technical Reports
+
+CUINFO (Cornell Gopher)
+Directions to and from Cornell
+Cornell E-Mail Directory
+Cornell Staff Directory
+Cornell Student Directory
+Courses, Classes, Exams
+Cornell Calendar
+
+Cornell Arts -- Music
+Bailey Hall Concerts
+Cornell Musical Events
+
+Ithaca Weather Forecast
+World News Briefs
+USA Weather Map
+
+A Beginner's Guide to HTML
+
+
+

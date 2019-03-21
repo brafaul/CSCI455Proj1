@@ -1,0 +1,81 @@
+Date: Tue, 14 Jan 1997 23:12:56 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 2107
+Last-modified: Mon, 19 Aug 1996 19:24:30 GMT
+
+Steve Johnson's Hyplan
+
+ Steven D. Johnson 
+
+ 
+
+ Associate Professor (Ph.D. Indiana University, 1983) 
+ Indiana University
+
+
+ On leave August 1996 through July 1997 
+
+
+  while on leave 
+
+  department
+
+
+  loc: 
+
+P.O. Box 210030
+ECECS Department, ML. 30 
+University of Cincinnati 
+Cincinnati OH 45221-0030
+
+ Room LH330F 
+     Lindley Hall
+     Bloomington IN 47405-4101 
+
+  net: 
+ sjohnson@cs.indiana.edu
+
+ sjohnson@cs.indiana.edu
+
+  fax: 
+ to be posted 
+
+ 812-855-4829
+
+  tel: 
+ 513-556-2836
+
+ 812-855-2567 (LH330)
+
+
+
+ Home address while on leave: 
+1799 Fallbrook Lane, Cincinnati OH 45240, 513-648-0582
+ 
+
+More Information
+
+
+My 
+curriculum vita
+
+
+IU/CS
+ Hardware Methods Laboratory
+
+
+Daisy/DSI
+, demand driven parallel symbolic computation
+
+ IULG
+Indiana University Logic Group
+ Indiana University
+
+ Visual Inference Laboratory
+
+
+
+Personal interests Photography, go, woodworking
+
+sjohnson@cs.indiana.edu

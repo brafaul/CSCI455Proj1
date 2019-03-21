@@ -1,0 +1,56 @@
+Date: Thu, 21 Nov 1996 20:31:49 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+ University of Washington: Research in Mobile Ubiquitous Computing 
+
+Mobile Computing at the University of Washington
+
+Here's an overview of mobile computing
+research here at UW.
+
+ Projects 
+
+ Mobisaic
+ An information system for a mobile and wireless computing environment
+ Wit
+ A system infrastructure for mobile handheld computing
+ Task Graph Manager
+ An application infrastructure for coping with resource variability.
+
+
+ Papers 
+
+A survey paper describing the fundamental challenges in this field.
+A Programming Methodology for Disconnected Operation
+Distributed Transactions in a Mobile
+Computing System
+
+Contacts:
+
+
+Prof. Brian Bershad
+
+Prof. Gaetano Borriello
+
+Marc E. Fiuczynski
+
+George Forman
+
+Prof. Hank Levy
+
+Geoff Voelker
+
+Terri Watson
+
+Prof. John Zahorjan
+
+
+
+ Last updated Mon 15 Jan 1996  
+  
+forman@cs.washington.edu
+ 
+

@@ -1,0 +1,29 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 21-Nov-96 20:18:37 GMT
+Last-modified: Friday, 23-Aug-96 20:35:25 GMT
+Content-length: 1208
+Content-type: text/html
+
+
+Karl N. Levitt - Field of Interest
+UC Davis
+Department of Computer Science
+
+
+
+
+
+Karl N. Levitt
+Professor
+
+Professor Levitt conducts research in the areas of computer security, automated verification, and software engineering.  With respect to computer security he is working on techniques to detect malicious code (viruses, worms, time bombs, etc.) in programs and to detect attempts to penetrate or misuse computer systems, especially computer networks.  With respect to verification, he is applying an automated theorem prover (Higher Order Logic � HOL) to the verification of hardware and software systems, especially operating systems for safety-critical embedded systems.  With respect to software engineering, he is working on new methods for testing programs that make use of heuristic techniques and methods for automating the generation of operating system code from templates.
+
+
+
+ 
+Office: 3061 Engineering II
+Phone: (916) 752-0832
+E-mail: levitt@cs.ucdavis.edu
+
+
+Last modified August 23, 1996

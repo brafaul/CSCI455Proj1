@@ -1,0 +1,74 @@
+MIME-Version: 1.0
+Server: WebSTAR/2.0 ID/30027
+Message-ID: 
+Date: Thursday, 21-Nov-96 20:59:16 GMT
+Last-Modified: Saturday, 09-Nov-96 07:09:39 GMT
+Content-type: text/html
+Content-length: 3397
+
+Daniel M. Zimmerman - Home Page
+Daniel M. Zimmerman
+Caltech Computer Science Dept - 
+CS 141 Teaching Assistant
+Official Roxette Home Page 
+Administrator
+Caltech Apple II Archive Administrator
+Avery House Secretary
+CEO - TFF Enterprises
+
+
+Electronic Mail
+
+ dmz@cco.caltech.edu 
+(preferred address for "normal" and Roxette-related mail)
+ dmz@cs.caltech.edu
+(CS Department-related mail only, please)
+U.S. Mail
+ M/S 256-80
+California Institute of Technology
+Pasadena, California  91125 USA
+Telephone
+ (818) 395-4603 (office)
+ (818) 683-9836 (home, before 11 PM only)
+
+
+I am currently a first-year graduate student here at the 
+California Institute of Technology, from which
+I got my bachelor's degree in June of this year.
+As an undergraduate, I majored in computer
+science (well, really engineering
+and applied science), and I am the first person ever to graduate from Caltech
+with an undergraduate minor, in the new Science, Ethics and Society option (which, coincidentally,
+is the only option in which undergraduates can minor). My senior thesis for SES was
+entitled Privacy Issues in Computerized Communications.
+
+As a graduate student, I am part of the computer science department, working in
+Professor K. Mani Chandy's 
+Compositional Systems
+Research Group on the Caltech Infospheres
+Project.  I have also worked for the computer science department for
+the past two years as a teaching assistant for CS20,
+the introductory cource for computer science majors.
+Aside from academics,
+I belong to the Caltech Swedish 
+Club (and spent a month during the summer of 1995 studying at
+Uppsala Universitet in Sweden).
+I also moonlight as CEO/head programmer of TFF Enterprises, a software company
+founded in 1989 which released 2 shareware programs for the Apple IIGS before
+coursework temporarily curtailed program development, and I administrate the
+Caltech Apple II Archive, the second-largest
+archive of Apple II software on the Internet. In addition, 
+I maintain a web page hierarchy (officially endorsed by EMI Svenska AB) for
+Roxette (including other music by
+Marie Fredriksson and 
+Per Gessle/Gyllene Tider).
+
+Miscellany
+
+This home page is being presented from my personal workstation, 
+babylon.caltech.edu.
+A PostScript list of upcoming episodes of 
+Babylon 5
+can be found here (Last Revised 1 November 1996). 
+
+dmz - 8 November 1996

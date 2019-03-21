@@ -1,0 +1,135 @@
+Date: Wed, 20 Nov 1996 21:55:26 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 20 Nov 1996 04:34:06 GMT
+Content-length: 6605
+
+
+
+CS 240 Home Page
+
+
+ CS 240
+Learning C++ and Software Engineering
+Fall 1996
+
+
+ Instructor:
+
+
+  Scott N. Woodfield
+ Office: TMCB 3332
+         Hours: 4:00 - 4:50 MWF
+         Phone: 378-2915
+         woodfiel@cs.byu.edu
+    
+
+Teaching Assistants:
+ Butch Istook  
+        istook@cs.byu.edu
+ Mark Laird
+        laird@cs.byu.edu
+ Jo Spencer
+    	spencer@cs.byu.edu
+
+Office: 1126 TMCB
+Office Hours
+
+ New Things:
+
+ Course Goals
+You will learn object-oriented software development using C++ in a
+	Unix environement.  We will emphasize, object-oriented design,
+	object-oriented programming in C++, testing, makefiles, and simple
+	configuration managment.
+
+ Text
+
+
+C++ How to Program by
+		H.M. Deitel & P.J. Deitel (this is required)
+    
+
+
+Learning GNU Emacs
+		Cameron (NOT Required)
+    Learning the Vi Editor
+		Linda Lamb (NOT Required)
+    Unix in a Nutshell
+		Aho (NOT Required)
+    Managing Projects with Make
+		Andrew Oram (NOT Required)
+    
+
+ Workload
+
+
+ Quizzes (20%)
+         There will be several surprise quizzes 
+         -- Approximately 20% of your quiz  grades  will be dropped 
+     Projects (58%)
+        There are 6 projects
+        
+Testing Program(5%)
+Adding the Gender Class(5%)
+Adding Names(9%)
+Adding Standard Events(11%)
+Testing(10%)
+Simple Interaction(18%)s
+
+ There will be no TA help for Projects 4 and 6.
+     In Lab Tests (15%)
+         THE SPECS FOR THE IN LAB TESTS:
+		 The Game of Life 
+ Calculator 
+ 
+CLICK HERE TO START THE IN-LAB TEST
+ 
+		click here to stop the in-lab test
+ There will be 3 Programming Tests.  One will be taken during the
+		 Final Exam Week before the final.  For two programming tests, including the final,
+		 you will be given, in advance, a list of several programming problems.
+		 When you arrive at the lab to take the test you will be told which
+		 problem to program.  You will have 4 hours to implement a solution.
+     Final -- in Class(7%)
+    
+
+ Communication
+We would like to meet with you when you have problems,  but, if  you  can't,  
+    please use e-mail.  Much of the information for the class will be given 
+    through this web page and via a CS240 newsgroup.
+
+ Other Points of 
+Interest
+
+
+  Grades - 0 to 4999
+  Grades - 5000 to 9999
+  Schedule
+  Lectures
+  Grading Guidelines
+  Frequently Asked Questions
+  CS240 Newsgroup
+  Examples of Similar Projects
+ OSA Tutorial
+ UNIX tutorial 
+ Discussion of White Box Testing in CS240
+ Examples of Exception Usage
+ Pascal to C++ Command Conversion 
+
+YOU ARE RESPONSIBLE FOR  ALL  INFORMATION  CONTAINED  WITHIN
+THIS  SYLLABUS,  ANYTHING  ON  THE WEB  AND  ANYTHING SAID IN
+CLASS!!!
+
+
+
+
+
+
+
+
+Last updated 2 October 1996.
+Scott Woodfield (woodfiel@cs.byu.edu)
+
+
+

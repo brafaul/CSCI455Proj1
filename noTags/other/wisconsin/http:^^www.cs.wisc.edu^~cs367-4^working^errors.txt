@@ -1,0 +1,264 @@
+Date: Tue, 05 Nov 1996 20:57:39 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 27 Sep 1996 18:05:24 GMT
+Content-length: 10620
+
+
+
+
+Common C++ Programming Errors
+
+
+Common C++ Programming Errors
+This page list common C++ coding errors, some of which are legal C++ code
+but have an unexpected behavior.  If you have suggestions for this list, please
+send email to skrentny@cs.wisc.edu.
+These common errors are ordered into the following categories:
+
+
+C++ Basics
+Control Structures
+Basic Data Structures
+Functions
+
+
+C++ Basics
+
+case isn't CASE isn't CaSe
+C++ is case sensitive!  Different capitalizations can be used to
+     make different identifiers.  The convention that I follow uses ALLCAPS
+     for constants, Initial_Cap for type names, and lower_case for variable
+     names.
+     
+     typedef float Case;
+     const Case CASE = 22.0;
+     Case case = CASE;
+     
+dividing division
+Any time both operands of the / (division op) are
+     integral types (i.e. integers) the operation becomes whole number
+     division rather than fractional division.  You must change one of the
+     operands by using type casting to a real number (e.g. float, double)
+     to get fractional division.  The code below displays
+      5,5,5.5 
+
+     int i = 11, j = 2;
+     float k = i/j;
+     cout << ( i/j ) << ',' << k << ',' << ( i/float(j) ) << endl;
+     
+something is true and nothing is false
+Any nonzero value means logical true, whereas only 0 is false.  Our
+     g++ compiler provides the bool type and the values
+     true and false for booleans.
+     Since this is now supported, it is preferred to use this type rather than
+     an enumerated boolean type as shown in the text or the integers 0 and 1.
+     For a simple example see bool.cc.  If you
+     use an enumerated type or #include <boolean.h> as
+     shown in the text you may get a compiler warning message that can be
+     ignored.
+     
+inner cities may have inadvertent locals
+Variables are created when they are defined and destroyed when they
+     fall out of scope.  There are many places where variables can be defined 
+     and unintentionally be within a code block that limits the variables scope.
+     
+     {   int i;
+         cout << i;
+         {
+            int j;           // j's scope limited to inner code block
+            cout << i << j;
+         }                   // j falls out of scope here
+         cout << i << j;     // ERROR!  j doesn't exist
+     }                       // i falls out of scope here
+     
+leading with zeros can be confusing
+Numbers with at least one leading zeros are treated as octal (i.e. base
+     8) not decimal (i.e. base 10).  The code below displays  81,121 
+
+     int i = 0121, j = 121;
+     cout << i << ',' << j << endl;
+     
+'s' is not "s"
+Character values are enclosed in single quotes, whereas strings are
+     enclosed in double quotes and are terminated with a NULL character.
+     The code below should give a syntax error, but may not.
+     
+     if ( 's' == "s" )
+     
+
+
+Control Structures
+
+if only == where = but they are not equal
+Probably the most common error is using = (assignment op)
+     rather than == (equality op).  Since assignment is often legal
+     where equality comparison is desired, this error may not create a syntax
+     error.  If you ever use assignment where equality would be expected,
+     comment your code to say the assignment was intentional.
+     
+     if ( apples = oranges )  // OOPS! or is this intentional?
+     
+&& and || are "and" and "or" but not & and |
+Like equality comparisons, logical "and" and logical "or" must use
+     the appropriate symbol doubled with no space between.
+     
+greatest greater great
+When a sequence of comparisons (i.e ==, <, <=, >, >=) are made you can
+     only compare two things at a time and must join the comparisons using logical
+     "and".  The conditions below may look good but evaluate to false.
+     
+     if ( 33 > 22 > 11 )    // should be: (33 > 22) && (22 > 11)
+     if ( 11 == 11 == 11 )  // should be: (11 == 11) && (11 == 11)
+     
+compounding the problem
+Only a single statement follows as the body of most control structures
+     unless you compound the statements using a statement block.  It is a good
+     practice to always use { }.
+     
+     if ( apples == oranges )
+        cout << "Ok, but can be dangerous." << endl;
+     else
+     {
+        cout << "do one thing" << endl;
+        do_another( thing );
+     }
+     
+to break or not to break
+A break; statement must follow every case in a switch
+     statement, unless you intend to flow through to the next case.  It is a
+     good practice to even put a break after the last case.
+     
+     switch ( menu_choice )
+     {
+      case 'a':           // intentional flow through to next case
+      case 'A':
+         add( item );     // accidental flow through to next case
+      case 'd':           // intentional flow through to next case
+      case 'D':
+         delete( item );
+         break;           // good practice
+     }
+     
+the bodyless loop
+A misplaced semicolon can behead a loop.  In the examples below the
+     loops have a NULL body due to the extra semicolon, and the compiler won't
+     complain.
+     
+     for ( i = 0; i < MAX; i++ );   // <- see the extra semicolon?
+     {
+        do_something( useful );
+     }
+     while ( i < MAX );             // <- see the extra semicolon?
+     {
+        do_something( useful );
+     }
+     
+scoping for counters
+The scoping rules for for loops have changed to the new
+     ANSI rules.  This is generating many warning messages for programs that mix
+     old and new styles, and sometimes results in syntax errors.  For more detail
+     see code example.  I recommend the
+     following to eliminate problems:
+     
+Loop counters that are used outside the loop body are defined
+          outside of the loop.
+
+     int i, j;
+     for (i=1, j=-1; i<11; i++, j--)
+        cout << i << j;       // <- counter used in loop body
+     cout << endl << i << ',' << j << endl; // <- and outside
+          
+Loop counters that are used only inside of the loop body can be
+	  defined in the for loop in the manner shown below.
+
+     // defines TWO local counters m,n that are used only inside loop
+     for (int m=1, n=-1; m<11; m++, n--)
+        cout << m << n;
+          
+Using the old style of defining two loop counters may give syntax
+	  errors and should be avoided.
+
+     // notice the ||| second int below?
+     //            vvv
+     for (int m=1, int n=-1; m<11; m++, n--)
+        cout << m << n;
+          
+
+
+
+Basic Data Structures
+
+start indexing at 0
+Array indices always begin at 0.  The example below creates a array
+     with 11 elements with the first at index 0 and the last at index 10.
+     
+     int a[11];
+     a[0]  =  121;
+     a[11] = 1331;     // ERROR! last index is 10
+     
+your out of bounds
+There is nothing to prevent your from indexing beyond the bounds of
+     an array, except perhaps that your program may misbehave intermittently
+     or even crash.  Unfortunately the compiler doesn't verify that your
+     indices are in range, so programs will compile with bad indices.
+     
+a[i,j] is like being out of your element
+Elements of multidimensional arrays are accessed by
+     a[i][j].  However, a[i,j] is legal!  The
+     comma is an operator that evaluates each operand and results in the value
+     of the right-hand operand.  This means a[i,j] is the same as
+     a[j], which does not access the element of the two dimensional
+     array as you intended.
+     
+arrays are not the same
+Unlike all other data types (e.g. int, char, structs), arrays by default
+     are passed to functions by reference, and can not be returned from a
+     function using a return statement.
+     
+classes end in a semicolon
+Don't forget to end your class definitions with a semicolon!
+     
+     class Example
+     {
+     };      // <- don't forget this
+     
+
+
+Functions
+
+mismatched arguments
+The formal arguments listed in a function's header and prototype must
+     match in order, number, and type.  If there is a mismatch you may get
+     a syntax error from the compiler or an undefined symbol error from the
+     linker.  Additionally, reference and constant arguments must match.
+     
+no arguing about parentheses
+Even when a function takes no arguments, you must still include the
+     ( )s when calling the function, as well as in the prototype
+     and the function header.  Leaving the parentheses out may not cause a
+     syntax error because a function name by itself refers to the function's
+     address.  The example below shows this:
+     
+     void display();
+     int main()
+     {
+         display;      // OOPS! this doesn't call the function
+         //...
+     }
+     int display()
+     {
+         cout << "something" << endl;
+     }
+     
+arrays can cause troubles, see above
+
+
+
+
+
+Copyright © 1996 James D. Skrentny,
+skrentny@cs.wisc.edu
+
+
+

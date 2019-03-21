@@ -1,0 +1,53 @@
+Date: Mon, 25 Nov 1996 22:14:22 GMT
+Server: NCSA/1.5.2
+Last-modified: Fri, 01 Nov 1996 23:32:22 GMT
+Content-type: text/html
+Content-length: 1414
+
+
+
+
+
+
+
+
+
+
+Tom Ellman
+
+
+
+
+
+
+
+
+Tom Ellman
+    Assistant Professor
+    Department of Computer Science
+    Hill Center for Mathematical Sciences
+    Rutgers University
+    Piscataway, New Jersey 08855
+
+    Office: 446 Hill Center
+    Phone: (908) 445-4184
+    Fax: (908) 445-5530
+    Email: ellman@cs.rutgers.edu
+
+
+
+
+Tom Ellman's Publications
+CS 314 Principles of Programming Languages
+CS 520 Introduction to Artificial Intelligence
+CS 530 Knowledge-Based Systems
+
+Hypercomputing and Design (HPCD) Project
+
+Department of Computer Science
+
+
+Last modified: October 25, 1996. 
+ Tom Ellman, ellman@cs.rutgers.edu
+
+

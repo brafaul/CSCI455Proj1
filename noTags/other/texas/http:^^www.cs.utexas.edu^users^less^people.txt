@@ -1,0 +1,33 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:44:28 GMT
+Content-Type: text/html
+Content-Length: 828
+Last-Modified: Monday, 06-Jan-97 23:03:59 GMT
+
+
+
+LESS Members
+
+
+
+LESSers
+Faculty
+
+Lorenzo Alvisi
+Robert Blumofe
+Mike Dahlin
+Calvin Lin
+
+Grad students
+
+Emery Berger
+Sam Guyer
+
+
+Back to LESS
+Last modified: January 6, 1997
+Robert Blumofe
+rdb@cs.utexas.edu 
+
+

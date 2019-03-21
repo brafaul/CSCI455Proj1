@@ -1,0 +1,202 @@
+Date: Mon, 16 Dec 1996 23:55:48 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+COMPUTER SCIENCE - 1996-97 COURSE DESCRIPTIONS
+
+
+
+ COMPUTER SCIENCE
+DESCRIPTIONS OF COURSES
+
+Note: Courses in brackets are not offered this year.
+
+The Department of Computer Science is part of both the College of Arts and Sciences and the College of Engineering.
+COM S 099  Fundamental Programming Concepts
+
+COM S 100  Introduction to Computer Programming
+
+COM S 100a  Introduction to Computer Programming
+
+COM S 100b  Introduction to Computer Programming
+
+COM S 101  The Computer Age (also ENGRG 101)
+
+COM S 130  Creating Web Documents
+
+COM S 211  Computers and Programming (also ENGRD 211)
+
+COM S 212  Structure and Interpretation of Computer Programs (also ENGRD 212)
+
+COM S 214  A Taste of UNIX and C
+
+COM S 222  Introduction to Scientific Computation (also ENGRD 222)
+
+COM S 280  Discrete Structures
+
+COM S 314  Introduction to Digital Systems and Computer Organization
+
+COM S 381  Introduction to Theory of Computing
+
+[COM S 400  The Science of Programming
+]
+COM S 401  Programming Languages and Software Engineering
+
+COM S 410  Data Structures
+
+[COM S 411  Programming Languages and Logics
+]
+COM S 412  Introduction to Compilers and Translators
+
+COM S 413  Practicum in Compilers and Translators
+
+COM S 414  Systems Programming and Operating Systems
+
+COM S 415  Practicum in Operating Systems
+
+COM S 417  Computer Graphics and Visualization (also ARCH 374)
+
+COM S 418  Practicum in Computer Graphics (also ARCH 375)
+
+COM S 421  Numerical Analysis
+
+[COM S 422  Parallel Computing for Scientific Problems
+]
+COM S 432  Introduction to Database Systems
+
+COM S 433  Practicum in Database Systems
+
+[COM S 444  Distributed Systems and Algorithms
+]
+[COM S 462  Robotics and Machine Vision
+]
+[COM S 463  Robotics and Machine Vision Lab
+]
+COM S 472  Foundations of Artificial Intelligence
+
+COM S 473  Practicum in Artificial Intelligence
+
+COM S 481  Introduction to Theory of Computing
+
+COM S 482 Introduction to Analysis of Algorithms
+
+COM S 486  Applied Logic (also Mathematics 486)
+
+COM S 490  Independent Reading and Research
+
+COM S 501  Programming Languages and Software Engineering
+
+[COM S 511  Modern Programming Languages
+]
+COM S 514  Practical in Distributed Systems
+
+COM S 515  Practicum in Distributed Systems
+
+COM S 516  High-performance Computer Architecture
+
+[COM S 522  Parallel Computing for Scientific Problems
+]
+[COM S 562  Robotics and Machine Vision
+]
+[COM S 563  Robotics and Machine Vision Lab
+]
+COM S 572  Introduction to Automated Reasoning
+
+COM S 601  System Concepts
+
+COM S 611  Advanced Programming Languages
+
+COM S 612  Compiler Design for High-Performance Architectures
+
+COM S 613  Concurrent Programming
+
+COM S 614  Advanced Systems
+
+[COM S 615  Theory of Concurrent Systems
+]
+COM S 617  Frontiers of Parallel Computer Systems
+
+COM S 618  Topics in the Theory of Distributed Systems
+
+COM S 621  Matrix Computations
+
+COM S 622  Numerical Optimization and Nonlinear Algebraic Equations
+
+[COM S 624  Numerical Solution of Differential Equations
+]
+COM S 631  Multimedia Systems
+
+COM S 661  Robotics
+
+COM S 662  Robotics Laboratory
+
+COM S 664  Machine Vision
+
+COM S 674  Natural Language Processing
+
+COM S 676  Reasoning about Knowledge
+
+COM S 677  Reasoning about Uncertainty
+
+COM S 681  Analysis of Algorithms
+
+COM S 682  Theory of Computing
+
+[COM S 684  Introduction to Symbolic Computation
+]
+COM S 685  Computational Geometry
+
+COM S 709  Computer Science Colloquium
+
+COM S 713  Seminar in Systems and Methodology
+
+COM S 715  Seminar in Programming Refinement Logics
+
+COM S 717  Topics in Parallel Architectures
+
+COM S 718  Topics in Computer Graphics
+
+COM S 719  Seminar in Programming Languages
+
+COM S 722  Topics in Numerical Analysis
+
+COM S 729  Seminar in Numerical Analysis/ACRI
+
+COM S 754  Seminar in Work-in-Progress Distributed Systems
+
+COM S 775  Seminar in Natural Language Understanding
+
+COM S 761  Dynamic Manipulation and Scientific Computation
+
+COM S 762  Robot Cafe
+
+COM S 773/774  Proseminar in Cognitive Studies I & II (also Cognitive Studies, Philosophy, Linguistics, and Psychology 773/774)
+
+COM S 775  Seminar in Natural Language Understanding
+
+COM S 784  Seminar in Computational Algebra
+
+COM S 789  Seminar in Theory of Algorithms and Computing
+
+COM S 790  Special Investigations in Computer Science
+
+COM S 890  Special Investigations in Computer Science
+
+COM S 990  Special Investigations in Computer Science
+
+
+
+
+
+Search the 1996-97 Courses of Study
+Go to College of Engineering 1996-97 Course Descriptions page
+Go to Courses of Study home page
+
+Write to 
+cuinfo-admin@cornell.edu 
+with your comments and suggestions.
+
+
+
+

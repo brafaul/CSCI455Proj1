@@ -1,0 +1,92 @@
+Date: Tue, 26 Nov 1996 18:40:32 GMT
+Server: NCSA/1.5.1
+Last-modified: Wed, 04 Sep 1996 22:11:53 GMT
+Content-type: text/html
+Content-length: 2740
+
+
+
+CS 121: Software Development
+
+
+
+
+Computer Science 121 
+Software Development 
+Syllabus, Fall 1996
+  
+
+Professor:  Wing Tam 
+Office: Olin 241 
+Phone: x18768 
+E-mail: wing@cs.hmc.edu
+
+Catalog Description
+
+Rigorous introduction to the technological and managerial discipline
+concerned with the design and implementation of large software systems.
+Techniques for software specification, design, verification, and
+validation. Formal methods for proving the correctness of programs. Student
+teams design, implement, and present a substantial software project. 
+Prequisite:Computer Science 60. 3 credit hours.
+
+
+Required Textbooks
+
+Classical & Object-Oriented Software Engineering,by S. Schaqch.
+Ada as a second language, 2nd edition, by N. Cohen.
+
+
+Syllabus
+
+ Introduction to Software Engineering 
+        The Software Crisis 
+        The Classic Development Life Cycle  
+ Requirement Analysis and Specification 
+      Data Flow Model 
+      Data Dictionary 
+      Requirement Specification 
+      Formal Specification Techniques  
+ Software Design Fundamentals
+      Architectural vs. Detailed Design
+      Module Cohesion and Coupling
+      Functional Decomposition
+ Data Flow-Oriented Design
+      Notations
+      Transform and Transaction Analysis
+      Design Heuristics
+ Object-Oriented Design
+      Notations
+      Object Attributes and Operations
+      Information Hiding
+      Software Reusability
+      Design Approach
+      Implementation of Objects in C++ and Ada
+ Data Structure-Oriented Design
+      Notations
+      Input/Ouput Data Structures
+      Jackson's Structured Programmming
+ Software Project Planning
+      Project Scheduling and Cost Estimation
+ Programming Team Structure
+      General Principles For Organizing A Team
+      Hierarchical Team
+      Chief Programmer Team
+      Democratic Team
+ Implementation Issues
+      Coding Style and Quality
+      Proving the Correctness of Programs
+      Derivation of Programs From Specifications
+ Software Verification and Validation
+      Unit Testing
+      Integration Testing
+      Validation
+
+
+Project
+
+Besides regular homework and programming assignments, the students are
+required to do a major team project.
+
+
+

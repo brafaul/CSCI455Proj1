@@ -1,0 +1,15 @@
+Date: Fri, 13 Dec 1996 16:26:50 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 21 Feb 1996 21:15:15 GMT
+Content-length: 291
+
+CM5
+CM5 information
+
+Warning: some of these documents have not been completely htmlized yet.
+
+Introduction
+Standalone instructions
+What to do in case of a crash
+

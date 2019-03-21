@@ -1,0 +1,101 @@
+Date: Tue, 14 Jan 1997 20:27:51 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+Concepts in Programming Languages. Chapter 6
+
+Chapter 6: Modeling Objects
+
+Block Structured Language (Pascal, C)
+
+Illustrating Static Link to Lexical Parent
+
+
+PROCEDURE foolish ( ... );
+TYPE list = ^cell;  cell = RECORD value:integer; link:list END;
+VAR P1, P2: list;
+
+    FUNCTION product (jj:  integer):integer;
+    VAR kk:  integer;
+    BEGIN
+        IF jj <= 0 THEN product := 1
+        ELSE BEGIN
+            readln(kk);
+            product := kk * product(jj-1);    P1^.value:=P1^.value * kk;
+        END
+    END;
+
+BEGIN (* the executable section of procedure foolish *)
+              P1^.value := 1;
+              P2^.value := product (2);
+
+
+END (* the end of procedure foolish *)
+
+Inputs:    25  7
+
+
+The Static link for all invocations of  FUNCTION product  goes to
+ PROCEDURE foolish, which is its lexical parent.
+The Dynamic link for product(2) goes to foolish; while
+that of product(1) goes to product (2) and 
+that of product(0) goes to product(1).
+
+
+
+Managing the Stack Memory
+
+Operations on the Runtime Stack during a function/procedure call:
+
+
+ The calling program puts the argument values on the stack
+   using the local-allocation pointer.  Typically, the last
+   argument in the function call is loaded on the stack first,
+   followed by the second-last, and so on.  The first argument
+   ends up at the top of the stack.
+   
+ The return address is written at the top of the stack, above
+   the the first argument.
+   
+ The current top-of-stack pointer is copied to the top of the
+   stack.  This will become the new dynamic link field.  The
+   address of this location is stored into the top-of-stack
+   pointer.
+ 
+ The static link for the new frame is written on the stack.
+   This is the same as either the static link or the dynamic
+   link of the calling block.  Code is generated at compile
+   time to copy the appropriate link.
+
+ The local allocation pointer is incremented by enough
+   locations to store the return value and the local variables.
+   If the locals have initializers, those values are also
+   copied.
+
+ Control is transferred to the subroutine.
+
+
+
+Dereferencing a variable
+
+Different Context:
+
+
+ The left-hand side of an assignment operator.
+   
+ The right-hand side of an assignment operator.
+   
+ Part of a subscript expression.
+   
+ A pointer expression.
+   
+ A parameter in a function or procedure call.
+
+
+    
+ 
+
+
+
+Marina Chen
+

@@ -1,0 +1,158 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 14:43:32 GMT
+Content-Type: text/html
+Content-Length: 7283
+Last-Modified: Thursday, 12-Dec-96 21:33:48 GMT
+
+Roberto Bayardo's Papers
+
+[  Journal Articles  |  Conference Papers  |  Refereed Workshop Papers  |  Technical Reports  ]
+
+
+ Journal Articles  
+
+ Roberto J. Bayardo Jr. and 
+    Daniel P. Miranker. 
+      An optimal
+     backtrack algorithm for tree-structured constraint satisfaction
+     problems.  Artificial Intelligence 71(1), 159-181, 1994.
+
+     Presents a top-down algorithm for solving tree-structured
+     constraint satisfaction problems in linear time and evaluates its 
+     average-case performance empirically. 
+(Not available on-line) 
+
+
+ Conference Papers  
+
+ Roberto J. Bayardo Jr. and
+    Daniel P. Miranker. 
+      Processing Queries for First-Few Answers. 
+     In  Proc. of the 
+     
+     Fifth Int'l Conf. on Information and Knowledge Management 
+     ,  45-52, Rockville,
+     Maryland, 1996. 
+
+   Describes a probabalistic method for predicting costs of first-answer query
+   plans under a modified pipelined-join execution model. 
+  cikm96.ps.Z 
+ (Compressed PostScript, 92k)  
+  Roberto J. Bayardo Jr.  and 
+      Robert Schrag.  
+      Using CSP look-back
+     techniques to solve exceptionally hard SAT instances.
+     In  Proc. of the Second Int'l Conf. on Principles
+     and Practice of Constraint Programming (Lecture Notes in Computer 
+     Science 1118) , 46-60, Springer, 1996.
+
+     CSP look-back techniques (CBJ, learning), not widely used in
+     existing SAT algorithms, turn out to be indispensable for solving
+     instances which are "exceptionally hard". A new procedure
+     we define generates such instances consistently. 
+  cp96.ps.Z 
+ (Compressed PostScript, 90k)
+ Procedures used in this paper are 
+     available in the toolkit linked below. Click 
+      here for a brief description of its contents.
+       ehi_tool.tar.Z (v1.01)
+ (Tar'ed and compressed SPARC executables, 298k) 
+ Roberto J. Bayardo Jr. and 
+    Daniel P. Miranker. 
+      A complexity analysis of space-bounded learning algorithms for the 
+     constraint satisfaction problem.
+     In  Proc. of the 13th National Conf. on Artificial
+     Intelligence,  298-304, 1996. 
+
+     Analyzes the effects of space-bounded learning 
+     (a.k.a. constraint-recording) schemes on the runtime complexity of 
+     backtrack search.  
+  aaai96.ps.Z
+ (Compressed PostScript, 97k)  
+ Roberto J. Bayardo Jr. and 
+    Daniel P. Miranker. 
+      On the space-time 
+     trade-off in solving constraint satisfaction problems.
+     In  Proc. of the 14th Int'l Joint Conf. on 
+     Artificial Intelligence, 558-562, 1995.
+
+     From the perspective of achieving tractable constraint satisfaction
+     by	restricting constraint graph structure, extensive use of space may
+     be of limited benefit.    ijcai95.ps.Z
+  (Compressed PostScript, 47k)  
+ J. C. Browne, A. Emerson, M. G. Gouda, 
+    D. P. Miranker, 
+     A. Mok, R. J. 
+     Bayardo Jr., S. Chodrow, D. Gadbois, F. Haddix, T. W. Hetherington, 
+     L. Obermeyer, D.-C. Tsou, C.-K. Wang, and R. Wang.  A new
+     approach to modularity in rule-based programming.  
+     In  Proc. of the Sixth Int'l Conf. on Tools
+     with Artificial Intelligence,  18-25, IEEE Press, 1994. 
+
+     Describes a purely declarative method for introducing modularity into 
+     forward-chaining rule-based languages, and its embodiment in the
+     syntax of the Venus rule language. 
+  ictai94.ps.Z 
+ (Compressed PostScript, 372k)  
+
+
+ Refereed Workshop Papers 
+
+  D. P. Miranker, 
+     Roberto J. Bayardo Jr., and V. Samoladas. 
+      Query Evaluation as Constraint Search; An Overview of Early 
+     Results. 
+     In  Proc. of the Workshop on Constraints and Databases 
+     at the Second Int'l Conf. on Principles and Practice of 
+     Constraint Programming (Lecture Notes in Computer Science, 
+     volume to be determined),  Springer, 1997. 
+
+     Overview of various results on applying constraint processing 
+     techniques to query processing. 
+  cp96db_lncs.ps.Z 
+ (Compressed PostScript, 62k)  
+
+
+  Technical Reports  
+
+ R. J. Bayardo Jr., B. Bohrer, R. Brice, A. Cichocki, J. Fowler,
+     S. Helal, V. Kashyap, T. Ksiezyk, G. Martin, M. Nodine, M. Rashid,
+     M. Rusinkiewicz, R. Shea, C. Unnikrishnan, A. Unruh, and D. Woelk.
+      Infosleuth: Semantic Integration of Information in Open and 
+     Dynamic Environments. 
+     Technical Report MCC-INSL-088-96, Microelectronics and Computer 
+     Technology Corporation, 1996. 
+
+     Describes agent-based architecture for integrating heterogeneous
+     information bases in an ever-changing network of information 
+     sources. 
+     (PostScript available through the 
+      InfoSleuth Project 
+     .)
+ Roberto J. Bayardo Jr..
+      Dealing with Duplicate Tuples in Multi-Join Query Processing. 
+     Technical Report TR-96-11, University of Texas at Austin, 
+     Dept. of Computer Sciences, May 1996. 
+
+     Presents and evaluates several schemes for handling duplicate
+     tuple elimination during optimization and execution of large
+     select-project-join queries. 
+  TR-96-11.ps.Z 
+ (Compressed PostScript, 67k)  
+ Roberto J. Bayardo Jr..
+      Enhancing Query Plans for Many-Way Joins. 
+     Technical Report TR-95-09, University of Texas at Austin, 
+     Dept. of Computer Sciences, March 1995. 
+
+     Proposes a method for annotating query plans with additional operators
+     in order to efficiently produce the query result in the form of a
+     directionally reduced acyclic database.  
+  TR-95-09.ps.Z 
+ (Compressed PostScript, 72k)  
+
+
+
+
+Back to  my home page.
+

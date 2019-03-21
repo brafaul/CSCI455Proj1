@@ -1,0 +1,678 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 25-Nov-96 00:40:53 GMT
+Content-Type: text/html
+Content-Length: 20145
+Last-Modified: Sunday, 29-Sep-96 20:50:30 GMT
+
+Nuprl Project Related Publications
+
+
+Nuprl Project Related Web Sites
+
+ AltaVista(tm) Search
+ 	Paul Jackson's Nuprl Page
+
+
+Nuprl Project Online Papers
+
+There are several formats used to present the papers accessible here.
+
+ HTML : A hypertext version created using  latex2html. 
+ PostScript : A downloadable PostScript version created using dvips.
+ NCSTRL : A pointer into the  Networked Computer Science Technical Reports Library. 
+
+
+
+ Collaborative Mathematics Environments.
+	[ HTML , 
+          PostScript ]
+ Constable, R.
+  Experience Using Type Theory as a Foundation for Computer Science, circa 1985-1995.
+        [HTML ]
+
+ Constable, R.
+  Semantics of Evidence.
+	[ HTML ,
+	  NCSTRL ]
+
+ Constable, R.
+  The Value of Automated Deductions.
+        [HTML ]
+
+ Forester, M.
+  Formalizing Constructive Real Analysis.
+	[ HTML ,
+	  NCSTRL ,
+          PostScript ]
+
+
+
+Nuprl Project Related Publications
+
+ Published Papers and Chapters of Books
+
+
+
+Aagaard, Mark and Leeser, Miriam,
+Verifying a Logic Synthesis Tool in Nuprl.
+Proceedings of Workshop on Computer-Aided Verification.
+	1992.
+	Editor: Gregor Bochmann and David Probst,
+	Publisher: Springer-Verlag,
+	pp. 72-83.
+	(To appear by Springer-Verlag, 1993)
+
+	
+Allen, Stuart F. and Robert L. Constable and Douglas J. Howe and Willaim Aitken.
+The Semantics of Reflected Proof.
+Proc. of Fifth Symp. on Logic in Comp. Sci.
+	IEEE, 
+	1990,
+	pp. 95-197
+
+	
+Allen, Stuart F.
+A Non-Type-Theoretic Definition of Martin-Lof's Types.
+Proc. of Second Symp. on Logic in Comp. Sci.
+	IEEE,
+	June 1987,
+	pp. 215-224
+       
+	
+Allen, Stuart F.
+A non-type-theoretic semantics for type-theoretic language.
+Cornell University.
+        1987
+
+	
+Basin, David A.
+Extracting circuits from constructive proofs.
+Dept. of Artificial Intelligence, Edinburgh.
+	1991,
+	Research Paper 533,
+	(Also appeared in Proc. of the IFIP-IEEE Int'l. Workshop on Form
+	al Methods in VLSI Design, Miami USA, 1991.)
+
+
+	
+Basin, David A. and Douglas J.Howe,
+Some Normalization Properties of Martin-Lof's Type Theory, and Applications,
+Theoretical Aspects of Computer Software, Int. Conf. TACS '91,
+	(Lecture Notes in Computer Science, Vol. 526})
+	Springer-Verlag,
+	pp. 475-494,
+	1991
+
+	
+Basin, D. and G. Brown and M. Leeser,
+Formally Verified Synthesis of Combinational Circuits,
+Integration: The International Journal of  VLSI Design,
+	1991,
+	v. 11,
+	pp. 235-250
+
+       	
+Basin, D. and R. Constable,
+Metalogical Frameworks,
+Proc. of the Second Annual Workshop on Logical Frameworks,
+	Edinburgh, UK,
+	June 1991
+	
+	
+Basin, David A.,
+Building Problem Solving Environments in Constructive Type Theory,
+Cornell University,
+	1990"
+
+	
+Basin, D. and P. Del Vecchio
+Hardware Specification, Verification and Synthesis,
+Hardware Specification, Verification and Synthesis:  Mathematical Aspects,
+	(Lecture Notes in Computer Science, Vol. 408)
+	1989,
+	pp. 333-357,
+	Springer-Verlag
+
+	
+Basin, David A.,
+Building Theories in Nuprl,
+Proc. of Logic at Botik '89,
+	(Lecture Notes in Computer Science, Vol. 363),
+	pp. 12-25,
+	Springer-Verlag, Pereslavl-Zalesky, USSR,
+	1989,
+	(Cornell TR 88-932)
+
+	
+Basin, David A.,
+An environment for automated reasoning about partial functions,
+	9th International Conference on Automated Deduction,
+	(Lecture Notes in Computer Science, Vol. 310),
+	pp. 101-110,
+	Springer-Verlag, NY,
+	1988
+
+	
+Bates, J. L. and Robert L. Constable,
+Proofs as programs,
+ACM Trans. Program. Lang. and Syst.,
+	v. 7,
+	n. 1,
+	pp. 53-71,
+	1985
+
+	
+Bundy, A. and F. van Harmelen and C. Horn and A. Smaill,
+The Oyster-Clam system,
+10th International Conference on Automated Design,
+	(Lecture Notes in Artificial Intelligence, Vol. 449),
+	Springer-Verlag,
+	1990,
+	Stickel, M.E. (Editor),
+	pp. 647-648
+
+	
+Chen, W.Z.,
+Tactic-based Theorem Proving and Knowledge-based Forward Chaining,
+Eleventh International Conference on Automated Deduction,
+	(Lecture Notes in A.I., Vol. 607),
+	1992,
+	D. Kapur (Editor),
+	pp. 552-566,
+	Springer-Verlag
+	
+	
+Chirimar, J. and Douglas J.~Howe,
+Implementing Constructive Real Analysis: a Preliminary Report,
+Symposium on Constructivity in Computer Science,
+	Springer-Verlag,
+	1991
+
+	
+Robert L. Constable,
+Exporting and reflecting abstract constructive meta-mathematics,
+Lecture Notes in Artificial Intelligence,
+	1994,
+	Alan Bundy (Editor),
+	p. 529,
+	(12th International Conference on Automated Deduction),
+	Springer-Verlag
+
+        
+Robert L. Constable,
+Expressing computational complexity in constructive type theory,
+LNCS/LNAI Proceedings, 
+        (Lecture Notes in Computer Science),
+        1994,
+	pp. 131-144,
+        Springer-Verlag
+
+	
+Robert L. Constable,
+Using Reflection to Explain and Enhance Type Theory,
+	Proof and Computation,
+	1994,
+	NATO ASI Series,
+	Springer-Verlag
+
+	
+Constable, Robert L. and Paul B. Jackson,
+Towards Integrated Systems for Symbolic Algebra and Formal Constructive Mathematics,
+	To appear.,
+	1994
+
+	
+Constable, Robert L. and Scott F. Smith,
+Computational Foundations of Basic Recursive Function Theory,
+Theoretical Computer Science B: Logic, semantics, and theory of programming,
+	1993,
+	v. 121,
+	pp. 89-112
+
+	
+Constable, Robert L.,
+Formal Theories and Software Systems:  
+	Fundamental Connections between Computer Science and Logic,
+Future Tendencies in Computer Science, Control and Applied Mathematics,
+	(Lecture Notes in Computer Science, Vol. 653),
+	Springer-Verlag,
+	December, 1992,
+	Bensoussan, A. and J.-P. Verjus (Editors),
+	pp. 105-127
+
+	
+Constable, Robert L.,
+Metalevel Programming in Constructive Type Theory,
+Programming and Mathematical Method,
+	(NATO ASI Series, Vol. F88),
+	Springer-Verlag,
+	1992,
+	Broy, Manfred (Editor),
+	pp. 45-93
+
+	
+Constable, Robert L.,
+Lectures on: Classical Proofs as Programs,
+Constructive Methods of Computing Science,
+	(NATO ASI Series),
+	M. Broy (Editor),
+	1992
+
+	
+Constable, Robert L. and Chetan Murthy,
+Finding  Computational Content from Classical Proofs,
+Logical Frameworks,
+	Cambridge University Press,
+	1991,
+	Gerard Huet and Gordon Plotkin (Editors),
+	pp. 341-362
+
+	
+Constable, Robert L.,
+Type Theory as a Foundation for Computer Science,
+Theoretical Aspects of Computer Software, Int. Conf. TACS '91,
+	(Lecture Notes in Computer Science, Vol. 526),
+	1991,
+	pp. 226-243
+
+	
+Constable, Robert L. and  Stuart F. Allen and Douglas J. Howe,
+Reflecting the Open-Ended Computation System of Constructive Type  Theory,
+Logic, Algebra and Computation,
+	(NATO ASI Series, Vol. F79),
+	H. Schwichtenberg (Editor),
+	1990
+
+	
+Robert L. Constable and Douglas J. Howe,
+Implementing Metamathematics as an Approach to Automatic Theorem Proving,
+Formal Techniques in Artificial Intelligence: A Source Book,
+        Elsevier Science Publishers (North-Holland),
+        1990,
+        R.B. Banerji (Editor),
+        pp. 45-76
+
+	
+Constable, Robert L. and Douglas J. Howe,
+Nuprl as a General Logic,
+Logic in Computer Science,
+	Academic Press,
+	1990,
+	P. Odifreddi (Editor),
+	pp. 77-90,
+	(Cornell TR 89-1021)
+
+	
+Constable, Robert L.,
+Assigning Meaning to Proofs: a semantic basis for problem solving environments,
+Constructive Methods of Computing Science,
+	(NATO ASI Series, Vol. F55),
+	M. Broy (Editor),
+	pp. 63-91,
+	1989 
+
+	
+Constable, Robert L. and Scott F. Smith,
+Computational Foundations of Basic Recursive Function Theory,
+Third Symp. on Logic in Comp. Sci.,
+	IEEE, Edinburgh, UK,
+	pp. 360-371,
+	1988,
+	(Cornell TR 88-904)
+
+	
+Constable, Robert L. and Stuart F. Allen and H.M. Bromley and W.R. Cleaveland 
+	and J.F. Cremer and R.W. Harper and Douglas J. Howe and T.B. Knoblock and 
+	N.P. Mendler and P. Panangaden and James T. Sasaki and Scott F. Smith,
+Implementing Mathematics with the Nuprl Development System,
+	Prentice-Hall, NJ,
+	1986
+
+	
+Constable, Robert L. and N.P. Mendler,
+Recursive Definitions in Type Theory,
+Proc. of Logics of Prog. Conf.,
+	pp. 61-78,
+	January 1985,
+	(Cornell TR 85-659)
+
+	
+Constable, Robert L.,
+Constructive Mathematics as a programming logic:  some principles of theory,
+Annals of Mathematics,
+	Vol. 24,
+	Elsevier Science Publishers, B.V. (North-Holland),
+	1985,
+	(Reprinted from 
+		Topics in the Theory of Computation, 
+ Selected Papers of the Intnl. Conf. on "Foundations of Computation Theory," FCT '83
+	)
+
+	
+Constable, Robert L. and T. Knoblock and J.L. Bates,
+Writing programs that construct proofs,
+J. Automated Reasoning,
+	v. 1,
+	n. 3,
+	pp. 285-326,
+	1984
+
+	
+Constable, Robert L. and Michael J. O'Donnell,
+A Programming Logic,
+        Winthrop, Mass,
+        1978
+
+	
+Constable, Robert L.,
+Constructive mathematics and automatic program writers,
+Proc. IFIP Congr.,
+        Ljubljana,
+	pp. 229-233,
+        1971
+
+	
+Giunchiglia, F. and A. Smaill,
+Reflection in constrcutive and non-constructive automated reasoning,
+Meta-Programming in Logic Programming,
+	MIT Press,
+	1989,
+	Abramson, H. and M.H. Rogers (Editors),
+	pp. 123-140
+
+	
+Horn, C.,
+The Nuprl proof development system,
+Dept. of Artificial Intelligence, Edinburgh,
+	1988,
+	Working paper 214
+
+        
+Howe, Douglas J.and Stoller, Scott D.,
+An operational approach to combining classical set theory and functional programming languages, 
+International Symposium TACS '94,
+        (Lecture Notes in Computer Science),
+        Springer-Verlag,
+        1994,
+	Goos, G. and Hartmanis, J. (Editors),
+        pp. 36-55
+
+	
+Howe, Douglas J.,
+Reasoning About Functional Programs in Nuprl,
+Functional Programming, Concurrency, Simulation and Automated Reasoning,
+	(Lecture Notes in Computer Science),
+	1993,
+	(To appear)
+
+	
+Howe, Douglas J.,
+A Simple Type Theory for Reasoning about Functional Programs.
+	Computer Science Department, Cornell Univeristy,
+	(Pre print),
+	1992
+
+	
+Howe, Douglas J.,
+Equality in Lazy Computation Systems,
+Proc. of Fourth Symp. on Logic in Comp. Sci.,
+	1989,
+	IEEE Computer Society,
+	pp. 198-203
+
+	
+Howe, Douglas J.,
+Computational Metatheory in Nuprl,
+9th International Conference on Automated Deduction,
+	(Lecture Notes in Computer Science, Vol. 310),
+	E. Lusk and R. Overbeek (Editors),
+	pp. 238-257,
+	Springer-Verlag, New York,
+	1988
+
+	
+Howe, Douglas J.,
+Automating Reasoning in an Implementation of Constructive Type Theory,
+	Cornell University,
+	1988
+
+	
+Howe, Douglas J.
+Implementing Number Theory: An Experiment with Nuprl,
+8th International Conference on Automated Deduction,
+	(Lecture Notes in Computer Science, Vol. 230),
+	1987,
+	pp. 404-415
+
+	
+Howe, Douglas J.
+The Computational Behaviour of Girard's Paradox
+Proc. of Second Symp. on Logic in Comp. Sci.
+	IEEE,
+	1987,
+	pp. 205--214
+
+	
+Jackson, Paul B. and Robert L. Constable,
+Type Theory for Computer Algebra,
+	(In preparation),
+	1995
+
+	
+Paul B. Jackson,
+Enhancing the Nuprl Proof Development System and Applying it to Computational Abstract Algebra,
+	Cornell University,
+	1994,
+	Ithaca, NY,
+
+	
+Paul B.~Jackson,
+The Nuprl Proof Development System, Version 4.1 Reference Manual and User's Guide,
+	Cornell University,
+	Ithaca, NY,
+	1994
+
+	
+Paul B. Jackson,
+Exploring Abstract Algebra in Constructive Type Theory,
+	12th Conference on Automated Deduction,
+	1994,
+	A. Bundy (Editor),
+	Springer-Verlag,
+	New York
+
+	
+Jackson, Paul B.,
+Developing a toolkit for floating-point hardware in the Nuprl proof development system, 
+Advanced Research Workshop on Correct Hardware Design Methodologies,
+	pp. 401-419,
+	Organized by ESPRIT, Turin, Italy,
+	June 1991
+
+	
+Jackson, Paul B.,
+Nuprl and its Use in Circuit Design, 
+Proceedings of the IFIP TC10/WG10.2 
+	International Conference on Theorem Provers in Circuit Design: 
+	Theory, Practice and Experience,  
+	V. Stavridou, T.F. Melham and R.T. Boute (Editors),
+	pp. 311-336,
+	North-Holland, The Netherlands,
+	1992
+
+	
+Paul B. Jackson,
+Logic-Based Knowledge Representation,
+	MIT Press, Cambridge, MA,
+	1989
+
+	
+Knoblock, Ted,
+Mathematical Extensibility in Type Theory,
+        Cornell University,
+        1987
+
+	
+Knoblock, Ted B. and Robert L. Constable,
+Formalized Metareasoning in Type Theory,
+Proc. of the First Symp. on Logic in Comp. Sci.,
+        pp. 237-248,
+	1986,
+	IEEE
+
+	
+Kreitz, Charles,
+Constructive Automata Theory Implemented with the Nuprl Proof Development System,
+	Cornell University,
+	1986,
+	Ithaca, New York
+
+	
+Kreitz, Charles,
+Meta-Synthesis:  Deriving Programs that Develop Programs,
+	Technical University of Darmstadt,
+	November, 1992
+
+	
+O'Leary, John; Miriam Leester; Jason Hickey; and Mark Aagaard,
+Non-Restoring Integer Square Root: A Case Study in Design by Principled Optimization,
+International Conference on Theorem Proving &  Circuit Design,
+	1994
+
+	
+Leeser, Miriam,
+Using Nuprl for the verification and synthesis of hardware,
+Phil. Trans. R. Soc. Lond.,
+	1992,
+	v. 339,
+	pp. 49-68
+
+	
+Madden, P.,
+Automatic program optimization via the transformation of Nuprl synthesis proofs, 
+Proc. of the 1988 Alvey Technical Conf.,
+	1988,
+	Clarke, L. (Editor),
+	(Also available from Edinburgh as DAI Research Paper No. 392)
+
+	
+Mendler, P.F.
+Recursive Types and Type Constraints in Second-Order Lambda Calculus
+Proc. of Second Symp. on Logic in Comp. Sci.
+	IEEE,
+	1987,
+	pp. 30-36
+
+	
+Mendler, P.F.,
+Inductive Definition in Type Theory,
+	Cornell University,
+	Ithaca, NY,
+	1988
+
+	
+Mendler, N.; Robert L.~Constable; and P. Panangaden
+Infinite Objects in Type Theory
+Proc. of First Symp. on Logic in Comp. Sci.
+	IEEE,
+	1986,
+	pp. 249-257
+	(Cornell TR 86-743)
+
+	
+Murthy, Chetan,
+A computational analysis of Girard's translation and LC,
+Proc. of Seventh Symp. on Logic in Comp. Sci.,
+	1992
+
+	
+Murthy, Chetan,
+An Evaluation Semantics for Classical Proofs,
+Proc. of Sixth Symp. on Logic in Comp. Sci.,
+	1991,
+	pp. 96-109,
+	IEEE, Amsterdam, The Netherlands
+
+	
+Russell, J. and Chetan Murthy,
+A Direct Constructive Proof of Higman's Lemma,
+	pp. 257-269,
+	Proc. of Fifth Symp. on Logic in Comp. Sci.,
+	IEEE,
+	1990
+
+	
+Murthy, Chetan,
+Extracting Constructive Content for Classical Proofs,
+	Cornell University, Dept. of Computer Science,
+	1990,
+	(TR 89-1151)
+
+	
+Sasaki, James T.,
+The Extraction and Optimization of Programs from Constructive Proofs,
+        Cornell University,
+        1985
+
+	
+Smith, Scott F. and Robert L. Constable,
+Partial objects in constructive type theory, 
+Proc. of Second Symp. on Logic in Comp. Sci.,
+	IEEE, Washington, D.C.,
+	pp. 183-93,
+        1987
+	
+	
+Smith, Scott F.,
+Partial Objects in Type Theory,
+	Cornell University,
+	Ithaca, NY,
+	1989
+
+	
+J.L. Underwood,
+Aspects of the Computational Content of Proofs,
+	Cornell University,
+	1994,
+	Ithaca, NY
+	(Cornell TR94-1460)
+	
+	
+Underwood, Judith,
+The Tableau Algorithm for Intuitionistic Propositional 
+  	Calculus as a Constructive Completeness Proof,
+	Proceedings of the Workshop on Theorem Proving with Analytic Tableaux,
+  	Marseille, France,
+        pp. 245-248,
+	1993,
+	(Available as Technical Report MPI-I-93-213
+  	Max-Planck-Institut fur Informatik, Saarbrucken, Germany)
+
+	
+Underwood, Judith,
+A Constructive Completeness Proof for the Intuitionistic Propositional Calculus,
+	Cornell University,
+	(Cornell TR90-1179),
+	1990
+    
+
+ Research Papers
+
+
+ Coming soon
+		 at your browser!
+
+
+ Research Notes
+
+
+ Coming soon
+		 at your browser!
+
+
+
+
+ 
+ Return to Main Index  
+ Nuprl Project / nuprl@cs.cornell.edu 

@@ -1,0 +1,31 @@
+Date: Wed, 15 Jan 1997 00:34:30 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 22 Jun 1994 16:44:10 GMT
+Content-type: text/html
+Content-length: 1061
+
+Distributed Systems & Networks
+
+Distributed Systems & Networks
+
+
+
+Distributed Databases & Computations:  
+	Belford, 
+	Kaplan, 
+	J. Liu
+Fault Tolerance:  
+	Belford, 
+	Campbell
+Microprocessors:  
+	Campbell, 
+	Faiman
+Modelling & Analysis:  
+	Agha, 
+	Belford, 
+	Kaplan
+
+
+
+
+Go back to Research Areas Index

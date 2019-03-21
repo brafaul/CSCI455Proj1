@@ -1,0 +1,63 @@
+Date: Tue, 10 Dec 1996 16:48:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 373 G++ Tips
+
+
+Using the g++ Compiler
+
+Related Information on C++
+Here is a primer on C++
+
+In class, several students mentioned a desire for some material
+on pointers in C.  Here is a URL for a document dealing specifically
+with pointers in C.
+Information about pointers in C.
+
+A Test program: "Hello-cse373.cpp"
+
+Here is a sample C++ program.
+Assume it is in a file named Hello-cse373.cpp.
+
+#include "iostream.h"
+
+void main(void) {
+ cout << "Hello, CSE 373!";
+ cout << " This is Autumn ";
+ cout <<  1990 + 6;
+}
+
+Compiling and Running the Program
+
+
+To compile the program on Entropy or Hilbert, type in the command,
+
+%  g++ Hello-cse373.cpp
+
+
+Then to run the program, type
+
+%  a.out
+
+
+Note: if you receive the following warning message, ignore it.
+This message seems to reflect a minor problem with the MSCC
+setup.  The user program runs alright anyway.  (On the CSE
+Unix machine that I tried this program on, there was no such
+warning message.)
+
+
+/bin/ld:
+Warning: Linking some objects which contain exception information sections
+        and some which do not. This may cause fatal runtime exception handling
+        problems (last obj encountered without exceptions was /usr/local/lib/libstdc++.a).
+
+
+
+Last modified 14 October 1996 by S. Tanimoto
+
+
+

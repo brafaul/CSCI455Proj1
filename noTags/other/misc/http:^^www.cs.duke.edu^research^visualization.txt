@@ -1,0 +1,32 @@
+Date: Tue, 14 Jan 1997 22:01:51 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 19 Oct 1994 18:06:27 GMT
+Content-type: text/html
+Content-length: 1004
+
+
+<!-- @(#)visualization.html	1.1 (Duke) 10/19/94>
+
+Computational Images
+
+ 
+Computational Images
+
+
+
+Generalized Swift-Hohenberg Eqaution
+MPEG movie: approximately 3M in size.
+
+This movie was produced by students of Henry Greenside. 
+The movie is a numerical simulation of
+so-called spiral chaos, a novel dynamical state discovered in
+convection experiments last year. The simulation is not of the full
+fluid equations but of a simplified model of convection and transition
+to turbulence near onset known as the Generalized Swift-Hohenberg
+equation. The calculation is in a square periodic domain of size 32Pi
+by 32Pi and was started from random initial conditions of low
+amplitude. The movie encompasses ten horizontal diffusion times. 
+
+www@cs.duke.edu
+
+

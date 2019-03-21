@@ -1,0 +1,207 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:42:04 GMT
+Content-Type: text/html
+Content-Length: 7626
+Last-Modified: Monday, 18-Nov-96 13:57:55 GMT
+
+
+CS 631 Course Materials
+
+
+CS631 Course Materials
+
+
+
+
+Most of our materials are in Portable Document Format (pdf).
+
+
+ 631 Project Info 
+ Lectures 
+ Assignments 
+ Readings 
+ Download Acrobat Plugin 
+
+
+
+
+
+631 Project Info
+
+Deadlines
+
+September 30 - White Paper Submission
+ 
+October 11 - Project Written Proposal
+ 
+October 21   - Project Progress Report
+ 
+November 25  - Project Presentations
+ 
+December 6   - Conference Paper Submission
+
+Project Materials
+
+Project Proposal Instructions
+
+Project Homepage Template
+
+Suggested Projects 
+
+ Project Questions & Answers
+
+
+
+
+
+Lectures
+
+ 
+ Topic 1: Introduction (pdf)
+ 
+ Topic 2: Digitizing Audio and Video (pdf)
+ 
+ Topic 3: Color in Video (pdf)
+ 
+ Topic 4: Video Compression(pdf)
+ 
+ Topic 5: Introduction to Compressed Domain Processing (pdf)
+ 
+ Topic 6: Rivl (pdf) 
+ 
+ Topic 7: Morphing (pdf) 
+ 
+ Topic 8: Video on Demand (pdf) 
+ 
+ Topic 9: Networks (pdf) 
+ 
+ Topic 10: Lossless Compression (pdf) 
+ 
+ Topic 11: Audio Compression (pdf) 
+ 
+ Topic 12: Video Compression, Take 2 (pdf) 
+ 
+
+	Topic 13: Compressed Domain Processing, Take 2 (pdf) 
+ 
+ Topic 14: Networking, Take 2 (pdf) 
+ 
+ Topic 15: Salient Stills (pdf) 
+ 
+ Topic 16: Speaking and Writing (pdf) 
+
+
+
+
+
+
+Assignments
+
+ 
+ Homework 1 (due 09/20/1996)
+ 
+ Introduction to NETPBM library
+ 
+  
+ Homework 2 (due 10/07/1996)
+
+
+
+
+
+
+Readings
+
+Paper Review Form
+ Analog Video Representations 
+
+ Blinn, James F.,   The World of Digital Video,
+    IEEE Computer Graphics and Applications, September, 1992.
+
+ C. A. Poynton,
+     Technical Introduction to Digital Video,
+     John Wiley & Sons, 1995, pp 1-32 
+ C. A. Poynton, Colour FAQ
+
+ Video Compression 
+
+ Wallace, Gregory
+	The JPEG Still Picture Compression Standard 
+	IEEE Transactions on Consumer Electronics, Feb. 1992,
+	vol.38,(no.1):xviii-xxxiv 
+ Le Gall, Didier
+	MPEG:  A Video Compression Standard for Multimedia Applications
+	Communications of the ACM, April 1991, vol.34, (no.4):46-58
+
+
+ Audio Compression 
+
+ A.J.M. Houtsma, Psychophysics and Modern Digital Audio
+    Technology,  Philips Journal Research, Vol 47, 1992, pp 3-14. 
+
+ Zwicker, Eberhard and  Zwicker, U. Tilmann
+     Audio Engineering and Psychoacoustics:  Matching Signals
+    to the Final Receiver, The Human Auditory System 
+    Journal of the Audio Engineering Society, March 1991, vol.39,
+    (no.3):115-26.
+
+
+ Video Processing 
+
+  B. C. Smith, L. A. Rowe
+    Algorithms for Manipulating Compressed Images,
+    IEEE Computer Graphics and Applications, September, 1993. 
+  L. Tang,
+    Methods for Encrypting and Decrypting MPEG Video Data Efficiently,
+     Proc. of the Fourth ACM International Conference on Multimedia,
+    Boston, MA, November, 1996. 
+
+ T. Beier, S. Neely, Feature-Based Image Metamorphosis, 
+    Proc. of SIGGRAPH 92, July 1992, pp 35-42
+
+ Video on Demand 
+
+ D. J. Gemmel, et. al., Multimedia Storage Servers: A Tutorial
+    IEEE Computer, May 1995
+
+ A. Reddy, Disk Scheduling in a Multimedia I/O System 
+    Proceedings of the First ACM Conference on Multimedia, San Francisco,
+    CA, August 1-6, 1993, p. 225-234, ACM Press
+
+ Networks 
+
+ M. R. Macedonia, D. P. Brutzman, MBone Provides Audio and Video
+Across the Internet, IEEE Computer, Vol.27 #4, April 1994, pp. 30-36.
+
+    ftp://taurus.cs.nps.navy.mil/pub/mbmg/mbone.html
+B. C. Smith,  Cyclic-UDP: A Priority Driven Best-Effort Protocol,
+    
+    /Info/Projects/zeno/Papers/cudp.pdf
+L. Zhang, S. Deering, et. al.,  RSVP: A New Resource ReSerVation
+Protocol, IEEE Network, vol. 7, no. 5, pp. 8-18, September 1993.
+
+    http://www.isi.edu/div7/rsvp/rsvp.html
+
+
+
+
+
+
+Download Acrobat Plug-in
+To download a netscape plugin to read PDF files.
+
+ press here for Windows (2.4 MB), 
+ press here for Macintosh v.b13 (6.1 MB) 
+ press here for Sun OS 4.x (6.1 MB), 
+ press here for Solaris 2.3 (6.1 MB),
+ press here for HP-UX 9.03 and higher (5.6 MB), 
+  press here for other systems 
+
+
+
+
+
+
+
+CS631 home page

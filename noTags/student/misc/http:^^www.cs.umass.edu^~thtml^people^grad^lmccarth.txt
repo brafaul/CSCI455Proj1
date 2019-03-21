@@ -1,0 +1,128 @@
+Date: Thursday, 21-Nov-96 23:21:03 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Thursday, 14-Nov-96 01:01:31 GMT
+Content-length: 5294
+
+
+
+
+Lewis McCarthy
+
+
+ Lewis McCarthy
+ (lmccarth@cs.umass.edu) 
+
+
+I am a doctoral candidate 
+in the
+Theory Group of the
+Department of Computer Science at
+the University of Massachusetts, 
+Amherst (aka UMass). 
+My research interests include
+cryptography 
+(in particular, the design and analysis of key exchange and authentication 
+protocols) and
+symbolic computation.
+
+My thesis advisor is
+ Susan Landau.
+
+In May 1993 I received a B.S. with Distinction from the
+Cornell University
+Department of Computer Science, and 
+I had the distinct pleasure of visiting the department for the 1995-96
+academic year. 
+
+I have a low 
+security
+PGP
+public key.
+
+As of September 23, 1996 at about 10:35 AM EST, I looked 
+like this 
+(400x400 JPEG). My hair is usually much shorter than it appears in this
+photo.
+
+
+ 311/611 TA Work 
+During the Fall 1996 semester I'm working as the TA for both CMPSCI 311(391) 
+and CMPSCI 611. 
+Click here for 
+more information. Please send course-related email to 
+my EdLab account, 
+lmccarth@elux3.cs.umass.edu.
+
+
+ Secure Mobility / Mobile Security 
+This semester I'm taking 
+Prof. Krithi 
+Ramamritham's seminar on 
+mobile computing. Alex 
+Specker and I are concentrating on research issues in mobile security (or,
+as I prefer to put it, secure mobility). We are compiling an eternally 
+incomplete, partially annotated 
+
+bibliography of references to papers on security in mobile computing 
+systems.
+
+
+ Work in Symbolic Computation 
+As part of my qualification for Ph.D. candidacy, I completed a
+synthesis 
+project. My synthesis paper, "Typing for Interactive Symbolic Computation" (240k
+PostScript), explores the relative merits of the data typing schemes in the 
+symbolic computation systems
+Macsyma, 
+Maple, and 
+GAP (Groups,
+Algorithms, and Programming), and suggests some alternatives.
+
+Susan Landau and I are collaborating on an efficient implementation in Maple 
+of the Landau/Miller `85 polynomial-time decision procedure for determining 
+the solvability of a polynomial by radicals.
+
+ Other Security-Related Activities
+I manage the
+ 
+Coderpunks mailing list, where the implementation of strong,
+robust, and practical cryptosystems is discussed. 
+
+I am a charter member of the
+Digital Commerce Society
+of Boston, which sponsors a monthly speaking series at The Harvard Club.
+Here are Bob Hettinga's
+directions
+to the Harvard Club.
+
+ Miscellaneous Crypto-Related Writing 
+
+I pointed out some weaknesses of authorization schemes 
+
+based on password encryption with crypt(3)
+and
+
+based on PGP signatures
+that were proposed for Internet domain contact record changes in the
+InterNIC
+
+Guardian Object Draft v.1.
+
+ Personal Links 
+I'm also interested in 
+some Web sites
+unrelated to my research.
+
+
+lmccarth@cs.umass.edu maintains
+Web pages in the www.cs.umass.edu/~lmccarth hierarchy.
+
+www-admin@cs.umass.edu maintains
+the Computer Science department Web pages.
+
+Last substantive update: November 13, 1996
+
+
+

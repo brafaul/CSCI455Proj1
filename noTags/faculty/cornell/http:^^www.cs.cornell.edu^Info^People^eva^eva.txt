@@ -1,0 +1,165 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 18:57:03 GMT
+Content-Type: text/html
+Content-Length: 6622
+Last-Modified: Thursday, 15-Aug-96 00:14:15 GMT
+
+
+ Activities - Éva Tardos 
+
+Éva Tardos
+Associate Professor
+
+ 
+Department of Computer Science
+5144 Upson Hall
+Cornell University
+Ithaca, NY 14853
+phone: (607) 255-0984 
+fax: (607) 255-4428 
+Email:  eva@cs.cornell.edu .
+ 
+School of Operations Research and Industrial Engineering
+phone: (607) 255-9140 
+FAX: (607) 255 9129
+eva@orie.cornell.edu
+
+ 
+ 
+Click 
+
+here 
+
+to see my daughter,
+
+Rebecca Julia Shmoys
+.  
+Current Activities
+ Current Research
+Recent Publications
+
+
+Current Research
+Broadly speaking, my research interest is the theory of algorithms,
+including many aspects of computational complexity theory. I am mostly
+working on combinatorial optimization problems, in particular network
+problems, approximation algorithms, and linear and integer programming
+problems.
+
+Recent Publications
+ Research Papers
+Survey papers
+
+Research Papers
+ D. Shmoys and E. Tardos,  ``An approximation algorithm for the
+generalized assignment problem.'' Mathematical Programming A 62, 1993, 
+461-474. 
+Preliminary version has appeared in the proceeding of the 4th Annual ACM-SIAM 
+Symposium on Discrete Algorithms, January 1993.
+
+ S.A. Plotkin and E. Tardos, Improved Bounds on the Max-flow Min-cut
+Ratio for Multicommodity Flows. to appear in Combinatorica.
+Preliminary version has appeared in the Proceedings of the 25th Annual ACM 
+Symposium on Theory of Computing, 1993, pp. 691-697. 
+ 
+ORIE TR-1042. 
+
+ P. Klein, S.  Plotkin, C. Stein and E. Tardos,  ``Faster
+approximation algorithms for the unit capacity concurrent flow problem
+with applications to routing and finding sparse cuts.'' SIAM Journal on
+Computing, 23/3, 1994,. 466-487. Preliminary version has appeared
+in the proceedings of the 22nd Annual ACM Symposium on the Theory of Computing
+(1990), 310-321.
+
+ T. Leighton, F. Makedon, S. Plotkin, C. Stein, E. Tardos,  S.
+Tragoudas: Fast Approximation Algorithms for Multicommodity Flow
+Problems,  Journal of Computer and System Sciences, 50 (STOC'91 special issue),
+1995, pp. 228--243.
+Preliminary version has appeared in the Proceedings of the 23rd Annual
+ACM Symposium on the Theory of Computing (1991), 101-110.  
+ S.A. Plotkin, D. Shmoys, and E. Tardos,  Fast approximation
+algorithms for fractional packing and covering problems, to appear in
+Mathematics of Operations Research.
+
+ORIE TR-999.   
+Preliminary version has
+appeared in the Proceedings of the 32nd Annual IEEE Symposium on the
+Foundations of Computer Science (1991), 495-505. 
+
+
+ M. Goemans, A. Goldberg, S. Plotkin, D. Shmoys, E. Tardos, and D. 
+Williamson: Improved approximation algorithms for network design
+problems. In the proceeding of the 5th Annual ACM-SIAM Symposium on Discrete
+Algorithms, January 1994, pp. 223-232. 
+
+ORIE TR-1116.
+
+ B. Hoppe and E. Tardos: Polynomial Time Algorithms for Some
+Evacuation Problems.  In the proceeding of the 5th Annual ACM-SIAM Symposium on
+Discrete Algorithms, January 1994, pp. 433-441. 
+
+ORIE TR-1117.
+
+ B. Hoppe and E. Tardos: The Quickest Transshipment Problem, in the
+proceeding of the 6th Annual ACM-SIAM Symposium on Discrete Algorithms, 1995
+pp. 512-521. 
+ 
+ORIE TR-1118. 
+
+ P. Klein, S. Plotkin, S. Rao and E. Tardos: Approximation
+Algorithms for Steiner and Directed Multicuts.
+
+ORIE TR-1119.
+
+ J. Kleinberg and E. Tardos: Approximations for the Disjoint Paths
+Problem in High-Diameter Planar Networks, in the Proceedings
+of the 27th Annual ACM Symposium on Theory of Computing, 1995, pp 26-35.
+ 
+ORIE TR-1121. 
+
+ J. Kleinberg and E. Tardos: Disjoint Paths in Densely Embedded Graphs.
+in the Proceedings of the 34th Annual
+IEEE Symposium on the Foundations of Computer Science, 1995, pp. 52-61.
+ new version of ORIE TR-1127. 
+
+
+Y. Rabani and E. Tardos:
+Distributed Packet Switching in Arbitrary Networks,
+in the 28th  ACM Symposium on Theory of Computing, May, 1996, pp. 366-376.
+ ps version.
+
+ L. Fleischer and E. Tardos:
+Separating Maximally Violated Comb Inequalities in Planar Graphs,
+to appear in IPCO, June 1996.
+
+ORIE TR-1150.
+
+Survey Papers
+ A.V. Goldberg, E. Tardos and R. Tarjan, ``Network Flow Algorithms.''
+(Sept. 89). in Paths, Flows and VLSI-Design (eds. B. Korte, L. Lovasz
+and A. Schrijver) Springer-Verlag, 1990,  101-164.
+
+ E. Tardos: Strongly Polynomial and Combinatorial Algorithms in
+Optimization, in the Proceedings of the International Congress of
+Mathematicians Kyoto 1990, Springer-Verlag, Tokyo 1991, 1467-1478.
+
+918. D.B. Shmoys and E. Tardos, ``Computational complexity.'' (Aug.
+90).  Handbook of Combinatorics (eds. R. Graham, M. Grotschel, and L.
+Lovasz), North Holland, to appear. 
+
+ L. Lovasz, D. B. Shmoys and E. Tardos: Combinatorics in Computer
+Science, to appear in the Handbook of Combinatorics (eds. R. Graham,
+M.Grotschel, and L. Lovasz) North Holland, to appear.
+
+ E. Tardos: Approximate Min-Max Theorems and Fast Approximation
+Algorithms for Multicommodity Flow Problems, annotated bibliography. In
+Proc. of the Summer School on Combinatorial Optimization, in Maastricht,
+The Netherlands, Aug. 1993.
+
+ E. Tardos: Approximate Min-Max Theorems and Fast Approximation
+Algorithms for Multicommodity Flow Problems, In Proc. Network
+Optimization Theory and  Practice (NETFLOW), in San Miniato (PI) Italy,
+Oct. 1993.
+
+

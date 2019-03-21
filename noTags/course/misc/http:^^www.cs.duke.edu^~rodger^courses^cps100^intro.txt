@@ -1,0 +1,250 @@
+Date: Wed, 20 Nov 1996 22:18:28 GMT
+Server: NCSA/1.5.1
+Last-modified: Mon, 18 Nov 1996 21:44:05 GMT
+Content-type: text/html
+Content-length: 9549
+
+
+CPS 100 - FALL 1996 
+
+
+
+
+
+
+
+
+
+CPS 100: Fall 1996
+
+
+
+
+
+
+
+
+
+Program Design and Analysis II
+
+
+
+
+
+
+[  C++ Classes  |
+ Assgnments  |
+ Quiz  |
+ Group Work  |
+ Groups  |
+ Grades  |
+ Tests  ]
+
+
+
+
+
+
+
+
+
+
+
+
+  Review Session 
+for Test 2 is Monday, Nov 18 at 7pm in
+LSRC D106.
+
+ FINAL EXAM
+ is scheduled for Saturday, Dec. 21, 2-5pm
+ Sorry, I had nothing to do with this. Send complaints to the registrar!
+
+
+
+ Course Materials and Handouts 
+
+ 
+Check Teer and Carr cluster staffing schedule  
+   Course Syllabus 
+   Read the CPS 100 Newsgroup 
+   Contacting   Professors or TAs.
+ 
+Is this the right CPS course for you? 
+  Be a UTA for CPS 6
+next semester
+ 
+Learn Unix commands (postscript) 
+ Here is some helpful unix commands for you to try. To learn more
+try typing "man command" for any command. Feel free to post questions
+on the newsgroup.
+ 
+OIT online help page 
+
+
+  Some C++ Classes  
+
+  Vector class   to use type:  #include "vector.h" 
+  Matrix class  to use type:  #include "matrix.h"
+ String class  from CPS 6 (CPstring.h) to use
+type:  #include "CPstring.h"
+
+
+  Assignments  
+
+  Assignment 1  
+
+    Getting Started (html)  
+This is ready for use! 
+    Assignment 1 (html) 
+Now due Wed. Sept. 18, 8am
+
+
+You can start the assignment now. Necessary files have been setup.
+You should take a look at the Getting Started handout first. It shows
+you how to setup your environment for this course.
+
+ This is just a warmup programming assignment. You should be able to
+do this assignment using a Vector (or array if you prefer). You do not
+need to use Stacks, Hash Tables, Trees or other data structures you might
+know about. We will be covering these structures and their implementation in
+C++ later in the semester. For this assignment, I am not looking for the best
+solution, just a solution. Using these other data structures might
+make the assignment longer than intended.
+
+    Assignment 2 (html) 
+Now Due: Wed. Oct. 2, 8am (by Mon. Sept 30, 8am earns 2 bonus points)
+    Assignment 2 hints 
+    Assignment 2 sample solution .h
+Note: this was thrown together quickly by jsr so it may not
+follow all the style rules you are suppose to follow, it may have typos,
+and it is not the only way to do this assignment. Keep that in mind...
+    Assignment 2 sample solution .cc 
+Note: this was thrown together quickly by jsr so it may not
+follow all the style rules you are suppose to follow, it may have typos,
+and it is not the only way to do this assignment. Keep that in mind...
+
+    Assignment 3 (html) 
+Note this assignment MUST be turned in on time. Solutions will be
+handed out the same day.
+    Assignment 3 hint 
+    Assignment 3 Solutions 
+ Assignment 4
+
+    Assignment 4 (html) 
+    ladderq.cc (html) 
+    ladder.cc (html) 
+    ladder.h (html) 
+    template.cc (html) 
+
+    Assignment 5 (html) 
+
+    Assignment 5 hints (text) 
+
+
+  Lecture Notes  
+
+  Overview (postscript)  (9/3)
+  Review C++, Pointers
+(postscript)  (9/5)
+  Linked Lists(postscript) 
+(9/10 and 9/12)
+  Classes 
+(9/17) 
+  More on
+Classes  (9/17) 
+  Analysis (postscript) 
+(9/19 - 9/24)
+
+ sectshort.cc  (9/24)
+
+  templates (postscript)  (9/24-26)
+
+ vector.cc 
+
+  Stacks and Queues (postscript) 
+(10/1)
+
+ StackAr.cc 
+ StackAr.h 
+ QueueAr.h 
+ QueueAr.cc 
+ Exception.cc 
+ Exception.h 
+
+  Recursion (postscript) 
+(10/15 and 10/17)
+
+ queen.cc 
+
+  Trees (postscript) 
+(10/17 and 10/24)
+  Binary Search Trees (postscript) 
+(10/30)
+  Sorting (postscript) 
+ 2-3 Trees - notes not available online - see Scot for handout
+ Red-Black Trees - notes not available online - see Scot for handout
+
+
+
+  Random Quizzes  
+
+  Quiz # 1  Due: Tues, Sept. 10
+ Solution 
+  Quiz # 2  Due: Thurs, Sept. 12
+ Solution 
+  Quiz # 3  Due: Tues, Sept. 23
+ Solution 
+  Quiz # 4  Due: Tues, Oct. 1
+ Solution  
+  Quiz # 5  Due: Tues, Oct. 29
+ Solution  
+  Quiz # 6  Due: Tues, Nov. 5
+ Solution  
+  Quiz # 7  Due: Tues, Nov. 12
+ Solution  
+  Quiz # 8  Due: Thur, Nov. 14
+ Solution  
+
+
+  Group Work  
+
+  Group Project #1  Sep. 3
+
+
+  Current Groups  
+
+  Groups?  
+
+
+  Grades  
+
+  current grades  
+  points per item  
+
+
+  Tests  
+
+ Tests from previous CPS 100 (or related) courses 
+
+NOTE: 
+These tests may contain material we have not covered.
+
+
+ 
+CPS 100 test 1 Fall 1995 (postscript) 
+and  html 
+and 
+
+ answers (text) 
+ 
+CPS 100 test 2 Fall 1995 (postscript) 
+and  html 
+and 
+
+ answers (text) 
+
+
+
+Last modified August 7, 1996 or later (I forget to update this) by Susan Rodger, rodger@cs.duke.edu
+
+

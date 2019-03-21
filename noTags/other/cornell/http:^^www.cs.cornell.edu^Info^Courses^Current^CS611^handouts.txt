@@ -1,0 +1,25 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:41:04 GMT
+Content-Type: text/html
+Content-Length: 600
+Last-Modified: Monday, 09-Sep-96 16:39:35 GMT
+
+
+CS611:  Handouts
+
+
+ CS611:  Semantics of Programming Languages
+Handouts:
+
+ Course Overview (dvi file)
+
+ includes administrative information, prerequisites, syllabus,
+	textbooks information, resource information, homework and
+	exam information, and some practical advice.
+
+ Introduction to SML, R. Harper (postscript file)
+
+
+Back to the CS611 homepage.
+

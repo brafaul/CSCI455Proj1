@@ -1,0 +1,42 @@
+Date: Thu, 21 Nov 1996 20:23:47 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 22 Jun 1994 16:03:00 GMT
+Content-type: text/html
+Content-length: 1102
+
+Faiman, Michael
+
+Michael Faiman
+
+
+Areas of research interest:
+
+
+Communication Networks
+:  Design; Management, Routing, Flow Control
+Computer-aided Design of Digital Systems:
+Logic
+Computer Architecture & Systems:  Micropro
+cessors
+Distributed Systems & Networks:  Microproc
+essors
+
+Research Group
+Administrative help:
+
+
+Julie Thomas
+
+
+2275 Digital Computer Laboratory
+1304 West Springfield Avenue
+Urbana, IL 61801
+
+(217) 333-6952
+(217) 333-3501- fax
+faiman@cs.uiuc.edu
+
+
+
+
+Go back to Faculty Index

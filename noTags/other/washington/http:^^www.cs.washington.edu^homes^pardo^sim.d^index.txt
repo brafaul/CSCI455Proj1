@@ -1,0 +1,41 @@
+Date: Tue, 10 Dec 1996 22:41:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 20 Nov 1995 00:53:32 GMT
+Content-length: 1168
+
+
+  Instruction-Set Simulation and Tracing  
+
+Instruction-Level Simulation And Tracing
+
+WARNING: THESE PAGES ARE STILL UNDER CONSTRUCTION.
+
+
+Places that are known to have dubious or absent information are marked with
+.
+
+
+The instruction-set simulation and tracing page is available in
+several formats:
+
+A single web page
+	(large, ~175KB)
+gzip'ped version of the
+	above
+	(~50KB).
+One page per major section
+One page per minor section
+One page per subsection
+
+
+Smaller pages will load and display faster but are less ``browsable''.
+
+
+
+
+Please address comments and suggestions to
+`pardo@cs.washington.edu'.
+
+
+

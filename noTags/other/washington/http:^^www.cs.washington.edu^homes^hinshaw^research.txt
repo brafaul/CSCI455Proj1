@@ -1,0 +1,89 @@
+Date: Tue, 10 Dec 1996 20:35:14 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 26 Nov 1996 03:02:30 GMT
+Content-length: 2657
+
+ 
+ Kevin Hinshaw: Research
+
+
+
+
+
+
+
+ Academic Biography 
+
+I've been a 
+
+graduate student in the 
+
+Dept. of Computer Science and Engineering at the 
+University of Washington 
+since the fall of 1992.  I have been working with 
+
+Jim Brinkley
+and other members of the
+
+Digital Anatomist
+group in the
+
+Dept. of Biological Structure.
+My research interests are varied, but include computer vision,
+
+computer graphics,
+
+artificial intelligence, user interfaces,
+and computer music.
+
+
+ Projects 
+
+In my current research, I am working on using shape models to find
+organ boundaries in magnetic resonance (MR) and computed tomography
+(CT) images.  We started by working with single images, but have
+extended our method to handle 3D volume data sets.
+
+ Publications 
+
+Kevin P. Hinshaw and James F. Brinkley,
+ Shape-Based Interactive Three-Dimensional Medical Image
+Segmentation, 
+ SPIE Medical Imaging: Image Processing,
+Newport Beach, CA, February 22 - 28, 1997.
+ In Preparation. 
+
+Kevin P. Hinshaw, Russ B. Altman, and James F. Brinkley,
+ Shape-Based Models For Interactive Segmentation Of Medical
+Images,
+ SPIE Medical Imaging: Image Processing,
+San Diego, CA, February 26 - March 2, 1995, pp. 771-780. 
+
+
+ 
+       HTML
+ 
+       Postscript (590 K)
+
+
+
+
+
+home |
+research |
+personal |
+creations |
+links |
+music |
+contact
+
+
+
+
+
+Last modified: Mon Nov 25 19:02:31 1996
+
+
+hinshaw@cs.washington.edu
+ 

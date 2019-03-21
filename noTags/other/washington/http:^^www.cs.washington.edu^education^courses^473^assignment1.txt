@@ -1,0 +1,27 @@
+Date: Mon, 02 Dec 1996 16:00:48 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+ 
+CSE 473 Assignment 1
+
+CSE 473 Assignment 1
+
+
+Read Chapter 1 and Chapter 2 up to page 69.
+
+ Chapter 1
+Do either exercise 4 or 9. 
+
+ Chapter 2
+ Exercises 7, 10, and 20.
+ For these, give a printout of your Lisp definitions and
+two examples of input and output for each exercise.  One example
+should be simple, and the other should be more complicated.
+
+
+Turn in HARDCOPY to Jeremy in class on Friday, March 29.
+
+
+tanimoto@cs.washington.edu
+

@@ -1,0 +1,101 @@
+Date: Tue, 26 Nov 1996 00:06:05 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 25 Oct 1996 15:57:50 GMT
+Content-type: text/html
+Content-length: 3875
+
+
+
+About the PSEware Project
+
+
+The PSEware Project
+A Toolkit for Building Problem-Solving Environments
+
+
+Funding
+This project is funded by
+the CISE directorate of the National Science Foundation, as grant
+number 
+CCR-9527130, entitled: Integration of Symbolic Computing with
+Frameworks of Classes and Problem Solving Archetypes 
+Collaborating Participants
+
+
+
+
+
+
+
+
+California Institute of Technology
+[Computer Science]
+[Applied Mathematics]
+[Center for Advanced Computing Research]
+
+Mani Chandy
+<mani@cs.caltech.edu>
+Dan Meiron
+<dim@ama.caltech.edu>
+James C. T. Pool
+<jpool@cacr.caltech.edu>
+
+Indiana University
+
+Pete Beckman
+<beckman@cs.indiana.edu>
+Randy Bramley
+<bramley@cs.indiana.edu>
+Deepa Viswanathan
+<dviswana@cs.indiana.edu>
+Dennis Gannon
+<gannon@cs.indiana.edu>
+Todd Green
+<tagreen@cs.indiana.edu>
+Juan Villacis
+<jvillaci@cs.indiana.edu>
+
+New Mexico State University
+
+Subhankar Banerjee
+<sbanerje@cs.nmsu.edu>
+M Srikant
+<srikant@cs.nmsu.edu>
+
+Los Alamos National Laboratory
+[Advanced Computing Laboratory]
+
+John V.W. Reynders
+<reynders@acl.lanl.gov>
+Dan Quinlan
+<dquinlan@c3serve.c3.lanl.gov>
+
+Drexel University
+
+Bruce Char
+<bchar@mcs.drexel.edu>
+Tom Hewett
+<hewett@duvm.ocs.drexel.edu>
+Jeremy Johnson
+<jjohnson@mcs.drexel.edu>
+Y. N. Lakshman
+<ylakshma@mcs.drexel.edu>
+
+University of California at Irvine
+
+
+Donald Dabdub
+<ddabdub@uci.edu>
+
+
+Overview of the Project
+ 
+Trademarks, registered trademarks, and servicemarks used in the
+PSEware WWW pages are property of their respective owners
+
+
+ PSEware Home Page
+
+beckman@extreme.indiana.edu
+
+

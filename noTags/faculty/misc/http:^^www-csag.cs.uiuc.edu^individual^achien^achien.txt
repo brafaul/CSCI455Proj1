@@ -1,0 +1,93 @@
+Date: Thu, 21 Nov 1996 20:21:16 GMT
+Server: NCSA/1.5.2
+Last-modified: Mon, 19 Aug 1996 16:12:51 GMT
+Content-type: text/html
+Content-length: 3602
+
+
+Andrew A. Chien's Home Page
+
+
+Andrew A. Chien's Home Page
+
+ Andrew A. Chien
+
+
+Associate Professor, Department of
+Computer Science,  University of
+Illinois at Urbana-Champaign .  With joint appointments in the  Department of Electrical and Computer Engineering
+, and the 
+ National Center for Supercomputing Applications .  
+ 
+
+ Ph.D. in Computer Science from the Massachusetts Institute of Technology, 1990.
+
+ M.S. in Computer Science from the Massachusetts Institute of Technology, 1987.
+
+ B.S. in Electrical Engineering from the Massachusetts Institute of Technology, 1984.
+
+
+Andrew Chien
+leads the Concurrent Systems Architecture Group
+.
+
+ 
+Office Hours: W 3:15-4pm, F 10-11am, other times by appointment.
+
+Research Projects: 
+
+
+Illinois Concert Project (Efficient concurrent object-oriented programs)  
+
+ Scalable Clusters (Communication, coordination, external networking)
+
+High Performance Communication (software messaging layers and networks) 
+
+Parallel Input/Output (Characterization, PPFS)
+
+Courses: 
+
+CS 433 Theory of High Speed Parallel Computation 
+CS 491  Hardware and Software Architecture for Parallel Servers 
+CS 333 Computer System Organization, Fall 1995 
+CS 397 Computer Architecture Laboratory (HDL's and FPGA's)
+
+Andrew is involved with the organization of the following Conferences: 
+
+  Architectural
+Support for Programming Languages and Operating Systems (ASPLOS-VII)
+ October 1-5, 1996, Boston Massachusetts.
+
+ International
+Parallel Processing Symposium April 1-5, 1997, Geneva, Switzerland.
+ SIGPLAN Symposium on
+Programming Language Design and Implementation, June 15-18, Las
+Vegas, Nevada.
+
+Contact Information:
+
+Professor Andrew A. Chien 
+2215 Digital Computer Laboratory, MC 258 
+1304 W. Springfield Avenue 
+Urbana, IL 61801 
+Email: achien@cs.uiuc.edu 
+Phone: (217) 333-6844 
+FAX: (217)244-6500 
+Secretary:
+
+Marla Brownfield
+2120 Digital Computer Laboratory 
+1304 W. Springfield Avenue 
+Urbana, IL 61801 
+Email: brownfld@cs.uiuc.edu 
+Phone: (217) 244-6241 
+Concurrent Systems Architecture Group Overheads from Talks 
+
+NASA Highlight Figure, 1/23/96, landscape or portrait. 
+ 
+
+Back to CSAG home page
+
+
+achien@cs.uiuc.edu
+

@@ -1,0 +1,53 @@
+Date: Wed, 20 Nov 1996 20:03:54 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 09 Aug 1996 22:56:16 GMT
+Content-type: text/html
+Content-length: 1651
+
+ Shared Windows 
+ Flexible Shared Windows 
+
+ Sponsors: 
+
+NSF Interactive Systems Program
+
+(IRI-9508514)
+
+ Researchers :
+ Prasun Dewan, 
+ Kevin Jeffay, 
+ John Menges, 
+ Goopeel Chung 
+
+ Description :
+
+We are developing a new abstraction,
+called a flexible shared window,
+that allows users to efficienty see different
+views of a
+shared window.
+Specifically, we are
+investigating multiple, linked versions of a shared window,
+dynamic migration
+and replication of window clients,
+a hierarchical, file-system-like naming scheme for distributed windows,
+
+a distributed window architecture
+
+that inverts the traditional architecture,
+and a modular implementation scheme based on the notion
+of connecting protocol filters.
+If successful,
+this research will lead to a new class of systems,
+called flexible shared window systems,
+that can be used to more flexibly and efficiently share
+
+existing collaboration-unaware applications/toolkits
+
+and more easily implement
+new
+
+collaboration-aware applications/ toolkits.
+
+We propose to implement on top of both the X window system and the Java
+window layer.

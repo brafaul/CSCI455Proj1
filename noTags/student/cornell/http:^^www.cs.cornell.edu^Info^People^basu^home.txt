@@ -1,0 +1,152 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:50:43 GMT
+Content-Type: text/html
+Content-Length: 6237
+Last-Modified: Friday, 12-Apr-96 23:13:41 GMT
+
+ Anindya's Homepage 
+
+
+Anindya's Homepage
+
+ 
+I don't really look like this. Click on the photograph for a more recent mugshot.
+
+
+
+
+Locating Anindya 
+
+Work:                                 Home:
+4116 Upson Hall,                      209 1/2, Delaware Avenue,
+Department of Computer Science,       Apt. 3,
+Cornell University,                   Ithaca, NY 14850
+Ithaca, NY 14853-7501.		      
+Phone: 607-255-9202 (office)          Phone: 607-256-1681
+       607-255-8796 (lab)   
+
+Mail: basu@cs.cornell.edu
+
+
+
+
+
+
+What Anindya is doing here 
+I am a graduate student in 
+Computer Science
+at Cornell University hoping to complete a PhD by the turn 
+of the century. When I am not listening to 
+rock music
+or goofing off, I work on the
+Cornell ATM Cluster Project
+with my advisor 
+
+Thorsten von Eicken.
+
+
+
+
+What Anindya thinks is cool
+Like most other graduate students from 
+India
+who went to the 
+
+Indian Institute of Technology, Kanpur, I am a die hard
+Pink Floyd
+fanatic and finally realized my childhood dream of seeing them perform live
+last summer in Philadelphia. The other "P" I am in love with is 
+Plum who is known to the
+great unwashed as Pelham Grenville Wodehouse. And yes, I also attended
+Woodstock '94!
+For the truly motivated, here is an online
+
+Woodstock review with photographs. Woodstock is where I experienced 
+
+Metallica live for the first time!
+I would have loved to see the
+soccer worldcup last year, but
+unfortunately, it did not happen. I like to cook, and have tried to put
+some
+recipes that I like online. I also fancy myself as a connoisseur
+of good whisky, especially 
+single malts.
+
+ Links to some more cool stuff 
+
+
+
+
+
+
+
+
+
+
+
+The Calvin and Hobbes Archive||
+
+South Asian Writers||
+
+Cheers||
+
+Monty Python||
+
+Beavis and Butthead
+
+
+
+Other Useful Stuff
+
+ The CUINFO gopher
+
+
+
+
+And now for something completely different..
+I am working on the 
+Cornell ATM Cluster Project
+which aims at providing a high performance communications layer on clusters of
+workstations such that parallel program performance comparable to state of the 
+art MPPs can be acheived on such clusters. We have developed a very fast message passing
+layer called U-Net and an implementation of Active Messages and Split-C on U-Net that
+show performance at par with parallel programs running on the CM-5 and the Meiko CS-2.
+In addition TCP/UDP implemented on U-Net shows really low latencies and can saturate
+the fibre at low segment sizes. We are also working in collaboration with
+the Berkeley 
+NoW project team to develop a specification
+for a communications layer that would enable fast communication between processes
+both in trusted and untrusted environments.
+
+ 
+Publications on Active Messages and U-Net 
+
+ 
+Active Messages: a Mechanism for Integrated Communication and Computation,
+Thorsten von Eicken, David E. Culler, Seth C. Goldstein, and Klaus E. Schauser,
+ Proceedings of the 19th Int'l Symp. on Computer Architecture,
+May 1992, Gold Coast, Australia.
+
+Low-Latency Communication over ATM Networks using Active Messages,
+Thorsten von Eicken, Veena Avula, Anindya Basu, and Vineet Buch, 
+Presented at Hot Interconnects II, Aug 1994, Palo Alto, CA. An abridged
+version of the paper appears in IEEE Micro, February 1995.
+
+U-Net: A User-Level Network Interface for Parallel and Distributed Computing,
+Thorsten von Eicken, Anindya Basu, Vineet Buch, and Werner Vogels. 
+Proceedings of SOSP '95, to appear.
+
+
+
+
+
+Back to Cornell Computer Science Homepage
+Last modified Thu Apr 27 12:01:52 EDT 1995
+
+
+
+
+
+
+

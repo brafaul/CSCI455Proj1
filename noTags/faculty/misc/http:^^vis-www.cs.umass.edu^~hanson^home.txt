@@ -1,0 +1,44 @@
+Date: Thu, 21 Nov 1996 20:45:31 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 19 May 1995 04:29:19 GMT
+Content-type: text/html
+Content-length: 2765
+
+
+ 
+
+Allen Hanson's Home Page
+
+
+ Allen Hanson  
+Professor 
+Department of Computer Science
+
+University of Massachusetts
+Box 34610, Lederle Graduate Research Center 
+Amherst, MA 01003-4610 
+Phone: 413-545-2746 
+FAX: 413-545-1249 
+hanson@cs.umass.edu
+
+ Allen Hanson  received a B.A. degree in electrical engineering from  Clarkson College  in 1964 and his M.S. and Ph.D. degrees in electrical engineering from  Cornell University  in 1966 and 1969, respectively.  After appointments at the University of Minnesota and Hampshire College, he joined the Computer Science faculty at the University of Massachusetts in 1981, where he is currently a Professor.
+
+
+His   research    reflects a broad interest in computer vision and visual information processing, including knowledge-based image understanding, analysis of motion sequences, autonomous vehicle navigation, and parallel architectures for computer vision.  Emphasis on practical systems is supported by research on databases for visual image processing, photo-interpretation of aerial images, biomedical image analysis, automated robotic manufacturing and assembly, real-time control of intelligent vehicles, and development environments for vision research.  He is the author of numerous technical papers and books in these general areas.  With  Prof. Edward Riseman, he is the co-director of the Computer Vision Laboratory and a founder of  Amerinex Artificial Intelligence Corporation and  Dataviews Corporation (formerly VI Corporation), both of which are visual technology oriented companies located in the Amherst, Massachusetts area.
+
+He is a member of the IEEE, ACM, and AAAI and has 
+served on the editorial boards of several technical journals.
+
+Interesting Places to Visit
+(Depending on your sense of humor)
+
+
+ 
+Annals of Improbable Research
+  More humor from the same folks who brought you the Journal of Irreproducible Results.
+
+ 
+ Mirsky's Worst of the Web
+  A collection of some of the worst (at least according to Mirsky) Web pages.
+
+

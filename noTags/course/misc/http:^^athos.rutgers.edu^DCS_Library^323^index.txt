@@ -1,0 +1,53 @@
+Date: Tue, 26 Nov 1996 18:53:26 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 01 Feb 1996 17:25:31 GMT
+Content-type: text/html
+Content-length: 1301
+
+
+
+01:198:323 - Numerical Analysis and Computing
+
+
+01:198:323 - Numerical Analysis and Computing
+Spring, 1996
+
+Credits:        4
+
+Objectives:     To expose the student to the development, 
+                application, and analysis of basic numerical 
+                algorithms.
+                
+                This course (or equivalent) is REQUIRED of 
+                        all CS majors.
+
+Prerequisites:
+
+CALC II
+	01:640:250 Linear Algebra
+	Working knowledge of FORTRAN, C, PASCAL or 
+                        similar language
+	
+Equivalents:    01:640:373 Numerical analysis
+                Credit cannot be given for more than one of 
+                        these courses.
+
+Outline:
+
+     Solution of non-linear equations
+     Solution of linear algebraic systems
+     Approximation, interpolation
+     Numerical differentiation and integration
+     Solution of ordinary differential equations
+
+Expected Work:  Textbook assignments, 6 programs
+
+Examinations:   1 or 2 hourlies, Final Exam
+
+
+On-Line Course Materials
+
+Course Syllabus
+
+
+

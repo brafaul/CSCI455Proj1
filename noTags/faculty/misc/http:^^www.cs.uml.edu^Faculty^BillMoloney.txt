@@ -1,0 +1,13 @@
+Date: Thu, 21 Nov 1996 20:51:27 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 01 Sep 1994 15:14:53 GMT
+Content-type: text/html
+Content-length: 200
+
+WILLIAM MOLONEY
+ 
+William Moloney
+Associate Professor
+bill@cs.uml.edu
+
+Operating Systems

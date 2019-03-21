@@ -1,0 +1,34 @@
+Date: Tue, 05 Nov 1996 00:31:51 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 29 Oct 1996 20:45:51 GMT
+Content-length: 908
+
+
+
+Class session diaries for CS 412
+
+<!-- text=#000000  link=#00FF00 vlink=#00FFFF>
+
+Class session diaries for CS412 (as of 29oct) 
+
+
+
+  03 sep 
+  05 sep 
+  10 sep 
+  12 sep 
+  17 sep 
+ no machine computations done on 19 sep
+  24 sep 
+  26 sep 
+  01 oct 
+  03 oct 
+  08 oct 
+  10 oct 
+  15 oct 
+ no machine computations done on 17, 22, 24 oct
+  29 oct 
+
+
+

@@ -1,0 +1,84 @@
+Date: Mon, 25 Nov 1996 22:03:18 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 26 Sep 1996 14:37:23 GMT
+Content-length: 2679
+
+
+
+Chee Yap's Homepage
+
+
+
+
+
+
+
+
+	Chee Yap 
+	 Full Professor
+	
+
+ CONTACT:	 
+
+ Mail Address 
+
+	Email:    yap@cs.nyu.edu,
+	Voice:  212-998-3115,    Fax: 212-995-4121
+
+	Location:
+ Room 416, Warren Weaver Hall 
+
+
+
+
+
+
+ 
+Research Interests
+
+ 
+ Active Visualization Project
+ 
+
+	Exact Geometric Computation Project
+ 
+
+	My ftp pickup site.
+	Including preliminary versions
+	of my algebraic computing book (Princeton Press, to appear),
+	and complexity book (to be published by Oxford Press).
+ 
+ Some Recent Papers
+ 
+ more complete list of papers. 
+
+ 
+Other Links
+ 
+	Sabbatical at 
+	National University of Singapore (Nov 95 -- June 96)
+ 
+	FCRC 
+	Applied Computational Geometry Workshop
+ 
+	Nina's 
+	CG Software List 
+
+ 
+
+[ CS Projects ]
+[ CS Tech Reports ]
+[ CS Dept ]
+[ Math Dept ]
+[ CIMS ]
+[ CIMS Library ]
+[ NYU ]
+
+[ NYC ]
+[ 
+	Downtown Subway Map ]
+[ Finger Me]
+ 
+
+

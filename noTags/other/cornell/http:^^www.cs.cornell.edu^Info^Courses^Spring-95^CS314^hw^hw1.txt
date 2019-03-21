@@ -1,0 +1,215 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:19:37 GMT
+Content-Type: text/html
+Content-Length: 8633
+Last-Modified: Monday, 13-Mar-95 14:33:34 GMT
+
+
+
+ CS 314: Assignment 1 -- Internet 
+
+
+ Homework Number 1 
+
+Date Assigned:  January 31, 1995
+Date Due:  February 7, 1995
+
+ To submit your answer 
+You will submit your answers to this assignment via email.  See the
+instructions below.
+
+ Introduction 
+The Internet offers a wide variety electronic information resources.
+This assignment touches on three of these resources---the World Wide
+Web (WWW), the newsgroups, and electronic mail (email)---and on the CS
+314-related information available therein.
+
+ Prerequisites 
+
+You will need access to the Internet and to a WWW browser, a
+newsreader, and an email application in order to complete this
+assignment.  All four of these services are available in the Upson B7
+Mac Lab, via Bear Access EZ-LINK, to those with C.I.T. NetIDs
+and passwords. The instructions for this assignment will be for Bear
+Access, but you may use a different combination of access
+applications---e.g., NCSA Mosaic, rn, and mail
+from a Unix account---if you wish.
+
+Bear Access
+
+In order to use Bear Access, you will need a C.I.T. NetID, a
+valid C.I.T. password, and two blank floppies (one for mail and one for
+news).  Bear Access can be found on the B7 Macs under the Apple
+menu.
+
+
+Once launched, Bear Access presents you with a menu system, from
+which you may access the WWW browser, Netscape, the newsreader,
+NewsWatcher, and the email application, Eudora.  This
+handout contains only skeletal instructions for the use of the these
+applications; we recommend that you read the C.I.T. documentation on
+these applications if you are not familiar with them.
+
+WWW
+
+The WWW is an Internet hypertext resource.  WWW documents may contain
+text, GUI forms, graphics, sound, animation, etc., as well as hypertext
+links to other documents on the Web.  The ``web'' in ``World Wide Web''
+refers to the structure implied by these hypertext links.  You can jump
+from document to document, across machine, organizational, and
+geographic boundaries, by following links.  If you think of the
+documents as nodes and the links as edges in a graph, you'll get the
+idea.
+
+CS 314-related material on the Web
+
+A fair amount of information related to CS 314 is available via the WWW
+from the CS 314 home page.  Lecture notes, homework assignments, and
+course information are currently available.  Videos of the lectures may
+be made available on the WWW in the future.
+
+Using Netscape
+
+Click on the World Wide Web the Bear Access top-level
+menu to launch Netscape.  Hypertext links in documents may be
+displayed as blue, underlined text or as blue-outlined icons.  Clicking
+on a hypertext link will cause the document referenced by the link to
+be retrieved.  The title of the current WWW document is displayed in
+the title bar of the Netscape window (this is the ``document
+title from the title bar'' referred to below).  The Location
+field gives the current URL (more on this later).  The Home
+button may be used at any time to return you to the default document.
+(In the B7 Mac Lab, the default document is the CUInfo home page.) The
+Open button may be used to jump to an arbitrary URL.  We
+recommend that you take a look at the Netscape handbook (select
+the Help -- Handbook menu item) for further instructions on how
+to use Netscape and for further information on the WWW.
+
+Accessing the CS 314 home page
+
+After Netscape has been launched, you should see the CUInfo home
+page.  The procedure for reaching the CS 314 home page from the CUInfo
+home page is as follows:
+
+
+Click on...                                      From document...
+Other Cornell Web Servers                           CUInfo Home Page
+Cornell University. Dept. of Computer Science       Other Cornell WWW Servers
+Course Home Pages                                   Cornell Department of Computer Science
+CS 314: Introduction to Digital...                  Cornell Course Home Pages Spring 1995
+
+
+You should now be viewing the CS 314 home page.  Spend some time
+navigating the documents linked to this page; try to get a picture of
+how the various documents are linked and what the overall structure
+is.  When you've become somewhat familiar with the CS 314 page, and
+with Web navigation in general, answer the following questions.
+
+
+1. Start from the CS 314 home page.  Click on Table of
+Contents, then click on Generations of Computers.
+Click on Next (either one).  What document are you now
+viewing? (Give the document title from the title bar.)
+
+2. Now, navigate back to the CS 314 home page.  How did you
+accomplish this? (Give a sequence of clicks, button presses, menu
+choices, etc.  There are several possible answers.)
+
+3. Finally, you should get used to searching through the Web for
+information whose location you do not know {\sl a priori}.  Answer the
+following question: in which CS 314 WWW document is the acronym ``RTL''
+first defined?  (Give the document title from the title bar.)
+
+URLs
+
+A Uniform Resource Locator (URL) is basically an address of a WWW
+document.  For the URLs which you'll be using in this assignment,
+the address is absolute (as opposed to relative);
+it can be used from anywhere on the Internet.
+``Opening'' a URL simply means retrieving the WWW document at
+the address referred to by the URL; you might think of this
+as ``jumping'' to the document.
+
+
+4. Open the URL http://www.hyperion.com/.  What is
+the title of this document?
+
+5. By now, you should be getting used to tracking down
+information on the Web.  Try to answer the following question, starting
+from the Hyperion Web page:  who was the director of the {\sl Babylon
+5} epsiode, ``A Race Through Dark Places''?
+
+Newsgroups
+
+The newsgroups provide a sort of Internet bulletin board where
+messages may be posted and read by a wide variety of people with
+similar interests.  CS 314 has a dedicated newsgroup,
+cornell.class.cs314, which may be used for announcements,
+feedback, questions of general interest, etc.
+
+
+To access the CS 314 newsgroup from the B7 Macs, click on the
+Network News ("Usenet") menu item on the
+Bear Access top-level menu, then click on the
+NewsWatcher Help menu item and read the instructions.
+Configure and run NewsWatcher as specified in the instructions.
+Once NewsWatcher has been configured and is running,
+go to the Full Group List window.
+Scroll down through the list of newsgroups until you see
+cornell.class.cs314.  Double-click on
+cornell.class.cs314.  A cornell.class.cs314
+window should appear, containing a list of messages (actually,
+a hierarchical list of authors and subjects of messages, organized by
+threads).
+Double-clicking
+on a message will bring up the full message, which consists of a
+header (the From:, To:, etc. lines above
+the double-line) and a body (the part below the double-line).
+
+
+6.  Find the message with the subject cs314 hwk1
+article and date Sun, 29 Jan 1995 20:47:24 GMT.
+What is the body of this message?  (It should be four lines of text.)
+
+
+See the C.I.T. documentation for further information on the newsgroups
+and on NewsWatcher.
+
+Email
+
+The Bear Access email application, Eudora, may
+be accessed via the Mail menu item on the top-level
+Bear Access menu.  Click on the Mail Help item
+and read the instructions there.  Configure and run Eudora as specified
+in the instructions.  Once Eudora has been configured and is
+running, you may send a message by selecting
+Message -- New Message from the menu at the top of the screen.
+See the C.I.T. documentation for further information on electronic mail
+and on Eudora.
+
+Submitting Answers
+
+Send an email message to cs314@cs.cornell.edu with the
+subject cs314 assignment 1 answers.  Include the following
+information in your message:
+
+
+  Name (Last, First):
+  Cornell ID:
+  Address:
+  Phone:
+  Grading (letter, S/U, or audit):
+  College, major, and year in school:
+  Proficiency (on a scale of 1-5, 1=don't know, 5=guru) in
+        C:
+        FORTRAN:
+        BASIC:
+        Pascal:
+        Scheme:
+        Other languages (please list):
+  Computer science courses taken so far:
+  Answers to questions 1-6:
+
+
+

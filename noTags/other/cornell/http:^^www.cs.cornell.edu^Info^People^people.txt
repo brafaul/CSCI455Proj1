@@ -1,0 +1,27 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:33:00 GMT
+Content-Type: text/html
+Content-Length: 881
+Last-Modified: Wednesday, 01-May-96 17:31:45 GMT
+
+Researchers, Staff, and Students in the Cornell CS Department
+Researchers, Staff, and Students
+
+We have a  directory
+listing of all the people in the department, giving the email
+address, office number, and phone number for each person.
+
+Many people in the department also have their own information page.
+Click on the individual's category below to get the list of pages.
+
+
+
+ Researchers
+
+ Research Colleagues
+
+ Graduate Students
+
+ Departmental Staff
+

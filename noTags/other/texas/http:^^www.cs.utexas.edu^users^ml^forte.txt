@@ -1,0 +1,60 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:55:52 GMT
+Content-Type: text/html
+Content-Length: 2765
+Last-Modified: Monday, 11-Dec-95 16:47:09 GMT
+
+The FORTE Knowledge Refinement System 
+FORTE  
+
+
+FORTE (First Order Revision of Theories from Examples) is a machine
+learning system for modifiying a first-order Horn-clause domain theory
+to fit a set of training examples.  FORTE uses a hill-climbing
+approach to revise theories.  It identifies possible errors in an
+input theory and calls on a library of operators to develop possible
+revisions.  These operators are constructed from methods such as
+propositional theory refinement, first-order induction, and inversion
+resolution. 
+
+The FORTE system is available via  anonymous ftp.
+This system contains the following items: 
+
+Quintus Prolog source code for Forte.
+Various domain files.
+Sample data sets, including "family", "king-rook-king", and "insert-after".
+
+
+
+Pointers to papers on FORTE can be found on our ILP and Theory
+Revision publication pages.  Below is the standard reference (click
+on the open book image). 
+
+
+  Refinement of First-Order Horn-Clause Domain Theories  
+
+Bradley L. Richards and Raymond J. Mooney 
+ Machine Learning 19,2 (1995), pp. 95-131. 
+ Knowledge acquisition is a difficult and time-consuming
+task, and as error-prone as any human activity.  The task of
+automatically improving an existing knowledge base using learning
+methods is addressed by a new class of systems performing  theory
+refinement.  Until recently, such systems were limited to
+propositional theories.  This paper presents a system, FORTE
+(First-Order Revision of Theories from Examples), for refining
+first-order Horn-clause theories.  Moving to a first-order
+representation opens many new problem areas, such as logic program
+debugging and qualitative modelling, that are beyond the reach of
+propositional systems.  FORTE uses a hill-climbing approach to revise
+theories.  It identifies possible errors in the theory and calls on a
+library of operators to develop possible revisions.  The best revision
+is implemented, and the process repeats until no further revisions are
+possible.  Operators are drawn from a variety of sources, including
+propositional theory refinement, first-order induction, and inverse
+resolution.  FORTE has been tested in several domains including
+logic programming and qualitative modelling.  
+
+
+
+estlin@cs.utexas.edu

@@ -1,0 +1,106 @@
+Date: Thursday, 21-Nov-96 21:00:41 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Saturday, 07-Sep-96 18:37:22 GMT
+Content-length: 3425
+
+
+
+University of Rochester CS Dept. Home Page
+
+
+
+
+
+
+
+
+   Department of Computer Science
+   University of Rochester
+   Rochester, NY, USA
+   14627-0226
+
+   tel: (716) 275-5671
+   fax: (716) 461-2018
+   
+
+
+
+
+
+
+Welcome to the World Wide Web home page of the Department of Computer
+Science at the University of Rochester, Rochester, New York, USA.
+Information about the department is available in our
+Department brochure. Our
+technical report collection and
+anonymous FTP archive
+are also available. If you are using a graphical browser, try our
+Department Subway Map.
+
+
+
+
+About the University of
+    Rochester CS Department
+
+Department People
+Department Subway Map
+
+Department Research Projects
+Course Information
+
+Application for Graduate Study
+Undergraduate Program
+
+Technical Reports
+URCS Anonymous FTP Archive
+
+Directions to URCS
+URCS WWW Server Statistics
+
+Authorized visitors in the CS Labs
+  (local access only)
+
+
+
+
+
+
+Help wanted: Staff Research and Systems Programmer
+
+
+
+
+Other Information Sources
+
+ 
+     University of Rochester Home Page
+ 
+     University of Rochester CURIO Gopher
+ 
+     Starting Points for Internet Exploration
+ 
+     Internet Resources Meta-Index at NCSA
+ 
+     All the Gopher Servers in the World
+
+Information about the World Wide Web
+
+ 
+     About the World Wide Web (WWW)
+ 
+     NCSA HTML Primer (Creating WWW Documents)
+ 
+     Comprehensive HTTP (WWW) SiteList
+
+
+
+Last change: 7 Sep 1996 by ferguson
+
+Please report problems with this server to
+www@cs.rochester.edu.
+
+
+

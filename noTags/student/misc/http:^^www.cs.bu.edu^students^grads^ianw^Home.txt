@@ -1,0 +1,72 @@
+Date: Thu, 21 Nov 1996 21:50:38 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+
+Ian C. Westmacott:Home Page
+
+
+
+
+
+Ian
+C.
+Westmacott
+
+
+I am a graduate student in the computer science
+department at Boston University.  My
+research interests are in language development and type theory.
+
+In addition, I work as a technical editor and columnist for
+Computer Publishing Group.
+
+
+
+Recent Academic Work
+
+The Church Project.
+  The incremental design and implementation of a typed functional
+language, based on intersection types.  I am currently working on static
+memory management and lifetime-based optimizations in the compiler back-end.
+A
+
+-Calculus
+Interpreter in Standard ML  At the moment I am working on adding
+various typing systems to the interpreter, and investigating various
+parallelizing graph reduction strategies in the reduction engine.
+
+
+Family Album
+
+
+Paula (in
+NH)
+
+ Devin
+
+Our son was born on June 30, 1994, weighing in at 8 pounds 8 ounces.
+The name Devin is Gaelic, and means ``poet''.  It should not be confused with
+the alternatives Devon or Devyn.  Oddly enough, Devin was
+christened
+with a little girl named Devyn.
+
+
+How to reach me
+
+email:  ianw@bu.edu
+voice mail:  +1 (617) 738-3407
+postal mail:
+Computer Science Department
+The Graduate School
+Boston University
+Boston, MA  02215
+
+
+
+
+Ian C. Westmacott (ianw@bu.edu) Last updated
+on May 13, 1996.
+
+

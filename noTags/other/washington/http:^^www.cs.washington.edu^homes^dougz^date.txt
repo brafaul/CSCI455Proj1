@@ -1,0 +1,47 @@
+Date: Tue, 10 Dec 1996 21:51:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+Today's Date
+
+today's date
+
+Today is (courtesy emacs calendar mode):
+
+Gregorian: Tuesday, 10 December 1996
+Mayan: Long count = 12.19.3.13.3; tzolkin = 10 Akbal; haab = 6 Mac
+French: Décade II, Decadi de Frimaire de l'Année 205 de la Révolution
+Islamic: 29 Rajab 1417
+Hebrew: 29 Kislev 5757
+Julian: 27 November 1996
+ISO: Day 2 of week 50 of 1996
+Persian: 20 Azar 1375
+Ethiopic: 2 Takhsas 1990
+Coptic: 1 Kiyahk 1713
+Chinese: Cycle 78, year 13 (Bing-Zi), month 10 (Ren-Xu), day 30 (Xin-Si)
+Astronomical day number: 2450428
+Day of year: Day 345 of 1996; 21 days remaining in the year
+
+
+
+Here are some more calendar-related
+links (and here are still
+more).
+
+
+
+  
+
+Doug Zongker (dougz@cs.washington.edu)
+[ home | research | classes | contact ]
+last edited at
+
+12:06 on Sunday, 20 October 1996
+(588
+ hits)
+
+
+
+

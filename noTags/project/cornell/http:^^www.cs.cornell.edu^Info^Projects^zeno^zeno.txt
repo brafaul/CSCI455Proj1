@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:52:35 GMT
+Content-Type: text/html
+Content-Length: 1170
+Last-Modified: Friday, 15-Nov-96 15:27:36 GMT
+
+
+Zeno Research Group
+
+
+
+
+
+Zeno: Cornell's Multimedia Research Group 
+
+
+
+
+    The People
+
+    The Mission
+
+    The Projects
+
+    The Papers
+
+    The Software
+
+    Multimedia Curricula Development
+
+    Potpourri
+
+    Directions
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+Date: Wed, 15 Jan 1997 01:58:18 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 02:11:25 GMT
+Content-length: 721
+
+Research 
+
+My research interests are
+
+
+ Fine-grained parallelism 
+ Compiling for Multi-processor Systems 
+ Distributed Systems 
+
+
+I am also a member of the  Programming Languages Research Group  at the  Computer Science Dept.  at  Pitt  
+Currently I am working on a project involving Instruction Scheduling
+with Register constraints for Superscalar and VLIW machines. 
+
+My advisors are  Dr. Mary Lou Soffa  and  Dr. Rajiv Gupta  

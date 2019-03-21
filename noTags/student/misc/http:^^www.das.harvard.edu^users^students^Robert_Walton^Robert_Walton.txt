@@ -1,0 +1,46 @@
+Date: Thu, 21 Nov 1996 22:20:15 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 30 Sep 1996 22:31:01 GMT
+Content-length: 1475
+
+
+
+Robert Walton's Home Page
+
+
+Robert Walton
+
+
+
+R-CODE:
+A Very Capable Virtual Computer.
+
+    
+ PhD Thesis on Abstract Design of R-CODE.
+	 (uncompressed)
+    
+
+Acyclic Term Graph Histories, a project to express
+compilation and execution as an acyclic term graph rewrite history that
+can be displayed.
+
+
+Computer Science 51, summer 1996,
+handouts for this standard Harvard CS course that
+I recently taught in the summer school, with extensive
+revisions to streamline the first 60% of the standard course and
+increase its theoretical content.
+
+
+Computer Science 96,
+a System Design Projects course in which the students form
+a company roughly similar to a government software contractor.
+
+ 
+Gentle Introduction to Computers, Programming, and Algorithms,
+a very elementry C textbook.
+
+
+
+

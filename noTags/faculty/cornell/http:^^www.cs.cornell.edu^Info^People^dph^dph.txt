@@ -1,0 +1,101 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 18:58:03 GMT
+Content-Type: text/html
+Content-Length: 7248
+Last-Modified: Friday, 15-Nov-96 13:49:56 GMT
+
+
+
+
+
+
+Dan Huttenlocher's Home Page
+
+
+
+
+
+Daniel
+        Huttenlocher
+Associate Professordph@cs.cornell.edu
+        607 255 3036
+        607 255 4428 (fax)
+
+
+
+Research...
+My main
+        area of research is visual matching and recognition. My
+        work in this area ranges from theoretical algorithms
+        (using techniques from computational geometry), to
+        applications of visual matching in end-to-end systems
+        (for remote collaboration, viewing document images over
+        wide area networks, video monitoring and target
+        recognition). I am also interested in uses of new types
+        of electronic documents for communication, remote collaboration
+        and education. 
+
+ 
+
+
+� Algorithms for
+                comparing geometric structures
+
+
+� Hausdorff-based methods for visual
+                matching and recognition (a C implementation is available)
+
+
+� Fast
+                indexing using an Eigenspace approximation to the Hausdorff fraction
+                (a C and Matlab implementation is available)
+
+
+� Performance evaluation
+                and modeling of recognition methods
+
+
+� Video monitoring, object tracking and identification
+
+
+� DigiPaper: a highly compact, universally viewable document image format
+
+
+� CoNote: a system for supporting collaboration with shared documents
+
+
+
+
+
+Teaching...
+Brian
+        Smith and I are developing a new course on authoring Web
+        documents, CS130, which will be offered for the
+        first time in Spring '97. I also teach CS212, an introduction to
+        computation and programming, and CS664, a course in computer vision.
+
+
+Professional Activities...
+I work with Xerox PARC on electronic document image
+        processing, and am starting a small group investigating
+        these problems at Cornell.
+        I am program co-chair of CVPR-97, the IEEE conference on
+        computer vision and pattern recognition, which will be
+        held in San Juan, PR in June 1997.
+
+
+Other Interests...
+Two of my
+        favorite non-computer-geek activities are snowboarding
+        and mountain biking (but without the
+        mtv-extreme-sports-way-too-cool stupid attitude).
+
+
+ 
+Last Updated:
+        November 3, 1996
+
+
+
+

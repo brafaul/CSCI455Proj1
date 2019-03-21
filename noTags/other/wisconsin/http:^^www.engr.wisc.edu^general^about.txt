@@ -1,0 +1,111 @@
+Date: Wed, 11 Dec 1996 23:15:22 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+
+COE Credits
+
+
+
+College of EngineeringUniversity of Wisconsin - Madison
+
+
+
+Server Credits
+
+
+
+
+
+
+This server is maintained by the College's 
+Engineering Communications Office.  The server initially came 
+online during the summer of 1994 and was maintained in a interesting, if not 
+sporadic, fashion.  In the fall of 1995 the College undertook a massive 
+undertaking to bring the material on the server up-to-date and to keep it 
+up-to-date.  At the same time, specific goals for the server were specified.  
+ 
+The primary mission for this server is for graduate student recruiting, 
+however, the server has many other goals which are in various states of 
+development.
+
+ undergraduate student recruiting
+ intranet for students and staff within the College
+ source for alumni information
+ source of information for members of industry
+
+
+
+Some items of interest on the server which we feel make it better 
+than most are:
+
+ top-level customer interface
+ master index
+ weekly news item
+ course homepage area
+ interactive events calendar
+ interactive student employment listing
+ mechanism for alumni to link to their homepages
+ alumni quarterly, Perspective
+ annual reports
+ faculty can update their own profiles
+
+
+
+Below is a list of the persons who are 
+primarily involved with the upkeep of the server and the information
+available.  We have been occasionally working on a usage statistics package, Dog, 
+which will provide more useful information about server traffic than most
+current packages.  You may see this package in action 
+if you like.
+ 
+In case you are interested, the webmaster uses Netscape 3.01 with a Times
+(Adobe) 14 pt font on a HP 715 with HPUX 9.05 and a display of
+1280x1024 when building the web pages.  A great effort is made to make
+these pages viewable with any browser, on any platform, with a 640x480 display
+and with any font. Please realize, however, that you may occasionally find
+a page that looks bad with your setup.  In the event you do, 
+please contact the webmaster informing
+him of the URL of the goofy looking page and also what browser and
+screen resolution you are running with.
+ 
+
+ Webmaster
+ Eric Gracyalny
+ Editors
+ Karen Walsh
+ Jim Beal
+ Paul Bauman
+ Photographs
+ Bruce Fritz
+ Graphic Editing
+ Al Moucha
+
+
+
+
+
+
+
+[ UW | COE | Depts | Centers | Consortia | Services | Fountain ]
+
+
+[ Index | Search | Mail | What's New | Credits | Help ]
+
+
+
+
+
+
+
+Last Modified: Tuesday, 26-Nov-96 10:23:40 CST
+
+This page is best viewed by browsers that support background colors in tables.
+All photographs © 1996 College of Engineering.
+Address comments to webmaster@engr.wisc.edu
+
+
+
+
+

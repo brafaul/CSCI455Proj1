@@ -1,0 +1,23 @@
+Server: Netscape-Enterprise/2.0a
+Date: Sun, 01 Dec 1996 19:11:32 GMT
+Accept-ranges: bytes
+Last-modified: Sun, 24 Nov 1996 21:20:39 GMT
+Content-length: 547
+Content-type: text/html
+
+
+
+
+ NBA-610
+
+
+
+To simplify our URL, the website for NBA 610 has moved slightly to
+www.gsm.cornell.edu/courses/nba610
+
+Please update your bookmark
+Return to Johnson
+School Courses
+
+
+

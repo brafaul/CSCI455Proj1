@@ -1,0 +1,13 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:53:26 GMT
+Content-Type: text/html
+Content-Length: 496
+Last-Modified: Friday, 27-Oct-95 02:08:22 GMT
+
+Justin Miller - Project Info 
+Justin Miller - Project Info 
+ My Current Project: Feature-Based Algorithms for Detecting and Classifying Scene Breaks and the slides from a talk I recently gave on it.
+ Gray-Level Hausdorff Model Based Searching
+Others.
+

@@ -1,0 +1,53 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:55:58 GMT
+Content-Type: text/html
+Content-Length: 819
+Last-Modified: Tuesday, 17-Dec-96 19:42:34 GMT
+
+
+
+
+
+
+Java security project
+
+
+
+
+Java Security Project
+last modified: Dec 17, 1996
+
+
+PGP-enhancement to Java Applet
+
+The source code of this project implementation is still being prepared
+for release.
+
+
+
+The project report is available in
+
+html
+
+format,
+or in
+
+gzip'ed postscript
+
+format.
+
+
+
+send me email to
+
+ckwong@cs.utexas.edu
+
+
+
+Back to my
+
+home page
+
+
+

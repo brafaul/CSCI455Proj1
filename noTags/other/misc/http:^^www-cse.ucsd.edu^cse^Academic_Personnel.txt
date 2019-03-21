@@ -1,0 +1,126 @@
+Date: Tue, 14 Jan 1997 23:46:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 20 Oct 1995 22:35:12 GMT
+Content-length: 4798
+
+
+
+
+UCSD CSE Department Academic Personnel
+
+
+
+
+Academic Personnel in the Department of Computer Science and
+Engineering
+
+Professors
+
+ Donald W. Anderson, Ph.D.
+ Francine D. Berman, Ph.D.
+ Walter A. Burkhard, Ph.D.
+ Larry Carter, Ph.D.
+ Flaviu Cristian, Ph.D.
+ Jeanne Ferrante, Ph.D.
+ William E. Howden, Ph.D.
+ Te C. Hu, Ph.D.
+ Ramesh C. Jain, Ph.D.
+ Christos H. Papadimitriou, Ph.D.
+ Walter J. Savitch, Ph.D.
+ Victor D. Vianu, Ph.D.
+ S. Gill Williamson, Ph.D., Chair
+
+Professor Emeritus
+
+ Kenneth L. Bowles, Ph.D.
+
+Associate Professors
+
+ Richard K. Belew, Ph.D.
+ Chung-Kuan Cheng, Ph.D.
+ Garrison W. Cottrell, Ph.D.
+ Keith Marzullo, Ph.D.
+ Alex Orailoglu, Ph.D.
+ Joseph C. Pasquale, Ph.D.
+ Ramamohan Paturi, Ph.D.
+ George C. Polyzos, Ph.D.
+ P. Venkat Rangan, Ph.D.
+
+Assistant Professors
+
+ Scott B. Baden, Ph.D.
+ Charles P. Elkan, Ph.D.
+ William G. Griswold, Ph.D.
+ Russell Impagliazzo, Ph.D.
+ Paul R. Kube, Ph.D.
+ S. Heather Woll, Ph.D.
+
+Adjunct Faculty
+
+ Samuel R. Buss, Ph.D.
+ Sidney Karin, Ph.D.
+ Walter H. Ku, Ph.D.
+ Jeffrey Remmel, Ph.D.
+ J. B. Rosen, Ph.D.
+ Terrence J.
+     Sejnowski, Ph.D.
+
+Visiting Scholars
+
+ Brian T. Bartell, Ph.D.
+ Laura Anne Bloom, Ph.D.
+ Christof W. Fetzer, M.A
+ Kenji Hayashi, Ph.D.
+ Hwang-Bin Ryou, Ph.D.
+ Chia-Chun Tsai, Ph.D.
+
+Lecturers
+
+ Dennis M. Bauman, M.S.
+ Jeffrey H. Butler, Ph.D.
+ David E. DeMers, Ph.D.
+ Joseph Faletti, A.B.
+ Gary N. Gillespie, B.S.
+ Michelangelo Grigni, Ph.D
+ Gregory R. Hidley, Ph.D.
+ David J. Hutches, Ph.D.
+ Susan S. Marx, M.S.
+ P. Keith Muller, Ph.D.
+ Richard C. Ord, M.S.
+ Brian N. Russ, M.S.
+ John Simeral, M.S.
+
+Postdoctoral Fellows/Scholars
+
+ Eric W. Anderson, Ph.D.
+ William R. Burley, Ph.D
+ K. C. Claffy, Ph.D
+ Kevin Roland Fall
+ Norival Figueira, Ph. D.
+ Michelangelo Grigni, Ph.D
+ Prasanna Kumaran, Ph.D.
+ Jianmin Li, Ph.D.
+ Mark E. P. Plutowski, Ph.D.
+ Nagarthanamma Thirumalachar, M.Sc.
+ Richard M. Wolski, Ph.D.
+ Yifeng Wang, Ph.D.
+ Fotios Zaharoglou, Ph.D.
+ Ping Zhang, Ph.D.
+
+Research Scientist
+
+ Eric Mjolsness, Ph.D.
+
+Associate Research Scientist
+
+ Mohan Ahuja, Ph.D.
+
+
+
+
+Fri Oct 20 15:35:07 PDT 1995
+djh
+
+
+

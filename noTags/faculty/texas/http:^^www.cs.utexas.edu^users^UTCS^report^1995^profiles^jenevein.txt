@@ -1,0 +1,53 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:18:10 GMT
+Content-Type: text/html
+Content-Length: 2603
+Last-Modified: Wednesday, 21-Feb-96 15:45:47 GMT
+
+Roy M. Jenevein, Jr.
+ 
+Roy M. Jenevein, Jr.
+
+Senior Lecturer 
+
+B.S. in Chemistry (1964), Ph.D. in Chemistry (1969) 
+Louisiana State University in New Orleans 
+
+Areas of Interest
+
+Interconnection networks and parallel processing in computer architecture 
+Summary of Research
+
+My research in computer architecture focuses on interconnection
+networks.  The success or failure of parallel computing systems rests
+in the ability to devise appropriate cost/performance interconnection
+structures. The most recent work on interconnections involves the
+development of a wafer scale optical interconnection. A special kind
+of laser and wave guide has been designed and is being
+investigated. This technique leads to very fault-tolerant parallel
+systems on the wafer. This same optical interconnection is being
+applied to optical systems busses and optical communication
+switches. Work on the performance of processor systems is
+continuing. A methodology for measuring processor performance
+portability across machines has been developed. In contrast to
+benchmarking, it represents true measurement of a processor/memory
+system. 
+Selected Recent Publications
+
+R. M. Jenevein and B. L. Menezes, "The KYKLOS multicomputer networks: interconnection strategies, properties, applications.," IEEE Transactions on Computers, vol. C-40, no. 6, pp. 693-705, June 1991. 
+
+R. M. Jenevein, L. Laranjeira, and M. M. Malek, "NEST: a nested predicate scheme for fault tolerance," IEEE Transactions on Computers, in press, 1993 
+
+R. M. Jenevein and N. Ullah, "MetriX: a precise methodology for computer system performance measurement," in Proceedings of the 1993 International Conference for Computer Applications in Industry and Engineering, December 1993. 
+
+R. M. Jenevein, B. L. Menezes, A. Johnson, M. M. Malek, and K. Yau, "Fault impact and fault tolerance in multiprocessor interconnection networks," Journal of Quality and Reliability Engineering, vol. 8, pp. 485-500, October 1992. 
+
+R. M. Jenevein and J. C. Campbell,  "A wafer scale optical bus interconnection prototype," in Proceedings of the 1992 International Conference on Wafer Scale Integration, pp. 182-191, January 1992. 
+
+
+Additional information can be obtained from
+individual faculty members'
+home pages. 
+Back to List of Faculty Profiles 
+

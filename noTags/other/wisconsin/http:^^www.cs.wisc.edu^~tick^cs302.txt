@@ -1,0 +1,194 @@
+Date: Mon, 11 Nov 1996 17:42:55 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 11 Nov 1996 17:11:39 GMT
+Content-length: 14359
+
+
+
+CS 302 Section 70 Home Page
+
+
+
+CS 302 Algebraic Language Programming
+Section 70 (FORTRAN)
+
+
+This section is taught entirely in the FORTRAN programming language and is intended primarily for engineering students and non-computer science majors. Click here for a course description.
+
+Menu
+
+ IMPORTANT ANNOUNCEMENTS - READ NOW!
+ Lectures
+ Instructor
+ Grading Policy
+ Syllabus
+ Text and Lecture Notes
+ Exams and Programming Assignments
+ Problem Solving Exercises
+ Computer Lab
+ Other Pointers of Interest
+
+
+ Lectures
+
+Section 70: 1289 Comp. Sci & Statistics Building, 9:55 am MWF
+   
+   Please be punctual to lectures to avoid disturbing the class.
+
+
+ Instructor - Jeff Lampert
+
+Office:
+   Rm. 5364a Computer Science & Statistics, 1210 W. Dayton St.
+Office Hours:
+   Wed 11:00-12:30, Thurs 2:30-4:00 (Tentative) or by appointment
+Phone:
+   (608) 262-5105 [office]
+       (608) 283-0636 [home, emergencies only]
+E-mail:
+   tick@cs.wisc.edu (click here for finger)
+World-Wide-Web:
+   http://www.cs.wisc.edu/~tick/tick.html
+
+
+ Grading Policy
+
+60% exams    (20% each for two midterms and the final)
+30% programs (3% each for each of 10 programs)
+10% quizzes  (2% for each of 6 quizzes, drop lowest grade)
+
+
+Final grades for all CS 302 sections are graded with a mean in the range of 2.7 - 2.9, where A = 4.0; the curve is computed after the final exam is completed.
+
+Exam 1
+    Tuesday October 15, 7:15 - 9:15 pm, 1207 CS&S
+
+   Exam 2
+    Tuesday November 19, 7:15 - 9:15 pm, 
+
+   Final 
+    [Not selected yet]
+
+
+
+ Syllabus (tentative)
+
+The following topics and sections of the text will be approximately covered each week during the semester.  You will only get the most out of this class if you read the relevant sections of the text before coming to class.  This way you will be able to ask questions in class about anything that you are unsure of, instead of waiting until you're in the lab trying to work on an assignment to discover you didn't really understand something.
+
+Weeks 1-6 (Mid-Term Exam #1)
+   Weeks 7-11 (Mid-Term Exam #2)
+   Weeks 12-15 (Final Exam)
+
+
+ Text and Lecture Notes
+Text:
+Fortran with Engineering Applications, 5th. edition, by E. Koffman and F. Friedman, 1993.
+Lecture Notes:
+Copies of the lecture notes will be available on-line at the end of each week of class. IMPORTANT - the on-line lecture notes are not a substitute for coming to class. They do not include any examples or additional notes that I put on the board (with the exception of Week1).  You are responsible for all the material covered in class.
+
+Week1
+Week2
+Week3.1
+Week3.2
+Week4
+Week5
+Week6
+Week7
+Week8
+Week9
+Week10.1(Heaps)
+Week10.2(Recursion)
+
+
+ Exams and Programming Assignments
+On Exams and Quizzes:
+
+There are three exams: two mid-term exams and one final exam.  Exams constitute a total of 60% of your final grade so it is very important to do well on them to ensure a good grade, regardless of your performance on the assignments.  All exams are approximately two hours long (though you may stay a bit longer if you need extra time) and are closed-book.  You only need to bring a pen or pencil to exams - calculators are not necessary or even useful.
+Quizzes count 2% each...6 quizzes, drop the lowest score. Answers are online.
+
+Quiz1
+Quiz2
+
+On Assignments 
+
+There are ten programming assignments (not including Program #0), contributing a total of 30% to your final grade. It is essential that you attempt to complete all homework assignments. Many later assignments will build on ideas form the first few; some homework assignments will actually be extensions of earlier assignments, so completing an assignment is important for the future as well as the present. If you are having problems, please find me or a consultant. Click here for more info.                    
+
+
+Gradesheets
+What to do in DOS/Fortran (and how to hand in assignments online)
+   Late Policy
+Policy on Academic Misconduct (i.e. cheating)
+
+Assignment Specifications:
+
+Program0, due Monday 9/9/96 5:00 pm
+   Program1, due Friday 9/20/96, 5:00pm
+   Program2  due Monday 9/30/96, 5:00 pm
+   Program3  due Monday 10/14/96, 5:00 pm
+   Program4  due Monday 10/28/96, 5:00 pm
+   Program5
+due Wed 11/13/96, 5:00 pm 
+
+How to Get Help with Your Assignments:
+
+Consultants: 
+   The consultants in the computer lab can help you with most problems.  They wear name tags and are on duty from approximately 8:00 am to 11:00 pm.  Consultants can answer short questions about compiler error messages and program syntax, as well as how to login, use the printers, send E-mail, run Netscape, etc.
+
+Click here for more information about the consultants.
+   
+
+Instructor:
+   General questions about an assignment or questions that may require a long explanation are best answered by myself.  Please see me during office hours or send me E-mail.  I am not normally in my office except during office hours because I do my research from home via a modem.  Therefore, if you want to see me outside of office hours please make an appointment first.  You can most easily contact me by E-mail because I regularly login and read my E-mail from home.
+
+Click here to send me E-mail.
+   
+
+
+
+ Problem Solving Exercises
+
+One of the most important skills you will learn in this class is problem solving.  Good problem solving skills distinguish a "good" computer programmer from a "bad" one - it doesn't matter how familiar or skilled you are in a particular programming language, if you do not understand how to solve the problem then you will not be able to write a computer program for it in any language.
+
+To help you learn problem solving skills and techniques I will assign weekly pro
+blem solving exercises.  These will be small but non-trivial problems which I wi
+ll give out each Monday.  You should look at the problem and think about it duri
+ng the week and right down the steps you would go through to solve the problem; 
+i.e. the overall structure of your program.  This is primarily an exercise in ge
+neral problem solving so you do not have to write any FORTRAN c
+ode (though you may if you want to and have time) and your solution/algorithm sh
+ould not even be dependent on a particular programming language such as FORTRAN.
+  Each Friday we will go over the solution in class.
+Exercises:
+
+
+
+ Computer Lab
+
+You will be using the Vectra lab in Rm. 1350 Computer Science & Statistics containing Hewlett-Packard Vectra's running Microsoft Windows and Microsoft FORTRAN.  This lab is open from 7:00 am to 1:00 am seven days a week except certain holidays.  The printer room is located across the hall in Rm. 1359. You have a quota of 300 pages on which to print. Once you exceed that quota you must contact the lab either by e-mail or by going to room 2310 during office hours (they prefer e-mail) to pay to increase your quota.
+
+You may also use your home or dorm computers to write your programs, however you will probably have to purchase your own copy of Microsoft FORTRAN or Lahey Personal FORTRAN (see the inside cover of the textbook).  You may also work in any of the other computer labs on campus, however most do not have FORTRAN compilers (please see me first before using the CAE lab).
+
+The software you will be using in the lab includes:
+
+Microsoft Windows and MS-DOS
+E-mail
+Netscape
+
+
+ Other Pointers of Interest
+
+ CS 302 Home Page
+ Jeff Lampert's Home Page
+ Computer Sciences Department Home Page
+ Starting Points for Internet Exploration
+ Lycos (search the World-Wide-Web by keyword)
+   
+ Dilbert (comic relief for those long nights before an assignment is due)
+
+
+
+
+Copyright © 1996 Modified from Gareth S. Bestor (bestor@cs.wisc.edu). Last modified August 29, 1996.
+
+

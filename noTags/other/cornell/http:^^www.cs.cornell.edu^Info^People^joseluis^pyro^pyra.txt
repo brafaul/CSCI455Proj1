@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:04:29 GMT
+Content-Type: text/html
+Content-Length: 1191
+Last-Modified: Saturday, 23-Dec-95 20:44:58 GMT
+
+ PyraMania Home Page
+
+
+PyraMania 3D. Space Adventure
+
+
+
+Introduction
+PyraMania is a "Spaceship battle game" developed as a project for the course CS501 at Cornell University by :
+
+   Jose Luis Fernandez
+   Samuel Kan 
+   Todd Peskin 
+   Amith Yamasani 
+
+It is a "wireframe" 3D simulation with options to display "solid" 3D objects.
+
+Programming Languages Utilized
+PyraMania was developed using C++ for the internal structure of the program and TCL/TK for the user interface.
+
+ Features 
+
+   "3D Wireframe" graphics
+
+   "3D solid graphics" mode 
+
+
+   Radar for locating enemies and tanks 
+   Lasser 
+
+
+ Objective 
+
+The user must get all the "rotating combustible tanks" in the scenary. He has a radar to locate the enemies and tanks and a lasser to shoot the enemy spaceships.
+He must complete the mission before the timer counter will expire.
+
+

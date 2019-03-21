@@ -1,0 +1,47 @@
+Content-type: text/html
+Last-modified: Tuesday, 24-Sep-96 20:18:01 GMT
+Content-length: 1522
+
+
+CMPS131 - Elementary Computer Programming
+
+
+
+CMPS131 - Elementary Computer Programming
+General Course Information
+
+Course Description
+Fall 1996 Schedule
+Course Logistics
+
+Grading
+
+Grading Policy
+Programming Assignments
+Check your grades
+
+Study Materials
+
+Examples From the Book
+
+WWW Resources
+
+
+	On-Line Dictionary of Computing
+
+        C. Marling's CMPS131 Homepage 
+ 
+        J. Kraft's CMPS131 Homepage 
+ 
+        G. Ozsoyoglu's CMPS131 Homepage 
+
+What Do You Think?
+
+ Feedback
+
+
+
+CMPS131,
+stephan@ces.cwru.edu
+Last Updated: 27 August 96
+

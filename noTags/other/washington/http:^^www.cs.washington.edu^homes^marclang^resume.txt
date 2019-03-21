@@ -1,0 +1,143 @@
+Date: Tue, 10 Dec 1996 20:46:05 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 01 Sep 1996 22:38:46 GMT
+Content-length: 5230
+
+
+
+Marc Langheinrich's Resume
+
+
+
+
+Marc Langheinrich's Resume
+
+Marc M. Langheinrich
+
+5210 Woodlawn Ave. N.
+Seattle, WA 98103
+(206) 632-6637
+
+Education
+
+1991 - present
+
+      Universität Bielefeld, Germany
+      Graduate Student (Diplom) in 
+      
+Computer Science in the Natural Sciences
+
+      Faculty of Technology
+      Expected Graduation: Spring 1997
+Summer 1995 - Summer 1996
+
+      The University of Washington
+      Visiting graduate student under the Fulbright program.
+      Department of 
+Computer Science.
+
+
+Objective
+
+To obtain a position in the field of Computer Science and Information 
+  Systems -- specifically, a career involving utilization of intelligent agents
+  in modern computer applications.
+
+Experience
+
+
+Research Assistant
+Department of Computer Science, University of
+	Washington, USA
+	Summer 1996
+	Development of Web Agent software for the research project
+	"Ahoy! The
+	Homepage Finder", an agent architecture for finding
+	personal homepages on the World Wide Web. Program Size 10,000+
+	lines. Programming Language: Perl5 (OOP) and C. 
+
+Application Programmer and WebMaster
+University Library, University of Bielefeld,
+	Germany
+	1994-1995
+	Programmed several library applications for student use
+	(DOS/Windows, C/C++).
+	Created and maintained  
+	Library web server, including hardware/platform selection,
+	software evaluation and network installation within the
+	University Net.
+
+Supervisor of System Group, HighTension Project
+Department of Computer Science, University of
+	Bielefeld, Germany
+	1993-1995
+	Design and implementation of a knowledge based therapy module as
+	part of the 
+	HYPERCON diagnosis system. Coordinator of systems programmer
+	group.
+
+Tutor Computer Science Classes
+Department of Computer Science, University of
+	Bielefeld, Germany
+	1992-1993
+	Teaching assistant for technical cs and theory classes.
+
+Freelance Database Programmer
+	1989-1995
+	Programmed several medium and large database applications in
+	Paradox, FoxPro and Access for various customers like Health Care
+	provider and Moving companies.
+
+Personal Client Assistant
+Rasmussen GmbH, Maintal, Germany
+	Seasonal, 1987-1991
+	Responsible for JIT-production and delivery of vital car-parts to
+	all major german car companies (Mercedes/Benz, BMW, Porsche, VW). 
+	Daily trading volume averaging $10,000.
+
+
+Computer Skills
+  Proficient in the following areas:
+  
+
+Internet Tools -- World-Wide Web, Gopher,
+	WAIS. HTTP-Server (httpd, Apache, Website) on Unix, DOS,
+	Windows (3.1 + 95) and NT systems. TCP/IP network programming.
+    Programming Languages -- C/C++, Pascal, LISP, Perl5
+	(object oriented), Java, JavaScript, (HTML/HTTP)
+Operating systems -- DOS, Windows3.1/NT/95, Unix, Mac OS
+    Database Applications -- Microsoft Access and FoxPro,
+	Borland Paradox and Paradox for Windows (including programming
+	experience in all databases)
+Word Processing --
+	Microsoft Word, WordPerfect, Ami Pro and the LaTeX Document 
+	preparation system
+
+
+Language Skills
+Native speaker of German.
+  Fluent in English.
+  Able to communicate in French and 
+      Japanese.
+
+
+Scholarships
+
+ 1995, Fulbright Scholar at the University of Washington,
+      Seattle, USA
+ 1990, Nominated for a 'Studienstiftung des deutschen Volkes'
+      scholarship 
+
+
+
+
+Marc Langheinrich
+Scores (GRE/TOEFL) and references available upon request.
+
+ The University of Washington, Department of Computer Science
+ Email: marclang@cs.washington.edu
+ WWW: 
+http://www.cs.washington.edu/homes/marclang/
+
+

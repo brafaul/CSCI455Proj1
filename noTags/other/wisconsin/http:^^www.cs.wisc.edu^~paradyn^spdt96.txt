@@ -1,0 +1,61 @@
+Date: Tue, 05 Nov 1996 00:37:41 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 08 May 1996 18:11:55 GMT
+Content-length: 1270
+
+
+SPDT '96 Home Page
+
+
+
+ 
+
+
+
+
+
+SPDT '96
+SIGMETRICS Symposium on Parallel and Distributed Tools
+
+
+
+
+
+
+
+
+
+
+
+Under construction.
+In the future, you can expect information on local
+arrangements and registration.
+
+
+
+
+
+
+
+Call for Papers (HTML)
+
+
+
+
+
+Call for Papers (Postscript)
+
+
+
+
+
+Official Program (HTML)
+
+
+
+Last modified:
+Wed May  8 13:11:54 CDT 1996
+by
+bart
+

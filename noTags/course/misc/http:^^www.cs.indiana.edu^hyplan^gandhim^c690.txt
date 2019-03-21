@@ -1,0 +1,1183 @@
+Date: Wed, 20 Nov 1996 22:28:46 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 38204
+Last-modified: Wed, 29 Mar 1995 06:29:08 GMT
+
+
+
+C690: Managing and Visualizing Multimedia Data
+
+
+
+C690: Managing and Visualizing Multimedia Data
+
+This seminar introduces user interface and database issues arising in
+multimedia systems.  Specifically, we will look at data
+modeling, data querying and data visualization
+issues relating to audio and video data.  The lectures will cover the
+basic concepts and individual/team projects will explore the practical
+issues.
+
+Table of Contents (TOC)
+
+  What's new
+  General information
+  Course description
+ Lectures
+
+  Lecture schedule (overview)
+  Lecture schedule (details)
+
+ Projects
+
+  Project schedule (overview)
+  Project home pages
+  Project deliverables
+  Development tools
+
+ References
+
+  References (core lectures)
+  References (student lectures)
+
+
+
+Please email, if you have any
+comments or suggestions. 
+
+
+
+What's new
+(TOC)
+
+
+
+ March 27
+ Added a calendar to the 
+ Lecture schedule (details)
+section to ease navigation.  
+You need to use "netscape11b" to take advantage of this feature.
+
+ February 27
+ Split the references into 
+ References (core lectures) 
+and
+ References (student lectures) sections.
+The former section retains the original references. Added 
+(TOC)
+links to ease navigation back to the table of contents.
+
+ February 20
+ Added more details to the detailed calendar which is now
+accessible using the 
+ Lecture schedule (details) 
+heading.  Indexed the 
+ References
+section using a more conventional citation scheme. Created 
+
+A Guide to Authoring HTML Documents.
+
+ February 9
+ Removed the Project Description section. The projects are now
+described by the  Project Home Pages.
+
+ February 4
+ Refined the Project deliverables and 
+the Project schedule sections.
+
+ February 2
+ Added slide notes for  Object-oriented data
+management -- began reorganization of project specific material
+into  Project Home Pages -- added a  What's new and a 
+Project deliverables section.
+
+
+General Information
+(TOC)
+
+
+
+ Instructors
+ 
+	Ed Robertson 
+
+ Office Hours: MR 10:00-11:00pm
+	 Email: edrbtsn@cs.indiana.edu
+	
+
+	Dirk Van Gucht 
+
+ Office Hours: M 11:15-12:15, W 11:30-12:30
+	 Email: vgucht@cs.indiana.edu
+	
+
+	Munish Gandhi 
+
+ Office Hours: TR 3:00-4:00pm
+	 Email: gandhim@indiana.edu
+	
+ Lecture
+ Section 2044, MW 4:00-5:15, WH006
+ Newsgroup
+ ac.c.690.mmdb
+
+
+Course description
+(TOC)
+
+
+
+This seminar will explore the user interface/database boundary,
+especially in the context of multimedia systems.  The goal is an
+architecture where these separate components share more by way 
+of common concepts and structures and less through procedural interfaces.
+
+
+The intention here is to conceptualize and implement multimedia
+objects having semantically relevant structure amenable to querying
+and manipulation, in contrast to current multimedia systems which lack
+the database perspective of data independence and associated query
+capabilities and to current databases which treat multimedia objects
+as "blobs",  if at all.
+
+
+The seminar will develop prototype implementations which present
+diverse information -- such as movies, sound tracks, and even
+traditional relational data -- within a unified conceptual framework
+and presentation environment.  This implementation will be done by
+teams who bring a variety of experiences to bear on the multifaceted
+issues which will arise. 
+
+
+
+Lecture schedule (overview)
+(TOC)
+
+
+
+ Weeks 1, 2, 3: Introduction and Data Modeling
+ Introduction -- relational databases -- algebra, calculus and QBE --
+object-oriented databases -- Track data model -- algebra, rule
+language, and visual language
+
+ Weeks 4, 5: Digital Media
+ Digital signal processing -- audio -- digital audio -- video --
+digital video -- audio compression -- video compression 
+
+ Weeks 6, 7: Data Visualization
+ Mental models - human information processing - Metaphors and
+analogies -- Visualizing data: hierarchical, relational, object
+oriented, time-based -- Visualizing queries: boolean, relational,
+object-oriented, time-based
+
+ Weeks 8-11: Student lectures
+ Each student will present a lecture on a topic of their
+choice. (It may relate to the fundamental concepts which underly their
+projects).
+
+ Weeks 12-15: Student projects
+ The students will present the design and implementations for
+their projects.
+
+
+
+
+Lecture schedule (details)
+(TOC)
+
+
+
+
+(Messed up? You need to use netscape11b)
+
+
+
+1st week
+2nd week
+3rd week
+4th week
+5th week
+
+
+M
+W
+M
+W
+M
+W
+M
+W
+M
+W
+
+
+January
+2
+4
+9
+11
+16
+18
+23
+25
+30
+ 
+
+
+February
+ 
+1
+6
+8
+13
+15
+20
+22
+27
+ 
+
+
+March
+ 
+1
+6
+8
+13
+15
+20
+22
+27
+29
+
+
+April
+3
+5
+10
+12
+17
+19
+24
+26
+ 
+ 
+
+
+
+
+
+ January 9
+ Chia-Lin, Bob: Demonstration of past work
+
+
+ January 11
+
+ Dirk: Data modeling  
+ 
+These
+slides
+define the concept of a data model, introduce the
+Entity-Relationship model, discuss the representation of
+Entity-Relationship models in relational systems, and discuss the
+representation of relations as physical files.  
+
+
+ January 16
+ Munish: Project Descriptions
+
+
+ January 18
+
+ Dirk: Data manipulation
+ 
+These 
+slides
+introduce the relational algebra, relational calculus and SQL as
+query languages for relational systems. 
+
+
+ January 23
+
+ Munish: Track data model
+ 
+The track data model and an algebra for the track data model are
+defined in 
+ Gandhi, M and E.L. Robertson. 1994. 
+The algebra is equivalent to a rule language which is defined in
+ Gandhi, M, E.L. Robertson and D. Van Gucht. 1995. 
+
+
+ January 25
+ Munish: Implementation of the track data model
+
+slides
+introduce basic object data management concepts such as objects,
+methods, class hierarchies, complex objects and query languages.  They
+also discuss implementation aspects of object data management. 
+
+
+ February 1
+
+ Munish: Digital signal processing
+ 
+Chapters 3 and 4 in
+Pohlman, K.C. 1989
+describe time sampling, aliasing, quantization and pulse code
+modulation. 
+
+
+ February 6
+
+ Munish: Digital audio
+ 
+Chapter 1 of 
+Pohlman, K.C. 1989
+introduces the basics of audio while chapters 4 and 5 indicate how
+systems which record and reproduce digital audio are built.
+
+
+ February 8
+
+ Munish: Digital video
+
+Chapter 2 of
+Watkinson, J. 1990
+introduces the basic principles behind video while chapters 3 and 5
+indicate how digital video may be processed.  
+
+
+ February 13
+
+ Munish: Human computer interaction
+ 
+Chapter 2 of 
+Shneiderman, B. 1992
+reviews the GOMS model of user interaction and the SSOA model of user
+knowledge. Chapter 5 of the same discusses direct manipulation
+interfaces. 
+
+
+ February 15
+
+ Ed: Visualizing relational queries (QBE)
+
+An exposition of QBE using examples (!) may be found in
+Zloof, M. 1977.
+
+
+ February 20
+
+ Munish: Visualizing boolean queries
+
+The "picklist" approach to visualizing queries is given in
+Weiland, W.J. and Shneiderman, B. 1993,
+while the waterflow metaphor approach is given in 
+Young, D. and Shneiderman, B. 1993. 
+An introductory treatment to both these approaches is in chapter 11 of
+Shneiderman, B. 1992.  
+
+ Munish: Experimental methodology
+
+Section II of 
+Eberts, R.E. 1994
+devotes itself to the empirical approach to user interface design.  The
+first chapter of this section gives an overview of the experimental
+methodology. 
+A good illustration of the experimental methodology may be found in
+Weiland, W.J. and Shneiderman,B. 1993.
+
+
+ February 22
+ Munish: Visualizing track queries
+
+
+ February 27
+
+ Arijit Sengupta: Structured Documents as Multimedia Databases
+
+Documents have been a big source of information for almost all of the
+history of human civilization. However, until recently, information in
+documents was not being used propoerly, because of poor structuring of
+documents. Introduceion to structured documents using "tags" or
+"markups" have majorly changed this situation, and tagged electronic
+texts are becoming more and more widespread as sources of information.
+  
+Markup languages such as SGML (Standard Generalized Markup Language)
+Goldfarb, Charles 1990 have been introduced
+for creating structured documents, but extracting the information
+based on the structures in the documents is still not a very simple
+issue, and in most cases, it is ad hoc and based on primitive word
+searches.
+  
+This talk would introduce structured documents and SGML, and discuss
+some of the ways of extracting information out of tagged documents. In
+particular, some present directions toward this area would be
+discussed, along with examples, advantages and disadvantages.
+ Lincoln Carr: Querying SGML Documents
+ 
+The Standard Generalized Markup Language, or SGML, and the data type
+definitions, or DTDs, built up from it provide the basis for storing
+documents in a way that allows complex querying.  The Text Encoding
+Initiative, or TEI, uses SGML to create standard DTDs for such
+document types as poetry and drama.TEI,
+1994 Currently, TEI has encoded a large body of poetry using its
+standards into the English Poetry Database, for which a simple query
+engine is available.  However, since the poems are not marked up using
+the fullest potential of TEI's standard, many useful, more complex
+types of queries are not presently possible.
+
+
+ March 1
+
+ Logic Seminar
+
+
+ March 6
+
+ Bob Penrod: The Evolution of Visualization Tools for Large 
+Information Spaces
+ 
+Large information spaces present several problems for
+visualization. Such spaces require tools that visualize all the
+necessary data and facilitate comprehension of global structure. Most
+traditional tools provide a simple window that displays a limited
+extent of data. This is problematic because (1) not all the data is
+concurrently visible, (2) navigation through the data is slow, and (3)
+no attempt at providing context is made.
+  The Perspective Wall Mackinlay,
+J.D., Robertson, G.G., Card, S.K, 1991 attempts to handle these
+problems by integrating detail and context. We will examine two
+precursors to the Perspective Wall, "generalized fisheye views"
+Furnas, G.W., 1986 and the "bifocal
+display" Spence, R., Apperley, M., 1982,
+focusing in particular on the application of those ideas to 
+linear information spaces.
+
+ Weizhen Hu: Interactive Video Technology
+
+Ordinary video applications only allow users to access and
+replay movies passively. Interactive Video technology
+introduced in 
+ Yoshinobu Tonomura, et al. 1994
+allows users to do more operations about the
+video, such as grasping the main idea of the video (fast
+browsing), searching, analyzing, and editing. Three topics are
+talked about here: 1. video segmentation and feature extraction;
+2. Fast Browing method; 3. new video interfaces.
+
+
+ March 8
+
+ Torrin Sanders: Hypermedia Product Evaluation
+ ???
+Xingchun Zheng: An Intelligent Multimedia System
+
+Hypermedia provides poeple with a new way to combine different media into 
+single artefacts.  These can be developed and marketed in the style of 
+conventional media publications.  Multimedia technologies not only being the 
+presentation of data stored as images, sound and video but also allow the 
+incorporation of media specific input modes(eg. natural language, speech, 
+pen gesture), and the generation of images, sound and video from more 
+abstract formats. 
+In Using an Intelligent Agent to Mediate Multibase Information Access 
+W Behrendt, E Hutchinson, 
+KG Jeffrey, CA Macnee, MD Wilson (1993), the MIPS Project 
+ (multimedia 
+presentation system) is introduced in the paper as  a presentation of  
+an open pre-authored hypermedia network stored in the HyTime standard 
+format with  dynamically created web nodes containing answers to conventional 
+database queries. This illustrates how conventional hypermedia tools can be 
+extended to include intelligent automatic generation of multimedia 
+presentations from retrieved data. An example multimodel system(MMI2) is 
+described to illustrate the technologies which could be brought to the 
+market independently. 
+
+The above concepts and ideas are still in the research stage.
+
+
+ March 20
+
+
+Qizhen Zhang: Video-on-Demand and Database Related Issues: An
+Introduction 
+ 
+Video-on-demand features a new form of information delivery that is
+causing a great commotion in the industries of cable TV,
+telecommunications, personal computers, and software.  In this
+revolution, multimedia database design and management play an
+indispesable role.  This talk briefly describes the architecture, the
+technology, and the experimental implementations of this emerging
+application.  By means of the description, potential database issues
+are explored.  As an example, I am going to discuss Network Support for Dynamically Scaled Multimedia
+Data Streams in some depth.
+
+ Robert Fahey Video Object Servers and Video On-Demand
+
+Recently, video on-demand has received quite a bit of attention in the
+media.  However, the media rarely discuss how it will be implemented.
+In this talk, I shall examine the requirements needed to support
+real-time video, and how current technology meets these requirements.
+I will also describe several approaches to providing on-demand video.
+Some issues which will be investigated are: throughput requirements for
+video, throughput and seektime for several secondary storage devices,
+optimization/organization techniques to improve throughput/response time,
+and several types of architectures to support video objects.
+
+This presentation is based on five different papers, ranging from continuous
+media storage to the cost effectiveness of Video On-Demand systems.  These
+papers are: Lougher, P. and Shepherd, D. 1993, 
+Rangan, P. and Vin, H. 1993,
+Federighi, C. and Rowe, L. 1994,
+Ghandeharizadeh, S. and Ramos, L. 1993, and
+Doganata, Y. and Tantawi, A. 1994..
+
+
+
+ March 22
+
+ Kaushik Mody: An Introduction to ATM - Asynchronous Transfer Mode
+
+
+Computer networks have revolutionized the way we communicate and
+interact the data around the world. However with Distributed
+Multimedia becoming norms rather than exception, the existing networks
+are not able to support the high bandwidth and low latency
+requirements of its applications. Asynchronous Transfer Mode, a
+switching and multiplexing technique is described as a technology that
+will allow total flexibility and efficiency to be achieved in
+tomorrow's high speed, multi-service, multimedia networks.  This
+presentation is based on the work by  Ronald
+J. Vetter; David H. C. Du 1995 and B. G. Kim and P. Wang 1995.
+
+ Alan Keahey: Multi-Resolution Information Display
+ 
+This talk will take a look at some techniques for displaying
+information at more than one level of resolution
+simulataneously. While similar in scope to the recent talk given by
+Bob Penrod, the focus will be more on the details of hyperbolic or
+fisheye views, implementation issues, and possibilities for future
+systems such as multi-focus systems.
+
+
+
+ March 27
+
+ Yong Jiang: Matadata in Video Databases
+ 
+Video is composed of audio-visual information. Providing content based 
+access to video data is essential for the sucessful integration of video 
+into computers. Organizing video for content based access requires the use 
+of video matadata. This papter explores the nature of video matadata. A data 
+model for video databases is presented based on a study of the applilcations 
+of video, the nature of video retrieval requests, and the features of video. 
+The data model is used in the architectural framework of a video database. 
+The current state of technology in video databases is summarized and research 
+issues are highlighted.
+
+ Aditya Khosla: Towards an optimal operating system for multimedia
+ 
+My talk will be based on a survey paper that addresses key issues that an operating system
+needs to possess in order to efficiently handle multimedia systems. The aspects that
+I will discuss include Process Management and related scheduling strategies. I will
+further talk about Resource Management , File Management and Memory
+Management issues in this context, with  alternative algorithms
+examined, and the options that best suit such systems.
+
+
+ March 29
+
+ Chia-Lin Chou: ???
+
+ Julia Dymshitz:  Approaches to database interface design
+ Approaches to human-computer interaction (HCI) can be broadly
+classified into four categories:empirical, predictive modelling,
+cognitive and anthropomorphic Eberts,
+R.E. 1994.  Each of these approaches emphasizes a different aspect
+of HCI, although many research studies fall into more than one
+category. Cognitive and anthropomorphic approaches were applied
+extensively to database interface design, producing a number of design
+guidelines.  The usefulness of these guidelines for actual design will
+be discussed in the context of advantages and disadvantages of each
+approach. In addition, two articles (Williams,
+M.D. 1984 and Eberts, R.E. and Bittianda,
+K.P. 1993) will be described in greater detail to illustrate the
+application of cognitive and anthropomorphic methods to database
+interface issues.
+
+
+ April 5
+
+ Arijit Sengupta
+ Lincoln Carr
+
+
+ April 10
+
+ Aditya Khosla
+ Yong Jiang
+
+
+ April 12
+
+ Bob Penrod
+ XingChun Zheng
+
+
+ April 17
+
+ Weizhen Hu
+ Torrin Sanders
+
+
+ April 19
+
+ Kaushik Mody
+ Alan Keahey
+
+
+ April 24
+
+ Julia Dymshitz
+ Chia-Lin Chou
+
+
+ April 26
+
+ Bob Fahey
+ Qizhen Zhang
+
+
+
+
+Project schedule (overview)
+(TOC)
+
+
+
+ Week 2: Selection
+ Select a project.
+
+ Week 4: Proposal
+ Propose the goals for the project
+
+ Week 6: Iteration 1
+ Write a user manual, implement critical elements
+
+ Week 8: Iteration 2
+ Refine user manual, implement significant elements
+
+ Week 10: Iteration 3
+ Implement almost all elements, measure performance
+
+ Week 12: Iteration 4
+ Restructure (if necessary) and complete the implementation.
+
+ Week 14: Integration 
+ Integrate system
+
+ Week 16: Delivery 
+ Deliver system and user manual
+
+
+
+Project home pages
+(TOC)
+
+
+
+
+Kiosk Enhancements
+
+
+MovieSpace
+
+
+MovieWall
+
+
+PerformanceTrack
+
+
+TextTrack
+
+
+Track Database Management System (TDBMS)
+
+
+If you are new to HTML, you may want to look at 
+
+A Guide to Authoring HTML Documents.
+
+
+
+Project deliverables
+(TOC)
+
+
+
+ February 1
+ Brief proposal
+ February 15
+
+
+ User manual
+ The user manual will serve two purposes.  First, it will
+serve as a guide for the user using your system.  Second, it will
+serve as a precise specification of your project.  The manual should
+have the following sections which answer the indicated questions
+
+
+ System overview
+ What does your system do? What does the user gain by using your
+system?
+
+ Audience
+ Who are the users of your system? Why should the person reading your
+manual read any further?
+
+ Graphical user interface (for systems with a graphical
+interface) 
+ What are the different areas on the interface? What elements
+exist in each area? How is each element manipulated and how does the
+system respond to each manipulation?  What functionalities is the user
+interface capable of performing?  How does the user interact with the
+interface to achieve each of these functionalities?
+
+ Programming interface (for systems with a programming
+interface) 
+ What functions are available?  What do they do?  What parameters
+do they take? What is the effect of each parameter? What values are
+returned? 
+
+ Implementation: Iteration 1
+ First, identify a set of capabilities to be implemented in this
+iteration.  Second, ensure that your supervisor agrees with you on the
+capabilities by February 8. Finally, implement the functionality by
+the due date.  
+Here are some criterion which may be used in choosing the capabilities
+for implementation in iteration 1:
+
+ they must be implementable by the due date,
+ they should constitute a significant element of your system.  
+ they should attack the high risk elements of your system.
+
+
+ March 19
+
+
+ User manual
+ Complete your user manual to follow the guidelines above.
+ Implementation: Iteration II
+ Implement more than half of the required functionality.
+
+ April 2
+
+
+ Design document
+ Prepare your design document
+ Implementation: Iteration III
+ Implement almost all of the desired functionality.
+
+ April 26
+
+
+ Handin
+ Handin your user manual, design document, and implementation.
+
+
+
+Development tools
+(TOC)
+
+
+
+Here are some starting points for each of the development tools that
+will be used in the projects.
+
+
+
+Digital Media Libraries
+ 
+
+The IRIS Media Libraries provide a digital media software development
+environment that includes audio, video, movie and compression
+libraries. Check out the IRIS Digital Media Programming Guide
+in the IRIS Insight Library. You may also get the contents of
+the above guide in the postscript files here. The
+documentation is divided into parts and the contents of each part may
+be obtained by looking at Front.ps.
+
+
+OpenInventor
+ 
+
+OpenInventor is a library of objects and methods used to create
+interactive 3D graphics applications.  Check out the  Inventor
+Mentor in the IRIS Insight Library.
+
+Tcl/Tk
+ 
+Parts I and II in the Tcl/Tk reference will
+allow  you to  use Tcl/Tk for your applications.  However, if you want
+to extend Tcl/Tk, you will need parts III and IV . Besides the
+book, you may want to subscribe to the newsgroup comp.lang.tcl and read the 
+FAQ. 
+
+
+Exodus
+ 
+The Exodus Storage Manager is an object storage management system.
+The User Manual and the Architecture Overview documents in the exodus
+ home page
+are essential documents for understanding the storage
+manager. 
+
+
+
+
+References (core lectures)
+(TOC)
+
+
+
+ Eberts, R.E. 1994
+
+
+User Interface Design.
+
+Prentice Hall, Englewood Cliffs, New Jersey, 1994.
+
+
+ Gandhi, M and E. L. Robertson. 1994
+
+
+
+A Data Model for Audio-Video Data.
+
+
+Technical Report #415, Computer Science Department, Indiana University.
+
+ Gandhi, M , E. L. Robertson, and D. Van Gucht. 1995
+
+
+
+Modeling and Querying Primitives for Digital Media.
+
+
+Working paper.
+
+ J. D. Mackinlay, G. G. Robertson, S. K. Card. 1991
+
+
+
+The Perspective Wall: Detail and Context Smoothly Integrated
+
+. 
+Proceedings of the ACM SIGCHI Conference on Human Factors in Computing
+Systems.  ACM, April 1991, pp. 173-179.
+
+ Ousterhout, John K. 1994
+
+
+Tcl and the Tk Toolkit.
+
+Addison-Wesley, 1994.
+
+ Pohlman, K.C. 1989
+
+
+Principles of Digital Audio (Second Edition).
+
+Howard W. Sams & Company, Indianapolis, 1989.
+
+ R. Rao, S. K. Card, H.D. Jellinek, J. D. Mackinlay,
+G. G. Robertson. 1992
+
+
+
+The Information Grid: A Framework for Building Information Retrieval
+and Retrieval-Centered Applications.
+
+.
+Proceedings of the ACM Symposium on User Interface Software and
+Technology. ACM Press, November 1992.
+
+ G. G. Robertson, S. K. Card, J. D. Mackinlay. 1991
+
+
+
+Information Visualization Using 3D Interactive Animation.
+
+  
+Communications of the ACM, v.36, n.4, 1993.
+
+ G. G. Robertson, J. D. Mackinlay, S. K. Card. 1991
+
+
+
+Cone Trees: Animated 3D Visualizations of Hierarchical Information.
+
+
+Proceedings of the ACM SIGCHI Conference on Human Factors in Computing
+Systems. ACM, April 1991, pp. 189-194. 
+
+ Shneiderman, B. 1992
+
+
+Designing the User Interface: Strategies for Effective Human-Computer
+Interaction (Second Edition).  
+
+Addison-Wesley Publishing Company, New York, NY, 1992.
+
+ Watkinson, J. 1994a
+
+
+The Art of Digital Audio.
+
+Focal Press, 1994.
+
+ Watkinson, J. 1990
+
+
+The Art of Digital Video.
+
+Focal Press, 1990.
+
+ Watkinson, J. 1994b
+
+
+The Art of Digital Video (Second Edition)
+
+Focal Press, 1994.
+
+ Weiland, W.J. and Shneiderman, B. 1993
+
+
+A Graphical Query Interface based on Aggregation/Generalization
+Hierarchies.
+
+Information Systems, Vol 18, No. 4, pp 215-232, 1993.
+
+ Young, D. and Shneiderman, B. 1993
+
+
+A Graphical Filter/Flow Model for Boolean Queries: an Implementation
+and experiment.
+
+Information Systems, Vol 18, No. 4, pp 215-232, 1993.
+
+ Zloof, M. M. 1977
+
+
+Query-By-Example: A Data Base Language.
+
+IBM System Journal, v.16, n.4, 1977.
+
+
+
+
+References (student lectures)
+(TOC)
+
+
+
+ Goldfarb, Charles 1990
+
+
+The SGML Handbook
+
+Clarendon Press, Oxford, 1990
+
+ TEI, 1994
+
+
+Guidelines for Electronic Text Encoding and Interchange
+
+Text Encoding Initiative, University of Virginia, 1994
+
+ Christophides,V; Abiteboul,S; Cluet, S; Scholl,M,1994
+
+
+From Structured Documents to Novel Query Facilities
+
+Sigmod Record, June 1994, p.313-324
+
+  Gonnet, Gaston H. and Baetza-Yates, R; 1991
+
+
+Lexicographical Indices for Text: Inverted Files Vs Pat Trees
+
+University of Waterloo Technical Report no. TR-OED-91-01, 1991
+
+ Yoshinobu Tonomura, et al. 1994
+
+
+"Structured Video Computing",
+
+IEEE MultiMedia, Vol. 1, No. 3, Fall 1994 
+
+ Furnas, G.W., 1986
+
+
+Generalized Fisheye Views
+
+Proceedings of SIGCHI'86, pp. 16-23. 1986.
+
+ Spence, R. and M. Apperley, 1982
+
+
+Data Base Navigation: An Office Environment for the Professional
+
+Behaviour and Information Technology, 1(1), pp. 43-54, 1982.
+
+ Hoffman, Don; Speer, Michael; Fernando, Gerard, 1993
+
+
+Network Support for Dynamically Scaled Multimedia Data Streams
+
+Lecture Notes in Computer Science 846: Network and Operating System Support for Digital Audio and Video, 1993.
+
+ Sims, David, 1994
+
+
+Video-on-Demand Hinges on Integration
+
+IEEE Software, Nov. 1994, pp. 102-103.
+
+ Miller, Matthew D., 1994
+
+
+A Scenario for the Deployment of Interactive Multimedia Cable Television Systems in the United States in the 1990's
+
+Proceedings of The IEEE, Vol. 82, No. 4, April 1994, pp. 585-589.
+
+ Zoglin, Richard, 1993
+
+
+When the Revolution Comes What Will Happen to ...
+
+Time, April 12, 1993, pp. 56-58.
+
+ Lougher, P. and Shepherd, D. 1993
+
+
+The Design of a Storage Server for Continuous Media
+
+The Computer Journal, vol. 36, no. 1, 1993.
+
+ Rangan, P. and Vin, H. 1993
+
+
+Efficient Storage Techniques for Digital Continuous Multimedia
+
+IEEE Transactions on Knowledge and Data Engineering, vol. 5, no. 4, 1993.
+
+ Federighi, C. and Rowe, L. 1994
+
+
+A Distributed Hierarchical Storage Manager for a Video-on-Demand System
+
+Symp. on Elec. Imaging Sci. & Tech., 1994.
+
+ Ghandeharizadeh, S. and Ramos, L. 1993
+
+
+Continuous Retrieval of Multimedia Data Using Parallelism
+
+IEEE Transactions on Knowledge and Data Engineering, vol. 5, no. 4, 1993.
+
+ Ronald, J. Vetter; David, H. C. Du 1995 
+
+
+ATM Concepts, Architecture and Protocols
+
+COMMUNICATIONS of the ACM, February 1995 - Volume 38, Number 2
+
+ Kim, B. G.; Wang, P 1995 
+
+
+ATM Network: Goals and Challenges
+
+COMMUNICATIONS of the ACM, February 1995 - Volume 38, Number 2
+
+ Doganata, Y. and Tantawi, A. 1994
+
+
+Making a Cost-Effective Video Server
+
+IEEE Multimedia, p. 22 - 30, Winter 1994.
+
+ Sarkar, M., Brown, M., 1994
+
+
+Graphical Fisheye Views
+
+Communications of the ACM, Dec. 1994, Vol 37, No 1
+
+ Mackinlay, J.D., Robertson, G.G., Card, S.K. 1991
+
+
+Perspective Wall: Detail and Context Smoothly Integrated
+
+Proceedings of SIGCHI'91, pp. 173-179.
+
+W Behrendt, E Hutchinson, KG Jeffrey, CA Macnee, MD Wilson (1993)
+
+Using an Intelligent Agent to Mediate Multibase Information Access
+
+Proceedings of the Workshop on Cooperating Knowledge Based Systems, 
+Keele, September 1993
+
+ Steinmetz, R.,  1995
+
+
+Analyzing the Multimedia Operating System
+
+IEEE Multimedia, Spring 1995, pages 68-84
+
+ Jain, R., and Hampapur, A., 1994
+
+
+Metadata in Video Databases
+
+SIGMOD RECORD, Vol.23,NO.4,December 1994
+
+ Eberts, R.E. 1994 
+
+
+User interface design
+
+Prentice Hall, 1994
+
+ Williams, M.D. 1984
+
+
+What makes RABBIT run?
+
+Int. J. Man-Machine Studies, 21, 333-352
+
+ Eberts, R.E. and Bittianda, K.P. 1993
+
+
+Preferred mental models for direct manipulation and command-based interfaces
+
+Int. J. Man-Machine Studies, 38, 765-785
+
+
+
+[
+ 
+Indiana University
+|
+ 
+Computer Science
+]
+ 
+
+
+gandhim@indiana.edu
+
+
+
+

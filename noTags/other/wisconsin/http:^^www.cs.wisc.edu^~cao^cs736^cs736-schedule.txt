@@ -1,0 +1,85 @@
+Date: Mon, 11 Nov 1996 17:32:52 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sat, 16 Mar 1996 00:52:31 GMT
+Content-length: 3041
+
+
+
+ CS 736 Tentative Schedule (Spring 96)
+
+
+ CS 736 Tentative Schedule (Spring 96)
+1/23: Introduction; ``The Nucleus of a Multiprogramming System'';
+1/25: ``Fundamental Concepts in MS-DOS'';
+
+1/30: ``Communicating Sequential Processes''; 
+	''Monitors:  An Operating System Structuring Concept''; 
+	``On the Duality of Operating System Structures'';
+2/1: ``Experiences with Processes and Monitors in Mesa'';
+	``An Introduction to Programming with Threads'';
+
+2/6: ``The UNIX Timesharing System'';
+2/8: ``Pilot: An Operating System for a Personal Computer'';
+
+2/13: '`Virtual Memory Management in VAX/VMS'';
+``Converting a Swap-Based System to do Paging in an Architecture Lacking Page-Reference Bits'';
+2/15: ``Condor: Utilizing Idle Workstation Resources'';  Guest lecture by Professor Miron Livny.
+
+First Assignment Due.
+
+2/20:
+``The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System'';
+``The Multics Virtual Memory: Concepts and Design'';
+2/22: ``Working Set Past and Present'';
+
+2/27: ``Memory Coherence in Shared Virtual Memory Systems'';
+2/29: ``An Introduction to Disk Drive Modeling'';
+``A Fast File System for UNIX'';
+
+Project Proposal Due.
+
+
+3/5: ``Measurements of a Distributed File System'';
+3/7: *``The Design and Implementation of a Log-Structured File System'';
+
+3/12: Spring break;
+3/14: Spring break;
+
+3/19: *``A Case for Redundant Array of Inexpensive Disks (RAID)'';
+3/21: ``Grapevine:  An Exercise in Distributed Computing'';
+
+3/26: ``Implementing Remote Procedure Calls'';
+3/28: ``The Distributed V Kernel and its Performance for Diskless Workstations''
+
+4/2: ``Design and Implementation of the Sun Network Filesystem'';
+
+Interim Report Due.
+
+
+4/4: *``Scale and Performance in a Distributed File System''; 
+
+4/9:  ``A Method for Obtaining Digital Signatures and Public Key Cryptosystems'';
+4/11: ``Kerberos: An Authentication Service for Open Network Systems'';
+
+4/16:``Authentication in Distributed Systems: Theory and Practice'';
+4/18: ``Towards the Design of Secure Systems'';
+
+4/23: ``UNIX Operating System Security''; ``Security Flaws in the HotJava Web Browser'';
+4/25: *``Theads and Input/Output in the Synthesis Kernel'';
+
+4/30: ``A Comparison Between the Mach and Windows NT Kernels'';
+5/2: ``Extensibility, Safety and Performance in the SPIN Operating System'';
+
+ Project Implementation Done; Prepare Demo;
+
+
+5/7: Project Presentation;
+5/9: Project Presentation;
+
+5/10: 
+
+ Project Final Report Due.
+
+
+

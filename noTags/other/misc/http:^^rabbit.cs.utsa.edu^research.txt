@@ -1,0 +1,39 @@
+MIME-Version: 1.0
+Server: CERN/3.0pre5
+Date: Tuesday, 14-Jan-97 21:46:35 GMT
+Content-Type: text/html
+Content-Length: 1341
+Last-Modified: Friday, 01-Dec-95 00:52:27 GMT
+
+Major Research Activities
+Major Research Activities
+
+The High-Performance Computing and Software Laboratory at the
+University of Texas at San Antonio was established in early 1993.
+It has
+been equipped with sufficient resources to allow extensive study
+of high-performance computing for systems and scientific applications.
+This laboratory is supporting a variety of
+research projects investigating both the fundamental nature of
+high-performance computing and its application to problems of importance in
+software development.
+The principal research efforts are:
+
+ Developing efficient algorithms and methods for solving
+large-scale
+real-world  scientific applications  on various
+high performance computing
+facilities;
+
+
+ Studying and
+evaluating  parallel system performance for efficient architecture design
+and scientific program implementations; 
+
+
+ Building  software visualization tools and environment for
+high performance scientific applications  and performance evaluation; and
+
+
+ Addressing parallel computing and system issues of  
+ heterogeneous Networks of Workstations (NOW). 

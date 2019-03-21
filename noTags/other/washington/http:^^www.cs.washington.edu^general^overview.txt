@@ -1,0 +1,449 @@
+Date: Tue, 10 Dec 1996 15:09:15 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+
+Overview of UW Computer Science & Engineering
+
+
+
+
+
+An Overview of the
+
+University of Washington
+
+Department of Computer Science & Engineering
+
+
+
+
+
+
+
+
+Statue of George Washington, looking west
+
+towards the Olympic Mountains
+
+University of Washington photo
+
+
+
+
+
+
+
+
+
+
+Drumheller Fountain, looking south towards
+
+Mt. Rainier
+
+University of Washington photo
+
+
+
+
+
+
+
+
+
+
+
+Spring in the Humanities Quadrangle
+
+University of Washington photo
+
+
+
+
+
+The University of Washington
+
+
+Founded in 1861, the 
+University of Washington has 34,000
+students (25,000 undergraduate and 9,000 graduate/professional)
+and 3,500 faculty (2,900 teaching and 600 research) divided
+into
+16
+schools and colleges.  The University's annual operating
+budget is roughly $1.4 billion, 18% of which comes from the
+State.
+  
+The University of Washington is one of the nation's premier research
+universities.  For more than twenty years, UW has ranked among the top
+five institutions in annual Federal research obligations.  (Currently
+-- 1994 data is the most recent available -- UW is second behind Johns
+Hopkins, with MIT and Stanford in third and fourth positions.
+Currently UW ranks fifth in industrial research support.)  The UW
+faculty includes eighty-six members of the National Academies,
+eight MacArthur Foundation award winners, and four
+Nobel prize winners in the past decade.  Fifty seven junior faculty
+have won NSF/Presidential Young Investigator Awards.  A number of
+programs are ranked among the top dozen in their fields, including
+Atmospheric Sciences,
+Bioengineering,
+Cell and Developmental Biology,
+Computer Science & Engineering,
+Dentistry,
+Ecology Evolution & Behavior,
+Geography,
+Microbiology,
+Neurosciences,
+Nursing,
+Oceanography,
+Pharmacology,
+Physiology,
+Psychology,
+Public Health & Community Medicine,
+Sociology,
+Statistics/Biostatistics, and Zoology.
+
+The
+UW home page
+includes an
+official profile,
+photographic tour,
+and
+pictorial history.
+
+
+
+
+
+
+
+Steam Powered Turing Machine
+
+Computer Science & Engineering Mural
+
+Photo by Judy Watson
+
+
+
+
+  
+The UW Department of Computer Science & Engineering
+
+
+The UW 
+Department of Computer Science & Engineering was established
+as an inter-college
+graduate
+program in 1967.  In 1975 an
+undergraduate program in
+Computer
+Science was added and departmental
+status was conferred.  A second undergraduate program, in
+Computer
+Engineering, was added in 1989 when the department moved to the College of Engineering.  The
+department currently has roughly 30 faculty
+members, 30 staff members, 150 graduate students, and 300 undergraduate students.
+  
+  The department is ranked among the top ten in the nation.  Fifteen
+CSE faculty members have won 
+Presidential/NSF Young Investigator Awards, one of the highest
+totals nationally regardless of discipline, and more than 1/4 of the
+University of Washington's total of this prestigious award.  Three
+faculty members are 
+ONR Young Investigator Award recipients,
+two hold 
+Presidential Faculty Fellow Awards, and one holds a
+Sloan Research Fellowship.  Among the senior faculty are
+seven Fulbright
+recipients, two Guggenheim
+recipients, nine
+Fellows of the ACM,
+and six Fellows of the IEEE.
+Within the University, three faculty members have
+received the College of Engineering Faculty Achievement
+Award, two have received the University of Washington
+Distinguished Teaching Award, and one is the first member
+of the College of Engineering to be named the University
+of Washington Annual Faculty Lecturer.
+Dick Karp, the latest
+addition to our faculty, brings with from him UC Berkeley a host
+of honors including the Turing Award and membership in both
+National Academies; in his first year at the University
+of Washington, Karp was awarded the
+National
+Medal of Science.
+
+
+    We strive to maintain a highly effective
+graduate program,
+two strong undergraduate programs, and an "open" culture with
+minimal partitioning either vertically (between faculty ranks or
+between faculty and students) or horizontally (between research
+areas).
+
+
+
+
+
+
+
+Suzzallo Library
+
+University of Washington photo
+
+
+
+
+  
+A Research Overview
+  
+
+We are active in most of the principal areas of computer
+science and computer engineering.  Particular strengths include:
+
+VLSI,
+Embedded Systems, and CAD:
+	Gaetano Borriello, Carl Ebeling, Ted Kehl, and
+	Larry Snyder
+
+Computer
+Architecture:
+	Jean-Loup Baer, Susan Eggers, Hank Levy, Larry Snyder,
+	and Arun Somani
+
+Operating
+Systems, Networks, and Communication:
+  	Brian Bershad, Ed Lazowska, Hank Levy, Alan Shaw, and John Zahorjan
+
+Programming
+Systems:
+	Alan Borning, Craig Chambers, Susan Eggers, and Larry Snyder
+
+Software
+Engineering,
+Safety, and Human-Computer Interaction:
+	Nancy Leveson, David Notkin, and Alan Shaw
+
+Computer
+Graphics and Computer Vision:
+	David Salesin, Linda Shapiro, and Steve Tanimoto
+
+Artificial
+Intelligence:
+ 	Oren Etzioni, Steve Hanks, Alistair Holden, Steve Tanimoto, and
+	Dan Weld
+
+Theory
+of Computation:
+	Richard Anderson, Paul Beame, Anna Karlin, Dick Karp,
+	Richard Ladner, Larry Ruzzo, Martin Tompa, and Paul Young
+
+Computational
+Biology:
+	Dick Karp, Larry Ruzzo, and Martin Tompa, in
+        close collaboration with adjunct faculty Phil Green,
+        Leroy Hood, and Maynard Olson
+
+
+There are many research activities that cut across these areas
+(for example, in parallel computing), as
+well as a number of strong external interactions.
+
+
+
+
+
+
+
+
+Olympic Coast Sunset
+
+Olympic National Park, Washington
+
+Photo by Dan Weld
+
+
+
+
+  
+The Graduate Program
+
+
+  The department has roughly 120 Ph.D. students and 20 Masters
+students in the
+full-time
+graduate program.  We typically
+graduate 15 Ph.D. students and 20 Masters students each year.
+
+  We offer admission to between 10% and 15% of those
+who apply to our graduate program.  Eight of our students
+received NSF Graduate Fellowships in the 1994 competition.
+  
+  Our
+recent
+Ph.D. graduates have received offers from essentially
+every top academic department and industrial research laboratory,
+and dozens of our recent graduates populate these strong programs.
+Five recent graduates have received Presidential/NSF
+Young Investigator Awards, two have received Presidential
+Faculty Fellow Awards, and one has received a Sloan Research
+Fellowship.  Two graduates have been recognized in the
+ACM Distinguished Dissertation Award competition.
+
+In Autumn 1996 we introduced an
+"accessible"
+Masters program (involving a mix of distance learning
+and evening courses) designed for fully-employed professionals
+in the region's burgeoning information technology industry.
+This program will ultimately enroll roughly 120 students.
+
+
+
+
+
+
+
+
+Allen Library
+
+University of Washington photo
+
+
+
+
+
+The Undergraduate Program
+
+
+  The department has two undergraduate programs:  a
+Computer
+Science degree program graduating 80 students per year, and an
+ABET-accredited
+Computer
+Engineering degree program graduating 40
+students per year.
+  
+Students are admitted to our majors on a competitive basis
+upon completion of prerequisite courses.
+As a result, our undergraduates are strong, classes are small,
+and interaction with the faculty is high.  (The average overall
+freshman/sophomore GPA among students enrolling in the
+Computer Science program for Autumn 1996 was roughly 3.7; among
+students enrolling in the Computer Engineering program it was
+roughly 3.8.
+Junior and senior classes typically have enrollments of
+less than 40.  Undergraduate participation in research
+is common.)
+
+  Because Washington State has the nation's fastest growing
+software industry -- there currently are nearly 2000 firms --
+more than two-thirds of our graduates remain in-state.  In the
+course of their education, roughly two-thirds of our
+undergraduates participate in co-op, which we feel enhances
+the effectiveness of an undergraduate engineering education.
+
+
+
+
+
+
+Winter Sunset on Mt. Rainier
+
+Mt. Rainier National Park
+
+Photo by Dan Weld
+
+
+
+
+
+The Puget Sound Region
+
+
+  The Puget Sound region is increasingly prominent as a national
+and international technology center.
+  
+  Key strengths of the University of Washington include medicine,
+biotechnology, the physical sciences, and computing and allied areas
+of science and engineering.  Many of the central players in "digital
+convergence" are headquartered here, such as McCaw (now
+AT&T
+Wireless),
+Geoworks,
+Microsoft,
+Nintendo of America,
+and
+Teledesic.  The
+region is home to many other companies critical to broad
+competitiveness:  Boeing,
+
+
+
+
+
+
+
+The Space Needle
+
+Space Needle photo
+
+
+
+
+
+the
+nation's fastest growing software
+industry even independent of
+Microsoft,
+significant players in bioengineering and electronics, etc.
+There is major activity in high performance computing
+(Tera
+Computer Company; the Department of Energy
+Pacific
+Northwest National Laboratory), as well as a rapidly growing
+biotechnology
+industry (Leroy
+Hood's NSF Science & Technology Center,
+plus a number of companies that either preceded or were
+attracted by or created by the STC).  There is a burgeoning
+digital content industry, too.
+  
+  Strong collaborations exist among these groups, and the
+Department of Computer Science & Engineering seeks to play a
+major role in the University and the region.
+Integration is the key:  we view research, education, outreach,
+and impact as seamlessly interconnected.  (For examples, see
+The
+Impact of a Research University:  An Information Technology
+Perspective.)  Our annual
+Affiliates
+Meeting is a forum for interaction among
+more
+than 50 leadership companies from the region and the nation.
+Our
+UWTV-televised
+colloquium series and
+professional
+Masters program
+play significant roles in keeping the region's leading-edge
+workforce current.
+Seattle, 
+consistently acclaimed as one
+of the most livable cities in the nation, is a terrific place to be.
+Seattle is a cosmopolitan city situated in the midst of the beauty and
+diversity of the Pacific Northwest.  The University of Washington is 
+located on Lake Washington, a few miles east of
+Puget Sound.  The Cascade Mountains are one hour to the
+east; the Olympic Peninsula and Olympic
+Mountains are two hours to the west.
+
+
+This document:  http://www.cs.washington.edu/general/overview.html
+
+
+
+lazowska@cs.washington.edu
+
+

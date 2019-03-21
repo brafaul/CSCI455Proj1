@@ -1,0 +1,343 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 18:58:49 GMT
+Content-Type: text/html
+Content-Length: 17979
+Last-Modified: Wednesday, 26-Jun-96 01:37:46 GMT
+
+Bruce Randall Donald
+
+
+
+
+
+
+
+
+
+Bruce Randall Donald
+Associate Professor
+brd@cs.cornell.edu
+
+
+Ph.D. MIT, 1987
+ Weather in Palo Alto.
+
+My Official Departmental Home Page. 
+ Cornell Robotics and Vision Laboratory
+
+Dan Huttenlocher and I founded the
+
+Cornell Robotics and Vision Laboratory  in 1991. 
+
+
+
+Research
+My interests include
+
+robotics,
+
+microelectromechanical systems,
+
+geometric algorithms, and artificial intelligence. 
+
+Robotics is the science that seeks 
+to forge an intelligent, computational connection between perception 
+and action.
+
+Working with graduate student Jim Jennings, research associate  Daniela
+Rus, graduate student 
+Russell Brown, and lab alumnus  Jonathan Rees
+(now at MIT), we developed a  team of autonomous
+mobile robots that can perform sophisticated  distributed manipulation tasks
+(such as  moving furniture).  The robots run
+robust SPMD protocols that are completely asynchronous and require no
+communication. With grad student  Karl
+Böhringer and EE Professor Noel MacDonald, we are building a
+ massively parallel array of microactuators in the
+Cornell National Nanofabrication Laboratory.  The array
+is a SCREAM chip containing over 11,000 actuators in 1 square
+centemeter, and can orient small parts without sensory
+feedback. Our microfabricated actuator arrays could be used to
+construct programmable parts-feeders (at any scale), or to build
+self-propelled IC's (walking VLSI chips.)  Graduate student  Amy
+Briggs worked with Dan Huttenlocher's vision group to develop  a sensor planning and surveillance system for a team of
+mobile robots. The robots use on-board vision to detect and
+intercept targets in the lab.
+
+ Demos 
+
+Massively parallel micro-fabricated actuator arrays.
+ 
+MPEG video of Tommy chasing Lily. Tommy and Lily are  mobile robots we built. Using algorithms developed
+by the 
+vision group in  our
+lab, Lily can track Tommy and follow him, using visual information
+alone. This video shows Lily's view of the `chase.'
+
+
+
+Face Morphing.
+
+Selected Recent Publications
+  
+K.-F. Böhringer, B. R. Donald, and N. C. MacDonald,  Upper and
+Lower Bounds for Programmable Vector Fields with Applications to MEMS
+and Vibratory Parts Feeders,  International Workshop on the
+Algorithmic Foundations of Robotics, Toulouse, France (1996).
+
+
+ 
+
+A.J. Briggs and B. R. Donald,  Robust
+Geometric Algorithms for Sensor Planning,  International
+Workshop on the Algorithmic Foundations of Robotics, Toulouse,
+France (1996).
+
+ 
+
+K.-F. Böhringer, B. R. Donald, and N. C. MacDonald, 
+
+Single-Crystal Silicon Actuator Arrays for Micro Manipulation Tasks,
+IEEE Workshop on Micro Electro Mechanical Systems (MEMS),
+San Diego, California (February 1996).  
+
+ 
+
+K.-F. Böhringer, B. R. Donald, and N. C. MacDonald, 
+
+Classification and Lower Bounds for MEMS Arrays	and Vibratory Parts Feeders:
+What Programmable Vector Fields Can (and Cannot) Do - Part I,
+
+IEEE International Conference on Robotics and Automation (ICRA),
+Minneapolis, Minnesota (April 1996). 
+
+ 
+
+ K.-F. Böhringer, B. R. Donald, and N. C. MacDonald, 
+
+ New and
+Improved Manipulation Algorithms for MEMS Arrays and Vibratory Parts
+Feeders: What Programmable Vector Fields Can (and Cannot) Do - Part
+II,
+
+IEEE International Conference on Robotics and Automation
+(ICRA), Minneapolis, Minnesota (April 1996). 
+
+   Provably
+Good Approximation Algorithms for Optimal Kinodynamic Planning: Robots
+with Decoupled Dynamics Bounds  (with P. Xavier)  Algorithmica
+ (Vol 14, no 6) (1995). pp. 443-479. 
+   Provably
+Good Approximation Algorithms for Optimal Kinodynamic Planning for
+Cartesian Robots and Open Chain Manipulators (with P. Xavier) 
+Algorithmica  (Vol 14, no 6) (1995). pp. 480-530. 
+  .
+
+Kinodynamic Motion Planning (with P. Xavier, J.
+Canny, and J. Reif)  Journal of the ACM, Vol. 40, No. 5, Nov.,
+1993. pp. 1048-1066.
+
+  
+
+Information Invariants for Distributed Manipulation (with J.
+Jennings and  D.
+Rus) in  International Journal of Robotics Research, (in
+press) (1996). 
+
+
+B. R. Donald, J. Jennings, and D. Rus,  Minimalism +
+Distribution = Supermodularity , Journal of Experimental and
+Theoretical Artificial Intelligence (JETAI), (in press) 1996. 
+
+  . I am
+ writing a book entitled
+ Information Invariants in Robotics. A draft of the first
+quarter of this book appeared as a paper in Artificial
+Intelligence. Here it is:  
+Information Invariants in Robotics. Revised MS based on the paper
+"On Information Invariants in Robotics,"  Artificial
+Intelligence Vol. 72 (Jan, 1995) pp. 217-304.  
+
+ 
+
+
+
+
+Distributed Robotic Manipulation: Experiments in
+Minimalism, in
+ International Symposium on Experimental Robotics, (ISER)
+Stanford, CA (1995).
+
+ 
+
+
+Moving Furniture with Teams of Automonous Mobile Robots, (with J.
+Jennings and  D.
+Rus) in
+ Proc.~IEEE/Robotics Society of
+Japan International Workshop on Intelligent Robots and Systems, (IROS)
+Pittsburgh, PA (1995).
+
+  
+ Sensorless
+Manipulation Using Massively Parallel Micro-fabricated Actuator
+Arrays (with 
+K.-F. Böhringer, R.  Mihailovich, and Noel C.  MacDonald),
+ Proc. IEEE International Conference on Robotics and
+Automation, San Diego, CA (May, 1994).  A 
+demo and more detailed explanation.
+
+  .
+
+ Program Mobile Robots in Scheme(with  J. Rees) 
+
+Proc. IEEE International Conference on Robotics and Automation
+Nice, France (May, 1992), pp.  2681-2688.
+
+ 
+
+
+Information Invariants for Distributed Manipulation (with J.
+Jennings and  D.
+Rus) in
+ The First Workshop on the Algorithmic Foundations of
+Robotics, A. K. Peters, Boston, MA. ed. R. Wilson and
+J.-C.Latombe (1994). 
+ 
+
+
+
+
+Automatic Sensor Configuration for  
+Task-Directed Planning (with 
+
+Amy Briggs),  Proceedings 1994
+IEEE International Conference on Robotics and Automation, San Diego,
+CA (May 1994). 
+ Other
+Publications.  
+Recent Theses and Papers of PhD Students
+
+  Patrick Xavier, PhD 1992. Except for the thesis, these TR's are
+  mostly superseded by three, more recent journal papers listed starting here.
+ Amy
+Briggs, PhD 1994.
+
+  (Her Papers and Thesis).
+
+
+Russell Brown,  PhD 1995.
+
+  (His Papers and Thesis).
+
+
+  Jim Jennings.
+
+Karl-F. Böhringer.
+ Post-Docs Trained in  Our
+Lab
+ 
+  Daniela Rus.
+ 
+  Jonathan Rees.
+ 
+  Dinesh Pai.
+
+
+More papers are avalable through the 
+
+Cornell CS TR server.
+ Some other papers are listed here. 
+
+Cornell CS TR version of my Online Tech Reports  
+Cornell Library Catalog
+CS TR index
+
+Obtaining Copies of Papers
+
+Copies of our papers are available via anonymous FTP. 
+Pictures
+ We have developed a  team
+of small autonomous mobile robots that can  move
+furniture around in our lab. 
+
+
+<--- Click here for a group portrait of our robots.
+
+ Click here
+to see a picture of 
+Tommy and Lily mobot pushing a couch. 
+ Click here
+to see a picture of 
+Tommy and Lily rotating a couch. 
+ Click here to see a
+picture of  
+Tommy the mobile robot, drawn by Loretta Pompilio.  
+
+ Click here
+to see pictures of people and robots working in the lab.  
+
+ Our lab was on  The Discovery
+Channel ("Beyond 2000") and you can find out more about it here.
+
+Fun
+
+A Poem by Alfred, the Mail Agent. 
+
+Family Pictures. 
+
+ I play in 
+
+
+Harmful If Swallowed.
+ in Ithaca.
+
+ I sometimes play with 
+
+ in California. 
+
+More
+
+
+
+Other people and robots in the 
+Cornell Robotics and Vision Laboratory.
+
+
+
+Cornell Robotics and Vision Laboratory home page.
+
+ Other people in the Cornell CS department 
+
+ Click here
+for search tools and information access stuff. 
+ Return to Cornell CS Top-Level 
+
+Why I say  click
+here.
+
+
+
+
+  "You will have the tallest, darkest leading man in Hollywood."
+
+		--- Merian C. Cooper to Fay Wray
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

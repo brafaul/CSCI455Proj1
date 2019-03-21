@@ -1,0 +1,36 @@
+Date: Wed, 20 Nov 1996 22:11:30 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 03 Sep 1996 13:09:45 GMT
+Content-length: 1477
+
+
+Numerical Linear Algebra
+
+Numerical Linear Algebra
+(Computer Science 106)
+Identical to Engineering Sciences 104
+Times: 98S: Arrange 
+Prerequisite: Computer Science 26, Mathematics 26, or Engineering Science 69. Students are to be familiar
+with approximation theory, error analysis, direct and iterative techniques for solving linear systems, and
+discretization of continuous problems to the level normally encountered in an undergraduate course in
+numerical analysis. 
+
+
+The course examines in the context of modern computational practice algorithms for solving linear systems
+Ax = b and Az = lx. Matrix decomposition algorithms, matrix inversion, and eigenvector expansions are
+studied. Algorithms for special matrix classes are featured, including symmetric positive definite
+matrices, banded matrices, and sparse matrices. Error analysis and complexity analysis of the algorithms
+are covered. 
+The algorithms are implemented for selected examples chosen from elimination methods (linear systems),
+least squares (filters), linear programming, incidence matrices (networks and graphs), diagonalization
+(convolution), sparse matrices (partial differential equations). 
+
+
+
+
+
+Back to Dartmouth CS Home Page
+
+
+

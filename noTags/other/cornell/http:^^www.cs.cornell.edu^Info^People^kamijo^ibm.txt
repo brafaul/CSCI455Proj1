@@ -1,0 +1,54 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:08:32 GMT
+Content-Type: text/html
+Content-Length: 3112
+Last-Modified: Monday, 27-May-96 20:17:32 GMT
+
+Education and work experiences of Koichi Kamijo
+Education and work experiences
+
+I got B.S. degree at
+ the University of Tokyo,
+ Electrical Engineering, Inose/ 
+ Saito
+lab.
+
+I'm currently an MEng student at 
+ Computer Science, 
+ Cornell University.
+
+I'm also working for IBM
+Japan,
+ Yamato lab.
+
+My recent work was developing ThinkPad notebook PC, such as ThinkPad 755CD
+and ThinkPad 760CD.  I was mainly in charge of developing I/O systems such as docking stations, and
+imbedding multimedia functions such as CD-ROM, Video Capture function, Video
+Accelerator, NTSC/PAL output, and MPEG viewer into notebook PC.
+
+I visited several IBM labs. Following are the labs I've visited so far(visiting
+order).
+
+ 
+IBM Poughkeepsie/Kingston (NY)
+I'd stayed here for 2 months to fix an electrical problem of IBM 3206, a
+console of IBM 3090. Poughkeepsie is a nice place, along Hudson river and with lots of green. It is also close to New York City(1.5 hr) and Boston(5 hrs).
+
+ IBM Raleigh/Charlotte (NC)
+I'd stayed here for 2 months as a liaison. Raleigh is the capital of North
+Carolina, and also a nice, quiet place. Duke and NC state university are close.
+IBM Raleigh is located at RTP(Research Triangle Park).
+Wright brothers were born in North Carolina, as you can see in the plate of cars here.
+
+ IBM Hursley(UK)
+I'd stayed here for 2 weeks to fix an EMI problem of a terminal we were
+developing. Hursley is close to London(1 hr) and also close to Wimbledon.
+One of the buildings in IBM Hursley used to be a castle. There is a bar inside.
+
+ IBM Boca Raton(FL)
+I'd visited here twice, and stayed for 8 months all together, once to help designing Microchannel-SCSI adapter and once as a liaison. As I mentioned in
+"Where I've lived", it's summer all the year, and close to many cool spots.
+
+ IBM Taiwan(ROC)
+I'd stayed for 2 weeks to have a meeting with IBM Taiwan and vendors in Taipei and Hshinchu. I love the foods in Taipei, because their tastes are close to ours. In Japan, I often visit Chinese town in Yokohama to visit "Aoba", one of my favorite restaurants where very good Taiwanese food is served.

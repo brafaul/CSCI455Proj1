@@ -1,0 +1,149 @@
+Date: Mon, 11 Nov 1996 17:25:30 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 06 May 1996 18:15:36 GMT
+Content-length: 4244
+
+
+
+CS 537 - Introduction to Operating Systems - Lecture Notes
+
+
+
+
+
+UNIVERSITY OF WISCONSIN-MADISON
+
+Computer Sciences Department
+
+
+
+
+CS 537
+Bart Miller
+
+
+Lecture Notes for CS 537
+
+
+
+I will use these note in the lectures for CS537.
+You should print out each week's lectures and review the notes before
+class.
+Bring these to class so that you won't have to spend as much time during
+lecture writing.
+
+This is the first semester that I am using the Web to distribute my notes.
+That means that I have to convert them from another word processing package,
+so not all of the notes will be ready at the start of the semester.
+I will announce in class when new sections are ready.
+
+Note: sections marked with a "*" are not yet ready.
+You will get unpredictable output if you view or print them.
+
+
+Section 1
+Course Overview
+    January 23
+Processes, Synchronization, and Scheduling:
+Section 2
+Introduction to Processes
+    January 25
+Section 3
+Dispatching and Creating Processes
+    January 30
+Section 4
+Independent and Cooperating Processes
+    February 1
+Section 5
+Synchronization: The Too Much Milk Problem
+    February 6
+Section 6
+Semaphores
+    February 8
+Section 7
+Semaphore Example: Readers and Writers
+    February 13
+Section 8
+Monitors
+    February 15 & 20
+Section 9
+Message Systems
+    February 22
+Section 10
+Semaphore Implementation
+    February 27
+Section 11
+Scheduling and CPU Scheduling
+    February 29
+Section 12
+Deadlock
+    March 5
+Memory Management and Virtual Memory:
+Section 13
+Static Storage Allocation
+    March 7
+Section 14
+Dynamic Memory Allocation
+    March 7
+Section 15
+Sharing Main Memory
+    March 21
+Section 16
+Base and Bounds, Segmentation
+    March 21
+Section 17
+Paging
+    March 26
+Section 18
+Translation Buffers
+    April 2
+Section 19
+Virtual Memory, Page Faults
+    April 4
+Section 20
+Page Selection and Replacement
+    April 9
+Section 21
+Clock Algorithm, Thrashing
+    April 11
+Section 22
+Working Sets
+    April 16
+I/O and File Systems:
+Section 23
+I/O Devices
+    April 18
+Section 24
+Files, Disk Management
+    April 23
+Section 25
+Unix and DEMOS Disk Allocation
+    April 25
+Section 26
+Disk Scheduling, Directories
+    April 25
+Section 27
+Unix Directories
+    April 30
+Protection and Security:
+Section 28
+Protection and Security
+    May 2
+Section 29
+ Security Abuses
+    May 2
+Section 30
+Security Improvmenets, Encryption
+    May 5
+*Section 31
+Title of Section 31
+
+
+
+Last modified:
+Mon May  6 13:11:06 CDT 1996
+by
+bart
+
+

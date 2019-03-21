@@ -1,0 +1,234 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:51:44 GMT
+Content-Type: text/html
+Content-Length: 12031
+Last-Modified: Monday, 30-Dec-96 20:28:24 GMT
+
+QSIM Users
+
+
+QSIM Applications and Extensions
+
+This page holds pointers to published articles describing applications and
+extensions of QSIM, other than what my group has done at UT-Austin.
+(For those papers, see our  indexed bibliography.)
+ 
+
+  Highlights 
+  QSIM Applications 
+  Qualitative Simulation 
+  Bibliography 
+  QR Groups 
+
+
+I try to provide citations to archival sources, but some references
+are to the QR Workshop or to local technical reports.  I also try to
+provide email addresses for at least one author.  
+ This list is undoubtedly incomplete.  (Last update
+1-11-96.)  Please send me any additional suggestions or citations I
+should include.  Thanks.  Ben.  (kuipers@cs.utexas.edu)
+ 
+
+ 
+Highlights
+
+ QSIM in Parallel Hardware 
+
+A significant barrier to application of QSIM to large-scale problems is the
+efficiency of qualitative simulation.  Recently, a group at T.U. Graz in Austria
+have designed and implemented a special-purpose parallel hardware architecture
+for qualitative simulation.  See their Web page and published papers. 
+
+Reinhold Weiss, Marco Platzner, Bernhard Rinner, T.U. Graz, Austria.
+
+ 
+
+ 
+Applications of QSIM and related systems
+
+ Gautam Biswas, Stefanos Manganaris, and Xudong Yu.  1993.
+Extending component connection modeling for analyzing complex
+physical systems. IEEE Expert 8(1): 48-57, February
+1993.  [biswas@vuse.vanderbilt.edu] 
+  G. Biswas, K. Krishnamurthy, and P.K. Basu  1991.   Applying qualitative
+     reasoning techniques for analysis and evaluation in structural design.
+     Seventh IEEE Conference on AI Applications,
+     Miami Beach, FL, Feb. 26-28, 1991, pp. 265-268.
+     [biswas@vuse.vanderbilt.edu] 
+ A. C. Capelo, L. Ironi and S. Tentoni.  1993.  A model-based
+system for the classification and analysis of materials.
+Intelligent Systems Engineering 2(3): 145-158, 1993. 
+Materials science (rheology).   [liliana@supers1.ian.pv.cnr.it]
+
+ C. A. Catino and L. H. Ungar.  1994.  A model-based approach
+to automated hazard identification of chemical plants.
+Computers and Chem. Engr., in press. 
+[ungar@central.cis.upenn.edu] 
+ David T. Dalle Molle and T. F. Edgar.  1989.  Qualitative
+modeling of chemical reaction systems. In M. Mavrovouniotis (Ed.),
+Artificial Intelligence Applications in Process
+Engineering, Academic Press, 1989. 
+[dtdallemolle@amoco.com] 
+ Oskar Dressler and Hartmut Freitag.  1994.  Prediction
+sharing across time and contexts. AAAI-94. 
+[dressler@zfe.siemens.de] 
+ Adam Farquhar and Giorgio Brajnik.  1994.  A
+semi-quantitative physics compiler. Working Papers of the
+Eighth International Workshop on Qualitative Reasoning
+(QR'94).  Modeling a system of lakes and dams. 
+[axf@ksl.stanford.edu] 
+ Yang Gao and Hugh F. Durrant-Whyte.  1994.  Integrating
+qualitative simulation for numerical data fusion methods.
+Working Papers of the Eighth International Workshop on
+Qualitative Reasoning (QR'94). 
+ E. Gazi, L. H. Ungar, and W. D. Seider.  1994.  Controller verification using
+qualitative reasoning. ADCHEM Proceedings. 
+[ungar@central.cis.upenn.edu] 
+ A. S. Glass, P. Gruber, M. Roos and J. Todtli.  1994.  Preliminary 
+evaluation of a qualitative model-based fault detector for a central air-handling unit.
+Proceedings of the 3rd IEEE Conference on Control Applications,
+Strathclyde University, Glasgow, August 24-26, 1994.  
+ Thomas R. Gruber and Patrice O. Gautier.  1993.  Machine generated explanations of
+engineering models:  a compositional modeling approach.
+IJCAI-93. 
+[gruber@ksl.stanford.edu]   
+ S. B. Jorgensen and K. M. Hangos.  1995.  Grey box modelling for control:
+qualitative models as a unifying framework.  Int. J. Adaptive Control
+and Signal Processing 9: 547-562.  
+ L. Ironi, M. Stefanelli and G. Lanzola.  1990.  Qualitative
+models in medical diagnosis. Artificial Intelligence in
+Medicine 2: 85-101, 1990.  Models of iron metabolism.  
+[liliana@supers1.ian.pv.cnr.it] 
+ L. Ironi and M. Stefanelli.  1994.  A framework for building and simulating qualitative
+models of compartmental systems.
+Computer Methods and Programs in Biomedicine 42: 233-254, 1994. 
+QCML - compartmental models, insulin-glucose system.  
+[liliana@supers1.ian.pv.cnr.it]  
+  Y. Iwasaki & C. M. Low. Model generation and simulation of
+device behavior with continuous and discrete changes. Intelligent Systems
+Engineering 1(2), 1991. 
+(Abstract) 
+[iwasaki@ksl.stanford.edu] 
+ N. Kaul, G. Biswas, and B. Bhuva.  1992.  Multi-level qualitative reasoning
+    applied to CMOS digital circuits.
+    Intl. Journal of AI in Engineering, vol. 7, pp. 125-137, 1992.
+     [biswas@vuse.vanderbilt.edu] 
+ N. Kaul, G. Biswas, and B. Bhuva.  1994.  An AI approach to multi-level,
+     mixed-mode qualitative simulation of CMOS ICs.
+     Computers and Electrical Engineering, An International Journal
+     vol. 20, pp. 369-382, 1994. 
+     [biswas@vuse.vanderbilt.edu]
+ Franz Lackinger and Wolfgang Nejdl.  1993.  Diamon: a
+model-based troubleshooter based on qualitative reasoning.
+IEEE Expert 8(1): 33-40, February 1993.  (Shorter version
+in IJCAI-91.) 
+ Karl R. Lang and James C. Moore and Andrew B. Whinston.  1995.
+Computational systems for qualitative economics.
+Computational Economics 8: 1-26.  
+ Hwee Tou Ng.  1991.  
+
+Model-based, multiple fault diagnosis of time-varying,
+continuous physical devices.
+IEEE Expert 6(6): 38-43, December 1991. 
+ Steven R. LeClair and Frances L. Abrams.  1988.  Qualitative
+process automation. Proceedings of the 27th IEEE Conference
+on Decision and Control, Austin, Texas, December 1988. 
+ Sharad Saxena and Amy Unruh.  Diagnosis of semiconductor
+manufacturing equipment and processes. IEEE Trans. on
+Semiconductor Manufacturing 7(2): 220-232, May 1994. 
+[unruh@spdc.ti.com] 
+ Y. Umeda, T. Tomiyama, H. Yoshikawa, and Y. Shimomura.  A
+design methodology for self-maintenance machines. To appear
+IEEE Expert, Special issue on Embedded AI. 
+Self-maintaining MITA copier. 
+ J. M. Vinson, S. D. Grantham, and L. H. Ungar.  1992.
+Automatic rebuilding of qualitative models for diagnosis.
+IEEE Expert, August 1992.
+[ungar@central.cis.upenn.edu] 
+ J. M. Vinson and L. H. Ungar.  1995.  Dynamic process
+monitoring and fault diagnosis with qualitative models. IEEE
+Trans. on Systems, Man, and Cybernetics 25(1): 181-189, January 1995.. 
+[ungar@central.cis.upenn.edu] 
+
+
+ 
+Advances in Qualitative Simulation
+
+ P. A. Fishwick, N. H. Narayanan, J. Sticklen, and A. Bonarini.
+1994.  A multimodel approach to reasoning and simulation.
+IEEE Trans. on Systems, Man, and Cybernetics 24(10):
+1433-1449, October 1994.  
+ Wilfried Grossman and Hannes Werthner.  1993.  A stochastic
+approach to qualitative simulation using Markov processes.
+IJCAI-93. 
+ Roy Leitch and Qiang Shen.  1993.  Prioritising behaviours
+in qualitative simulation. IJCAI-93. 
+[rrl@cee.hw.ac.uk] 
+ Marco Platzner, Bernhard Rinner, Reinhold Weiss.  1994.  A
+distributed computer architecture for qualitative simulation based on
+a multi-DSP and FPGAs. Euromicro Workshop on Parallel and
+Distributed Processing, Jan. 1995.  
+
+Parallel hardware implementation of the QSIM algorithm. 
+[{marco,rinner,rweiss}@iti.tu-graz.ac.at] 
+ A. C. Cem Say and Selahattin Kuru.  1997.  Postdiction using
+qualitative simulation. IEEE Trans. on Systems Man and 
+Cybernetics A 27(1): 84-95.  
+ A. C. Cem Say and Selahattin Kuru.  1996.  Qualitative system
+identification:  deriving structure from behavior. Artificial
+Intelligence 83(1): 75-141.  
+ A. C. Cem Say and Selahattin Kuru.  1993.  Improved
+filtering for the QSIM algorithm. IEEE Trans. on Pattern
+Analysis and Machine Intelligence 15(9): 967-971, September
+1993.  
+ A. C. Cem Say and Melih Doyuran.  1994.  The representative
+power of quantity spaces and correspondences.  In C. Bozsahin,
+U. Halici, K. Oflazer, N. Yalabik (Eds.), Third Turkish
+Symposium on Artificial Intelligence & Neural Networks (TAINN
+III), Middle East Technical University, Ankara. 
+ Q. Shen and R. Leitch.  1992.  On extending the quantity
+space in qualitative reasoning. Artificial Intelligence in
+Engineering 7: 167-173, 1992.  [rrl@cee.hw.ac.uk] 
+ Q. Shen and R. Leitch.  1993.  Fuzzy qualitative
+simulation. IEEE Transactions on Systems, Man, and
+Cybernetics 23: 1038-1061, 1993.  [rrl@cee.hw.ac.uk] 
+ Hiroshi Tanaka and Shusaku Tsumoto.  1994.  Qualitative
+reasoning of a temporally hierarchical system based on infinitesimal
+analysis. Working Papers of the Eighth International
+Workshop on Qualitative Reasoning (QR'94). 
+ Daniel Weld.  1988.  Comparative Analysis.
+Artificial Intelligence 36(3): 333-373.  
+       Daniel Weld.  1990.  Exaggeration.
+Artificial Intelligence 43(3): 311-368.  
+       [weld@cs.washington.edu] 
+
+
+ 
+Bibliography of QR Applications
+
+ Robert Milne and Louise Trave-Massuyes.  1993.  Application
+oriented qualitative reasoning. Working Papers of the Seventh
+International Workshop on Qualitative Reasoning (QR'93). 
+[rmilne@cix.compulink.co.uk; louise@laas.fr] 
+
+
+ 
+Qualitative Reasoning Generally
+
+ Email discussion group:  qphysics@is.aist-nara.ac.jp  
+       Subscriptions:  qphysics-request@is.aist-nara.ac.jp
+    Stanford Knowledge Systems Laboratory
+ 
+       Toyoaki Nishida, AI Division, Nara Institute of Science and Technology, Japan.
+   
+       Ken Forbus, Institute for Learning Sciences, Northwestern University.
+   
+       Reinhold Weiss, Marco Platzner, Bernhard Rinner, 
+       parallel hardware implementation of QSIM, T.U. Graz, Austria.
+   
+       Lyle Ungar, University of Pennsylvania.
+
+
+[QR home]
+BJK

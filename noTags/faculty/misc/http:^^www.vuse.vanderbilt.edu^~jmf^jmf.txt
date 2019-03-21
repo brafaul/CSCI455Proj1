@@ -1,0 +1,152 @@
+Date: Mon, 25 Nov 1996 23:28:05 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3964
+Last-modified: Fri, 25 Oct 1996 21:07:27 GMT
+
+
+
+  J. Michael Fitzpatrick's Homepage 
+
+
+<!--body background="images/gifs/backgrounds/white_brick.jpg">
+
+
+ 
+ J. Michael Fitzpatrick 
+
+  Associate Professor,
+ Computer Science, Neurosurgery, Radiology and Radiological Sciences 
+  Room 447, Villages at Vanderbilt, 1500 21st Ave. S.,
+
+ Vanderbilt University, Nashville, TN 37212
+
+
+
+Mailing address:Box 1679, Station B, Department of Computer Science, Vanderbilt University,
+Nashville, TN 37235
+
+
+Mike Fitzpatrick was born in Topeka, Kansas, May 25, 1945.
+He received his B.S. degree
+in physics from the University of North Carolina in 1967,
+his Ph.D. in physics from the Florida State University
+in 1972, and his M.S. in computer science from the University
+of North Carolina in 1982.  
+He is married to
+
+Patricia F. Robinson 
+and has two children 
+
+Katie and Johnny.
+
+
+He has been at Vanderbilt University in the 
+
+School of Engineering 
+
+since 1982 and has directed the
+
+Computer Science Image Processing Laboratory
+ since 1983.
+
+His research area is medical imaging with specific interests in
+
+
+
+
+ 
+
+Image-guided Neurosurgical Navigation
+
+
+
+ 
+
+Medical Image Registration
+
+
+
+ 
+
+Evaluation of Registration Accuracy
+
+
+
+ 
+
+Visual Assessment of Registration Accuracy
+
+
+
+ 
+
+Geometrical Accuracy in Magnetic Resonance Imaging
+
+
+
+
+
+
+ Recent courses taught:
+
+
+ 
+Fall 1996,
+
+
+CS 395, Medical Image Registration
+
+
+
+ 
+Spring, 1996,
+
+
+
+CS 101: Programming and Problem Solving
+
+
+
+ 
+Fall, 1996,
+
+
+
+CS 212: Discrete Structures
+
+
+
+
+
+
+
+
+
+
+Vita
+
+
+
+  Click  here for the Postscript version. 
+  Click here for the ASCII (raw text) version. 
+
+
+
+
+
+
+
+
+
+
+ Phone Number:
+ (615) 322-2365
+ FAX Numbers:
+ (615) 343-5459, 343-8006
+ Electronic Mail:
+ jmf@vuse.vanderbilt.edu
+.
+
+
+

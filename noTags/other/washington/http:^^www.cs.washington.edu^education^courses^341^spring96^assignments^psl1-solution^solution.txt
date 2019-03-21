@@ -1,0 +1,18 @@
+Date: Wed, 08 Jan 1997 21:28:24 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+LISP Assignment #1 Sample Solution
+
+
+    A sample solution and the 
+    test scaffolding for part one. 
+    For part two, you can look at either bank.lisp or menus.lisp. 
+
+
+cse341-webmaster@cs.washington.edu
+
+
+

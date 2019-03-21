@@ -1,0 +1,35 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 23:13:15 GMT
+Content-Type: text/html
+Content-Length: 964
+Last-Modified: Friday, 02-Aug-96 01:36:41 GMT
+
+
+
+
+Computer Science Technical Report Project
+
+
+NCSTRL Documentation 
+
+
+The CS-TR project is an ARPA sponsored project to make technical
+reports from the nations's top computer science departments accessible
+over the Internet, and for research on aspects of storage, search,
+retrieval and display of information in the Digital Library.
+
+ 
+For further information see the 
+CS-TR home page
+at CNRI.
+
+
+ 
+Up to Main Information Menu
+
+
+NCSTRL Documentation
+ Any comments or questions? Contact us at help@ncstrl.org. 
+
+

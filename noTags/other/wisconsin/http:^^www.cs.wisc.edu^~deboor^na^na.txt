@@ -1,0 +1,101 @@
+Date: Tue, 05 Nov 1996 20:39:53 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 09 Sep 1996 15:51:32 GMT
+Content-length: 3107
+
+
+
+ Numerical Analysis at the University of Wisconsin-Madison
+
+
+
+
+  Numerical Analysis in the Computer Sciences Department 
+
+
+This is the World Wide Web home page for the Numerical Analysis Group in the 
+
+University of Wisconsin Computer Sciences Department.
+
+
+ Table of Contents 
+
+ 
+	Faculty 
+  
+        Courses 
+ 
+       PhD Qualifying Exams
+ 
+       Relevant Web Links 
+
+
+
+ Faculty 
+
+
+  
+	Carl de Boor 
+ 
+	Seymour V. Parter 
+  
+	Amos Ron 
+  
+	John Strikwerda 
+
+
+
+  Courses 
+
+
+ 
+   CS 310 
+ 
+   CS 412 
+ 
+   CS 513   presently taught in the fall
+   
+   CS 514   presently taught in the spring
+   
+   CS 712   presently taught once a year
+   
+   CS 713   presently taught once a year
+   
+   CS 717   presently taught every other year
+   
+   CS 837   last time taught in
+   
+   CS 881-882   last time taught in
+   
+   CS 883-883   last time taught in
+   
+   CS 885   last time taught in spring '89 
+   
+   CS 887   presently taught every other year
+ 
+
+
+ PhD Qualifying Exams 
+
+
+  Reading list
+ 
+ Previous examinations
+
+
+ Relevant Web Links 
+
+
+
+na-net
+
+
+SIAM
+
+
+
+ Last Changed: 09 September 1996. Contact strik@cs.wisc.edu 
+
+
+

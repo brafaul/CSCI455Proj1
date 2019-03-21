@@ -1,0 +1,65 @@
+Date: Wed, 20 Nov 1996 23:17:30 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+22C:297 Seminar on Virtual Environments FALL 1994
+
+ Contest: supply cool image to include here
+
+ 22C:297 Seminar on Virtual Environments FALL 1994
+
+     Professor:  Jim Cremer
+     Class hours: MWF 2:30, 113 MacLean Hall
+     Class mailing list: ve@herky.cs.uiowa.edu
+
+Tentative class schedule
+
+ Week 1 (8/22,24): Intro, organization. Video of J. Lanier talk.
+ Week 2 (8/29,31): History of VE/VR. Video of B. Laurel talk and others.
+ Week 3 (9/7,9/9): NO CLASS MONDAY - Labor Day.  Bonakdarian,  Stevenson - Well-known VR/VE projects - GROPE, CAVE
+ Week 4 (9/12-16): Existing systems and medical applications - Kingery/BrickNet, Withey/Virtual Sand Box, Dea/Eye surgery
+ Week 5 (9/19-23): High-performance graphics - Chandra/PixelFlow, Gadiraju/Reality Engine, Kim/Priority Rendering for VR 
+ Week 6 (9/28,30): High-performance graphics - general issues - Booth, Cremer
+ Week 6 (9/29) SPECIAL LECTURE - Prof. David Pratt - Naval Postgraduate School - NPSNET
+ Week 7 (10/3,5): Managing comlexity/database issues - Booth, Thongphasuk
+ Week 7 (10/7) SPECIAL LECTURE - Prof. Joseph Bates - Carnegie 
+Mellon University - The Synergy of AI, Art, and Interactive Entertainment
+ Week 8 (10/10,12) NO CLASS FRIDAY. Distributed systems/real-time issues - SIMNET, DIS, NPSNET, VEOS - Rathi, X. Chen
+ Week 9 (10/17,19) NO CLASS FRIDAY Henning,  Choi - Simulation support (dynamics, collisions, contact)
+ Week 10 (10/28) NO CLASS M,W> X. Li,  Chow - Start human-computer interaction, user-interfaces 
+ Week 11 (10/31-11/4) Finish HCI/UI, Start behavior/scenario - Ahmad, Booth 
+ Week 12 (11/7-11) Behavior/scenario - Price, X. Yang
+ Week 13 (11/14) NO CLASS WEDNESDAY,FRIDAY. Willemson 
+ Week 14 (11/21) NO CLASS WEDNESDAY,FRIDAY. Ethics/Human factors - Hunt
+ Week 15 (11/28) MONDAY - Human Factors - Mouw. WED/FRI - Project presentations
+ Week 16 (12/5) Project presentations, NO CLASS WED/FRI
+ FINALS WEEK - Remaining project presentations
+
+A few papers:
+
+
+ Research Directions in Virtual Environments
+ G. Bishop and H. Fuchs (co-chairs). Report of an NSF Invitational Workshop, University of North Carolina at Chapel Hill, March, 1992.
+
+WWW Virtual Environment/Virtual Reality Resources:
+
+ WebStars: Virtual Reality. VERY GOOD GENERAL SOURCE - POINTERS TO MANY VE/VR PROJECTS (maintained by NASA). 
+U. Washington HIT Lab Report on VR information sources  - ANOTHER VERY GOOD GENERAL SOURCE
+U. Washington HIT Lab ftp directory
+OZ Project at Carnegie Mellon University - Prof. Joseph Bates - Woggles
+ Naval Postgraduate School NPSNET project
+ U. Penn Graphics Lab and Center for Human Simulation and Modeling (Badler's group, inventor's of the JACK system)
+NAVE: Navigating and Acting in Virtual Environments (U. Colorado)
+ Meta VR: links to VR work at Georgia Tech and lots of other places
+Encyclopedia of Virtual Environments
+Homepage for Visual Systems Lab at U. Central Florida Institute for Simulation and Trainings (UCF/IST) - lots of Distributed Interactive Simulation (DIS) work is done there.
+Toy Scouts - VR projects at UCF/IST
+Info compiled by VR SIG in Britain
+ Homepage for the journal Presence 
+Iowa-Purdue Joint VE project - ISAAC
+
+Results of some bibliographic searches done by class members:
+
+ 400 articles found in the xxx database
+

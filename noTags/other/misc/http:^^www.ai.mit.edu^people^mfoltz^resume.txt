@@ -1,0 +1,142 @@
+Date: Wed, 15 Jan 1997 01:35:37 GMT
+Server: Apache/1.2-dev
+Connection: close
+Content-Type: text/html
+Last-Modified: Tue, 26 Nov 1996 23:45:40 GMT
+ETag: "14a1a-1139-329b8124"
+Content-Length: 4409
+Accept-Ranges: bytes
+
+
+
+
+Mark Foltz's Resume
+
+
+
+
+
+
+Mark A. Foltz
+
+
+77 Newbury St. No. 2
+Somerville, MA 02144
+(617) 776-8771
+
+mfoltz@mit.edu
+
+
+
+
+
+OBJECTIVE
+
+Graduate school.
+
+EDUCATION
+
+
+   B.S. Computer Science 
+   and B.S. Electrical Engineering, magna cum laude 
+Washington University in St. Louis, May, 1996 
+   Cumulative GPA: 3.95/4.0 
+   GPA in Computer Science: 4.0/4.0 
+
+
+ Strong background in AI, algorithms, signal processing, and digital logic.
+ Enrolling at the Massachusetts Institute of Technology this Fall as a 
+graduate student in computer science.
+
+
+EXPERIENCE
+
+
+
+
+Summer, 1992 and Summer, 1993.  Systems consultant at Great
+   Southern Travel, Inc., Springfield, Missouri.  Developed distributed
+   database applications with FoxBase/SQL; DOS/Windows and network system
+   administration.
+
+May to August, 1994.  Undergraduate research assistant to
+   Dr. Ronald P. Loui, 
+   Department of Computer Science, Washington
+   University.  Developed software for automated negotiation and
+   argumentation.  Supervised high school students participating in a
+   summer research program.
+
+January, 1994 to July, 1995.  Undergraduate research assistant at the
+   Electronic Signals and Systems Research Laboratory
+   at Washington
+   University.  Implemented a novel signal processing algorithm for
+   multiple target, multiple sensor radar tracking. Presented a
+   co-authored paper at the 1995 SPIE conference.
+
+Summer, 1995.  Visiting Scholar at the Robotics Institute, 
+   Carnegie Mellon University.  
+   Designed and implemented a system of intelligent
+   software agents for stock portfolio management using real-time data
+   gathered from networked, distributed sources.
+
+January to May, 1996. Research assistant to Dr. 
+   Subash Suri,
+   Department of Computer Science, Washington University.  Implemented a
+   network flow algorithm for VLSI circuit layout.
+
+Summer, 1996. Developer, ONDRAS Associates Architects.  Developed
+   distributed Java application integrating remote databases with AutoCAD
+   drawings for the MIT Senior House.
+
+
+
+SKILLS
+
+
+
+
+Languages:
+ C, C++, Java, HTML/cgi-bin, Lisp, Perl 
+
+
+Platforms:
+ UNIX (Solaris, DEC, SGI), DOS/Windows, Macintosh 
+
+
+Software development:
+ GNU tools, Borland ObjectWindows 
+
+
+Concurrent environments:
+ Solaris threads/Sparc 2000, PVM, Cray Y-MP/II 
+
+
+Applications:
+ Frame, LaTeX, MS Word, some Photoshop/Illustrator 
+
+
+Other:
+ Strong writing and technical communications skills 
+
+
+
+AWARDS
+
+
+
+ National Merit Scholar
+ Woodward Fellow (undergraduate merit fellowship)
+ Numerous departmental awards and scholarships for academic and research excellence
+ NSDEG Fellowship, a national merit fellowship fully supporting three years of graduate study
+ Offered a National Science Foundation fellowship
+
+
+REFERENCES
+
+
+   Available on request.
+
+
+Go Home
+
+

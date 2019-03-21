@@ -1,0 +1,192 @@
+Date: Mon, 25 Nov 1996 22:04:25 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 07 Mar 1996 20:01:04 GMT
+Content-length: 5590
+
+Allan Gottlieb's home page
+Welcome to Allan Gottlieb's Home Page
+
+I am a professor in the 
+Computer Science Department
+within the
+ Courant Institute
+of
+ New York University,
+and director of the NYU
+ Ultracomputer Research Laboratory.
+
+Reaching Me
+
+Use email if possible; I read it frequently.  Fax is not great; it may
+take a day or two to deliver.
+
+
+ e-mail and finger:
+gottlieb@nyu.edu
+
+ phone: (212) 998-3344
+ fax: (212) 995-4121
+ New York University
+715 Broadway, Tenth Floor	(it's
+	 #28 
+	on the  map) 
+New York NY 10003
+
+Upcoming Conferences with which I am Affiliated
+
+
+
+ISCA'96
+a consituent of
+ FCRC'96 
+(Philadelphia)
+
+MPPOI'96--Call for papers in
+ ascii  or
+ postscript 
+(Maui)
+
+IPPS'97 (Geneva)
+
+Academic Family Tree
+
+ Father (i.e. thesis advisor): Michael Shub shub@watson.ibm.com
+
+ Grandfather: Steve Smale
+
+smale@math.berkeley.edu
+ Great-Grandfather: Raoul Bott
+
+bott@math.harvard.edu
+ Great-Great-Grandfather: Duffin (Electrical Engineering)
+
+ Great-Great-Great-Grandfather: Bourgen
+
+ Daughters:
+
+
+
+
+Patricia Teller
+teller@nmsu.edu
+
+"Translation-Lookaside Buffer Consistency in Highly-Parallel
+Shared-Memory Multiprocessors"
+
+
+Susan Dickey
+
+dickey@nyu.edu
+
+"Systolic Combining Switch Designs"
+
+ Sons:
+
+
+ Clyde Kruskal
+
+kruskal@cs.umd.edu
+"Upper and Lower Bounds on the Performance of Parallel Algorithms"
+
+ Larry Rudolph
+
+rudolph@CS.HUJI.AC.IL
+"Software Structures for Ultraparallel Computing"
+
+ Kevin McAuliffe
+"Analysis of cache memories in highly parallel systems"
+
+ James Wilson
+
+"Operating System Data Structures for Shared-Memory MIMD Machines with
+Fetch-and-Add".
+
+ Yue-Sheng Liu
+liuys@tts.telerate.com
+"Architecture and Performance of
+Processor-Memory Interconnection Networks for
+MIMD Shared Memory Parallel Processing Systems"
+
+
+ Grandchildren:
+
+ Rafi Ben-Ami
+
+ Dror Feitelson
+feit@watson.ibm.com
+
+ Gyungho Lee
+
+ghlee@ee.umn.edu
+"Some Issues in General-Purpose Shared Memory Multiprocessing:
+Parallelism Exploitation and Memory Access Combining"
+
+ Ari Rappoport
+
+ Kevin Rappoport
+
+ Eugen Schenfeld
+eugen@research.nj.nec.com
+
+ Dror Zernik
+
+
+ Great-Grandchildren
+
+
+Byung-Chang Kang "A Study of Combining Networks"
+
+Young-Keun Park 
+
+park@ee.umn.edu
+"Neural Networks for Congestion Control in Communication Networks"
+
+
+ My Book
+
+George S. Almasi and Allan Gottlieb
+
+
+Highly Parallel Computing (Second Edition)
+
+Benjamin/Cummings Publishing, 1994
+
+ISBN 0-8053-0443-6
+
+
+A Short Bio
+
+Our Ultracomputer group studies a wide range of issues in highly
+parallel computing.  We have constructed two generations of hardware
+an 8-processor, bus-based system in the 1980s and a 16-processor,
+16-memory module system in the 90s.  Both systems have hardware
+support for fetch-and-add, our coordination primitive.  The newer
+system contains full-custom switches of our own design that combine
+simultaneous references to the same memory address, thereby avoiding
+one important class of hot spot contention problems.  We have a very
+highly parallel operating system Symunix running on both systems.
+
+
+
+I was born 2 August 1945 in Queens NYC to Frances and Irving Gottlieb.
+When I was five, my family moved to a NYC surburb called Elmont, Long
+Island where I attended the public schools through high school.  I
+went to MIT as an undergraduate and Brandeis as a graduate student.
+All my degrees are in mathematics.
+
+
+
+My introduction to computers (specifially an IBM 650 and a
+Bendix G15) occured during high school when I attended the Columbia
+University Science Honors Program on Saturdays.
+
+
+
+My beautiful wife Alice is an associate medical director at
+Hoffman-LaRoche.  She obtained a Ph.D. in immunology from Rockefeller
+University, an M.D. from Cornell Medical School, and medical
+subspeciality degrees from N.Y. Hospital and the Hospital for Special
+Surgery.  My two active boys, David and Michael, are in middle school
+and fourth grade respectively (1994-95).  I hope to have a family
+photo available soon.

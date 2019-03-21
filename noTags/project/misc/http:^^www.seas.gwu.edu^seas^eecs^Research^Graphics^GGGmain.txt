@@ -1,0 +1,79 @@
+Date: Mon, 25 Nov 1996 23:54:53 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 01:54:53 GMT
+Content-length: 2591
+
+
+
+GW Graphics Group Home Page
+
+
+
+
+
+ Welcome to the George Washington University Graphics Group.
+This Hypertext document gives general information about
+the group, associated laboratories, more detailed information about 
+the members of the group, and the research projects 
+they are currently working on.
+Click here to go to 
+
+Human-Computer Interaction Group home page.
+
+
+
+
+<!-- GGG Shirt --!>
+
+
+
+
+Image by Larry Gritz
+
+
+<!-- Spinning Logo --!>
+
+
+
+
+Logo by Robert W. Lindeman
+Click it to see it spin!
+
+
+
+
+
+
+
+Contents
+
+What's new?
+General Description of the Group
+Computer Graphics Laboratory
+Laboratory for Advanced Computer Applications in Medicine
+Who's Who in the Group
+Research Projects
+Recent Publications
+Films and Videos from the Group
+Courses
+Group meeting schedule 
+References and related net resources
+Alumni Corner
+How do I join?
+
+
+
+
+Human-Computer Interaction Research Group home page
+
+
+ 
+                 EECS Department home page 
+
+		School of Engineering and Applied Science home page
+
+
+		The George Washington University home page
+
+

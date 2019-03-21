@@ -1,0 +1,33 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:18:09 GMT
+Content-Type: text/html
+Content-Length: 1337
+Last-Modified: Wednesday, 12-Jul-95 16:02:57 GMT
+
+
+Kristen Summers -- Non-Textual Cues
+
+Using Non-Textual Cues for Electronic Document Browsing
+In Digital Libraries:  Current Issues, 
+Nabil R. Adam, Bharat K. Bhargava, and Yelena Yesha, editors.
+Chapter 9, pp. 129 - 162.  Lecture Notes in Computer Science series.
+Springer-Verlag, 1995.
+Co-authored with Daniela Rus.
+
+Abstract
+We present and analyze effficient algorithms for the automated recognition
+and interpretation of layout structures in electronic documents.
+The key idea is to use the patterns in the distribution of white space
+in a document to recognize and interpret its components.  The
+recognition algorithm divides the document into a hierarchy of logical
+elements; the interpretation algorithms classify these divisions as
+base-text, tables, indented lists, polygonal drawings, and graphs.
+We present experimental data and discuss an information access application.
+Our methodology allows the automatic markup of documents and the creation
+of multi-level indices and browsing tools for electronic libraries.
+
+You can view the 
+technical
+report version of this paper or return to my home 
+page.

@@ -1,0 +1,31 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 21-Nov-96 20:18:12 GMT
+Last-modified: Friday, 23-Aug-96 20:39:31 GMT
+Content-length: 1072
+Content-type: text/html
+
+
+Phillip Rogaway - Field of Interest
+
+UC Davis
+Department of Computer Science
+
+
+
+
+
+Phillip Rogaway
+Assistant Professor
+
+Professor Rogaway studies cryptography, protocols, network security, and theory of computation.  Recently he has focused on the design and analysis of cryptographic protocols which are simultaneously efficient and provably as secure as some underlying primitive.  Professor Rogaway has developed an approach called "practice-oriented provable security".  Recent results involve message authentication, digital signatures, entity authentication, and encryption.
+
+
+
+Click here to go to Dr. Rogaway's personal home page.
+ 
+Office: 3063 Engineering II
+Phone: (916) 752-7583
+E-mail: rogaway@cs.ucdavis.edu
+
+
+Last modified August 23, 1996

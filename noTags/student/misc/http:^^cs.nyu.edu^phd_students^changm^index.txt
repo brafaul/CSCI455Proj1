@@ -1,0 +1,109 @@
+Date: Tue, 26 Nov 1996 03:46:01 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Tue, 05 Nov 1996 05:45:32 GMT
+Content-length: 5797
+
+
+
+
+Ming-Sheng Chang
+
+
+
+
+
+Ming-Sheng Chang
+Department of Computer Science
+
+Courant Institute of Mathematical Sciences
+New York University
+changm@cs.nyu.edu 
+Last Updated: Nov. 2, 1996.
+
+
+"All composed things are like a dream, a bubble, a drop of
+dew, and a flash of lightening. That is how to meditate on them. That is
+how to observe them.", from Diamond Sutra.
+
+
+Vita
+My home country is Taiwan.
+I joined NYU in Fall of 1992 as a doctoral
+student of its Computer Science Department.
+I am currently working on my thesis project --- a divide-and-conquer reasoning
+and planning system on the card-playing phase of Bridge. I had my undergraduate
+study at the Department of Computer
+Science and Information Engineering, National
+Taiwan University from 1984 to 1988. After receiving my B.S., I did
+a compulsory two-year military service, then I worked as a research assistant
+at the Institute of Information
+Science, Academic Sinica, from
+1990-1992.
+
+
+Thesis Advisor: Ernest
+Davis
+Publications
+
+Ming-sheng Chang, Toward the Automation of
+the Card-Playing Component of Bridge [PostScript][Abstract],
+thesis proposal, 1995.
+Ming-sheng Chang, Building a Fast Double-Dummy
+Bridge Solver, [PostScript][Abstract],
+TR 1996-725, technical
+reports in CS of NYU, August 1996.
+
+Research Interests
+
+Game Tree Search and Game theory
+Reasoning and Planning under Uncertainty
+Concurrent Functional Programming
+
+
+
+Hobbies on Web
+
+windows programming (Win32
+API Faq, Visual Basic, MFC
+and Visual C++ )
+games programming and playing on PC ( Game
+Development FAQ , Programming
+Links, Microsoft
+DirectX SDK , Happy
+Poppy Games , Computer
+Gaming World , PC Gamer
+)
+PC hardware ( Introduction,
+Tom's Hardware & Performance Guide,
+ComputerCraft, System
+Optimization Information, Upgraders'
+Workshop, Hardware
+Book , GOAD's Peripheral
+Page , Manufacturer
+Links )
+solving puzzles ( rec.puzzles
+Archive, Software
+Shelves, Chinese
+Chess Puzzles )
+reading Chinese novels
+and news
+
+
+
+Things to do...
+
+organize and post the executable of my double-dummy bridge solver.
+port my chinese chess program to Windows 95 and post it here.
+post information and utilities for cracking PC software here.
+sure, thesis research is still my top priority!!!
+
+
+
+"The Buddha knows that all things are like a dream, a phantom,
+a bubble, a flash of lightening, but he still lives his life normally.
+He still eats and drinks. The only difference is that the Buddha lives
+his life in the spirit of signlessness and non-attachment."
+from The Diamond That Cuts Through Illusion, by THICH NHAT HANH.
+
+

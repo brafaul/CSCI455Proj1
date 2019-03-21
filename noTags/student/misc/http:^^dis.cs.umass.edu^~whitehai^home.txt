@@ -1,0 +1,115 @@
+Date: Thursday, 21-Nov-96 23:16:24 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tuesday, 13-Jun-95 18:27:25 GMT
+Content-length: 4588
+
+Robert C. Whitehair (whitehair@cs.umass.edu)>
+Robert C. Whitehair
+
+
+
+PhD Student 
+Computer Science Department
+University of Massachusetts
+Amherst, MA 01003
+(413) 545-3444 (office)
+(413) 545-1249 (fax)
+ whitehair@cs.umass.edu
+
+
+
+ Other Pages 
+ DIS Lab Home Page
+
+
+ CURRICULUM VITAE 
+ Research Interests 
+Theoretical and mathematical foundations as applied to AI, simulation, and
+computational mathematics, including discrete mathematics, probability
+theory, and formal languages; 
+formal analysis techniques, design theories, and software engineering
+methodologies for constructing sophisticated problem solvers
+(especially artificial intelligence-based systems); 
+multi-agent, distributed problem solving systems;
+scheduling, planning, and OR optimization tools and algorithms;
+application of abstractions and approximations in real-time AI and as
+meta-level knowledge in sensor interpretation systems;
+and languages and development tools for parallel and distributed
+processing. 
+
+I am currently applying my theoretical research results in further
+research and development of enterprise management systems, concurrent
+engineering systems, and simulation and analysis applications.
+I have recently started a research project that is attempting to build the
+world's first fully deployed "Virtual Enterprise."
+
+
+Education
+
+University of Massachusetts, Amherst, Massachusetts. September 1989 -- present.
+	Doctor of Philosophy: Computer Science.
+	PhD Thesis:  IDP/UPC: A Framework for the Analysis of Sophisticated Control 
+Advisor: Dr.  Victor R. Lesser
+
+Michigan State University, East
+Lansing, MI. September 1980 -- March 1984.
+	Bachelor of Science: Computer Science
+
+Employment
+
+ Research Assistant, Department of Computer Science, University of
+Massachusetts.  September 1986 --- present.
+
+  Corporate Director and Research Consultant, Probots,
+Inc., Northampton, MA. 1991 -- present.
+
+ Educational/Research Consultant, Probots
+Developments, Inc., Vancouver, British Columbia. 1993 -- present.
+
+Corporate Director and Consultant, Top Level, Inc., Amherst, MA.
+September 1989 -- present.
+
+Staff Research Writer, Smithsonian World Television Series/Adrion Malone
+Production Company, Washington, DC. Summer-Fall 1986.
+
+Instructor, Michigan State University, Department
+of Computer Science, East Lansing, Michigan. September 1985 --- June 1986.
+
+ Consultant, Arthur Andersen & Co., Pittsburgh, PA. September 1984 -
+September 1985.
+
+ Research Assistant, Michigan State University,
+East Lansing, MI. March 1983 - March 1984.
+
+ Associate Programmer, International Business Machines, Endicott,
+NY. Summer of 1983.
+
+  Research Associate, GTE Automatic Electric Research and Development, 
+Phoenix, AZ. Summer of 1982.
+
+ Associate Programmer, International Business Machines, Lexington,
+KY. Summer of 1981.
+
+
+ Friends and Family 
+
+These are some interesting pictures that will eventually have clever
+captions under them.
+
+
+
+I'm the one on the right.  (On the right side of the picture, that
+is.)  The other guy is someone I walked with in a parade once.  Long
+story.  If you want to hear it, ask my wife.  She appears below.  She
+used to be a charter sail boat captain in the Caribbean.
+
+
+
+
+
+ DIS Laboratory (my group's lab)
+  UMass Computer Science Dept. (my department)
+
+last updated: 8 December 1994

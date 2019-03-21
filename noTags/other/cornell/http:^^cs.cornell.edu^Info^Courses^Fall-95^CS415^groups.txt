@@ -1,0 +1,34 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 22:01:28 GMT
+Content-Type: text/html
+Content-Length: 1316
+Last-Modified: Thursday, 19-Oct-95 17:27:22 GMT
+
+
+ CS415 Groups 
+ CS415 Groups 
+
+ Group 1: Eric Brandwine, George Hoffman, Kyle Rose.
+ Group 2: Donna Viggiano, Nikola Valerjev, Chris Zaccarelli.
+ Group 3: Gregg Baeckler, Aaron Stump, Gerry Toll.
+ Group 4: Nisheet Ranjan, Jay Krell, Gang Gong Moy .
+ Group 5: Justin Voskuhl, Yu-Lucy Wu, Mishaal Almashan.
+ Group 6: Ali Muhtaroglu, Maxim Turkenich, *******.
+ Group 7: Laurent Kirsch, Julian R. Diaz-Hurtado, *******.
+ Group 8: Min Huang, Joseluis Fernandez, Marcelo Blinder.
+ Group 9: Xun Wilson Huang,  Avinash Gupta, Kartik Kapadia.
+ Group 10: Seena Cherangara, Janeen Reich, Sukhpal Sanghera. 
+ Group 11: Indira Vidyaprakash, Prashant Inamti, Shilpa Agarwal. 
+ Group 12: Walker White, David Stephenson, Javier Pena.
+ Group 13: Francis Garcia, Oumung Mehrotra, Richard Vuduc.
+ Group 14: Janwun Lee, Kuen-Heng Lai, Wen-Hung Kao.
+ Group 15: Hsin Liu, I-Chin Chen, Jiun-hau Lin.
+ Group 16: Arshad Tayyeb, Todd Wheeler, William Pugh.
+ Group 17: Amit Ahuja, Mikio Sakurai, Nobuhiko Mukai.
+ Group 18: Bill Lewis, Adam Mayer, Chris Vaill.
+ Group 19: San-U Wong, Ivan Tam,   Kit-Yan Lee.
+ Group 20: Gleb Morein, Alex Zhukovsky, Ilya German.
+ Group 21: Jing Li, Markus Moberg, Vivek Kolla.
+
+

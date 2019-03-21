@@ -1,0 +1,157 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:37:24 GMT
+Content-Type: text/html
+Content-Length: 5372
+Last-Modified: Wednesday, 06-Nov-96 05:01:50 GMT
+
+
+
+CS381/481 Fall 96 Syllabus
+
+
+
+CS381/481 Fall 1996
+Automata and Computability Theory
+Syllabus
+
+
+
+Below is a tentative list of topics to be covered in the course.  They
+fall into three major areas:
+
+
+Finite Automata and Regular Sets
+Pushdown Automata and Context Free Languages
+Turing Machines and Effective Computability
+
+
+Each area will comprise roughly a third of the course.  The entire
+body of lecture notes is available in postscript format by clicking here,
+or you can obtain hardcopy for $7 from Linda Mardel in 5147.
+
+ The lecture notes are soon to be published as a textbook by
+Springer-Verlag.  For that reason, I am very interested in your
+comments and suggestions.  In particular, I will pay you $1 for each
+mistake, typo, misspelling, etc. that you find that I don't already
+know about.  [known errata]
+
+
+Suggested supplementary readings are taken from the text by
+J. E. Hopcroft and J. D. Ullman, Introduction to Automata Theory,
+Languages, and Computation, Addison-Wesley, 1979 (H&U).
+
+ In addition to these specific topics, it is important that by the
+end of the course, you have a good general understanding of what it
+means for a set to be regular, context-free, recursive, and r.e.; of
+the capabilities of finite automata, pushdown automata, and Turing
+machines; and of how to describe sets using regular expressions and
+context-free grammars.
+
+
+Finite Automata and Regular Sets (H&U Chps. 1-3)
+
+Lecture 1:  Course Roadmap and Historical Perspective
+
+Lecture 2:  Operations on Sets
+
+Lecture 3:  Finite Automata and Regular Sets
+
+Lecture 4:  More on Regular Sets
+
+Lecture 5:  Nondeterministic Finite Automata
+
+Lecture 6:  The Subset Construction
+
+Lecture 7:  Pattern Matching and Regular Expressions
+
+Lecture 8:  More on Pattern Matching
+
+Lecture 9:  Regular Expressions and Finite Automata
+
+Supplementary Lecture A:  Kleene Algebra and Regular Expressions
+
+Lecture 10:  Homomorphisms
+
+Lecture 11:  Limitations of Finite Automata
+
+Lecture 12:  Using the Pumping Lemma
+
+Lecture 13:  DFA State Minimization
+
+Lecture 14:  A Minimization Algorithm
+
+Lecture 15:  Myhill-Nerode Relations
+
+Lecture 16:  The Myhill-Nerode Theorem
+
+Supplementary Lecture B:  Collapsing Nondeterministic Automata
+
+Supplementary Lecture C:  Automata on Terms
+
+Supplementary Lecture D:  The Myhill-Nerode Theorem for Term Automata
+
+Lecture 17:  Two-Way Finite Automata
+
+Lecture 18:  2DFAs and Regular Sets
+Pushdown Automata and Context Free Languages (H&U Chps. 4-6, 9.1)
+
+Lecture 19:  Context-Free Grammars and Languages
+
+Lecture 20:  Balanced Parentheses
+
+Lecture 21:  Normal Forms
+
+Lecture 22:  The Pumping Lemma for CFLs
+
+Lecture 23:  Pushdown Automata
+
+Supplementary Lecture E:  Final State vs. Empty Stack
+
+Lecture 24:  PDAs and CFGs
+
+Lecture 25:  Simulating NPDAs by CFGs
+
+Supplementary Lecture F:  Deterministic Pushdown Automata
+
+Lecture 26:  Parsing
+
+Lecture 27:  The Cocke-Kasami-Younger Algorithm
+
+Supplementary Lecture G:  The Chomsky-Schutzenberger Algorithm
+
+Supplementary Lecture H:  Parikh's Theorem
+Turing Machines and Effective Computability (H&U Chps. 7-8)
+
+Lecture 28:  Turing Machines and Effective Computability
+
+Lecture 29:  More on Turing Machines
+
+Lecture 30:  Equivalent Models
+
+Lecture 31:  Universal Machines and Diagonalization
+
+Lecture 32:  Decidable and Undecidable Problems
+
+Lecture 33:  Reductions
+
+Lecture 34:  Rice's Theorem
+
+Lecture 35:  Undecidable Problems about CFLs
+
+Lecture 36:  Other Formalisms
+
+Lecture 37:  The Lambda-Calculus
+
+Supplementary Lecture I:  While Programs
+
+Supplementary Lecture J:  Beyond Undecidability
+
+Lecture 38:  Gödel's Incompleteness Theorem
+
+Lecture 39:  Proof of the Incompleteness Theorem
+
+Supplementary Lecture K:  Gödel's Proof
+
+
+CS381/481 home page

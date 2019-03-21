@@ -1,0 +1,158 @@
+Date: Tue, 10 Dec 1996 23:13:59 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 06 Jun 1996 18:08:40 GMT
+Content-length: 5482
+
+
+
+Resume for Lauren Bricker
+
+
+
+ Resume for Lauren Bricker
+
+
+Computer Science & Engineering Department, 
+University of Washington, FR-35, 
+Seattle, WA 98195 USA
+Phone: (206) 543-7798
+
+
+Interests
+
+
+Human Computer Interaction (HCI), Computer Supported Cooperative Work (CSCW),
+Computer Supported Collaborative Learning (CSCL), computer graphics and
+animation.  
+
+Experience  1994 - present Senior Software
+Engineer Ark Interface,
+Seattle, WA    
+Assisted in the redesign and implementation of Packard Bell's
+Navigator 3.x.  Was soley responsible for design and implementation of
+the Game Room. Technical Lead for Kidspace 3.0.
+Implementation in Microsoft Visual C++.  Kidspace, Workspace and
+Navigator are Ark's document-centered graphical user interfaces for
+Microsoft Windows.  
+
+1993 - present
+Research Assistant
+University of Washington, Seattle, WA
+
+
+Mathematics
+Experiences Through Image
+Processing (METIP). Designed Computer Supported Collaborative 
+Learning and image processing applications aimed at encouraging Jr. 
+High students in mathematics. Applications are written for Microsoft Windows
+using the Borland Object Windows Library (OWL), Microsoft Visual C++ and
+Visual Basic.  
+
+Resource Facility for Kinetic Analysis (RFKA). Ported the
+Simulation, Analysis and Modeling (SAAM) II program from Sun/Open Windows to
+Microsoft Windows using Visual C++.  Responsible for determining and
+purchasing the development environment.
+
+
+1988 - present
+Owner of a Sole Proprietorship
+Brickware, Seattle, WA
+
+
+Ark Interface, Seattle, WA. Designed and implemented an 
+application program interface (API) and common dialog boxes for Ark Kidspace
+and Wrokspace, written in Visual C++.
+
+Asymetrix Corporation, Bellevue, WA. Three month
+contract to design and implement a reusable Table Object in Microsoft C++.
+
+Saros Corporation, Bellevue, WA.  Designed and implemented
+enhancements to the user interface portion of FileShare, a distributed
+network file manager for Microsoft Windows. 
+
+Mountain Software, Bothell, WA.  Assisted in the design and
+implementation of the user interface portion of SuperTrap, an office
+management database on the Macintosh for a translation bureau in Zurich,
+Switzerland.   
+
+Proximity Technology, Inc.  Ported spelling checker, hyphenation
+and thesaurus code from MS-DOS to Microsoft Windows.  
+
+
+1990 - 1993
+Software Engineer
+Adonis Corporation, Bellevue, WA (now ConnectSoft)
+
+
+Contracted to Space Labs Medical.  Designed and implemented a
+Microsoft Windows front end to Holter and Ambulatory Blood Pressure monitors.
+The application was written in Visual C++ using the Microsoft Foundation
+Classes.   
+
+Technical Lead Engineer for Clip-Art Window Shopper(tm), a
+Microsoft Windows application for viewing clip-art images before on-line
+purchase.  Design and implementation included: keyword search engine;
+information exchange; requesting, storage and retrieval of user information;
+and communications via modem.  Also edited Quick Clips, an Adonis newsletter
+for Window Shopper customers.
+
+Contracted to Central Point Software. Designed and implemented a
+Microsoft Windows version of PC Tools. 
+
+
+1987 - 1988 
+Software Engineer
+Caddex Corporation, Woodinville, WA 
+
+
+
+Member of a small team developing a networked desktop publishing product
+for Microsoft Windows.  Ported the spelling checker, hyphenation, and
+thesaurus code written by Proximity Technology, Inc from MS-DOS to Windows.
+Designed, coded, tested and integrated the spelling checker, dictionary and
+thesaurus user interfaces.  Also designed the table of contents and index
+generators. 
+
+
+1985 - 1987
+Software Engineer
+Boeing Company, Seattle, WA
+
+
+Defined software requirements for the Flight Path Management and
+Navigation functions of the Advanced Tactical Fighter project.  
+Prototyped these functions in  Ada on a DEC VAX/VMS system.
+
+Education
+
+1990 - present
+University of Washington,  Seattle, WA
+
+
+Received Masters of Science Degree in Computer Science and Engineering in
+December, 1993.  GPA 3.5  / 4.0. 
+Doctoral candidate in Computer Science and Engineering, expected
+Fall 1996. 
+
+
+1982 - 1985
+University of Michigan, Ann Arbor, MI
+
+
+Bachelor of Science degree in Theoretical Mathematics with Honors, with a
+minor in Pre-Med.  GPA 3.6 / 4.0. 
+
+Hardware, Operating System, and Computer Languages
+
+Apple Macintosh, DEC VAX and MIPS machines, Sun SPARCstations, IBM
+PC; Macintosh OS, MS-DOS, MS Windows, UNIX, DEC VMS; Ada, Assembly,
+BASIC, C, C++, HTML, Java, Lisp, Modula-2, Perl, Prolog, Self, Smalltalk, HyperCard.
+
+
+ 
+
+  bricker@cs.washington.edu 
+  Last modified: Tue Jan 18 5:00:00 PM PST 1994
+
+

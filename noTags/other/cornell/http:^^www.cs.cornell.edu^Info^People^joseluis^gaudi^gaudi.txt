@@ -1,0 +1,49 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:59:30 GMT
+Content-Type: text/html
+Content-Length: 1251
+Last-Modified: Tuesday, 20-Aug-96 13:34:55 GMT
+
+
+
+Gaudi Software Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Welcome to Gaudi Software 
+
+
+
+
+
+
+
+[About Gaudi Software  |Autonomous Vehicle Simulation  ] 
+
+
+
+

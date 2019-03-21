@@ -1,0 +1,107 @@
+Date: Wed, 20 Nov 1996 23:18:19 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+
+22C:178 / 055:134 Computer Communications Home Page
+
+
+
+
+22C:178 / 055:134 
+  Computer Communications 
+  Course Home Page for Spring 1996 
+
+
+
+ 
+Final grades posted, follow
+ this link. 
+
+
+
+ Final Project 
+
+Instructions for your final project are available.
+Follow  this link. 
+
+
+
+Syllabus:  follow 
+ this link. 
+
+Lab assignment:  follow
+ this link. 
+( Sign up for lab slots! ). 
+
+Summary of material covered to date:  follow
+ this link. 
+
+
+Some useful tutorials and references to TCP/IP, Ethernet, and more.
+
+
+ Intro to TCP/IP.  An old, but good introduction to TCP/IP.  Recommended! 
+      Intro to TCP/IP.  
+	(Same as above, but another site).
+    
+ Intro to TCP/IP. (Yet another, simplified version of a TCP/IP tutorial). 
+     
+	Ethernet: Access to 10 and 100-Mbps Ethernet/IEEE 802.3 Information
+ 
+	The WWW Virtual Library: Computing, Networking.
+        (Starting point for exploring many resources about networking topics.)
+ 
+On the vi editor:
+
+
+	Tutorial located at Purdue 
+
+        Tutorial located at Southwest Louisiana 
+
+	Tutorial located in Hawaii 
+
+	Tutorial located in Israel 
+ 
+On Unix, Linux, Sockets, and Ports:
+
+ 
+	UNIX Programming
+ 
+	BSD Sockets: A Quick And Dirty Primer
+ 
+	Operating Systems Term Project -- BSD UNIX Sockets
+
+	Welcome to Linux (Starting point for Web pages about Linux).
+     
+	Perl Manual (Texinfo version) - Table of Contents
+ 
+Miscellaneous pointers to related topics, organizations and products.
+
+
+	What is The Internet? 
+ 
+	SAIC Security - Security Documents
+
+	The IEEE/ACM Transactions on Networking (A scientific
+	journal in the area of networking.)
+     
+	InterNIC Directory and Database Services Home Page
+ 
+	Spanning Tree Home Page
+ 
+	IP-Watcher Home Page
+
+        V-One Publications
+
+	Linux and ATM
+
+	A presentation by Gordon Bell
+
+
+
+ Ted Herman 
+Wed 15 May 1996 
+
+

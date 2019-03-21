@@ -1,0 +1,51 @@
+Date: Tue, 26 Nov 1996 18:48:13 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 26 Sep 1996 17:03:15 GMT
+Content-length: 1164
+
+Object-Oriented Programming (Graduate) Home Page
+
+Object-Oriented Programming
+G22.3033.04
+
+Wednesdays 5:00 - 7:00
+
+Room 102, Warren Weaver Hall
+
+
+Professor Edmond Schonberg
+
+Reaching Me
+
+ e-mail 
+schonberg@cs.nyu.edu
+ phone: (212) 998-3494
+ office: 715 Broadway, Room 706
+ office hours: by appointment (e-mail at all times!) 
+
+
+
+ Textbooks 
+
+1. Cay Hortsmann: Mastering Object-Oriented Design in C++, John Wiley.
+
+2. Michael Smith: Object-Oriented Software in Ada 95, Thomson Publishers. 
+
+3. Gary Cornell and Cay Horstmann: Core Java, Prentice-Hall 
+
+
+Recommended reading
+Object-Oriented Software Construction, by Bertrand Meyer, Prentice Hall.
+
+Bjarne Stroustrup: The C++ programming Language, the annotated C++
+reference manual, etc.
+
+
+accessing C++ and Java compilers
+
+ Assignments
+
+ lecture materials 
+
+

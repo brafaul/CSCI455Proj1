@@ -1,0 +1,77 @@
+Date: Wed, 15 Jan 1997 00:38:55 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2522
+Last-modified: Tue, 17 Dec 1996 14:30:21 GMT
+
+
+
+  CMSC 430 
+
+
+
+ CMSC 430 -- Fall, 1996 
+
+
+  Translation of Programming Languages 
+
+Information about CMSC 430
+
+ Class Syllabus
+
+ Projects:
+
+  Project 1 due September 26, 1996.
+Due date changed until Tuesday, October 1 at 9:30am. 
+Late projects (with penalty) accepted until 9:30am October 3.
+ NIP Compiler project for the HAC 430 computer:
+ Language description and machine hardware
+description. Projects due December 10.
+All projects turned in at final exam(with 5 point penalty).
+
+
+
+  Midterm exam: October 22, 1996
+
+
+
+  Final exam:
+Exam will cover chapters 1-10 of text -- formal grammars, finite state
+machines, scanners, parsers, assorted parsing algorithms, code generation,
+and code optimization. Exam will be 10:30am on December 17, 1996.
+
+ Old Exams: 
+
+  May, 1988 Final
+  May, 1991 Final
+     (Answers, page 1,
+Answers, page 2,
+Answers, page 3)
+  December, 1995 Final
+     (Answers, page 1,
+Answers, page 2)
+  March, 1988 midterm
+     (Answers, page 1,
+Answers, page 2)
+  March, 1988  makeup midterm
+     (Answers, page 1,
+Answers, page 2)
+  March, 1991 midterm
+     (Answers, page 1,
+Answers, page 2)
+  November, 1995 midterm
+     (Answers, page 1,
+Answers, page 2) 
+  November, 1996 midterm
+     (Answers, page 1,
+Answers, page 2) 
+
+
+
+Prepared by: 
+Marvin Zelkowitz 
+
+Last Change: December  17, 1996
+
+
+

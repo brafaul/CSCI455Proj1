@@ -1,0 +1,33 @@
+Date: Mon, 11 Nov 1996 17:17:18 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 17:40:14 GMT
+Content-length: 1081
+
+
+
+CS302:  Handouts for Chad's section(s)
+
+
+
+
+Handouts
+
+
+
+Look here for things you might need for class.  I will let you know if
+you need to print something out a few days in advance.
+
+ tribble.h (header file, class defn)
+   Passing streams as arguments, example
+ Parameter passing example |
+       Output
+ Getting Started
+ Reference vs. Value Parameters
+ Lecture Notes on Classes (basic)
+ C++ Operator Precendence Chart
+
+
+Last Modified:  Sun Oct 20 1996 by H. Chad Lane
+
+

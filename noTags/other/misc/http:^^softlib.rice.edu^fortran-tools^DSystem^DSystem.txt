@@ -1,0 +1,51 @@
+Date: Tue, 14 Jan 1997 21:26:48 GMT
+Server: NCSA/1.5.1
+Last-modified: Thu, 21 Nov 1996 18:51:57 GMT
+Content-type: text/html
+Content-length: 1887
+
+
+
+
+
+The D System Home Page
+
+
+
+
+
+
+Welcome to the World Wide Web home page for the D System, a major component of the Fortran Tools effort at Rice University.
+ 
+
+
+ Project Summary
+ Technical Papers
+ Software, Documentation & Reported Bugs
+ The D Team
+ Related Work
+Career Opportunities
+ FY1996 ARPA Blue Book Pages
+
+What's New
+
+ Fortran D95 Compiler Overview
+
+
+Please direct additional questions about the D System to dsystem-info@cs.rice.edu.
+
+
+
+
+Fortran Tools Home Page - Fortran Tools Glossary
+
+
+
+
+
+Updated November 1996 by John Mellor-Crummey (johnmc@cs.rice.edu)
+
+http://www.crpc.rice.edu/fortran-tools/DSystem/
+
+
+

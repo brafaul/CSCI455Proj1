@@ -1,0 +1,30 @@
+Date: Wed, 15 Jan 1997 00:35:02 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 22 Jun 1994 16:44:42 GMT
+Content-type: text/html
+Content-length: 965
+
+Computer Graphics
+
+Computer Graphics
+
+
+
+Geometric Modelling:  
+	Ponce
+Object-Oriented, Visual Interfaces:  
+	Campbell, 
+	Johnson, 
+	Kubitz
+Programming Methods:  
+	Campbell, 
+	Kubitz
+Visualization:  
+	Heath, 
+	Kubitz, 
+	Reed
+
+
+
+
+Go back to Research Areas Index

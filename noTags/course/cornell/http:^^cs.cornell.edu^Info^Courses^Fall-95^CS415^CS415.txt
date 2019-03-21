@@ -1,0 +1,69 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:59:15 GMT
+Content-Type: text/html
+Content-Length: 2049
+Last-Modified: Thursday, 07-Dec-95 19:33:16 GMT
+
+
+
+
+CS415 Home Page
+
+
+
+
+CS414: Systems Programming and Operating Systems
+
+CS415: Practicum in Operating Systems
+
+Selections that display this symbol  correspond to postcript
+documents. 
+
+ 
+How to hand in phase 3 of HOCA
+
+
+Course Information
+
+ 
+Course Schedule (Last Changed: 9/14/95)
+  
+Groups 
+ Handouts
+
+ Handout 1 
+
+ 
+GIF Format 
+ 
+Postcript Format   
+
+ 
+Penne ai Broccoli -- 9/4/95 
+
+ 
+Questions and Answers (Last Changed: 10/23/95)
+
+ The CHIP Computer System
+
+ 
+Console Window Example
+ 
+Using CHIP  
+  Chip Console Tutorial  
+ 
+Principles of Operation  
+ 
+Configuration File
+
+The HOCA Operating System
+
+
+The HOCA Operating System Specifications  
+
+
+
+This page is maintained by 
+Lorenzo Alvisi  
+

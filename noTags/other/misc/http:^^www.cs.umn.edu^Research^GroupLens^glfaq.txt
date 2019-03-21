@@ -1,0 +1,237 @@
+Date: Tue, 14 Jan 1997 22:14:23 GMT
+Server: Apache/1.1b3
+Content-type: text/html
+Content-length: 11139
+Last-modified: Sat, 27 Jul 1996 19:47:00 GMT
+
+
+Frequently Asked Questions about GroupLens
+
+
+This FAQ is maintained by Brad Miller   bmiller@cs.umn.edu.  GroupLens is
+my PhD thesis project.  The opinions expressed herein belong to me.
+
+Last Update:  April 11, 1996
+
+Table of Contents
+
+ What is Collaborative Filtering?
+ What is GroupLens?
+ Why should I use GroupLens?
+ Why Doesn't GroupLens support all newsgroups?
+ What Newsgroups are supported?
+ How can I convince you to add my
+favorite newgroup?
+ What Newsreaders are supported?
+ How can I convince you to add
+grouplens support to my favorite newsreader?
+ What are the long term plans and
+goals of GroupLens?
+
+ What is a pseudonym, and why do I need one?
+ What is a prediction, How is it calculated?
+
+ Why don't I get any predictions?
+ What is 502 You have no permission to talk?
+ How Do I enter ratings in gnus/tin/xrn?
+ How Do I decide what to rate
+an article?
+
+The Answers
+What is Collaborative Filtering?
+ Collaborative filtering is a technology that is designed to deal with
+ the problem of information overload.  
+ Collaborative filtering is made up of a number of technologies for
+ gathering ratings from an on-line community and transforming them into
+ recommendations.  Collaborative filtering systems exist for helping you
+ select audio CDs, video tapes, and even restaurants.
+
+
+What is GroupLens?
+
+GroupLens is a collaborative filtering system that helps you work
+together with other people to find the quality news articles out of the
+huge volume of news articles generated every day.
+
+To accomplish this the GroupLens system combines your opinions about
+articles you have already read with the opinions of others who have
+done likewise and gives you a personalized prediction for each unread
+news article.  Think of GroupLens as a matchmaker.  GroupLens watches
+how you rate articles, and finds other people that rate articles the
+same way. Once it has found for you some people you agree with it tells
+you, in the form of a prediction, what they thought of the article.
+You can use this prediction to help you decide whether or not you want
+to read the article. 
+
+Why should I use GroupLens?
+If you no longer find reading Usenet news to be an enjoyable part of
+your day, you should try GroupLens.  I beleive that colaborative
+filtering, and GroupLens can make a fundamental change in the way we all
+use Usenet.  It seems that on almost every active newsgroup today, there
+are periodic discussions, and calls for either moderation, or
+reorganization.  Why does this happen?  Too much junk, too much volume,
+and no sense of community.
+
+I believe that collaborative filtering is a better solution
+than newsgroup reorganization or moderation.  The arguments against
+reorganization are well known:  Reorganization leads to lots of
+crossposts when people aren't sure where an article belongs.
+Reoganization fragments the community and forces the user to go looking
+for information in many different locations.  Moderation, whew!  What a
+job to try and moderate 400 -- 500 new messages each day.  Plus, what if
+I don't like the moderator?  What if he and I don't have the same
+interests or the moderator has his own agenda for the newgroup?
+Collaborative filtering can give us the best of both worlds by
+democratizing the moderation process.  With GroupLens, we can all be
+moderators for each other.
+
+Right now, GroupLens is still in the "early adopter" stage.  That is,
+only a few hundred hardy pioneers are using the system.  But, one of the 
+interesting characteristics of collaborative filtering systems is that
+the more people that use a system, the better the system works.  This
+goes double for Grouplens!  All of the groups that I have received
+requests to add GroupLens support for are high volume high noise
+groups.  If everyone only wants to read and rate a few articles each
+day, then it takes lots of people to cover and provide ratings for all
+the articles.
+
+
+Why don't you support all newsgroups?
+We cannot support all newsgroups right now, because the volume of data
+would be too huge, and the network traffic would be far to great for any
+one site to handle.  Usenet is a huge distributed system.  Trying to
+centralize ratings of every article in the system would be crazy.
+
+One of the goals in the early stages of GroupLens, is to understand just
+what the critical mass of users is to make GroupLens work very
+effectively.  Once we've defined the parameters, we can distribute the
+GroupLens and then we'll be able to handle all the newsgroups.
+
+
+What Newsgroups are supported?
+
+ All of comp.os.linux.*
+ rec.humor
+ rec.food.recipes
+ rec.arts.movies.current-films
+ comp.lang.c++
+ comp.lang.java
+ comp.groupware
+ comp.human-factors
+ mn.general
+
+
+How can I convince you to support my favorite newsgroup?
+You must bring me some users!  Thats it.  If you really want to have
+GroupLens support your favorite newsgroup, just find some other people
+on that newsgroup who are willing to read and rate the articles.  If you
+can give me a list of users who will promise to use grouplens, I'll add
+support for it.  The higher the volume group, the more users I'll expect
+you to find.  But how, how do I find these users you ask?  I don't
+know.  I've been a GroupLens  evangelist for the past eight weeks and I
+don't have any magic answers.  Some people have responded to my posts to
+Usenet describing the project with great enthusiasm.  Luckily hardly
+anyone has told me this is a bad idea.  Netiquette would seem to dictate
+that one post to your favorite group saying something like "Join me in
+GroupLens" is OK, especially if you direct followups to news.groups.
+
+What Newsreaders support GroupLens?
+
+ gnus-5.x, the mother of all newsreaders!
+ tin
+ xrn
+
+
+How can I convince you to add GroupLens support to
+my favorite newsreader?
+I know, there are hundreds of newsreaders out there that do not have
+GroupLens support.  It would be especially great to have a Windows,
+and/or Macintosh newsreader on the list above.  We're working on some,
+and could really use some programming help.  Its not hard to add
+grouplens support to a newsreader.  Especially if you're already
+familiar with the internals.
+
+
+What are the long term plans and goals of the
+GroupLens project?
+Long term, GroupLens should support every newsgroup.  This is going to
+mean that we have a network of ORBs all working together in a distributed
+system.  If you or someone you know might be interested in running a ORB
+at their site, please contact me.
+
+
+What is a pseudonym, and why do I need one?
+
+A pseudonym is your identifier to the Open Ratings Bureau.  GroupLens lets
+you choose your own pseudonym for your ratings and predictions.  Noone
+-- not even the GroupLens server -- knows who "SpacemanSpiff" *really*
+is.
+
+In the future, we'll be improving the security model of the ORB even
+more so that you can use a password along with your pseudonym so that
+nobody else could use it.
+
+
+What is a prediction, how is it calculated?
+A prediction is grouplens best estimate of how much you will like a
+particular article.  To calculate a prediction you need two things.
+First you need some measure of how similar you are to the other people
+who have read and rated articles.  Second you need at least one (and
+preferably several) ratings for the article you want a prediction for.
+GroupLens combines these two pieces of information for all the available
+ratings for this article to come up with a prediction.
+
+
+Why don't I get any predictions? 
+The most common reason for not getting predictions is that you haven't
+entered any ratings.  In order to calcluate a prediction you need to
+have rated some articles that other people have also rated.  Another
+reason why some articles are not rated is that you are the first
+GroupLens user to rate the article.  The nice thing about GroupLens is
+that the more people we get to participate, the less frequently that
+will happen to you.
+
+ 
+What is 502 You have no permission to talk? 
+This is an nntpserver error message.  The most common reason you will
+see this message is that the binary version of the grouplensified tin,
+has newsstand.tc.umn.edu compiled in as the default news server.  This
+is the newsserver for the University of Minnesota, and will not serve
+news to anyone outside the umn.edu domain.  The way to fix this is to
+set your NNTPSERVER environment variable to point to your nntpserver.
+Or set your nntpserver through the tin configuration menus.
+
+ 
+How do I enter ratings in the xxx newsreader 
+The answer to this question can be found in the HOWTO use GroupLens
+with xxx document.  
+
+ 
+http://www.cs.umn.edu/Research/GroupLens/software/gnus.html
+ 
+http://www.cs.umn.edu/Research/GroupLens/software/tin.html
+ 
+http://www.cs.umn.edu/Research/GroupLens/software/xrn.html
+
+In general entering a rating is as simple as
+typing a number from one to five.  Sometimes the number must be
+followed by another key, and sometimes not.  The problem with most
+newsreaders is finding a keybind that isn't already used for something
+else! 
+
+ 
+How do I decide what to rate an
+article? 
+Each user will have their own criteria for how they rate different
+articles.  We suggest something like the following:
+
+ This article is a waste of net.bandwidth, I definitely don't want
+more like this.
+ This article is bad
+ This article is OK
+ This article is good
+ This article is great, I'd like to see more like this one!
+
+If you would be willing to participate in a survey at some time about
+how you rate articles in GroupLens, please send mail to:
+grouplens-admin

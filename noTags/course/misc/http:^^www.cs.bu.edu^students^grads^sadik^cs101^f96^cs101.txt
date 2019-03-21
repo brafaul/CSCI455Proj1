@@ -1,0 +1,61 @@
+Date: Wed, 20 Nov 1996 21:47:58 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+CS-101(D1): Introduction to Computers
+
+
+ Boston University / 
+CAS
+ Computer Science Dept
+CAS
+CS-101 (D1): Introduction to Computers
+
+
+Instructor:
+
+    Name: Sadik Tokgoz
+   Email: sadik@cs.bu.edu
+  Office: MCS-211 
+   Phone: 353-8921
+   Hours: Tuesday: 3:00pm-5:00pm / Friday: 4:00pm-5:00pm
+
+
+Teaching Fellow:
+
+    Name: Alexander Sorg
+   Email: sorg@cs.bu.edu
+  Office: MCS-207 
+   Phone: 353-3283
+   Hours: Tuesday: 1:00pm-2:00pm, Thursday: 1:00pm-2:00pm (office)
+          Friday:1:30pm-4:30pm (lab)
+
+
+Class Meeting:
+
+   Time: Mon/Wed/Fri 5:00pm-6:00pm
+  Place: STO B50
+
+
+
+
+Course Archives:
+ Some of the links are not stable yet as the system is being
+updated. 
+
+ 
+     Course Syllabus
+ 
+     Homeworks Archive
+ 
+     Miscellaneous Handouts
+ 
+     Web - Unix Reading
+ 
+     Student Home Pages  (Not yet available)
+  Teaching Fellows Lab Schedule 
+
+ 
+
+This document has been adapted from one prepared by Professor  Azer Bestavros
+<best@cs.bu.edu>.

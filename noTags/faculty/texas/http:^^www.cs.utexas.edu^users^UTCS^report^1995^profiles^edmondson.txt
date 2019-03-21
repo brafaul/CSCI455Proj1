@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:18:30 GMT
+Content-Type: text/html
+Content-Length: 1165
+Last-Modified: Wednesday, 21-Feb-96 15:41:05 GMT
+
+Chris C. Edmondson-Yurkanan
+ 
+Chris C. Edmondson-Yurkanan
+
+Lecturer 
+
+B.A. in Mathematics and Computer Sciences (1974),
+M.A. in Computer Sciences (1980) 
+University of Texas at Austin 
+
+Professional Service
+
+ Secretary/Treasurer, ACM SIGCOMM, 1991-95
+
+Areas of Interest
+
+Computer networks, computer science education, managing large software projects, mobile networking, and database design 
+Summary of Research
+
+My research interests are in protocols for high-speed communications,
+protocol specification, and internetworking. 
+Selected Recent Publications 
+
+J. A. Cobb, C. C. Edmondson-Yurkanan, and
+M. G. Gouda, "Universal mobile addressing in the Internet," in
+Proceedings of the 1st Annual Computer Theory and Informatics
+Conference, in press.
+
+
+Additional information can be obtained from
+individual faculty members'
+home pages. 
+Back to List of Faculty Profiles 
+

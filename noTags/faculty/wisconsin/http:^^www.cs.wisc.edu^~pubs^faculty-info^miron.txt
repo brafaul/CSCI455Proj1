@@ -1,0 +1,67 @@
+Date: Thu, 07 Nov 1996 19:07:25 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 30 Oct 1995 22:36:48 GMT
+Content-length: 2225
+
+
+
+ Home Page of Miron Livny 
+
+
+ 
+ Miron Livny 
+
+ Professor 
+
+ Computer Sciences Department 
+ University of Wisconsin 
+ 1210 W. Dayton St. 
+ Madison, WI 53706-1685 
+
+ telephone: (608) 262-1204 
+ fax: (608) 262-9777 
+ email: 
+ miron@cs.wisc.edu 
+
+Ph.D., Weizmann Institute of Science, Rehovot, Israel, 1984
+
+Interests:
+Resource management algorithms, performance modeling and analysis,
+discrete event simulation 
+
+ Research Summary 
+
+The major emphasis of my research is on the design and evaluation
+of resource management policies. I have been involved in the development
+of new resource management policies for processing and data management
+systems. For both types of systems, general-purpose as well as
+real-time scheduling algorithms have been considered. My research
+involves performance studies of the different policies, with special
+emphasis on the interplay between the properties of the system
+and the performance of the policy. Since most of my performance
+studies employ simulation, I am interested in discrete event modeling
+and simulation techniques. I am currently in the process of implementing
+a simulation laboratory that is based on a novel simulation language.
+The laboratory includes data management utilities, visualization
+tools, and graphical interfaces. 
+ Sample Recent Publications 
+
+Disk-tape joins: Synchronizing disk and tape access (with J. Myllymaki),
+Proceedings of the ACM SIGMETRICS Conference, 1995. 
+ 
+Sequence query processing (with P. Sashadri and R. Ramakrishnan),
+Proceedings of the ACM SIGMOD Conference, 1994. 
+ 
+Foundations of visual metaphors for schema display (with E. Haber
+and Y. Ioannidis), Journal of Intelligent Information Systems,
+vol. 3, no. 3/4, July 1994. 
+
+
+ This page was automatically created October 30, 1995.
+ Email pubs@cs.wisc.edu
+to report errors.
+
+
+
+

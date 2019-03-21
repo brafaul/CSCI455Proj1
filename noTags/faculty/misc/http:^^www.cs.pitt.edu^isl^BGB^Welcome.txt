@@ -1,0 +1,83 @@
+Date: Mon, 25 Nov 1996 23:22:37 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 11 Nov 1996 19:36:08 GMT
+Content-length: 2345
+
+
+
+ Bruce Buchanan's Home Page
+
+
+
+Welcome to Bruce Buchanan's Home Page
+
+
+
+ Bruce G. Buchanan
+(a.k.a. buchanan@cs.pitt.edu)
+
+I am a Professor of Computer Science,
+Philosophy, and Medicine, with the Department of Computer Science at
+the University of Pittsburgh.
+I am also co-Director of the Keck Center
+for Advanced Training in Computational Biology.
+
+
+My main
+research interests are in machine learning, knowledge-based
+systems, medical expert systems, and computational biology.
+
+
+I am generally interested in
+applications of machine learning and artificial intelligence to any
+problems
+in biology or medicine.
+For an extended discussion of how I view AI research, see
+
+B. G. Buchanan, "Artificial Intelligence as an Experimental  Science."
+In J. H. Fetzer (ed.) Aspects of Artificial Intelligence,
+Amsterdam:  D. Reidl, 1988.
+Recent Research
+
+  AI approaches to machine learning -- development of the RL induction
+syste
+m
+  Applications of symbolic learning to problems in biology and
+medicine
+  Case-based reasoning with application to prediction of protein 2ary
+struct
+ure
+
+
+
+  Some Representative Publications
+
+  B.G. Buchanan and David C. Wilkins.  "Readings in Knowledge
+Acquisition
+and Learning."  San Mateo: Morgan Kaufmann, 1993.
+
+  Robert K. Lindsay, Bruce G. Buchanan, Edward A. Feigenbaum and
+Joshua
+Lederberg.  "DENDRAL -- a case study of the first expert system for
+scientific
+hypothesis information" Artificial Intelligence Journal, Volume 61, No. 2,
+pp.
+209-261, June 1993.
+
+  B. Leng,  B.G. Buchanan, and H.B. Nicholas.  "Protein Secondary
+Structure
+Predicition Using Two-Level Case-Based Reasoning".
+Journal of Computational Biology 1(1), pp. 25-38 (Spring, 1994).
+
+  Jerome A. Osheroff,  Diana E. Forsythe, Bruce G. Buchanan,
+Richard A. Bankowitz, Barry H. Blumenfeld, and Randolph A. Miller,
+"Physicians' Information Needs -- Analysis of Questions Posed during
+Clinical
+Te
+aching,"
+Annals of Internal Medicine 114, 576-581, 1991.
+
+
+
+

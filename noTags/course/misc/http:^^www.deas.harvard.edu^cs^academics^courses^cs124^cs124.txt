@@ -1,0 +1,86 @@
+Date: Wed, 20 Nov 1996 22:24:48 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sat, 18 May 1996 20:52:55 GMT
+Content-length: 2357
+
+
+
+ CS124: Data Structures and Algorithms 
+
+  CS124: Data Structures and Algorithms  
+
+  People 
+  Other 
+  Course Outline 
+  Assignments 
+  Sections 
+  Midterm Solution 
+  Final Example (Spring 1995) 
+  Solution to Final Example (Spring 1995) 
+
+ New Items: 
+ The final exam will be on Friday, May 24 at 9:15am.
+ Old Items: 
+ Please check if your email address is correctly listed in the cs124@das.harvard.edu email list here.  Send additions/modifications to the TFs immediately.
+
+
+ 
+ Instructor and Course Assistants 
+
+  Instructor 
+ H.T. Kung
+	110 Pierce Hall
+	496-6211
+	kung@das.harvard.edu
+	Office Hours: MW 2:30-4pm
+
+  TFs  
+	Yan Zong Ding
+	113 Aiken
+	495-3988
+	zong@das.harvard.edu
+	Office Hours: Thursday 2:30-4pm
+
+ John Immel
+	Dunster F-12
+	493-4672
+	jimmel@fas.harvard.edu
+	Office Hours: SciCtr 116 8-9pm on Thursdays
+
+  Administrative Assistant 
+	Vera Gropper
+	110a Pierce Hall
+	496-8269
+	vera@das.harvard.edu
+
+
+ 
+ Other Administrivia 
+  Class time and place: 	MW  1-2:30pm in Cruft 318
+  Section time and place: 	W 8:30 - 10:00 pm in Science Center 209
+  Prerequisites: 		CS51 and some familiarity with UNIX and C
+  Handouts: 			Cabinet outside Vera Gropper's office
+
+
+  Textbook 
+	T. H. Cormen, C. E. Leiserson, and R. L. Rivest, "Introduction
+	to Algorithms," 
+	The MIT Press, 1990.
+
+
+  Email 
+	cs124tf@das.harvard.edu: TFs and instructor
+	cs124@das.harvard.edu: The entire class
+
+
+  This Web Page 
+ 	http://www.das.harvard.edu/cs/academics/courses/cs124
+
+
+  Grading 
+
+Final Exam		35%
+Midterm Exam		15%
+10 Problem Sets		50%
+

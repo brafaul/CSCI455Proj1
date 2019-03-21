@@ -1,0 +1,115 @@
+Date: Wed, 20 Nov 1996 19:47:35 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 26 Sep 1996 12:46:34 GMT
+Content-length: 4720
+
+Real-Time Database Systems Lab
+Real-Time Databases: MDDS Systems
+University of Massachusetts, Amherst
+
+The Real-Time Database Systems Laboratory is part of the
+ Computer Science Department at the
+
+University of Massachusetts.  
+Our  current research and
+ current results focus
+on integrating active,
+real-time, temporal and multimedia databases 
+for crisis management in Massive Digital Data Systems (MDDS).
+This work is funded by the Advanced Research and Development Committee
+of the Community Management Staff.
+
+
+
+Principal Investigators
+
+
+Prof. Krithi Ramamritham
+
+Prof. John Stankovic
+
+ Prof. Don Towsley
+
+Graduate Students
+
+
+Raju Sivasankaran
+
+Ming Xiong
+
+Jitendra Padhye
+
+
+
+Real-Time Concurrency and Recovery Algorithm Testbed (retired)
+ Real-Time Concurrency and Recovery Algorithm Testbed (RTCARAT) was
+the first physical testbed for real-time databases.  It contained all
+the major functional components of a transaction processing system,
+including real-time concurrency control, transaction scheduling,
+etc. Experiments were conducted focusing on real-time
+transaction processing. Ideas developed here were extended
+and formed the basis for RADEx (see below).
+
+Graduated Students
+
+
+Dr. Jiandong Huang
+Bhaskar Purimetla
+
+
+Publications
+
+
+
+Real-Time Active Database Experimental Simulator 
+Real-Time Active Database Experimental Simulator (RADEx) is the first real-time,
+active, object-oriented, temporal database simulator. It is being used to 
+study
+
+
+
+  Priority assignment and real-time transaction scheduling in active 
+real-time databases
+
+  Real-time logging and recovery
+
+   Consistency and scheduling in temporal databases
+
+  Multimedia databases
+
+
+
+Previous Work
+ Transaction Processinig in Real-Time Active Databases  
+Real-Time Active Database Applications  
+
+Priority Assignment in Real-Time Active Databases
+
+
+
+Current Work
+ Enhancing the RADEx simulator to include the following
+Logging and Recovery
+
+Feasibility Checking
+
+Temporal Data 
+
+
+
+Miscellaneous
+ Other related papers can be found.
+
+ 
+Back to the DB Home Page 
+
+Back to the RTS Home Page
+
+
+
+If you have any comments on this page or need further information,
+please send your mail to 
+sivasank@cs.umass.edu or 
+xiong@cs.umass.edu 
+Last Update: 23 May 1996.

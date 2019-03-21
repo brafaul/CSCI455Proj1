@@ -1,0 +1,41 @@
+Date: Wed, 20 Nov 1996 19:16:03 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 1727
+Last-modified: Wed, 29 Nov 1995 22:10:50 GMT
+
+
+
+Minimalist Robotics
+
+
+
+Minimalist Robotics
+Description: 
+
+Minimalist robotics uses large numbers of simple, inexpensive robots to study emergent computation in systems of interacting agents. At Indiana University we are using the hexapod Stiquito robot that was invented here in 1992 to create a Stiquito colony. A new project involves large numbers (100-1000) of robot bacteria, called Robozoa, to study field computation with physical agents. 
+ 
+
+ Associated Faculty: 
+Jonathan W. Mills, Gregory A. Rawlins
+
+ Associated Graduate Students: 
+David A. Braun, Jay A. Kasberger, Gary A. Parker. Students who want to do research in this area should send mail to Jonathan W. Mills
+
+ Affiliated Projects: 
+
+NitleMite, James Conrad, North Carolina State University
+Scorpio, John Estelle, University of Toledo
+
+ Support: 
+
+NSF Graduate Research Traineeship Program Award, 1995-1999
+NSF Incubator Laboratory Grant
+
+ For more information 
+
+Minimalist Robotics | Related Projects | Analog VLSI and Robotics Laboratory
+
+ Return to Computer Science Research Page  
+
+

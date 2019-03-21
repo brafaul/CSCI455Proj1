@@ -1,0 +1,94 @@
+Date: Thu, 21 Nov 1996 22:15:59 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2636
+Last-modified: Sun, 05 Nov 1995 04:48:33 GMT
+
+GVU Center - Martin Frank
+
+
+
+Martin Frank has moved to the University of Southern California
+(Information Sciences Institute), where he maintains a 
+new home page.
+
+
+
+
+
+
+Martin Frank is a Ph.D. candidate with a life-time goal of helping 
+ordinary people program computers. He is currently investigating 
+programming by demonstration, visual programming and other means
+towards this end.
+References: 
+
+
+Frank, M., Omiecinski, E., and Navathe, S.
+
+	Adaptive and Automated Index Selection in Relational DBMS.
+In Proceedings of EDBT'92,
+International Conference on Extending Database Technology
+(March 23-27, Vienna, Austria)
+Springer, Berlin, 1992.
+[also git-cc-94-02] 
+(best paper award).
+
+
+
+Frank, M., de Graaff, J.J., Gieskens, D., and Foley, J.
+
+Building User Interfaces Interactively Using Pre- and Postconditions.
+In Proceedings of CHI'92,
+ACM Conference on Human Factors in Computing Systems
+(May 3-7, Monterey, California)
+ACM, New York, pp. 641-642.
+
+
+
+Frank, M. and Foley, J.
+
+Model-Based User Interface Design by Example and by Interview.
+In Proceedings of UIST'93,
+ACM Symposium on User Interface Software and Technology,
+(November 3-5, Atlanta, Georgia)
+ACM, New York, 1993, pp. 129-137
+[also git-gvu-93-37].
+
+
+
+Frank, M. and Foley, J.
+
+A Pure Reasoning Engine for Programming By Demonstration.
+In Proceedings of UIST'94,
+ACM Symposium on User Interface Software and Technology,
+(November 2-4, Marina del Rey, California)
+ACM, New York, 1994, pp. 95-101
+[also git-gvu-94-11].
+
+
+
+Frank, M., Sukaviriya, P., and Foley, J. 
+
+Inference Bear: Designing Interactive Interfaces through Before and After Snapshots.
+In Proceedings of DIS'95,
+ACM Symposium on Designing Interactive Systems,
+(August 23-25, Ann Arbor, Michigan)
+ACM, New York, 1995, 9 pages
+[a revision of git-gvu-94-12].
+
+
+
+
+Here is what I do when I don't work (what do you mean "when
+would that be"?).
+
+
+martin@cc.gatech.edu
+
+Martin Frank,
+Graphics, Visualization & Usability Center,
+Georgia Institute of Technology,
+Atlanta, Georgia 30332-0280
+
+(404) 853-9382

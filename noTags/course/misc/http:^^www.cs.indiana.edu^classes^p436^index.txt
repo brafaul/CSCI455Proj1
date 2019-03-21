@@ -1,0 +1,359 @@
+Date: Wed, 20 Nov 1996 22:28:40 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 12879
+Last-modified: Tue, 19 Nov 1996 01:21:54 GMT
+
+
+
+
+P436/536 Home Page
+
+
+
+
+P436/536
+Operating Systems
+
+
+
+Instructor
+Scott Stoller
+T.A.
+Shamugasundar Balasubramaniam
+
+Hours
+
+Lectures: Monday and Wednesday, 4:00PM - 5:15PM, in BH304.
+Discussion: Thursday, 5:45PM - 6:35PM, in BH003.
+Instructor's Office Hours: Monday and Wednesday, 5:15PM - 6:15PM, or by
+appointment. Lindley Hall 201D.
+T.A.'s Office Hours: Tuesday and Thursday, 4:15PM - 5:15PM. Lindley
+Hall 330A.
+
+Official Description
+P436,
+P536
+
+Tentative Syllabus
+
+LecturesTopic
+1Introduction
+2-10Processes: Address Spaces, Threads, Synchronization,
+                Deadlock, Scheduling
+11-15Memory: Segmentation, Paging, Virtual Memory
+16-18I/O, Filesystems.
+19-20Protection and Security
+21Distributed Systems: Introduction
+22-23Communication: Client-Server, RPC, Group Communication
+24-26Distributed Filesystems
+27-28Distributed Shared Memory or Authentication Protocols
+
+
+If we can get through the earlier topics more quickly, I will
+happily spend more time discussing distributed systems.
+
+
+The lectures are based in part on Tom Anderson's lecture notes for
+CS162 at UC Berkeley.
+
+Textbook
+
+Andrew Tanenbaum, Modern Operating Systems
+(Prentice Hall, 1992).
+
+Project
+
+The project is to design and implement parts of a small operating
+system, called Nachos, which runs
+in a simulator that runs on Sun workstations.  You will be given a
+"skeleton" of the operating system and will be asked to implement some
+of the missing parts, e.g., synchronization primitives for threads,
+virtual memory management, and a file system.  You will work on the
+project in small teams.  The programming is (almost) in C.  A few simple
+features of C++ are used; they will be explained as needed.  Here is a
+brief overview of Nachos, from its developers at
+UC Berkeley.
+
+Nachos is installed locally in ~c536/nachos-3.4 on both the
+Burrow and the Sharks.
+
+Project Mechanics
+
+Click above for information on accounts, software tools, etc.
+
+
+Grading
+
+The breakdown is:
+
+Project + occasional problem sets 40%
+Midterm examination 23%
+Final examination 37%
+
+Grading on the project will emphasize good design as well as working
+code.  Graduate students will be asked to implement additional features
+found in real operating systems; undergraduates can implement these
+features for extra credit.  The midterm will be a 75-minute, in-class
+exam.  The final will be a 2-hour exam held at the time specified in the
+Registrar's Schedule of Final
+Examinations.  The weights of the two exams are in proportion to
+their length.  Both exams will be closed book, closed notes, etc.  The
+same exams will be used for 436 and 536, though separate curves will be
+used to convert numerical scores to letter grades.
+
+Course Newsgroup
+
+ac.c.436 will be used for both 436 and 536.  If you have questions about
+the lectures or the project, this is a good place to ask them, so that
+other students can benefit from your questions.  If you see a question
+and (think you) know the answer, post it!  This will help your
+classmates and show us that you know what's going on; we'll re-read the
+postings in the newsgroup when assigning grades.  The instructor or the
+T.A. will periodically read the newsgroup and post answers or
+corrections to answers, if needed.
+
+
+
+
+
+Weekly Announcements
+
+
+
+
+Week of November 18
+
+Textbook Readings: Tanenbaum, Chapters 10 and 11 (for this week and next).
+
+
+Project: For Project 4, you can get 15% extra credit by implementing
+swap-space management that is efficient for sparsely-used address
+spaces.  One way to do this is the first scheme described in a recent posting about swap space.
+
+Week of November 11
+
+Project: Here is the Projects 3 and 4 FAQ.
+
+Week of November 4
+
+Textbook Readings: Tanenbaum, Chapter 9.
+
+
+Project:
+
+(1) Projects 3 and 4 were distributed in
+last Thursday's discussion section.
+
+
+(2) Here is some Advice for teams
+that had difficulty with Project 2.
+
+Week of October 28
+
+Textbook Readings: Finish Tanenbaum, Chapters 4 and 5.
+
+
+Final Exam: The final exam will be 5:00PM-7:00PM on Wednesday, December
+18, in BH 304.  If you have a problem with this, let me know
+immediately.
+
+Project: Remember that Proj 2 is due on Fri, Nov. 1.
+
+
+Week of October 21
+
+Textbook Readings: Tanenbaum, Chapters 4 and 5 (for this week and next).
+
+
+Project:
+
+(1) You don't need to freeze the files from Project 1; you can continue
+to modify them until you submit Project 2.  Revised instructions for
+submitting and freezing files are in the Project Mechanics Handout; the
+changes are summarized in a news posting.
+
+
+(2) Revised project schedule:
+
+Proj 2 due:            Fri, Nov. 1.
+Proj 3 design review:  Fri, Nov. 8, and Sat, Nov. 9
+Proj 3 due:	       Fri, Nov. 15
+Proj 4 design review:  Fri, Nov. 22, and Sat, Nov. 23
+Proj 4 due:	       Fri, Dec. 6
+
+
+
+Midterm:
+
+(1) As mentioned in a news posting, the answers to questions 3 and 5
+have been revised since printed solutions were distributed on Oct. 16.
+So, you might want to look at the revised Brief Solutions to the Midterm.
+
+
+(2) Click for full-size plots showing the Midterm scores for 436 and Midterm scores for 536.  Some
+statistics appear below.  Here are smaller plots:
+
+
+
+
+Grades: You can get an idea of your standing in the course from the
+following statistics (and the above plots for the midterm).
+
+Statistics for 436:
+
+ItemMeanStddev
+Project 0 (out of 10)9.21.3
+Problem Set 1 (out of 15)7.24.7
+Midterm (out of 90)58 (64%)11
+
+
+Statistics for 536:
+
+ItemMeanStddev
+Project 0 (out of 10)9.51.3
+Problem Set 1 (out of 20)14.74.4
+Midterm (out of 90)70 (78%)15
+
+Week of October 14
+
+Midterm: The same exams will be used for 436 and 536, though separate
+curves will be used to convert numerical scores to letter grades.
+Here are Brief Solutions to the Midterm.
+
+
+Project:
+
+(1) Design reviews for Project 2 will be held on Fri (Oct. 18, 1PM-6PM),
+Sat (Oct. 19, 9AM-2PM), and Mon (Oct. 21., 5:30PM-8PM).  A sign-up sheet
+will be available at the midterm and during the discussion section.
+
+
+(2) Project 5 has been cancelled.  Project 4 will be the last project,
+unless overwhelming popular demand prompts resurrection of Project 5.
+
+Week of October 7
+
+Textbook Readings: Tanenbaum, Chapter 3 (continued).
+
+
+Project: Some comments on Projects 1 and 2 have been collected in the Projects 1 and 2 FAQ (last updated Oct. 11).
+
+
+Midterm:
+
+(1) The midterm will cover material up to and including the lecture of
+Oct. 7.  This corresponds to all of the assigned reading so far, except
+sections 3.4-3.6 of Tanenbaum.  The midterm focuses on the material
+covered in lecture and in the textbook, not on Nachos.
+
+
+(2) You might want to look at these Practice Problems for Midterm.  These
+are intended to give you a feeling for the planned level of difficulty
+of the exam questions.  Here are Brief Solutions to Practice
+Problems for Midterm.
+
+Week of September 30
+
+Textbook Readings: Tanenbaum, Chapter 3.
+
+
+Project: A sign-up sheet to schedule design reviews for Project 1 will be
+available in this week's discussion section.  As per the handout, the
+design reviews should occur on Fri and Sat of this week.
+
+Week of September 23
+
+Textbook Readings: finish Tanenbaum, Chapter 6.  Tanenbaum, Sections 2.4-2.5.
+
+
+Homework: Problem Set 1 was
+distributed on Sep. 23.  It is a problem set, not a programming
+assignment.  It must be done individually, not in teams.  It is
+technically due in lecture on Mon., Sep. 30, though I suggest you try to
+finish it by Fri., Sep 27, so you can get started on Project 1.  Some
+comments on Problem Set 1 have been collected in the Problem Set 1 FAQ.
+
+
+Exam Schedule: The midterm will be in-class on Wed., Oct. 16.
+
+
+Project:
+
+(1) Project 1 was distributed on
+Sep. 25.  It is due by the end of the day on Fri, Oct. 11.  Design
+reviews for Project 1 will be held on Fri and Sat, Oct. 4 and 5.
+Projects 1 and 2 are the same for 436 and 536.
+
+
+(2) We strongly recommend that you carefully read both Thomas Narten's
+A Road Map Through Nachos (except the
+parts about virtual memory) and Mike O'Donnell's Guide
+to Reading the [Nachos] Source Code, if you haven't already.
+
+
+(3) To help you schedule your semester, here are tentative due dates for future projects:
+Project 3, due Sun, Nov. 10; Project 4, due Sun, Nov. 24; Project 5, due
+Sat, Dec. 14.  [This has changed; see below.]
+
+Week of September 16
+
+Temporary Change in Office Hours: On Sep. 16, the instructor's office
+hour will be cancelled.  A replacement office hour will be held on Sep. 17,
+11AM-12AM.
+
+
+Textbook Readings: start Tanenbaum, Chapter 6.
+
+
+Project: Project 0 is due on Sep. 20.  The instructions in the Project
+Mechanics handout for submitting a project were flawed.  A posting to
+ac.c.436 describes the problem; you can also read that posting here.
+
+Week of September 9
+
+Textbook Readings: Tanenbaum, Sections 2.1-2.3 and 12.1.
+
+
+Project:
+
+
+(1) You should read A Quick
+Introduction to C++, by Tom Anderson.  This was distributed in the
+discussion section on Sep. 5; if you didn't get a copy, you can print one
+yourself, or you can ask us to print one.  I recommend reading it even
+if you are familiar with C++, because it contains some useful stylistic
+guidelines.  The code for the stack example is in
+~c536/docs/c++example/.
+
+
+(2) A detailed version of Project 0 was
+distributed on Sep. 11.  It is due on Sep. 20.
+
+Week of September 2
+
+Textbook Readings: Tanenbaum, Chapter 1
+
+
+Project:
+
+
+(1) Try to form teams by Monday, Sep. 9, so that you can start on
+Assignment 1 when it is distributed.  As mentioned in the Project
+Mechanics Handout, you should notify us by email when you form a
+team.
+
+
+(2) Read the Project Mechanics Page.
+
+
+(3) Start reading the A Road Map Through Nachos and the
+code in ~c536/nachos-3.4/code/threads.  Printouts of the Roadmap
+and the threads code will be distributed on Sep. 4.
+Another very helpful resource is Mike O'Donnell's Guide
+to Reading the [Nachos] Source Code.  Mike's Guide is available only
+in HTML format, so we won't be supplying printouts; this doesn't mean
+you shouldn't read it!
+
+
+

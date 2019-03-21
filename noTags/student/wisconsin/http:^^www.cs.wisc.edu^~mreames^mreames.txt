@@ -1,0 +1,86 @@
+Date: Thu, 07 Nov 1996 19:17:50 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 01 Nov 1996 18:59:42 GMT
+Content-length: 3812
+
+
+
+ Martin Reames's Home Page 
+
+
+
+
+ Martin Reames 
+
+Graduate Student/Teaching Assistant (for CS 302)
+(also, Coke Poobah -- finger the coke machine!)
+Computer Sciences Department
+University of Wisconsin - Madison
+1210 W. Dayton St.
+Madison, WI  53706-1685
+
+Office: CS 1345
+Telephone: (608) 262-1012
+Telephone: (608) 262-1204 (dept)
+Fax: (608) 262-9777
+Email: mreames@cs.wisc.edu
+
+Fall 1996 Schedule
+
+
+
+Research interests: Databases, in particular digital terrain modelling
+(TINs); programming languages, compiler design; logic and logic
+programming.  
+
+Qualifying exam : Databases, Spring 1997.  Some previous years' exams
+Job interests: Software design and development in a product oriented
+environment that exploits my computer science education and my interests
+in databases and/or compiler design.
+
+My resume in postscript
+and html.
+As distributed to the Wisconsin DB Affiliates on Oct 21, 1996.  
+
+
+BA, Mathematics/Computer Science, Wesleyan University, 1994.
+
+In the "not for the faint of heart" section of the web page, here's a
+link to my senior honors
+thesis on General E-Unification.
+
+
+I Am The Coke Poobah
+Look at my works, ye mighty, and be afraid!!!
+
+Oh dear : I've gone and let this new job of being the Coke Poobah go to
+my head.  I'm not usually this far gone.  Really.  If you want to talk to
+someone who's better adjusted to his crucial role in UW CS dept life, you
+should probably see Elton.
+He doesn't even mention being the co-Poobah on his page.  Imagine
+that.
+
+Besides the aforementioned Coke Poobahship/mental illness, there are a
+few other things you might want to know about me.  I'm a third year
+graduate student in the CS department at Wisconsin, concentrating in
+databases, and currently studying for the qual (which will be sometime in
+early February).  For exercise and relaxation I play squash (reasonably well) all year round,
+ultimate frisbee (OK) in the summer, and basketball, poorly and
+infrequently; and if you notice such things, you might see me rapidly
+riding my mountain bike around campus -- even in the chilliest of weather,
+and always with a helmet.
+If you wish to learn more about my interests, feel free to examine my
+not-very-often-updated hierarchy of stuff I
+like.  Enjoy.
+
+Wisconsin's on-line library
+
+
+Last modified: Fri Nov  1 12:59:42 1996 by Martin Reames
+
+mreames@cs.wisc.edu
+
+
+
+

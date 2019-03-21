@@ -1,0 +1,424 @@
+Date: Mon, 11 Nov 1996 17:19:17 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 16 Sep 1996 18:51:54 GMT
+Content-length: 17163
+
+
+
+CS 110 Section 2 Lecture Notes - Week 2
+
+
+ Lecture Notes - Week 2
+
+
+Topic:
+   Program structure.  Constants and variables.  Arithmetic expressions.  The assignment statement.  Built-in functions.  Unformatted input and output.  Errors.
+
+   Text:
+   Chp. 2.1 - 2.8
+
+   Notes:
+   
+
+
+Fortran Line Structure
+
+
+FORTRAN programs are composed of lines, with one statement per line.
+      Each line has four sections:
+         
+Column 1 is the comment field.
+            Columns 2-5 is the line label.
+            Column 6 is the continuation marker.
+            Columns 7-72 is the actual Fortran statement.
+         
+
+	 1 2 3 4 5 6 7 8 9 10 11 12 13 14 ... 72
+	+-+-------+-+---------------------------+
+	 C  label  +         statement
+	
+
+Comment Field
+
+Comments are indicated by having a "C" (or "*") in column 1.
+      Comments take up the whole line. Everything on the line is ignored by the compiler.
+      Comments explain what your program code is doing in plain English.
+      
+	 C Compute the total cost from the
+	 C unit cost and quantity ordered
+	       TOTCST = UNTCST * QUANTY
+      
+
+Continuation Marker
+
+If a statement is too long to fit in the 72 columns then it can be split over two or more lines.
+      Put a "+" in column 6 to indicate that the line is a continuation of the previous line.
+      
+	 C Display the total cost
+	       PRINT *, 'The total cost is',
+	      +          TOTCST, 'dollars'
+      
+
+FORTRAN Statements
+
+All your FORTRAN statements must start in at least column 7 (helpful hint: change your tab setting to 6 characters).  Do not write any FORTRAN statements starting in columns 1 to 6.
+      Right:
+
+	  1 2 3 4 5 6 7 8 9 10 11 12 13 14 ... 72
+	 +---------+-+---------------------------+
+	              TOTCST = UNTCST * QUANTY
+      
+Wrong:
+
+	  1 2 3 4 5 6 7 8 9 10 11 12 13 14 ... 72
+	 +---------+-+---------------------------+
+	  TOTCST = UNTCST * QUANTY
+      
+Anything past column 72 is ignored by the compiler.  If your lines are too long then split them over two lines with a continuation marker.
+   
+
+
+FORTRAN Program Structure
+
+
+All FORTRAN programs have the same overall structure:
+      
+Program Header
+Variable Declarations
+Main Executable Section
+STOP
+END
+
+
+Program Header
+
+Gives the name of the program.
+         
+	      PROGRAM ENCIPH
+         
+
+STOP
+
+Tells the program to stop running and return to MS-DOS.
+   
+END
+
+Tells the compiler that this is the last statement in the program and it should stop compiling.
+   
+
+
+FORTRAN Variables
+
+Variable Names
+
+Variables store important values that your program will use or hold intermediate results.
+      
+	     TOTCST = UNTCST * QUANTY
+      
+Variable names must start with a letter, contain only uppercase letters or digits, and no longer than six characters.
+      Right:
+
+	 TOTCST, QUANTY, INDEX2
+      
+Wrong:
+
+	 TotalCost, 2B_Or_Not_2B
+      
+
+Variable Types
+
+You must explicitly specify the type of each variable; i.e. what sort of value it will store.
+      The most common variable types are:
+      
+REAL - a real number with a decimal point and fractional part.
+         INTEGER - a positive or negative integer number (no decimal places).
+         CHARACTER - one or more characters (e.g. a word or name).
+      
+
+Variable Declarations
+
+Specify the variable type followed by the variable name(s).
+      
+	      REAL TOTCST, UNTCST
+	      INTEGER QUANTY
+	      INTEGER INDEX2
+      
+For character variables you must also specify the maximum length of the character string (optional if just one character long).
+      
+	      CHARACTER *9 NAME
+	      CHARACTER CHAR
+      
+WARNING: If you don't explicitly specify the type of each variable then it will be declared a default type according to the I-N Rule (see Pg. 35). You must always explicitly declare every variable.
+   
+Constants
+
+If the value of a variable is known when you write the program and it never changes (e.g. Pi) then turn it into a constant with the PARAMETER statement.
+      
+	      REAL PI
+	      PARAMETER (PI = 3.141593)
+      
+A variable turned into a constant cannot be re-assigned a new value later on.
+      The PARAMETER statement immediately follows the variable declaration.
+   
+
+
+Assignment Statement
+
+
+To store a value to a variable you have declared use the assignment statement.
+      
+	      variablename = expression
+      
+The variable is always on the left-hand side of the assignment statement.
+      Right:
+
+	      TOTCST = UNTCST * 1.25
+      
+Wrong:
+
+	      UNTCST * 1.25 = TOTCST
+      
+The variable being assigned can also be part of the expression on the right-hand side.
+      
+	      COUNT = COUNT + 1
+      
+First, the whole expression is evaluated to get the result, then the result is stored in the variable.
+      The assignment statement does not mean variable equals expression but rather variable gets-assigned-the-value-of expression.  This is a subtle but important difference.
+   
+
+
+Arithmetic Expressions
+
+Aritmetic Operators
+
+FORTRAN supports all the standard mathematical operators:
+      
+* - multiplication
+         / - division
+         + - addition
+         - - subtraction
+         and also
+** - exponential (e.g. b^2 is written as b**2)
+      
+Example: translate the following quadratic equation into FORTRAN
+      
+         2x^2 - 5x + 7 = y
+      
+      is written as
+      
+	      Y = 2*X**2 - 5*X + 7
+      
+
+Operator Precedence
+
+Operators are evaluated in order of their precedence.  If several operators have the same precedence then they are evaluated left-to-right.
+      
+First: exponental **
+Second: multiplication * and division /
+Last: addition + and subtraction -
+
+To over-ride the default precedence use parenthesis (...)
+      
+	     b - c
+	 a = -----
+	     d - e
+      
+Right:
+
+	      A = (B - C) / (D - E)
+      
+Wrong:
+
+	      A = B - C / D - E
+      
+EXCEPTION: Consecutive exponents are evaluated right-to-left. Example:
+       
+          y = x^(z^2)
+       
+can be written as
+
+	  Y = X**Z**2
+       
+
+Arithmetic Functions
+
+FORTRAN has many built-in arithmetic functions (see Pg. 64 and Appendix A):
+      
+SQRT - square root
+        SIN - sine root
+        COS - cosine
+        TAN - tangent
+        EXP - e^x
+        ALOG - natural logarithm
+        ALOG10 - logarithm base 10
+        NINT - round a REAL number to nearest INTEGER
+
+Functions can be used in any arithmetic expression.
+      
+	      Y = EXP(4.5) + TAN(X + 2*SQRT(X))
+      
+The arguments of a function can be either values, variables or even arithmetic expressions and are enclosed in parentheses (...).
+      Some functions have more than one argument separated by commas.
+      
+	      A = B + MOD(C, 4)
+      
+
+Type Matching
+
+The type of an expression should match the type of the variable the result is going to be stored in.
+      
+	 integer-variable = integer-expression
+	 real-variable = real-expression
+      
+If the types mismatch then the expression is automatically converted to match the type of the variable, truncating any decimal places if necessary.
+      
+	 REAL X
+	 INTEGER I
+
+	 X = 6.6 * 1.6		(10.56)
+	 X = 6.6 / 1.6		(4.1256)
+	 I = 6.6 / 1.6		(10)
+	 I = 6.6 / 1.6		(4)
+      
+For all the operators, if both the operands are type INTEGER then the result is also type INTEGER.  If either operand is type REAL then the result is type REAL.
+
+      WARNING: With division, if both the operands are type INTEGER then the result is automatically truncated to an INTEGER also!
+      
+	 2.0/3 = 0.66666
+	 2/3   = 0 (!)
+      
+IMPORTANT:Always check the argument and return types for functions so you know whether or not your results will be truncated.
+   
+REAL Numbers
+
+REAL numbers can be written in either decimal or scientific notation.
+      
+decimal: 12.3	
+         scientific: 0.123E+2 (i.e. 0.1234*10^2)
+      
+By default REAL numbers are printed in decimal notation.
+   
+Rounding Errors
+
+Numbers are stored inside the computer in binary format (i.e. as powers of 2)
+      
+         10 base 10 = 2^3 + 2^1 = 1010 base 2
+      
+Most fractions cannot be represented precisely in binary (e.g. 0.1) so instead the closest approximimation in base 2 is stored.  Therefore, most REAL numbers are not stored precisely on any computer.
+      
+         0.1 * 10.0 does not equal 1.0 (e.g. = 0.999998)
+      
+IMPORTANT: Always use INTEGER values and variables whenever possible because these are stored precisely. Only use REAL values if you absolutely have to.
+   
+CHARACTER Strings
+
+To assign a value to a CHARACTER variable it must be either another CHARACTER variable or a string enclosed in single apostrophes.
+      
+	      CHARACTER *10 NAME1, NAME2
+
+	      NAME1 = 'John Doe'
+	      NAME2 = NAME2
+      
+The apostrophes are not stored in the variable.  To store an apostrophe inside and string type in two apostrophes.
+      
+	      NAME1 = 'John''s dog'			(John's dog)
+      
+If the string is shorter than the variable then then variable is padded with blanks (denoted by a "#").
+      
+	      NAME1 = 'John Doe'			(John Doe##)
+      
+If the string is longer than the variable then the excess characters are ignored; i.e. the string is truncated.
+      
+	      NAME1 = 'John Doesnt'			(John Doesn)
+      
+
+
+
+Input and Output
+
+Unformatted Output
+
+To display results on the screen use the PRINT statement.
+      
+	      PRINT *, TOTCST
+      
+To print multiple items on the same line separate them by commas.
+      
+	      PRINT *, X, ' plus ', Y, ' equals ', X+Y
+      
+You can print values, variables, arithmetic expressions or CHARACTER strings.
+      The next PRINT statement prints on the next line, not on the end of the previous one.
+      Always prompt the user before asking him/her to type something in. Otherwise when they run your program they will not know that the computer is waiting for them to enter a value.
+      
+	      PRINT *, 'Please enter the cost of the item'
+	      READ *, UNTCST
+      
+
+Unformatted Input
+
+To read in data entered at the keyboard by the user use the READ statement.
+      
+	      READ *, UNTCST
+      
+You always read in a variable you are specifying where the value is to be stored.  You never read in expressions or literal values.
+      The user must press the ENTER or RETURN key when he/she has finished entering in a line of data at the keyboard.
+      
+	 27ENTER
+
+To read in multiple values entered on the same line specify several variable separate by commas.
+      
+	      READ *, DAY, MONTH, YEAR
+      
+If the user enters multiple values on the same line he/she does not separate them by commas but uses spaces instead.
+      
+	 11  20  67ENTER
+
+The values the user types in must be entered in the same order and be the same type as the variables in the READ statement.
+   
+Reading CHARACTER Strings
+
+When reading in CHARACTER strings from the keyboard the user must surround them by apostrophes.
+      
+	 'Gareth Bestor'ENTER
+
+This may be undesirable and it can be avoided by using formatted input which we will discuss later (see Program #0 for an example).
+   
+Types of Errors
+
+Syntax Error: compile time problem. Computer has no idea how to
+translate part of your program. Misspelling words (starting the first line
+with PROBLAM instead of PROGRAM, for example), using keywords (such as REAL)
+as variable name, nonsense characters on lines are common examples.
+Semantic Error: compile time problem. Lines can be translated
+individually, but it doesn't make sense with regard to the entire program. For
+example, typing IMPLICIT NONE and then trying to use a variable name not
+delcared yet.
+Run-Time Error: run-time problem. Everything translates fine, but when
+running there are certain steps the computer itself cannot do. Saying Y = Z/0,
+for example, is a legal statement but the computer cannot divide by 0. It will
+compile, but fail running when the program reached this point.
+Line-position Error: can be any type of error, or none. Occurs when
+line rules not obeyed. Can result in many things; example, if we had
+
+READ *,......ad nauseum,B,C
+
+and the B was on the 72nd column, rest of the line would be ignored, and
+you'd still have a legal statement (not reading in C may cause a problem later
+in the program, though). If the B was on the 71st column, however, then only
+the C would be ignored, and you'd have a syntax error (READ cannot end with a
+comma). 
+Logical Error: occurs at run-time (sort of). Nothing wrong with the
+program, but it's not doing what you wanted. The computer is doing just what
+it's told, but you've written the program incorrectly. The hardest and most
+annoying to correct (and why it's important to have the algorithm correct in
+your head and on paper before you start typing it in)  
+   
+
+
+
+
+Copyright © 1996 Modified from Gareth S. Bestor (bestor@cs.wisc.edu).  Last modified September 16, 1996.
+
+
+

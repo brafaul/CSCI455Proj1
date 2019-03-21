@@ -1,0 +1,154 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:38:01 GMT
+Content-Type: text/html
+Content-Length: 7041
+Last-Modified: Tuesday, 21-May-96 03:42:38 GMT
+
+
+
+Lin Hsian Wang
+
+
+This Page Is Under Major Construction
+
+
+
+
+
+Lin Hsian Wang
+
+
+
+ 
+ 
+ 
+I am a Master of Eng. student in Computer Science
+at Cornell University.
+I have a BS degree in Computer and Information Science
+at The Ohio-State University. I was born in Fangliao ,a small village on the southern coast of Taiwan in 1970. 
+
+
+
+
+
+
+
+ Still constructing...<!--applet codebase="http://java.sun.com/applets/applets/UnderConstruction/" code="JackhammerDuke.class" width=300 height=100>
+
+
+
+
+
+Fall 1995 classes
+
+CS631 Multimedia Systems.   Final project : Orwell: Removal of Tracked Objects in Digital Video
+
+EE445 Computer Networks
+
+EE547 Computer Vision. Final project :  Moment-Based Edge Operator with Bob Amidon
+
+CS790 Automated Video Transcribing and Annotations Research.  My advisor is Prof. Ramin Zabih
+
+
+
+Spring 1996 Classes
+
+CS674 Natural Language Processing
+CS514 Practical Distributed Computing
+CS515 Practicum in Distributed Systems Project TOP : Distributed Network Visualization and Management
+CS664 Machine Vision
+CS709 Computer Science Colloquim
+CS790 M.Eng Project: Orwell: Object Removal for Moving Scenes.
+
+CS516 High Performance Systems (Audition)
+
+
+ 
+Programming  in  Java
+
+ 
+  Webspace
+
+
+
+
+Interesting Web sites, links, and useful stuffs
+
+
+
+
+Cornell Info links
+
+IEEE Computer Society
+
+Taiwan Headline News via Sinanet.com
+
+The WWW of Music
+
+Movie connection from Jon Swartz.
+
+MOVIEWEB - A cool movie site for moviemania.
+
+Cool WWW links also from Jon Swartz.
+
+Click here for some of my GIF collections.
+
+Thinking Pictures
+
+The lists of Top 20 Best-selling CD and New Book Releases from Taiwan published by World Journal Bookstore.
+
+"Quotes"
+
+"Chinese Classics"
+
+Linux Links
+
+Tcl/Tk On-line Resources from CS 401/501 (Software Engineering).
+
+The MIT Gallery of Hacks
+
+The Earth Home Page
+
+
+
+
+
+
+
+Miscellaneous ...
+
+HongKong Bridge + Hong Kong Links
+
+For those who like Japanese animations, take a look at Carlos' Home Page or jump to Anime Links and CJAS and CalAnimage Alpha Chapter at Berkeley.
+
+Totoro's home page
+
+
+Laputa: Castle in the Sky | 
+Nausicaa of The valley of Wind | 
+Conan | 
+Totoro | 
+Dr. Slump 
+| Kiki | 
+Legend of Galactic Heroes from Ming's Anime page
+
+
+
+
+
+
+Campus Address:
+Uptown Rd. apt.#4E
+
+Ithaca, New York  14850
+
+Tel:(607) 257-6813
+
+
+  linhsian@cs.cornell.edu
+
+
+Last Update: 19 October 1995
+
+

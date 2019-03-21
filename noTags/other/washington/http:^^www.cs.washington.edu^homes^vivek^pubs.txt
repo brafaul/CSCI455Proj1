@@ -1,0 +1,43 @@
+Date: Tue, 10 Dec 1996 21:30:32 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 03 Oct 1996 19:16:17 GMT
+Content-length: 1512
+
+
+
+
+Vivek Ratan's Publications
+
+
+
+Some of my publications: 
+
+
+
+
+"Experiences Using DCE and CORBA to Build Tools for Creating Highly-Available
+Distributed Systems,"  E.N. Elnozahy, V. Ratan, and M.E. Segal.
+ In Proceedings of the IFIP International Conference on Open Distributed
+Processing (ICODP'95), February, 1995. 
+Also available as technical report
+CMU-CS-95-117.
+
+
+
+"Highly Available Directory Services in DCE", B. Acevedo, L. Bahler, 
+E. N. Elnozahy, V. Ratan, M. E. Segal.  In Proceedings of the Twenty-sixth
+Annual International Symposium on Fault-Tolerant Computing (FTCS-26), June
+1996. 
+
+
+"A CAD Environment for Safety-Critical Software", Nancy Leveson, Ken 
+Bauer, Mats Heimdahl, Wayne Ohlrich, Kurt Partridge, Vivek Ratan, and Jon 
+Reese. NASA Conference on Safety Through Quality 1995.
+
+
+"Safety Analysis Tools for Requirements Specifications", Vivek Ratan, Kurt
+Partridge, Jon Reese, and Nancy Leveson. Published in COMPASS '96.
+
+
+

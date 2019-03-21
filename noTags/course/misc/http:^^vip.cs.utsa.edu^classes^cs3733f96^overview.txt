@@ -1,0 +1,49 @@
+Date: Tue, 26 Nov 1996 19:30:58 GMT
+Server: NCSA/1.5.1
+Last-modified: Mon, 04 Nov 1996 15:00:14 GMT
+Content-type: text/html
+Content-length: 1755
+
+
+CS 3733 Operating Systems Homepage
+
+
+
+ 
+
+
+CS 3733 Operating Systems: Fall 1996 
+
+
+Syllabus
+Instructor
+Robbins and Robbins Textbook
+Tanenbaum Textbook
+Daily Class Schedule
+Assignments
+ Ring Java Demo
+
+
+
+
+ Important Dates
+Tuesday, August 27, Frist Class
+
+     Tuesday, September 3, Assignment 0 Due
+
+     Thursday, September 12, Assignment 1 Due
+
+     Thursday, October 3, Assignment 2 Due
+Tuesday, October 15 Midterm Exam
+
+     Thursday, October 24, Assignment 3, Part 1 Due
+Friday, October 25 Drop Date
+
+     Thursday, Novmeber 7, Assignment 3, Part 2 Due
+
+     Tuesday, Novmeber 19, Assignment 4 Due
+
+     Tuesday, December 3, Assignment 5 Due
+Monday, December 9 Final Exam (at 10:30am)
+
+

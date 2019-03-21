@@ -1,0 +1,8 @@
+Server: Netscape-Enterprise/2.0a
+Date: Sun, 01 Dec 1996 19:20:01 GMT
+Accept-ranges: bytes
+Last-modified: Tue, 10 Sep 1996 17:10:50 GMT
+Content-length: 3598
+Content-type: text/html
+
+  Client Computers             Home A good place to start your journey.Provides an overview of our pages.    Links:  Company Links Point your browser here for links to client computer related sites. Edgar Links Need financials? Basic information about the client computer manufacturers?The EDGAR database contains tons of SEC filings waiting for you.. News Links This is where you find stock prices, links to current news and search engines.    Other:  Headlines Industry related headlines, clipped for your convenience. Feature of the Month A monthly column written by our own experts.Includes links for further exploration. Analyses Analyses of client computer industry and featured companies.             This page is maintained by: Jon Barber (barber@cs.cornell.edu),Vilho H. Järvinen (vhj1@cornell.edu) and Todd E. Peskin (tep1@cornell.edu).Best viewed with Netscape Navigator.       

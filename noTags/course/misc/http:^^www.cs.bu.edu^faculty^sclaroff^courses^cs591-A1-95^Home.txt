@@ -1,0 +1,48 @@
+Date: Wed, 20 Nov 1996 21:41:52 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+		
+
+BU CLA CS 591-A1: Introductory Seminar in Computer Graphics---Home Page
+		
+
+
+
+BU
+CLA
+		
+CS 591-A1:
+		
+Introductory Seminar in Computer Graphics 
+
+Spring 1995
+		
+
+HOME PAGE
+		
+
+
+Class Meetings:
+
+	Meets with CLA 
+Stan Sclaroff 
+Room MCS-279, phone 353-8928.
+E-mail: sclaroff@cs
+ Office Hours: M 2:30-4:00, W 1:30-3:00.  
+
+Course Description:
+
+ 
+This seminar runs in parallel with the undergrad introduction to graphics
+class,  CLA 
+Syllabus
+
+
+Course Policy, Grading,  etc.  
+
+Stan Sclaroff 
+Created:  January 17, 1995
+		
+
+

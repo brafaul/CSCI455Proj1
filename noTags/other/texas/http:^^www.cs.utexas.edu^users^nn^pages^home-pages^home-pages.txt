@@ -1,0 +1,39 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:46:13 GMT
+Content-Type: text/html
+Content-Length: 1105
+Last-Modified: Tuesday, 22-Oct-96 00:47:02 GMT
+
+
+
+Neural Nets Home Pages Around the World
+
+
+
+
+ Gateway to the Big Wide World of Neural Nets
+
+
+
+
+
+
+
+
+
+
+
+
+ North America  |
+   Europe  |
+   Asia  |
+   Middle East  |
+   General  |
+   No others 
+
+
+ Back to UTCS Neural Networks home page 
+
+martym@cs.utexas.edu
+

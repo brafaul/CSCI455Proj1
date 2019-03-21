@@ -1,0 +1,87 @@
+Date: Wed, 08 Jan 1997 20:59:12 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 505 Projects
+
+
+CSE 505 ProjectsAutumn 1994
+
+
+The 505 project should involve writing a 4-10 page paper on a topic related
+to programming language design and implementation, and may also involve a
+programming project.  Students can work individually or in pairs on the
+project and paper.  Optionally, students can give a presentation in class
+on their work.  (More work will be expected of a pair than an individual.)
+
+If you do an implementation project, it can either be something like
+implementing an SK-reduction machine, or implementing some program in
+language X.  If the latter, your paper should discuss not just the
+particulars of the project, but also what the relevant special features of
+X are, and how they helped and hindered the development.  Perhaps better,
+implement it in both languages X and Y and compare.
+
+A brief project proposal is due on November 21 (by e-mail).  The project is
+due the last day of class, Dec 7.
+
+
+Here are some suggestions for possible projects.  Naturally you aren't
+restricted to these suggestions, but can work on a different topic if you wish.
+
+
+ Functional programming:
+  
+ implementing an SK reduction machine
+   Haskell design; differences from Miranda and other functional languages
+   supercombinators and the G machine 
+   strictness analysis
+  
+ Procedural Languages (Algol descendants, C-like languages, etc).
+  
+ Cove ... from Craig Chambers: "A potential 505 project might be to
+refine the current Cove language design.  Cove is a type-safe dialect of C.
+We'd like someone to work out the precise details of the casting rules and
+the type parameterization structure to ensure type safety cannot be
+circumvented."
+  
+ Languages for concurrency 
+(see the 590L topics this quarter)
+
+ Object-Oriented Programming
+  
+ Cecil (could include an implementation project in Cecil)
+   Hermes
+   type systems for object-oriented languages
+   compilation techniques
+   meta-object protocols and reflection
+   Beta (an object-oriented language with a single abstraction mechanism)
+   concurrent object-oriented languages
+   Eiffel
+  
+ Logic Programming; Constraint Programming
+  
+ Strand (perhaps including an implementation project)
+   a survey of concurrent logic programming
+   Kaleidoscope.  (This is a locally grown constraint imperative
+programming language.  We'd like to have one or two people write some
+sample programs, help debug the compiler, and explore the programing style.
+Could evolve into a quals project.)
+   constraint logic programming
+   concurrent constraint programming -- either a survey, or using a
+    language such as AKL
+   the Oz language
+  
+ Other
+  
+ Social and political aspects of programming language development
+   continuations
+   persistant programming languages
+   Visual languages (e.g. Prograph, Visual Basic, component-based
+       programming) 
+   scripting languages
+   language support for atomic data types
+  
+
+

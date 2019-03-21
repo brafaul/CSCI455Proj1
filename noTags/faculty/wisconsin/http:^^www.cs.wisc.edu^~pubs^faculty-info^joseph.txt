@@ -1,0 +1,79 @@
+Date: Thu, 07 Nov 1996 19:09:17 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 30 Oct 1995 22:12:00 GMT
+Content-length: 2811
+
+
+
+ Home Page of Deborah A. Joseph 
+
+
+ 
+ Deborah A. Joseph 
+
+ Associate Professor of Computer Sciences and Mathematics 
+
+ Computer Sciences Department 
+ University of Wisconsin 
+ 1210 W. Dayton St. 
+ Madison, WI 53706-1685 
+
+ telephone: (608) 262-1204 
+ fax: (608) 262-9777 
+ email: 
+ joseph@cs.wisc.edu 
+
+Ph.D., Purdue University, 1981 
+Interests:
+Structural and applied complexity theory, computational biology,
+computational geometry, mathematical logic 
+
+ Research Summary 
+
+My research concerns two areas of theoretical computer science:
+1) the study of structural properties of complexity classes, and
+2) the design and analysis of algorithms for biological problems.
+
+
+In the last twenty years a great deal of work has gone into studying
+the properties of sets that are decidable in deterministic and
+nondeterministic polynomial time. Despite this effort we still
+know very little about these classes. Recently in fact some computer
+scientists have questioned the adequacy of known proof techniques
+for resolving questions such as whether P = NP? My research investigates
+the structural properties of sets in these classes and explores
+in a formal way the types of proof techniques necessary to resolve
+problems concerning complexity classes. 
+
+My research interests in computational biology are primarily in
+the area of computational methods for genome sequencing. These
+included the development of dynamic data structures and algorithms
+for fragment assembly in large scale genome sequencing projects,
+and the development of specific algorithmic techniques for handling
+repetitive sequences. In addition my research has utilized graph
+theoretic methods for doing rapid homology detection in the analysis
+of anonymous sequences. 
+ Sample Recent Publications 
+
+Collapsing degrees in subexponential time (with R. Pruim and P.
+Young), Proceedings of the Ninth Structure in Complexity Theory
+Conference, 1994. 
+ 
+On sparse spanners of weighted graphs (with I. Althofer, G. Das,
+D. Dobkin, and Soares), Discrete and Computational Geometry,
+vol. 9, 1993. 
+ 
+Obtaining global similarity from local similarity (with J. Meidanis
+and P. Tiwari), in Proceedings of the Fourth Scandinavian
+Workshop on Algorithms, Springer-Verlag Lecture Notes in
+Computer Science, vol. 621, pp. 326-337, 1992. 
+
+
+ This page was automatically created October 30, 1995.
+ Email pubs@cs.wisc.edu
+to report errors.
+
+
+
+

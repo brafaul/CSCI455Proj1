@@ -1,0 +1,41 @@
+Date: Tue, 14 Jan 1997 20:08:41 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Sat, 20 Apr 1996 20:48:23 GMT
+Content-length: 1939
+
+
+Dennis Shasha
+
+
+Dennis Shasha
+Prof, Computer Science Dept
+Department of Computer Science
+
+Courant Institute of Mathematical Sciences
+New York University
+Mail Address
+251 Mercer Street
+New York, NY 10012, U.S.A.
+Phones
+212.998.3086 (voice)   212.995-4123 (fax)
+Finger
+shasha@cs.nyu.eduEmail
+shasha@cs.nyu.edu
+Research   I do research in biological
+computing, fault-tolerant parallel computing, information tailoring for
+difficult documents like laws, real-time scheduling, and write some fun
+books. See  Research Activity in brief or
+a five page postscript blurb on my main activities and
+plans. If you want a truly stimulating reading experience, try my
+ resume in postscript.
+For excerpts
+of my latest book (short biographies of great computer scientists), see
+ Out of Their Minds: the lives and discoveries of 15
+great computer scientists
+Here is a link to the
+technical reports offered by the department. (You won't find much of my
+stuff there, since I usually go straight for conference pubs.) 
+
+NYU Computer Science Tech Reports
+Last updated January 3, 1996

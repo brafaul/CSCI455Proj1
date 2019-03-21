@@ -1,0 +1,52 @@
+Date: Wed, 20 Nov 1996 21:44:08 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+
+CS 210 - Computer Systems - Spring 1996
+
+CS 210 - Computer Systems - Spring 1996
+
+
+Syllabus
+Reading List
+Lecture Notes
+	
+Week 1  - 1/16, 1/18 
+	Week 2  - 1/23, 1/25
+	Week 3  - 1/30, 2/1
+	Week 4  - 2/6, 2/8
+	Week 5  - 2/22, 2/27
+	Week 6  - 2/29, 3/12, 3/14
+	Week 7  - 3/19, 3/21
+	Week 8  - 3/26, 3/28
+	Week 9  - 4/11, 4/16, 4/18
+	Week 10 - 4/18, 4/23
+	Week 11 - 4/23, 4/25
+	Week 12 - 4/25, 4/30
+	
+ Homeworks
+	
+Homework 1 - Due 2/8
+	Homework 2 - Due 3/14
+	
+Notes from Section 2/26
+Instructions for Submitting Homework 2
+
+Homework 3 - Due 4/23
+		
+Notes from Section 4/1
+Instructions for Submitting Homework 3
+
+
+ Midterms
+
+
+Note: the Section Meeting for CS210 is Mondays from 2:00 to 3:00 pm in MCS 148.  
+
+
+Bob Carter / carter@cs.bu.edu / [an error occurred while processing this directive]
+
+
+

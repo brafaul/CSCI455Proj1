@@ -1,0 +1,76 @@
+Date: Tue, 10 Dec 1996 16:52:55 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 321, Autumn '96
+
+ CSE 321 Discrete Structures 
+Autumn 1996
+Syllabus
+Instructor
+
+Paul Beame,
+beame@cs.washington.edu
+
+Lectures MWF 10:30am - 11:20pm in Electrical Engineering 108
+Office Sieg 416
+Phone 543-5114
+Office Hours MWF 11:30-11:50, 
+Thursdays 11:00-11:50, or by appointment.
+
+
+Communication with the instructor and TA by email is encouraged.
+
+TA
+
+Jonathan Nowitz,
+nowitz@cs.washington.edu
+
+Section A Thursday, 1:30-2:20 in Johnson 437
+Section B Thursday, 2:30-3:20 in Loew 216
+Office Hours Tuesdays 2:30-3:20 in Sieg 326A, Wednesdays 3:30-4:20
+in Sieg 326D
+
+Quiz Sections Quiz sections meet at 1:30 - 2:20 Thursday in Loew Hall
+437
+and 2:30 - 3:20 Thursday in Johnson 437.  You may attend either of the quiz
+sections.  
+
+ Text Book 
+The text for the course is Rosen, 
+Discrete Mathematics and Its Applications.  The  Third Edition of the 
+text will be used.  The Second Edition is very close but the exercises
+differ somewhat between the second and third editions
+of the text, so you will need to consult the third edition to make sure
+that you are solving the appropriate problems.
+The course will probably follow the text
+fairly closely.  There are many other discrete mathematics texts
+available that cover the same material.  
+
+ Grading: The course grade will be based on homework,
+a midterm, and a final exam.  The approximate weighting of the three components
+is 40-50% Homework, 15-25% midterm and 30-40% final exam.
+
+ Homework:  Homework is intended to be a major portion of the course.
+Assignments will be due weekly, usually on Friday.  It is expected that
+homework solutions represent original work.  
+
+ Course Web:  All the CSE 321 handouts will be available on the
+department's course web:  Document URL
+
+http://www.cs.washington.edu/education/courses/321.
+
+The subdirectories contain
+copies of handouts from previous offerings of the course
+(including old exams).
+
+ Purpose:  To provide an introduction to the formal
+methods and concepts used in Computer Science.
+
+ Topics: Chapters 1-8 will be covered.  The main topics will
+be logic (1.1-1.3), methods of proof (3.1-3.3), counting and probability
+(4.1-4.5) relations (6.1-6.6),
+graph theory (7.1-7.3), and trees (8.1-8.3).
+
+

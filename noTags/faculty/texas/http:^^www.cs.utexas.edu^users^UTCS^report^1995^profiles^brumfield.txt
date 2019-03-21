@@ -1,0 +1,54 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:18:55 GMT
+Content-Type: text/html
+Content-Length: 1923
+Last-Modified: Tuesday, 20-Feb-96 23:54:51 GMT
+
+Jeffrey A. Brumfield
+ 
+Jeffrey A. Brumfield
+
+Senior Lecturer 
+
+B.S. in Math and Computer Science (1975), M.A. in Mathematics (1977), 
+University of Georgia 
+
+M.S. in Computer Science (1979), Ph.D. in Computer Science (1982), 
+Purdue University 
+
+Honors and Awards
+
+ College of Natural Sciences Teaching Excellence Award, 1985 & 1988
+
+Areas of Interest
+
+Performance analysis, distributed systems, and operating systems 
+Summary of Research
+
+I am interested in the role models play in computer science. Designers
+of computing systems use mathematical models to study the performance
+of existing and proposed systems. In a queueing network model, each
+resource in the computer system is represented by a queue of tasks
+awaiting service. The solution of the model involves the computation
+of response times, queue lengths, and throughputs. 
+Selected Recent Publications
+
+J. A. Brumfield, V. Y. Shen, C. Richter, and M. L. Graf, "VERDI:
+a visual environment for designing distributed systems," Journal of
+Parallel and Distributed Computing, vol. 9, pp. 128-137, 1990. 
+
+J. A. Brumfield, J. L. Miller, and H. Chou, "Performance modeling
+of distributed object-oriented database systems," in 1988
+International Symposium on Databases in Parallel and Distributed
+Systems, Austin, Texas, December 1988. 
+
+J. A. Brumfield, "Concurrent programming in Modula-2," in
+Proceedings of the 18th ACM SIGCSE Technical Symposium, St. Louis,
+Feb. 1987, SIGCSE Bulletin, vol. 19, no. 1, pp. 191-200. 
+
+Additional information can be obtained from
+individual faculty members'
+home pages. 
+Back to List of Faculty Profiles 
+

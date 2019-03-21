@@ -1,0 +1,51 @@
+Date: Tue, 14 Jan 1997 23:20:26 GMT
+Server: NCSA/1.5.1
+Last-modified: Tue, 07 Jan 1997 03:37:24 GMT
+Content-type: text/html
+Content-length: 1516
+
+
+COMP 145 Lecture Notes
+
+
+ Supplemental Notes 
+
+
+
+The topics are not in the class text, but you may find them
+useful in conquering your COMP 145 project...
+
+
+
+How Specs Live Forever
+
+
+Software process models
+
+
+Module coupling and cohesion
+
+
+Object-oriented design, and USES
+
+
+Your implementation manual
+
+
+COCOMO: Resource estimation
+
+
+Team Organization
+
+
+Building GUIs with Tcl/Tk
+
+
+
+Perl: Language Overview (thanks to Dr. John Smith)
+
+
+Perl: Writing WWW CGI scripts (thanks to Dr. John Smith)
+
+
+

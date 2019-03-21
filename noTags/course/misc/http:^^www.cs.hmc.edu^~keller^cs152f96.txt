@@ -1,0 +1,427 @@
+Date: Tue, 26 Nov 1996 18:41:25 GMT
+Server: NCSA/1.5.1
+Last-modified: Tue, 26 Nov 1996 18:36:13 GMT
+Content-type: text/html
+Content-length: 16806
+
+
+
+CS 152:  Neural Networks
+
+
+URL http://www.cs.hmc.edu/~keller/cs152f96.html
+
+
+Harvey Mudd College Fall 1996
+
+
+Computer Science 152: Neural Networks
+
+
+
+Trailer:
+
+
+Can a computer be taught to read words aloud,
+recognize faces, perform a medical diagnosis,
+drive a car, play a game, balance a pole, predict physical phenomena?
+
+
+The answer to all these is yes.  All these applications and others
+have been demonstrated using
+varieties of the computational model known as "neural networks", the subject of this
+course.
+
+
+The course will develop the theory of a number of neural network models.
+Participants will exercise the theory through both pre-developed computer
+programs and ones of their own design.
+
+
+Course Personnel:
+
+
+Instructor:  Robert Keller 
+      242 Olin (4-5 p.m. MTuW or by appt.), keller@muddcs, x 18483
+  
+
+Tutor/Grader:  T.J. Kelly
+      tkelly@muddcs, x 74860
+  
+
+Secretary:  Nancy Mandala 240 Olin (1-5 M-F)  nancy@muddcs, x 18225
+  
+
+System administrator:  Quay Ly 101 Beckman quay@muddcs, x 73474
+  
+
+
+Catalog Description
+
+Modeling, simulation, and analysis of artificial neural networks.
+Relationship to biological neural networks.  Design and optimization of
+discrete and continuous neural networks.  Backpropagation, and other gradient
+descent methods.  Hopfield and Boltzmann networks.  Unsupervised learning.
+Self-organizing feature maps.  Applications chosen from function approximation,
+signal processing, control, computer graphics, pattern recognition, time-series
+analysis.  Relationship to fuzzy logic, genetic algorithms, and artificial
+life.
+
+Prerequisites: Biology 52 and Mathematics 73 and 82, or permission of
+the instructor.  3 credit hours.
+
+Texts
+
+
+ Main Textbook: 
+  
+Martin T. Hagan,
+  Howard B. Demuth,
+  and Mark Beale,
+  Neural Network Design,
+  PWS Publishing Company, Boston, 1996, ISBN 0-534-94332-2,
+  
+  which I will call NND below.
+  
+ Supplementary references, which will be provided as necessary.
+  
+Related WWW links (for self-study and research)
+  appear below.
+  
+Software, which is installed on muddcs.cs.hmc.edu:
+    
+ MATLAB Neural Network Toolbox, The MathWorks, Inc.
+    Matlab Neural Network Stuff
+Matlab cross referenced
+ SNNS: Stuttgart Neural Network Simulator.
+    
+
+
+Course Requirements
+
+
+There will be some homework and programming
+assignments, but no exams.  These assignments will constitute about
+50% of the grade.  The other 50% of the grade is from a substantial
+final project involving either a working neural network application or
+a research paper.  The grade on the project will be determined by the
+comprehensiveness and degree to which you explored competing
+approaches.  The projects will be presented orally.  
+
+Optional
+voluntary oral presentations on textbook material
+can also be made during the term.  These
+can act to cushion your grade.  They are very much encouraged, as it
+they really help you learn the material at a higher level than you
+would otherwise.
+Please see me if you are interested in
+making a presentation.
+
+
+CS 152 Topic Outline
+
+Week 1 (read NND chapters 1 to 4; you may skip 3-8 to 3-12 for now)
+   Contexts for Neural Networks
+    
+        Artificial Intelligence
+            Biological
+            Physics 
+    
+ Artificial Neural Network overview
+    
+ Perceptrons
+     Perceptron learning rule
+     Perceptron convergence theorem
+    
+
+Week 2 (read NND chapter 5 to 7)
+  
+
+ Linear transformations for neural networks
+     Supervised Hebbian learning
+     Pseudoinverse rule
+     Filtered learning rule
+     Delta rule
+     Unsupervised Hebbian learning
+    
+
+Week 3 (read NND chapters 8 and 9)
+  
+
+ Performance surfaces
+     Performance optimization
+      
+ Steepest descent algorithm
+       Newton's method
+       Conjugate gradient
+      
+
+
+Week 4 (read NND chapter 10)
+  
+
+Widrow-Hoff Learning
+      
+ Adaline
+       LMS rule
+       Adaptive filtering
+      
+
+
+Week 5 (read NND chapters 11 and 12)
+  
+
+ Backpropagation in Multi-Level Perceptrons (MLP)
+     Variations on backpropagation
+      
+ Batching
+         Momentum
+         Variable learning rate
+         Levenberg-Marquardt (LMBP)
+         Quickprop
+      
+
+
+Week 6 (supplementary material)
+  
+
+  Radial basis function networks (RBF)
+    
+
+Week 7 (read NND chapter 13)
+  
+
+ Associative learning
+      
+ Unsupervised Hebb rule
+       Hebb rule with decay
+       Instar rule
+       Kohonen rule
+       Outstar rule 
+      
+
+
+Week 8 (read NND chapter 14)
+  
+
+  Competitive networks
+      
+ Hamming network
+       Self-Organizing feature maps (SOM)
+       Counterpropagation networks (CPN)
+       Learning vector quanitization (LVQ)
+      
+
+
+Week 9 (read NND chapters 15 and 16)
+  
+
+  Grossberg networks
+      Adaptive resonance theory
+      
+ ART1 networks
+      
+
+
+Week 10 (read NND chapters 17 and 18)
+  
+
+ Hopfield networks
+     Spin-glass model and simulated annealing
+     Boltzman networks
+     Cascade correlation learning
+     Bi-directional associative memory (BAM)
+    
+
+Week 11 (supplementary material)
+  
+
+ Sequential networks
+      
+ Time series
+       Backpropagation through time
+       Finite Impulse Response (FIR) MLP
+       Method of temporal differences
+      
+
+
+The following additional, but related topics are assuming the previous
+material hasn't expanded in time significantly.  Whether it does
+remains to be seen.  If so, some of these topics may be compressed or
+eliminated.
+
+
+Week 12
+
+
+ Genetic programming and connection to NNs
+   Other topics related to Alife (Artificial Life)
+  
+
+Week 13
+
+
+ Fuzzy logic and its connection to NNs
+    
+
+
+
+Auxiliary References (not required):
+
+Simon Haykin,
+  Neural networks - A comprehensive foundation,
+  Macmillan, 1994.
+  This book was used in the previous offering of the course.
+  It includes topics such as radial basis function networks and temporal
+  approaches which are not present in the main textbook.  However the
+  mathematics is more difficult to follow.
+  
+Mohamad H. Hassoun,
+  Fundamentals of artificial neural networks,
+  MIT Press, 1995.
+  This is another fairly thorough introduction.
+  
+James A. Anderson, 
+  An introduction to neural networks,
+  MIT Press, 1995.
+  This is a more gentle introduction to the topic, by one of the pioneers in the field.
+  
+
+  Irwin B. Levitan and Leonard K. Kaczmarek,
+  The Neuron,
+  Oxford University Press, 1991.
+  This book focuses on the biology and physics of neurons.
+  
+
+  Marvin L. Minsky and Seymour Papert,
+  Perceptrons (expanded addition),
+  MIT Press, 1988.
+  The historical importance of this book will be discussed in the course.
+  
+
+  Duda and Hart,
+  Pattern classification and scene analysis,
+  Wiley, 1972.
+  This book gives a broad look at pattern classification problems, but is not
+  on neural nets as such.
+  
+
+  Teuvo Kohonen
+  Self-organizing maps,
+  Springer-Verlag, 1995.
+  This is a comprehensive reference by the originator of this concept.
+  
+
+  Bart Kosko,
+  Neural networks and fuzzy systems : a dynamical systems approach to machine intelligence,
+  Prentice Hall, 1992.
+  This book compares fuzzy and neural approaches to control problems.
+  
+
+  Zbigniew Michalewicz,
+  Genetic Algorithms + Data Structures = Evolution Programs,
+  Third Edition,
+  Springer Verlag, 1996.
+  This book describes the evolutionary approach, which in some cases can achieve
+  results similar to neural approaches.
+  
+
+  John R. Koza,
+  Genetic Programming,
+  MIT Press, 1994.
+  This book focuses on the evolutionary approach to producing programs.
+  
+
+  Christopher G. Langton (ed.),
+  Artificial Life,
+  Addison-Wesley, 1989.
+  This is a colllection of articles on the topic.
+  
+
+Worldwide Web Indices: 
+
+NN FAQ
+Index to NN Bibliographies
+Top 500 Neural Network Sites
+Yahoo Search
+Alta Vista Search
+Lycos Search
+Magellan Search
+Neural Networks Archive
+Backpropagation
+SNN Neural Network Pointers
+Noise Biblio
+Financial Markets Biblio
+Neuro-Fuzzy Systems
+Neural Networks in Diagnosis and Forecasting Applications
+Machine Learning Course
+Neural Networks Survey
+Using NN's for web browsing
+Temporal Difference Learning and TD-Gammon
+Neuroscience index
+Sutton's Temporal Difference paper
+Neural Net Transfer and Learning to Learn
+Notes on Neural Nets
+Dave Touretzky's Notes
+Slides re. Hertz, Krogh, and Palmer 
+CMU
+Speech Translation Research
+University of Sheffield
+University of University of Skovde
+University of Nijmegen
+Cortex Project
+Aston University
+Caltech CNS 185: Collective Computation
+Neutrality links
+Machine Learning in Games
+Lip Reading
+Strategic Game-Playing Bibliograhy
+Notes on Control
+PDP++
+WEBSOM
+Boston University Center for Adaptive Systems
+ART (Adaptive Resonance Theory) FAQ
+Neural Net Resources
+Neural Net Links
+
+Neurocomputing People
+
+Charles W. Anderson
+Andrew G. Barto
+Stephen Grossberg
+John Hopfield
+Michael I. Jordan
+Teuvo Kohonen
+Todd K. Leen
+Terrence J. Sejnowski
+Richard S. Sutton
+Gerald Tesauro
+Eric A. Wan
+Bernard Widrow
+
+Software
+
+RBF networks in MatLab
+
+Data
+
+NetTalk
+Protein Structure
+
+Demos
+
+1D Kohonen map
+2D Kohonen map
+Another 2D Kohonen map
+3D Kohonen map
+Travelling Salesman Problem using Kohonen map
+Competitive Learning Models
+Neural Character Recognition
+VQ
+Robot Arm (GCMAC)
+Elastic Net TSP
+N Queens
+Fuzzy Truck Backer
+Others
+DISCERN Neural Natural Language Demo
+

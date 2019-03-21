@@ -1,0 +1,66 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:29:32 GMT
+Content-Type: text/html
+Content-Length: 4192
+Last-Modified: Wednesday, 09-Nov-94 21:36:55 GMT
+
+Richard Zippel
+
+
+
+
+Richard Zippel
+Senior Research Associate
+rz@cs.cornell.edu
+Ph.D. MIT, 1979
+
+
+My research focuses on using symbolic mathematics and modern software techniques to automate the generation of scientific software, currently focusing on computational fluid dynamics.  This work will allow a scientist to specify the differential equations to be studied, the mathematical techniques that will be used perform the numerical computations and the architecture of the machine on which the calculations will be done.  The toolkit then converts the differential equations, via the supplied methods, into specialized code for the architecture.  With colleagues in the department of Mechanical and Aerospace Engineering, this toolkit has been used to generate the dynamical systems that arise in the study of the boundary layers in fluids.
+
+A component of this toolkit is a computer algebra substrate called Weyl, that extends the data structures available in Common Lisp to include objects like polynomials, matrices, rational functions, rings, vector spaces, and ideals.  The introduction of these new objects into a programming language provides a number of new challenges to the language's type system and provides new opportunities for deductive reasoning, which we are pursuing.
+
+Professional Activities
+
+Editorial Board:  Journal of Symbolic Computation; ACM Transactions on Mathematical Software
+Program Committee:  Principles and Practice of Constraint Programming Workshop '94
+Referee/Reviewer:  AOR; NSF; Journal of Algebraic Algorithms and Error Correcting Codes; International Symposium on Symbolic and Algebraic Computation
+
+Lectures
+
+Algebraic Function Decomposition.  American Mathematical Society Regional Meeting, Syracuse, New York, September 12, 1993 (with Dexter Kozen and Susan Landau - Dexter Kozen presenter).
+__. American Mathematical Society Regional Meeting, Syracuse, New York, May 6, 1994 (Susan Landau presenter).
+Effective Algorithms for Polynomial Irreducibility Testing.  American Mathematical Society Regional Meeting, Syracuse, New York, September 12, 1993.
+Vista:  A MicroStorage Architecture.  International Workshop on Object Oriented Operating Systems, Durham, North Carolina, December 10, 1993 (joint with Dawson Dean - Dawson Dean presenter).
+__. IBM Scientific Center, Haifa, Israel, January 6, 1994.
+__. Department of Electrical Engineering, Technion, Haifa, Israel, January 9, 1994.
+Synthesizing Scientific Programs using SPL/Weyl.  Department of Computer Science, Weizmann Institute, Rehovot, Israel, December 28, 1993.
+__. Department of Electrical Engineering, Technion, Haifa, Israel, January 3, 1994.
+__. Department of Computer Science, SUNY, Albany, New York, April 20, 1994.
+A New Modular Interpolation Algorithm for Factoring Multivariate Polynomials.  Algebra and Number Theory Symposium, Ithaca, New York, May 7, 1994 (joint with Ronitt Rubinfeld - Ronitt Rubinfeld presenter).
+
+Publications
+
+Effective Polynomial Computation.  Kluwer Academic Publishers, Boston Massachusetts (June 1993), 368 pages.
+Vista:  A Microstorage Architecture That Implements File Systems and Object Databases.  Proceedings of the International Workshop on Object Oriented Databases (December 1993), 194-198 (with Dawson Dean).
+
+
+
+Return to: 
+
+
+ 
+        List of Researchers
+
+ 
+        1993-1994 Annual Report Home Page
+
+ 
+        Departmental Home Page
+
+If you have questions or comments please contact: 
+ www@cs.cornell.edu.
+
+
+Last modified: 9 November 1994 by Denise Moore 
+(denise@cs.cornell.edu).

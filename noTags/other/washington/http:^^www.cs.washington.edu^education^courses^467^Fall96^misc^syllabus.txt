@@ -1,0 +1,66 @@
+Date: Wed, 08 Jan 1997 21:48:18 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE467 Syllabus
+
+
+CSE467: Advanced Logic Design
+Ted Kehl, Fall 1996 
+
+Syllabus
+
+We will be covering these topics, in approximately this order.
+
+
+Review
+
+Combinational Logic
+Structured Logic Implementations
+Sequential Logic
+Finite-State Machines
+
+Implementation
+
+Electrical Realities
+Logic Families
+Practical Issues: Reading Data Books, Interfacing
+Fixed Function Parts
+Programmable Parts
+PALs and PLDs
+FPGAs
+
+Computer-Aided Design
+
+Hardware Description Languages
+Compilation into Logic
+Logic Synthesis
+Technology-Independent Optimizations
+Technology Mapping
+Sequential Synthesis
+Underlying Data Structures and Algorithms
+Tools for Mapping to PLDs and FPGAs
+
+System Components
+
+Read-mostly Memory Technologies (ROM, PROM, EPROM, EEPROM, Flash)
+Static and Dynamic Memories
+Memory Controllers and Timing Generation
+Multi-Port Devices
+Special-Purpose Memory Devices
+Digital Communication
+Serial and Parallel Protocols
+Synchronous vs. Asynchronous Communication
+Arbitration Schemes
+System Busses and Bus Interface Design
+Local Area Networks
+
+
+
+
+ted@cs.washington.edu
+
+
+

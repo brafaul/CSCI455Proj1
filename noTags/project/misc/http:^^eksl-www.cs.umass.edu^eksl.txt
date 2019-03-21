@@ -1,0 +1,86 @@
+Date: Wednesday, 20-Nov-96 19:50:40 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Saturday, 28-Sep-96 04:44:51 GMT
+Content-length: 4125
+
+The Experimental Knowledge Systems Laboratory
+The Experimental Knowledge Systems Laboratory
+
+
+
+Welcome to the EKSL Web Server
+
+What's new with the EKSL Web Server? (last update 9/20/96)
+
+The Experimental Knowledge Systems Laboratory is part of the Department of Computer Science at
+the University
+of Massachusetts. You can find specific information here about
+EKSL research, publications, personnel and announcements. We also have a copyright.
+
+
+
+Purpose
+
+The Experimental Knowledge Systems Laboratory (EKSL), under the
+direction of Professor Paul R. Cohen, seeks to understand the
+requirements of autonomous agents operating in complex, real-world
+environments, and to develop a science of agent design grounded in
+this understanding.
+
+
+
+Research
+
+ A Research Overview, 1989-1994
+ Introduction: Designing Autonomous Agents 
+ Interactive Steering of Complex Systems 
+ Monitoring Plan Execution in Dynamic Environments 
+ Empirical Methods for Artificial Intelligence
+ An Intelligent Scientific Assistant
+ Multi-stream Dependency Detection
+ Causal Modeling
+ Experiment Planning
+ AI Approaches to Network Management
+ Multiple Event Stream Simulator
+ Phoenix: An Adaptable Planner for a Complex, Real-time Environment 
+ The CLIP/CLASP Project
+ The Air Campaign Simulator (ARPI password required)
+ TransSim: Transportation Planning Simulation
+ ARPA Sponsored Project Summaries
+  
+ Plan Steering
+ Evaluating Planners
+
+
+
+
+More Information
+
+Announcements
+Guest Book
+Laboratory Personnel
+Publications
+EKSL Software/Document FTP Archive
+Lisp Resources
+Planning Resources
+EKSL FAQ (local access only)
+RCF FAQ
+Server Statistics
+...more links...
+
+EKSL WWW Server Miscellania
+
+If have any comments, suggestions or problems using our server please let us know using the 
+quick response form which 
+will send email to the server administrator. We have a Guest Book that you can
+make an entry in or just browse.  We also
+have a server traffic summary reports.
+
+
+
+EKSL Web Server Administrator 
+
+Last Update: 5/23/96 
+ 1995 UMass Amherst

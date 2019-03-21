@@ -1,0 +1,172 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 18:55:58 GMT
+Content-Type: text/html
+Content-Length: 6412
+Last-Modified: Wednesday, 14-Feb-96 21:01:39 GMT
+
+
+Thorsten von Eicken
+
+ Thorsten von Eicken
+
+Assistant Professor
+4108 Upson Hall
+Phone: 607-255-9188
+Fax  : 607-255-4428
+Email: tve@cs.cornell.edu
+
+
+Projects
+
+The U-Net architecture
+provides a user-level network interface
+for clusters of workstations. It offers low-latency
+and high-bandwidth communication over high-speed LANs. The current
+implementation uses Sun Workstations interconnected by ATM.
+
+Active Messages.
+Several projects are porting Active Messages to new platforms (including
+the U-Net ATM cluster and the IBM SP-2 and extending the model to
+non-SPMD programs.
+
+Split-C is a simple extension
+to C for parallel computing. Split-C has been ported to several new
+platforms, including U-Net, shared memory multprocessors running SVR4, and 
+the IBM SP-2.
+
+
+
+Courses
+
+
+CS314 Introduction to Digital Systems and Computer
+Organization, Fall 1995
+
+CS516 High-Performance Computer Architecture, Spring 1995
+
+CS617 Frontiers of Parallel Systems, Fall 1994
+
+CS614 U-Net User Level Network Architecture Guest Lecture, May
+2nd 1995
+
+
+Departmental Talks & Reports
+
+1993-1994
+Departemental Annual Report entry.
+Fall Forum 1994 talk slides.
+1992-1993
+Departemental Annual Report entry.
+Fall Forum 1993 talk slides.
+
+
+Personal Web pages
+
+TvE's pond (with real water, fish, and plants).
+Tired of the firewall? Try my MacPPP
+which generates the one-time password automatically without you ever
+having to think about it (well, after a few months your passwords
+suddenly run out and you have to run to 4119...)
+and installation
+instructions.
+
+
+Selected Publications
+
+U-Net: A User-Level Network Interface for Parallel and Distributed
+Computing,
+Thorsten von Eicken, Anindya Basu, Vineet Buch, Werner Vogels, 
+CS-TR to appear, June 1995.
+
+
+Low-Latency Communication over ATM
+Networks using Active Messages.
+von Eicken, T., V. Avula, A. Basu, V. Buch,
+Presented at Hot Interconnects II,
+Aug 1994, Palo Alto, CA.
+An abridged version of this paper appears in IEEE Micro Magazine, Feb. 1995.
+
+
+Active Messages: a Mechanism for Integrated Communication and
+Computation. von Eicken, T., D. E. Culler, S. C. Goldstein,
+and K. E. Schauser,
+Proceedings of the 19th Int'l Symp. on Computer Architecture,
+May 1992, Gold Coast, Australia.
+
+
+Active Messages: an Efficient Communication
+Architecture for Multiprocessors. von Eicken, T., Ph.D. Thesis,
+November 1993, University of California at Berkeley.
+
+
+Papers published at UC Berkeley
+(The links lead to postscript versions of the papers.)
+
+
+Parallel Programming in Split-C,
+D. Culler, A. Dusseau, S. C. Goldstein, A. Krishnamurthy, S. Lumetta,
+    T. von Eicken, K. Yelick,
+Proceedings of Supercomputing '93,
+November 1993,
+
+TAM --- A Compiler Controlled
+Threaded Abstract Machine ,
+D. Culler, S. C. Goldstein, K. Schauser, T. von Eicken,
+Journal of Parallel and Distributed Computing,
+    Special Issue on Dataflow, June 1993.
+
+
+Evaluation of Mechanisms for Fine-Grained Parallel Programs
+    in the J-Machine and the CM-5
+,
+E. Spertus, S. C. Goldstein, K. Schauser, T. von Eicken, D. Culler,
+    and W. Dally,
+Proc of the 20th Int'l Symp. on Computer Architecture,
+San Diego, CA, May 1993.
+
+LogP: Towards a Realistic Model
+of Parallel Computation ,
+D. Culler, R. Karp, D. Patterson, A. Sahay, K. Schauser, E. Santos,
+    R. Subramonian, T. von Eicken,
+Proc. of Fourth ACM SIGPLAN Symp. on Principles and Practice
+    of Parallel Programming,
+San Diego, CA, May 1993.
+
+Two Fundamental Limits on Dataflow
+Multiprocessing ,
+D. Culler, K. Schauser, T. von Eicken,
+Proceedings of the IFIP WG 10.3 Working Conf. on Architectures
+    and Compilation Techniques for Fine and Medium Grain Parallelism,
+Orlando, FL, Jan 1993.
+
+Active Messages: a Mechanism for
+Integrated Communication and Computation,
+T. von Eicken, D. Culler, S. C. Goldstein,and K. Schauser,
+Proc. of the 19th Int'l Symposium on Computer Architecture,
+Gold Coast, Australia, May 1992.
+
+Compiler-controlled Multithreading for
+Lenient Parallel Languages,
+K. Schauser, D. Culler, and T. von Eicken,
+Proceedings of the 1991 Conference on
+    Functional Programming Languages and Computer Architecture,
+Cambridge, MA, August 1991.
+
+Fine-grain Parallelism with Minimal
+Hardware Support: A Compiler-Controlled Threaded Abstract Machine,
+D. Culler, A. Sah, K. Schauser, T. von Eicken, and J. Wawrzynek,
+Proc. of 4th Int. Conf. on Architectural Support for
+    Programming Languages and Operating Systems,
+Santa-Clara, CA, April, 1991.
+
+Analysis of Multithreaded Architectures
+for Parallel Computing,
+R. Saavedra-Barrera, D. Culler, and T. von Eicken,
+Proceedings of the 2nd Annual Symp. on Parallel Algorithms and Architectures,
+Crete, Greece, July 1990.
+
+
+That's it...
+
+

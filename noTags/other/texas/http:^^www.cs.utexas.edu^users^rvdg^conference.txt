@@ -1,0 +1,219 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:24:00 GMT
+Content-Type: text/html
+Content-Length: 7356
+Last-Modified: Tuesday, 06-Aug-96 17:48:46 GMT
+
+Conference Publications by Robert A. van de Geijn
+Number of times this page has been accessed since July 21, 1995:
+
+ 
+Conference Publications by Robert A. van de Geijn
+ SUBMITTED 
+
+
+Almadena Chtchelkanova, Carter Edwards, John Gunnels, Greg Morrow,
+James Overfelt,
+Robert A. van de Geijn,
+
+"Towards Usable and Lean 
+Parallel Linear Algebra Libraries," 
+submitted to  Supercomputing 96.
+
+
+J.C. Browne, C. Edwards, K. Klimkowski, M. Parashar, J.
+Singer and R. van de Geijn,
+
+"A Common Computational Infrastructure for
+Adaptive Algorithms for PDE Solutions,"
+submitted to Supercomputing 96.
+
+
+ ACCEPTED 
+
+
+ IN PRINT 
+
+ Ken Klimkowski and Robert van de Geijn,
+ "Anatomy of a Parallel Out-of-Core Dense L
+inear Solver,"  Vol III - Algorithms and Applications 
+     Proceedings of the 1995 International 
+    Conference on Parallel Processing, pp. 29-33.
+
+Prasenjit Mitra, David Payne, Lance Shuler, Robert van de Geijn, and Jerrell Watts, 
+
+"Fast Collective Communication Libraries, Please," 
+
+ Proceedings of the Intel Supercomputing Users' Group Meeting 1995.  
+
+
+Domingo Gimenez, Vicente Hernandez, Robert van de Geijn
+and Antonio M. Vidal,
+``A Jacobi Method by Blocks on a Mesh of Processors,''
+International Linear Algebra Symposium, Amsterdam, Aug. 1994.
+
+
+M. Barnett, S. Gupta, D. Payne, L. Shuler, R. van de Geijn and J. Watts,
+``Interprocessor Collective Communication Library,'' 
+Supercomputing 1994, Nov. 1994.
+
+ J. G. Lewis, D. G. Payne, and R. A. van de Geijn,
+``Matrix-Vector Multiplication
+and Conjugate Gradient Algorithms on Distributed
+Memory Computers,'' 
+ Scalable High Performance Computing Conference 1994 .
+
+
+M. Barnett, S. Gupta, D. Payne, L. Shuler, R. A. van de Geijn, and J. Watts,
+``Interprocessor Collective Communication Library (InterCom),''
+ Scalable High Performance Computing Conference 1994 .
+
+
+G. Henry and R. van de Geijn,
+``A Parallel Unsymmetric Eigensolver,''
+ Scalable High Performance Computing Conference 1994 .
+
+
+J. G. Lewis and R. A. van de Geijn,
+
+``Implementing Matrix-Vector Multiplication
+and Conjugate Gradient Algorithms on Distributed
+Memory Multicomputers,'' 
+Supercomputing~'93.
+
+
+M. Barnett, R. Littlefield, D. Payne and R. van de Geijn,
+``Global Combine on Mesh Architectures with
+Wormhole Routing,'' 
+in  Proceedings of the 7th International Parallel Processing
+Symposium ,
+Newport Beach, CA, April 13-16, 1993.
+
+
+M. Barnett, R. Littlefield, D. Payne and R. van de Geijn,
+``Efficient Communication Primitives on Mesh Architectures with
+Hardware Routing,''
+in  Proceedings of the 
+Sixth SIAM Conference on Parallel Processing for Scientific
+Computing, Norfolk, VA, March 1993. .
+
+
+Jack J. Dongarra, Robert A. van de Geijn and R. Clint Whaley,
+``Two Dimensional Basic  Linear Algebra Communication Subprograms,''
+in  Proceedings of the 
+Sixth SIAM Conference on Parallel Processing for Scientific
+Computing, Norfolk, March 1993.
+
+
+James Demmel, Jack Dongarra, Robert van de Geijn and David Walker,
+``LAPACK for
+Distributed Memory Architectures: 
+The Next Generation,''
+in  Proceedings of the 
+Sixth SIAM Conference on Parallel Processing for Scientific
+Computing, Norfolk, March 1993.
+
+
+J. Dongarra, R. van de Geijn, and R. Whaley,
+``Two Dimensional Basic  Linear Algebra Communication Subprograms,''
+in  Environments and Tools for Parallel Scientific Computing ,
+North Holland, 1993, pp.31-40
+
+
+Jack Dongarra and Robert van de Geijn,
+``A Parallel Dense  Linear Solve Library Routine,''
+in  Proceedings of the 1992 Intel Supercomputer Users' Group Meeting ,
+Dallas, Oct. 1992.
+
+
+Jack Dongarra, Robert van de Geijn, and David Walker,
+``A Look at Scalable Dense Linear Algebra Libraries,''
+in  Proceedings of Scalable High Performance Concurrent
+Computing '92 (SHPCC92) , April 27-29, 1992.
+
+
+A. Benzoni, V.S. Sunderam, and R. van de Geijn,
+``Matrix Factorization on a IBM RISC System/6000
+Workstation Network,''
+
+Proceedings of the 
+Second Symposium on High Performance Computing , Montpellier, France,
+October 1991.
+
+
+E. Anderson,  A. Benzoni, J. Dongarra, S. Moulton, S. Ostrouchov, 
+B. Tourancheau, and R. van de Geijn,
+``Basic Linear Algebra Communication Subprograms.''
+in  Sixth Distributed Memory Computing Conference Proceedings ,
+IEEE Computer Society Press, 1991, pp.~287--290.
+
+
+E. Anderson, A. Benzoni, J. Dongarra, S. Moulton, 
+S. Ostrouchov, 
+B. Tourancheau, and R. van de Geijn,
+``LAPACK for Distributed Memory Architectures: Progress Report.''
+in  the Proceedings of the Fifth SIAM Conference on Parallel
+Processing for Scientific Computing, SIAM, Philadelphia, 1992.
+pp.~625--630. 
+
+
+Robert van de Geijn,
+``Dense  Linear Solve on the Intel Touchstone
+Delta System,''
+in  Digest of Papers: CompCon92 ,
+37th IEEE Computer Society International Conference, Feb. 24-28, 1992.
+
+
+Robert van de Geijn
+``Efficient Global Combine Operations,''
+in  Sixth Distributed Memory Computing Conference Proceedings ,
+IEEE Computer Society Press, 1991, pp.~291--294.
+
+
+R. A. van de Geijn and D. G. Hudson,
+``An Efficient Parallel Implementation of the nonsymmetric
+QR Algorithm,'' Proceedings of the Fourth Conference on
+Hypercube Concurrent Computers and Applications, Monterey, CA,
+March 6-8, 1989.
+
+
+J. W. Juszczak and R. A. van de Geijn, 
+``An Experiment in Coding Portable Parallel Matrix Algorithms,''
+Proceedings of the Fourth Conference on
+Hypercube Concurrent Computers and Applications, Monterey, CA,
+March 6-8, 1989.
+
+
+Robert van de Geijn,
+``Machine Independent Parallel Numerical Algorithms,'' 
+in 
+ Parallel Supercomputing:
+Methods, Algorithms and Applications 
+G. F. Carey (Ed.), Wiley, 1989.
+
+
+D. P. O'Leary, G. W. Stewart, and R. A. van de Geijn,
+``DOMINO: A Transportable System for Parallel Processing,''
+in 
+ Parallel Processing and Medium-Scale Multiprocessors 
+Arthur Wouk (Ed.), 
+SIAM, 1989.
+
+
+Robert van de Geijn,
+``Massively Parallel LINPACK Benchmark on the Intel Touchstone
+DELTA and IPSC/860 Systems,''
+1991 Annual Users' Conference Proceedings, Intel Supercomputer Users' Group,
+Dallas, TX, Oct. 6-9, 1991.
+
+
+Robert van de Geijn,
+``Storage Schemes for Parallel Eigenvalue Algorithms,'' 
+in
+ Numerical Linear Algebra, Digital Signal Processing
+and Parallel Algorithms }
+G. Golub and P. Van Dooren (Eds.), NATO ASI Series, 
+Springer Verlag, 1991.
+
+

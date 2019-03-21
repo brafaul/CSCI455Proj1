@@ -1,0 +1,59 @@
+Date: Thu, 21 Nov 1996 23:24:51 GMT
+Server: NCSA/1.5.2
+Last-modified: Tue, 03 Sep 1996 18:37:57 GMT
+Content-type: text/html
+Content-length: 2136
+
+
+Michael Duff
+
+
+Michael Duff
+
+
+
+
+Much of my work involves bringing techniques of classical applied
+probability and statitistics to bear upon problems of adaptive
+and intelligent control.
+
+
+ Some Papers 
+
+ Optimal Learning Revisited, AAAI-95 Fall Symposium on Active Learning.es
+  
+Q-learning for Bandit Problems, Proceedings of Machine Learning 1995.
+  
+Q-learning for Bandit Problems,  CMPSCI Technical Report 95-26,
+Department of Computer Science, University of Massachusetts, March 24,
+1995 (A slightly longer version--includes simple review of RL).
+  
+Monte Carlo Matrix Inversion and Reinforcement Learning (with Andrew
+Barto), Neural Information Processing Systems -- 6, 1994, pp. 687-694.
+  
+A Control Variable Perspective for the Optimal Combination
+of Truncated Corrected Returns, Unpublished Manuscript, 1994.
+  
+Reinforcement Learning for Semi-Markov Processes (with Steve
+Bradtke), Neural Information Processing Systems -- 7, 1995, pp. ?-?.
+  
+Solving Bellman's Equation by the Method of Continuation, American
+Control Conference, 1994.
+ Backpropagation and Bach's 5th Cello Suite (Sarabande), Proceedings
+of IEEE Conference on Neural Networks, 1987?. 
+ Optimal Design of an Electrostatic Lens,
+Applied Physics Letters, 1984.  
+
+
+
+
+The Adaptive Networks Laboratory.
+
+
+duff@cs.umass.edu.
+
+Me and my pal Cyrus ("Cyborg")
+
+
+
+

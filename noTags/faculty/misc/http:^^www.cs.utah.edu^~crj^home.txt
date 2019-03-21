@@ -1,0 +1,168 @@
+Date: Thu, 21 Nov 1996 21:21:13 GMT
+Server: Apache/1.1.1+
+Content-type: text/html
+Content-length: 6601
+Last-modified: Mon, 23 Sep 1996 01:12:24 GMT
+
+Christopher Johnson
+
+Christopher R. Johnson
+
+
+
+Associate Professor of Computer
+Science. Research Assistant Professor of Physics. Adjunct
+Assistant Professor of Mathematics.
+Adjunct Assistant Professor of Bioengineering.
+Director, Center for Scientific Computing and Imaging (SCI).
+Associate Chairman, Department of Computer
+Science.
+Co-Director, Computational Engineering and Science (CES)
+Program.
+
+
+Autumn Quarter 1996 Teaching Assignment: CS 521 - Introduction to Scientific
+Computing
+
+
+Professor Johnson's research interests are in the area of scientific
+computing.  Particular interests include inverse and imaging problems,
+adaptive methods for partial differential equations, automatic mesh
+generation, numerical analysis, large scale computational problems in
+medicine, and scientific visualization.  Professor Johnson was awarded a
+Young Investigator's (FIRST) Award from the NIH in 1992, the NSF National
+Young Investigator (NYI) Award in 1994, and the  NSF Presidential
+Faculty Fellow (PFF) award in 1995.  He directs the Center for
+Scientific Computing and Imaging.  A brief overview of current SCI
+research projects is given below.
+Current Research Projects:
+
+
+
+
+
+
+
+
+Scientific Computing
+
+
+
+
+
+
+
+
+
+
+Inverse and Imaging Problems
+
+
+
+
+
+
+
+
+
+
+Scientific Visualization
+
+
+
+
+
+
+
+
+
+
+Computational Medicine
+
+
+
+
+
+
+
+
+
+
+Numerical Analysis
+
+
+
+
+
+
+
+
+
+
+Simplified Wrapper and Interface Generator
+
+
+
+
+
+
+
+
+
+
+Human Computer Interaction
+
+
+
+
+
+Upcoming Invited Talks:
+
+
+International Workshop on
+Modern Software Tools for Scientific Computing,  SCIRun: A
+Computational Steering Environment, Oslo, Norway, Septmember 16-18,
+1996.
+ Fourth U.S. National
+Congress on Computational Mechanics,  Computational Steering and
+Interactive Visualization, San Francisco, 
+August 6-8, 1997.
+
+
+
+
+
+| Images
+| Publications
+| Software
+| Research Support
+| Facilities
+| Quotes |
+
+
+
+
+
+
+To see if I am on-line, click here: 
+crj@sci2.cs.utah.edu 
+ For additional information about the (SCI)
+Research Group contact Chris
+Johnson at: 
+
+
+3190 Merrill Engineering Building
+Department of Computer Science
+
+	University of Utah
+Salt Lake City,
+Utah 84112
+
+Email: crj@cs.utah.edu
+Phone: (801) 581-7705
+Fax: (801) 581-5843
+
+
+Last modified Mon Sep  2 10:56:26 MDT 1996.
+
+

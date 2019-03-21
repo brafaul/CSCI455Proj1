@@ -1,0 +1,121 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 20:30:03 GMT
+Content-Type: text/html
+Content-Length: 4636
+Last-Modified: Tuesday, 19-Nov-96 00:41:58 GMT
+
+
+
+
+
+Electronic Payment Systems
+
+
+
+
+
+Electronic Payment Systems
+
+
+-by  Gokul Rajaram  and Santanu Sinha.
+
+
+Here are most of the references for my talk on electronic payment systems.
+Time permitting, I should talk about iKP, anonymous credit cards,
+untraceable cash, 
+micropayments and finally CAFE. The papers for these are in "/u/ssinha/pub/elec_pay".
+
+
+Listing of files in /u/ssinha/pub/elec_pay :
+
+ AJSW96.ps.gz : "Electronic Payment Systems"
+ BBCM1_94CafeEsorics.ps.gz : "The ESPRIT Project CAFE - High Security Digital Payment Systems"
+ BuePf_89.ps.gz : "Digital Payment Systems  Enabling Security and Unobservability"
+ HSW96.ps.gz : "Micro-Payments based on iKP"
+ collude.ps.gz : "Anonymous Credit Cards and its Collusion Analysis"
+ ikp.ps.gz : "iKP - A Family of Secure Electronic Payment Protocols"
+ wcf.ps.gz : "Why Cryptosystems Fail"
+ gokul.ps.gz : Gokul's transparencies for the talk
+ ssinha.ps.gz : My transparencies for the talk
+
+
+The two papers I had to read in hard copy were :
+
+David Chaum : "Security Without Identification: Transaction Systems To Make
+Big Brother Obsolete" : Communications of the ACM Oct 1985 Vol 28 #10
+
+Stefan Brands : "Untraceable Off-line Cash in Wallet with Observers"
+Lecture Notes in Computer Science 773 , Advances in Cryptology, CRYPTO '93
+
+
+
+
+On-line payment systems, enabling payment control by payment system provider
+
+ Credit cards/Cash  
+
+  First Virtual 
+  Cybercash 
+ Digicash
+  iKP
+ SET
+
+ Micropayments 
+
+  Millicent
+  NetBill
+ NetCheque
+  Micro-Payment Transfer Protocol
+ Micro-iKP
+
+
+
+  Globe ID(R) by GC Tech
+OpenMarket payment switch
+
+ Electronic Cheques 
+  FSTC Electronic check project
+ Off-line payment systems, enabling payment control by payment system provider 
+ Smartcards/Electronic purses  
+
+ Danmont ( Public Key)
+		 Proton ( Public Key)
+
+		 CLIP ( Shared Key)
+
+		 CEN Intersector Electronic Purse (Proposed Standard)
+		 EMV Electronic Purse (Proposed Standard)
+
+		 Mondex
+
+ On-line untraceable payment systems 
+
+  NetCash
+ Anonymous credit cards 
+
+
+ Off-line untraceable payment systems
+
+ CAFE
+
+ Other links of interest 
+
+As is usual on the net, there is far too much information/junk around. So I am
+just adding all my bookmarks regarding E-commerce, which are not guaranteed to
+contain anything useful.
+
+
+ SHTTP 
+ SSL
+An Intermediation and Payment System Technology
+SEMPER
+IBM Zurich Security Research Group
+ More links
+ E-money
+ More about electronic cash 
+
+
+ Santanu Sinha : ssinha@cs.utexas.edu
+
+

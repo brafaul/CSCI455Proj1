@@ -1,0 +1,57 @@
+Date: Wed, 08 Jan 1997 20:38:32 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+
+CSE 322 
+Assignment 8 
+Due Friday, February 23, 1996
+
+
+
+
+
+
+
+    
+ Next:    About this document 
+  
+
+CSE 322 
+Assignment 8 
+Due Friday, February 23, 1996
+
+
+
+
+Consider the NFA  where  is
+given by the table:
+
+
+Use the ``practical'' form of the subset construction to produce a DFA
+equivalent to M.
+
+
+For the NFA M of problem 1 use the regular expression diagram method to
+construct a regular expression equivalent to M.  Be sure to
+simplify regular expressions when possible.
+
+Number 7 (c) on page 182.  Start with an NFA M which accepts L,
+then show the construction of an NFA  which accepts .
+Carefully state a behavioral lemma which relates the behavior of M
+with the behavior of .  Use the behavioral lemma to prove that
+.  Do not prove the behavioral lemma, but be sure that
+you could do so.
+
+ 
+
+    About this document ... 
+
+ 
+
+James Fix 
+Tue Feb 20 11:24:16 PST 1996
+
+

@@ -1,0 +1,69 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:31:03 GMT
+Content-Type: text/html
+Content-Length: 2716
+Last-Modified: Monday, 06-Jan-97 05:06:46 GMT
+
+
+  What I browsed on WWW  
+
+
+ Places I browsed and I liked 
+Puzzle: what is the easiest and cheapest way to travel the world? 
+
+ Some areas in Computer Science 
+
+
+ VLSI  
+
+
+ Database Systems  
+
+
+ Computer Vision  
+
+
+ Pattern Recognition  
+
+
+ Computer Graphics  
+
+
+ Graphics viewers, editors, utilities and info  
+
+
+ Multimedia  
+
+
+
+ Dictionary of Computing  
+
+
+ Virtual Computer Library  
+
+
+ Unified Computer Science Technical Reports  
+ 
+  Misc 
+
+
+ Java Tutorial   
+
+
+ GNUplot  ... ... 
+
+ Gnuplot  
+
+
+ the IEEE/ACM Transactions on Networking 
+
+
+ MatLab  -- MatLab is a registered trademark of the MathWorks. 
+
+
+
+This page is last modified: May 31, 1995. 
+For comments, you are welcome to send me email: hqliu@cs.utexas.edu 
+
+

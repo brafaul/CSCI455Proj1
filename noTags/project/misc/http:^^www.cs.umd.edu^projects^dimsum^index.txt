@@ -1,0 +1,101 @@
+Date: Wed, 20 Nov 1996 19:41:40 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 3864
+Last-modified: Mon, 16 Sep 1996 11:30:26 GMT
+
+
+
+The DIMSUM Project
+
+
+
+
+
+
+- D I M S U M -
+Distributed 
+Information 
+Management
+Systems at the 
+University of 
+Maryland
+
+
+
+he DIMSUM project is
+developing a flexible distributed database architecture  that can
+adjust to a wide range of application, system, and network 
+properties.  This work entails revisiting and reassessing many of the
+fundamental design decisions that have been made in the current generations
+of relational and object-oriented systems.  The goal
+is to develop technology that will serve as the underpinnings for the next
+generation of  high-performance object-relational database systems.
+
+Our current efforts include:
+
+Client-Server Query Processing: data- vs.
+query-shipping; interaction of query execution and caching; and 
+integrated support for both associative and navigational access.
+Semantic Caching: Orgainization and management of
+client caches based on query specifications.
+Query Scrambling: Adaptive, on-the-fly
+restructuring of complex query execution 
+plans to cope with unexpected delays in
+wide-area distributed information systems.
+
+
+
+
+
+
+Project Overview
+Har Gua
+Shrimp Dumplings
+
+
+
+Group Members
+Daan Tart
+Custard Tarts
+
+
+
+Recent Papers
+Chun Kuen
+Fried Spring Rolls
+
+
+
+
+
+Sponsors
+Siu Mei
+Meat Dumplings
+
+
+
+DIMSUM Lab
+Cheung Fun
+Steamed Rice Flour Rolls
+
+
+
+The Real Thing
+Cha Siu Bau
+Steamed Barbecued Pork Bun
+
+
+
+
+
+
+
+Last updated Aug. 6, 1996.
+franklin@cs.umd.edu
+
+
+
+
+
+

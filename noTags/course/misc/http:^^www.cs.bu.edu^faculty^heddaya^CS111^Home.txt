@@ -1,0 +1,116 @@
+Date: Wed, 20 Nov 1996 21:44:55 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+		
+
+BU CLA CS 111: Intro CS I---Home Page
+		
+
+
+
+BU
+CLA
+		
+CS 111:
+		
+Intro CS I---
+
+		
+A. Heddaya---
+Fall 1994
+		
+
+Home Page
+		-- 
+1994.12.12
+		
+
+
+		||
+		
+Syllabus ||
+		
+Schedule - 
+		
+   H. Lecs. ||
+		
+Examples ||
+		
+Grades ||
+HW:
+  		
+   1 -
+		
+   2 -
+		
+   3 -
+		
+   4 -
+		
+   5 -
+		
+   6 -
+		
+   7 -
+		
+   8 -
+		
+   9 -
+		
+   10
+||
+		
+
+
+Final exam:
+Mon 12/19/94, 9:00-11:00am
+
+Use room	If your last name
+		begins with
+--------	-----------
+CLA-B12		A -- K
+SOC-B59		L -- O
+SOC-B61		P -- S
+SOC-B63		T -- Z
+		
+
+Class meetings:
+
+	A1	TR 9:30 - 11:00am	CLA-B12
+	A2	T  3:30 -  4:30pm	PSY-B51->CLA-415
+	A3	W 10:00 - 11:00am	PSY-B53
+	A4	F 12:00 -  1:00pm	MCS-148
+	A5	F  9:00 - 10:00am	BRB-122
+	HS	R  3:30 -  4:30pm	MCS-135
+		
+
+Instructor:
+
+
+A. Heddaya (O. Hrs.: M 2-3:30p, R 11-12:30p). 
+heddaya@cs.bu.edu, MCS-271, x3-8922.
+
+		
+Teaching Fellow:
+ Marwan Shaban (O.Hrs.: T 2-3:30p, T 4:30-5p; W
+9-10a). shaban@cs.bu.edu, MCS-208, x3-4517.
+Tutoring hours, which are not specifically dedicated to this course,
+are: W 11-12, R 2:30-3:30, F 10-11.
+
+		
+Grader:
+
+Sadik Tokgoz (no office hours).
+sadik@cs.bu.edu
+
+
+
+Study guide (partial draft of an outline).
+		
+
+Abdelsalam Heddaya
+Created:  1994.07.21
+		
+
+

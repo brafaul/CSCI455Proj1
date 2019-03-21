@@ -1,0 +1,16 @@
+Date: Tue, 14 Jan 1997 17:16:42 GMT
+Server: Apache/1.0.1
+Content-type: text/html
+Content-length: 667
+Last-modified: Tue, 14 Jan 1997 19:42:01 GMT
+
+SCU Computer Engineering Academic Programs
+
+COMPUTER ENGINEERING ACADEMIC PROGRAMS
+
+ Bachelor of Science 
+ Master of Science 
+ Doctor of Philosophy 
+ Certificate in Software Engineering 
+ Certificate in High Performance Computing 
+

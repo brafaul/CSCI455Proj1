@@ -1,0 +1,93 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:32:18 GMT
+Content-Type: text/html
+Content-Length: 3221
+Last-Modified: Friday, 13-Oct-95 19:41:26 GMT
+
+
+
+Hardware Verification
+
+
+
+
+
+
+Hardware Verification
+
+
+
+  
+
+
+
+	Course presentation: 
+  slides 1-4 
+  slides 5-8 
+  slides 9-12 
+  slides 13-16 
+  slides 16-20 
+  slides 21-24 
+  slides 25-28 
+  slides 29-32 
+  slides 33-36 
+  slides 37-39 
+
+
+Conference cousre reports (instructed by 
+Prof. Emerson)
+
+ 
+  
+	Report one 
+
+ 
+	Report two 
+
+ 
+	Report three 
+
+ 
+	Report four 
+
+ 
+
+
+Hardware verification links
+
+ 
+	Hardware verification at the Techincal University of Denmark
+ A bunch of 
+	
+	hardware/software codesign  papers at UC Berkeley
+ More
+	
+	hardware verification  papers from Stanford university
+ Here is a 
+computer system verification course provided by 
+	Brigham Young University, they also prepared a long 
+	 
+	reading list   for graduate students
+ A 
+	hardware verification homepage from NASA Langley
+
+  
+
+
+ 
+  
+
+Shaobing Ma 
+Ph.D Student in CS, 
+UT Austin
+Phone: (512)482-9343
+Email: shma@cs.utexas.edu 
+
+
+
+
+
+
+
+

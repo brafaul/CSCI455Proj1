@@ -1,0 +1,49 @@
+Date: Tue, 10 Dec 1996 21:28:54 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 24 Feb 1995 00:18:44 GMT
+Content-length: 1724
+
+ 
+Project Status
+
+CSE 552 Project - 
+Entry Consistency on the T3D
+Kari Pulli & Peter Van Vleet
+
+ Abstract
+This paper presents several strategies for the implementation of an
+entry consistent, distributed shared memory model on the Cray T3D. The
+Cray T3D supports a very fast interconnect and  
+allows direct remote memory accesses. We found that with such fast
+communication, many optimizations useful in the typical distributed
+environment (a relatively slow interconnect) are counter
+productive compared to a simple and straightforward implementation.
+
+  The Paper 
+ Project Files 
+A simple hello  program.
+
+The results of our hello  program after
+we've run it through our preprocessing perl script.
+
+Our preprocessing perl  script.
+
+The macro  file implementing
+the nitty gritty aspects of entry consistency.
+ Our entry consistency library header  file.
+ Our entry consistency library C  code.
+
+Some Background Reading
+Write Detection for a Distributed Shared
+Memory. Zekauskas, Sawdon and Bershad. A version of this paper will appear
+in the 1994 OSDI Conference.
+
+
+The Midway Distributed Shared Memory System 
+Bershad, Zekauskas and Sawdon.  IEEE Compcon 93.
+
+The Cray T3D Address Space and How to Use
+It Numrich. Cray Research Inc. Technical Report 94.
+
+

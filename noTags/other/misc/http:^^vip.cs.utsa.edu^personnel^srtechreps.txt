@@ -1,0 +1,35 @@
+Date: Tue, 14 Jan 1997 23:41:07 GMT
+Server: NCSA/1.5.1
+Last-modified: Mon, 06 Jan 1997 16:18:30 GMT
+Content-type: text/html
+Content-length: 1138
+
+
+Steven Robbins: Technical reports
+
+
+
+
+ Steven Robbins
+
+Professor, UTSA 
+
+Technical Reports
+Experimental Assessment of the Perfect Club Benchmarks on a Cray Y-MP, UTSA-CS-92-102 (1992)
+(with K. Robbins).
+Experimental Assessment of the Optimized Perfect Club Benchmarks on a Cray Y-MP, UTSA-CS-93-102 (1993)
+(with K. Robbins).
+A Microprogramming Animation, CS-95-10 (1995)
+
+Relative Scrollbars, CS-95-11 (1995)
+
+A MIDI Primer for Computer Scientists, CS-95-12 (1995)
+
+Controlling the Korg X5DR Synthesizer from a UNIX Program, CS-95-13 (1995)
+
+Adding Sound to  the XTANGO Animator, CS-95-13 (1995)
+
+
+ Publications
+
+ Computer Science Visualization Lab

@@ -1,0 +1,368 @@
+Date: Thu, 21 Nov 1996 22:18:08 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 18955
+Last-modified: Sun, 13 Oct 1996 16:49:27 GMT
+
+
+
+
+
+Annie Anton's Home Page 
+
+
+
+
+Annie I. Antón
+ 
+
+
+[  Resume | 
+ Curriculum Vita ] 
+
+
+
+
+
+
+
+Annie Antón is a PhD candidate in the 
+ College of Computing at the
+ Georgia Institute of Technology
+in  Atlanta.   The title 
+of her dissertation is 
+"
+Goal Identification and Refinement in the Specification of Software-Based 
+Information Systems."  Her thesis advisor is  Dr. Peter A. 
+Freeman. 
+
+
+Ms. Antón received a BS in Information and Computer Science with a minor 
+in Technical and Business Communication in 1990 and an MS in Information and 
+Computer Science in 1992 from  
+Georgia Tech.  She is a 1984 graduate of 
+ Saint Pius X Catholic High School 
+in Atlanta, Georgia.  
+
+Ms. Antón is a member of the Software Systems Design Group
+ (SSDG) and the 
+Center for Information Management Research 
+ (CIMR).  
+She was previously a member of the Software Research Center (SRC) and the 
+
+TRANSOPEN project team.  Her research interests include the definition
+of information system
+
+requirements using goal-based approaches, software engineering,
+
+
+
+software processes, computer-supported cooperative work,
+
+Business Process Reengineering, electronic commerce and Web-based
+software applications.
+
+
+
+
+Ms. Antón moderates the 
+ Requirements 
+Engineering Student Newsletter and mailing list (re-students@cc.gatech.edu)
+and maintains the 
+ 
+Requirements Engineering International Doctoral Thesis Research 
+homepage.  
+
+During her free time, Ms. Antón enjoys playing golf.  This picture 
+was taken by  Lara 
+Catledge in April of this year at Cheyenne Mountain Resort in Colorado 
+Springs.  
+
+
+The remainder of this Web page is indexed as follows: 
+
+[  Publications |
+ Presentations |
+ Conferences  |
+ Internships | 
+ Professional affiliations ] 
+[  Honors |
+ Current activities |
+ Former activities |
+ Hobbies ]
+
+
+
+Photo Albums:  
+
+[ Olympics 1996 |
+England 1995 |
+Cuban Postcards ]
+
+
+
+Additional Links:
+
+[ 
+  Quotes |
+Friends |
+ 
+     Software & Requirements Engineering Hotlists |
+
+gus Baird ]
+
+
+
+
+
+
+
+  Publications: 
+
+ Annie I. Antón,
+    Eugene
+     Liang and Roy Rodenstein.  
+     ``A Web-Based Requirements Analysis Tool,''
+ IEEE Fifth Workshops on Enabling Technologies: Infrastructure for 
+     Collaborative Enterprises 
+     (WET-ICE96),
+     Stanford University, California, USA, pp. 238-243, 19-21 June 1996. 
+ Annie I. Antón.  
+    ``Goal-Based Requirements Analysis,''   Second IEEE 
+     International Conference on Requirements Engineering 
+     ( ICRE `96) , Colorado 
+     Springs, Colorado, pp. 136-144, 15-18 April 1996. 
+ Annie I. Antón,  W. Michael McCracken and 
+     Colin Potts.
+     ``Goal Decomposition and Scenario Analysis in Business Process 
+    Reengineering,''   Advanced Information Systems Engineering, 6th 
+    International Conference Proceedings (CAiSE `94), Utrecht, The 
+    Netherlands, pp. 94-104,  6-10 June 1994.
+  
+     Colin Potts, Kenji Takahashi and Annie I. Antón.
+      ``Inquiry-Based Requirements Analysis,'' 
+IEEE Software, 11(2), pp. 21-32, March 1994.
+  
+     Colin Potts, Kenji Takahashi and Annie I. Antón. 
+      ``Inquiry-Based Scenario Analysis of System Requirements,''  
+     Georgia Tech College of Computing Tech Report, GIT-CC-94/14, January 1994.
+ Annie I. Antón, 
+    Thomas 
+     A. Gale, 
+ 
+      W. Michael McCracken and John J. Shilling.
+       ``Object-Based Requirements Modeling for Process Continuity,'' 
+Proc. Twenty-Sixth Hawaii International Conference on System 
+      Sciences, Vol 3, pp. 191-202, 1993.
+
+  Invited Presentations:  
+  
+  ``Goal
+     Identification and Refinement in the Specification of Software-Based 
+     Information Systems''   booth session at IFIP WG 2.9 
+     Software Requirements Engineering Inaugural Meeting, Bramshill House, 
+     Blasingstoke, Hampshire, UK, 22-25 March 1995.
+  
+     W.M. McCracken and A.I. Antón.   ``GDSS Tools:  Uses and 
+     Research Applications,''  In Proceedings of the Twenty-Third Annual 
+     Meeting of the Southeast Region of the Decision Sciences Institute, 
+     Chattanooga, TN, 17-19 February 1993.
+ 1992 IBM University Partnership Day, Bethesda, Maryland (March 1992) -
+     CIMR Research Posters.
+
+  Conferences Attended:  
+ IEEE Fifth Workshops on Enabling Technologies: Infrastructure for 
+     Collaborative Enterprises
+     (WET-ICE96),
+     Stanford University, California, USA, 19-21 June 1996. 
+ Second IEEE International Conference on Requirements Engineering 
+     ( ICRE `96), Colorado 
+     Springs, Colorado, 15-18 April 1996.
+  Executive 
+     Round Table SFI Conference:  "Managing the Information Revolution," 
+     Callaway Gardens, GA,  28-30 April 1995.
+ Second IEEE International Symposium on Requirements Engineering 
+      (RE`95),
+      The University of York, York, 
+     England, 27-29 March 1995.
+  IFIP 
+     WG 2.9
+     Software Requirements Engineering Inaugural Meeting,
+     Bramshill House, Hartley Wintney, Hampshire, UK, 22-25 March 1995.
+ The Washington Center's 
+     10th Annual "Women As Leaders" Seminar in
+      Washington DC, May 16-28 1994.
+1993 IEEE International Symposium on Requirements Engineering in San 
+     Diego, California, January 1993.
+ 1991 Japanese-American Global Warming Conference in Atlanta, 
+     Georgia, May 1991.
+
+  Internships:  
+  Schlumberger Laboratory for Computer 
+Science, Austin, TX.  (1992)     
+
+  Professional Affiliations:  
+  IFIP 
+     Working Group 2.9 (Software Requirements Engineering)
+  Institute of Electrical and Electronics 
+     Engineers (IEEE)
+  Association of Computing Machinery (ACM)
+
+  Honors:  
+ Georgia Tech  President's Minority Graduate Research Fellowship 
+     (1992 - present)
+  Omicron Delta 
+     Kappa (1994-present) 
+  GTE Fellowship (1993 - 1994)
+  Georgia Tech Alumni 
+     Association Leadership Award for International Travel (1994)
+ Georgia Tech Bookstore/Student Center Leadership Honorable Mention 
+     Scholarship (1994)
+  Society of Women Engineers 
+     Outstanding CS Graduate Student Award (1993)
+  Georgia Tech Alumni 
+     Association Graduate Student Leadership Award (1992)
+
+  Current Extracurricular Activities:  
+  Omicron Delta 
+     Kappa National Leadership Honor Society (1994-present) 
+ ODK Student Liaison to the Faculty and Alumni (1995-present)
+ Member, Vice President for Student Affairs Search Committee (1996-present)
+ Georgia Tech 
+     Graduate Judiciary (1996-present)
+ Georgia Tech  
+     Executive Round Table (1993-present)
+ Moderator for International Students Requirements Engineering Mailing List
+     and 
+     Requirements Engineering Student Newsletter (1993-present)
+  Georgia Tech Catholic 
+     Center (1986-present)
+
+  Former Extracurricular Activities:  
+ Olympic Envoy to Equatorial Guinea for the  1996 Summer Olympic Games 
+     (1994-1996)
+ Georgia Tech National Advisory Board (1992 - 1995)
+ Bill Moore Success Center Student Advisory Board (1994 - 1995)
+ Georgia Tech President's 
+      Inaugural Planning 
+     Committee (1994 - 1995)
+  Presidents' Council 
+     Governing Board (1995-1996)
+ CoC 
+     
+     Software Engineering Strategic Planning Committee (1993-1995)
+ Member, Executive Director of Information Technology Search Committee 
+     (1993-94)
+ Member, Coordinator of Disabled & Non-Traditional Students Search Committee
+     (1993 - 1994)
+  Georgia Tech Alumni 
+      Association Leadership Awards Committee (1993, 1996)
+ TECH Expo Board of Directors (1992) 
+ College of Computing (CoC) Graduate Studies Committee (1992 - 1994)
+ CoC Graduate Student Liaison to the Faculty (1990 - 1992)
+ CoC Undergraduate Curriculum Reform Committee (1990 - 1991)
+ Alpha Delta Pi
+      Sorority (1987 - 1990)
+
+
+ 
+
+
+
+ Hobbies & Interests 
+
+ Cuba  
+ Cuban Genealogy 
+     Resources
+  CubaWeb
+ Habaguanex Ciboney,
+     Web Magazine of Cuba in Exile
+ The Cuban American National
+     Foundation
+ Cuban Postcards
+ The Cuban 
+     Collection at the Otto G. Richter Library (University of Miami)
+
+
+
+
+
+
+ Olympics 
+
+  
+     1996 Summer Olympic Games
+ 1996 Atlanta Olympics 
+     Report
+ 
+     Map of Olympic Ring
+
+ Arts and Crafts Movement 
+ The Arts and Crafts 
+     Movement in America (1895-1920) 
+People
+Gustav Stickley
+Louis 
+	 Comfort Tiffany
+Frank Lloyd Wright
+What
+The Arts & Crafts Society
+ 
+	 Ragtime Resource Directory
+Places
+The Grove Park 
+	 Inn
+  Antiques
+
+ Misc. 
+ Jane Austin's Pride 
+     and Prejudice on A&E
+ The Dilbert Zone
+ Dale Carnegie
+ WWW TV Themes Home Page
+
+  
+     Bartlett's Familiar Quotations
+
+
+
+
+
+
+
+  Swing Dancing with my partner  Keith Edwards
+  
+     Alfred Hitchcock
+  French Impressionism
+
+
+
+ Contact information: 
+Annie I. Antón
+College of Computing
+801 Atlantic Drive
+Georgia Institute of Technology
+Atlanta, Georgia 30332-0280
+U.S.A.
+E-mail : anton@cc.gatech.edu
+
+
+Other Georgia Tech Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last Modified:  September 6, 1996 by Annie I. Antón (anton@cc.gatech.edu)
+
+

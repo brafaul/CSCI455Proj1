@@ -1,0 +1,107 @@
+Date: Thu, 07 Nov 1996 19:25:05 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 03 Oct 1996 08:23:15 GMT
+Content-length: 2486
+
+
+
+cs520: Introduction to Theoretical Computer Science
+
+
+
+cs520:
+Introduction to Theoretical Computer Science
+
+
+
+    Fall 1996
+    
+
+    MWF 1:20pm, room 1325 cs
+    
+
+
+
+
+lecturer:
+Brian Cole
+
+email:
+tuc@cs.wisc.edu
+
+office:
+1309 cs
+
+office hours:
+Monday 2:15 - 3:15pm
+              Friday 12:15 - 1:15pm
+
+
+
+
+
+teaching assistant:
+David Sundaram-Stukel
+
+email:
+sundaram@cs.wisc.edu
+
+office:
+5364 cs
+
+office hours:
+Tuesday 3:00 - 4:00pm
+              Wednesday 9:30 - 10:30am
+              Thursday 3:00 - 4:00pm
+
+
+
+
+
+
+
+text:
+Introduction to Languages and the Theory of Computation,
+            John C. Martin, North Dakota State University, 1991, McGraw Hill,
+            ISBN 0-07-040659-6
+        
+
+
+
+
+    the tentative lecture schedule,
+    including exam information
+    
+
+    some lecture clarifications
+
+
+    the assignments page
+    
+
+grading policy:
+%25 written assignments
+            %40 mid-term examination
+            %35 final examination
+        
+
+
+
+
+    archive of the
+    
+    cs520 mailing list
+
+
+
+    cs520 Home Page / 1 September 1996  / Brian Cole
+    
+
+    < 
+      UW-Madison Computer Sciences home page >
+    < 
+      UW-Madison home page >
+
+  
+

@@ -1,0 +1,15 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:24:09 GMT
+Content-Type: text/html
+Content-Length: 310
+Last-Modified: Tuesday, 24-Sep-96 18:33:05 GMT
+
+ Books by Robert A. van de Geijn
+  Books by Robert A. van de Geijn
+
+
+
+ Using PLAPACK: Parallel Linear Algebra Package,  
+manuscript in preparation, to be published by MIT Press.
+

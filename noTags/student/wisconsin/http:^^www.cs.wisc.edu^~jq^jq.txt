@@ -1,0 +1,67 @@
+Date: Thu, 07 Nov 1996 19:19:27 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 27 Jun 1996 19:38:46 GMT
+Content-length: 3123
+
+
+
+Welcome to Jin, Qi's Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm a first year graduate student of CS Department. I came fromBeijing,Chinese Academy of Sciences,P.R.China. My hometown is Nanjing, the capitol of Jiangsu Province. 
+
+
+Degree:
+
+ 1995-2001  MS/Ph.D. student in CS Department,University of Wisconsin,Madison.
+ 1992-1995 M.E. from Institute of Automation,Chinese Academy of Sciences, Beijing, P.R.China. Specilized in Pattern Recognition, Image Processing.
+1988-1992 B.S. from Biomedical Engineering Department, Southeast University, Nanjing, P.R.China
+
+Current Activities:
+
+Courses:
+
+CS740 Advanced  Computer Networks;
+CS764 Topics in Database Management;
+CS736 Advanced Operating Systems;
+
+Job: Teaching Assistant in CS367 Data Structure.
+
+Current Address:
+
+Home: 1301 Spring St.,407#, Madison,WI 53715.
+Work: CS 1306,Computer Sciences Department,1210 West Dayton Street, Madison.
+Tele: 608-2626601(office),608-2598609(home).
+
+ You could finger me on jq@cs.wisc.edu.Refer to 
+Computer Science Department for more information.
+ 9272 Class 
+Technical Stuff
+Java Place
+Shore Tutorial
+China Affair
+China Democracy
+Beijing's Spring
+ Places I have interest:
+
+Stanford Network Group
+Stanford Medical Informatics
+MIT's Communication, Control and Signal Processing
+Job Sites from US News
+
+
+You are visitor  number   since 4/10/96.
+
+
+

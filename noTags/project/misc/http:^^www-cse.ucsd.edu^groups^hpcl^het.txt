@@ -1,0 +1,100 @@
+Date: Tue, 14 Jan 1997 23:50:08 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 14 Jan 1997 03:42:30 GMT
+Content-length: 2468
+
+
+
+
+UCSD Heterogeneous Computing Group
+
+
+
+Heterogeneous Computing
+
+
+
+People & Projects
+
+Our Publications
+
+Group Meeting
+
+
+
+
+People & Projects
+
+
+
+Fran Berman
+
+
+
+Silvia Figueira
+ Silvia has just defended her PhD thesis (12/13/96)
+and is now a Postdoctoral Fellow at UCSD. She has
+been working on modeling the effects of contention on
+the behavior of applications in multi-user environments.
+
+
+Jennifer Schopf
+ Jenny is a fifth year graduate student.  Her
+research has been in developing a performance model for
+heterogeneous applications and in evaluating required
+information for performance predictions.
+
+
+Gary Shao
+ Gary is a fourth year graduate student.  His current
+project involved examining the effects of dynamically
+rebalancing data distributions given accurate runtime system
+and network load information.
+
+
+
+Richard Wolski
+ Rich is a research faculty at UCSD, formerly of LLNL.  His
+work involves 
+predicting network performance for heterogeneous systems
+and the development of the  Network Weather
+Service.
+
+
+Cosimo Anlgano
+ Mino is a researcher at the Univeristy of
+Torino, Italy.
+
+
+Leesa Hicks
+ Leesa graduated in January 1996 with her Master's
+degree after 
+finishing her thesis on  Pangaea, 
+a heterogeneous debugging tool, based in part on
+ John
+May's thesis work, 
+
+Panorama
+.  
+
+
+
+
+Group Meeting
+
+
+Send mail to berman@cs.ucsd.edu if you're intersted in joining
+us!
+
+
+
+
+
+
+Back to the High Performance Computing Laboratory Home Page
+
+
+
+jenny@cs.ucsd.edu
+

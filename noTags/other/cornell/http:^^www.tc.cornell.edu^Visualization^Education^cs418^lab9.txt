@@ -1,0 +1,121 @@
+Date: Mon, 16 Dec 1996 22:09:45 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 01 Apr 1996 18:25:40 GMT
+Content-length: 4049
+
+
+
+
+
+CS418 Lab 9
+
+
+
+ 
+CS 418: Laboratory 9
+ Design Project
+ Introduction. 
+In this exercise you will use all of the techniques you have learned this semester to
+produce an animated scene. The scene may include heirarchically modeled objects,
+lights, texture-maps, bump-maps, and camera control. 
+
+Assignment
+
+Produce a scene which has several objects which move. There should be at least
+one example of rotory or periodic motion and at least one example 
+of linear motion. You may want to mix physically-based animation with kinematic
+animation.
+Some of the objects should have a hierarchical structure and you should
+demonstrate use of polyhedra and parametric surfaces.
+Lighting should be appropriate to your scene. Surface properties
+should be controlled to simulate appropriate materials. CA 
+ or reaction based texture maps
+may be appropriate for some objects.
+
+ The animation 
+must start
+with a title frame which includes title, author, and copyright notice.
+The following program is one example of a title page generator.
+
+  titles.net 
+  titles.cfg 
+
+The the system-supplied DX fonts look too thin in MPEG compressed animations
+(or on videotape). We have defined some better fonts. 
+
+ To use them 
+on the HP systems add the
+line below to your .cshrc file 
+setenv DXFONTS /usr/lpp/dx/fonts:/fsys/grieg/a/cs418/Fonts 
+Then source your .cshrc file.
+
+To use them 
+on the IBM systems add the
+line below to your .cshrc file 
+setenv DXFONTS /usr/lpp/dx/fonts:/u/tc/devine/public/fonts 
+Then source your .cshrc file.
+
+The fonts which are available 
+(once you modify the .cshrc file) in DX are named FutMath, DutBld, FutHvy,
+FutLED2d, FutLED3d, LatNov, SwiBld, and SwiBlk. FutMath looks good in MPEG
+compressed files.  
+
+
+
+The following are possible ideas, but you are not limited to these.
+
+A tree growing. 
+A robot spacecraft battle.
+A city street.
+A castle with waving flags and a gate over a moat.
+A sailboat on Cayuga Lake at sunset.
+A human or animal.
+
+
+Be prepared to demo your animation in section.
+You must hand in a
+ one page  written description of your animation
+including both author's names, the title, and a brief summary of the
+plot and the techniques you used. This document must be printed from
+a Web page (with no links) that you design. To demonstrate your animation 
+ you  must  mpeg compress it. Directions for compression
+are  here. The mpeg file may not be longer
+than 5Mbytes. You may need to 
+ trade off 
+frame size, animation length,
+and mpeg compression quality to achieve a maximum file size of 5Mbytes.
+
+ Grading will be based on several factors: 
+
+
+Amount of time spent on the project. This is a three week project 
+implying approximately 50 hours of lab work, split between two
+people. 
+Variety of techniques used.  Did you exploit the information from the 
+earlier exercises? 
+Clarity of the program. 
+You should be able to explain your program. You should use
+transmitters/receivers, macros, and comments 
+in the "Notation" field of each module
+so that you and the grader can understand the program. 
+Control panels, if any,
+should be well organized, labeled, and with the appropriate numeric ranges.
+
+
+
+Be sure to see past year's Lab 9 
+
+animation results 
+
+
+Back to Main Page
+
+
+Last modified, 1/18/96, B. Land.
+
+
+
+
+Copyright Statement 
+ 

@@ -1,0 +1,54 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 18:55:33 GMT
+Content-Type: text/html
+Content-Length: 5188
+Last-Modified: Wednesday, 13-Nov-96 19:03:24 GMT
+
+
+
+
+Ramin Zabih's Home Page
+
+
+
+
+
+Ramin Zabih
+Assistant Professorrdz@cs.cornell.edu
+607 255 8413
+607 255 4428 (fax) 
+
+ResearchMy research interests lie in Computer Vision and Multimedia. I am currently interested in 
+constructing a search engine for images, using some new methods we have developed. I've recently been thinking about the economic impact of freely available pricing information on the 
+Web. My essay on this subject appeared in Phil Agre's electronic newsletter The Network Observer in 
+March 1996. 
+
+StudentsI work with PhD students Jing Huang, Vera Kettnaker and Olga Veksler. I also spend a fair amount 
+of time with various undergraduates, principally Greg Pass and Justin Voskuhl. Other undergraduates 
+include Scott Cytacki, Justin Miller and Rob Szewczyk.
+PublicationsMost of these publications are available in postscript or in PDF (acrobat) format. Free PDF readers 
+for a variety of different architectures are available from Adobe.
+Histogram Refinement for Content-Based Image Retrieval, Greg Pass and Ramin Zabih. IEEE 
+Workshop on Applications of Computer Vision. Sarasota, Florida, December 1996.
+Comparing Images Using Color Coherence Vectors, Greg Pass, Ramin Zabih and Justin Miller. Fourth 
+ACM Conference on Multimedia. Boston, Massachusetts, November 1996.
+Feature-Based Algorithms for Detecting and Classifying Scene Breaks, Ramin Zabih, Justin Miller 
+and Kevin Mai. Third ACM Conference on Multimedia. San Francisco, California, November 1995.
+Non-parametric Local Transforms for Computing Visual Correspondence, Ramin Zabih and John 
+Woodfill. Third European Conference on Computer Vision, Stockholm, Sweden, May 1994.
+
+
+TeachingI am currently teaching CS100B, an introduction to computer programming. In the Spring I will 
+teach CS664, a course in computer vision. If you are interested in that course, there are scribe notes 
+from my lectures available on the web page. I have also taught CS212, an introduction to computation 
+and programming.
+Professional ActivitiesI am on the program comittee for CVPR-97, the IEEE conference on computer vision 
+and pattern recognition, which will be held in San Juan, PR in June 1997. I am also on the organizing 
+committee for the IEEE Workshop on Content-based access of Image and Video Libraries, to be held in 
+conjunction with CVPR-97.
+AcknowledgementsThis web page design is courtesy of Dan Huttenlocher
+ Last Updated: November 3, 1996
+
+
+

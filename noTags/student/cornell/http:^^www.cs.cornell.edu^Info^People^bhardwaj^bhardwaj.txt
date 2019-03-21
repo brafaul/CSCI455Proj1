@@ -1,0 +1,68 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:43:21 GMT
+Content-Type: text/html
+Content-Length: 1933
+Last-Modified: Saturday, 07-Sep-96 21:15:23 GMT
+
+
+
+Aastha's home page
+
+
+
+
+
+
+Aastha Bhardwaj
+Department of Computer Science
+Master of
+Engineeering
+
+
+
+
+
+
+
+
+
+
+
+
+Resume
+
+HTML
+Post Script
+
+
+
+
+Coursework
+
+Advanced
+Database Systems CS537
+Multimedia
+Systems CS631
+Engineering
+Computer Networks CS519
+Software
+Engineering/Programming Languages CS501
+
+
+
+
+
+Contact Information
+
+2010, Hasbrouck Apartments, Ithaca, New York - 14850
+
+(607)-253-5419
+
+(bhardwaj@cs.cornell.edu)
+
+
+
+
+
+

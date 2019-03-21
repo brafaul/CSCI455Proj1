@@ -1,0 +1,28 @@
+Server: Netscape-Communications/1.1
+Date: Thursday, 21-Nov-96 20:18:10 GMT
+Last-modified: Friday, 23-Aug-96 20:39:59 GMT
+Content-length: 633
+Content-type: text/html
+
+
+Manfred - Field of Interest
+UC Davis
+Department of Computer Science
+
+
+
+
+
+Manfred Ruschitzka
+Professor
+
+Professor Ruschitzka�s research involves conducting experimental and theoretical studies of methods for improving the performance of computer systems and the accessibility of information in computer networks.
+
+
+
+Office: 3035 Engineering II
+Phone: (916) 752-8590
+E-mail: ruschitzka@cs.ucdavis.edu
+
+
+Last modified August 23, 1996

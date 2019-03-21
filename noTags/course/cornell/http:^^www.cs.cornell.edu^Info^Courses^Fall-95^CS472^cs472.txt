@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:29:08 GMT
+Content-Type: text/html
+Content-Length: 1202
+Last-Modified: Friday, 22-Dec-95 23:09:13 GMT
+
+
+CS472 Home Page
+
+CS472
+Foundations of Artificial Intelligence 
+
+Computer Science Department
+    Cornell University
+    Fall 1995
+
+Welcome to CS472!
+
+
+
+        Course Information for CS472 and CS473
+
+
+        Course Materials for CS472 and CS473
+
+Code of Academic Integrity (Please read!)
+
+
+Announcements
+
+(claire)
+Final grades will be available sometime Saturday, Dec. 23.  I can send you your
+grade via e-mail if you request me to do so via e-mail.
+(claire)
+Final exam is Dec 22, Upson B17, 9 a.m.  Alternate date is Dec 14, Upson B17, 9 a.m.
+
+
+
+
+Other CS course home pages
+
+CS Department home page
+

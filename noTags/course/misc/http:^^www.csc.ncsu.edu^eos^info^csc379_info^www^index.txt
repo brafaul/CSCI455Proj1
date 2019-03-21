@@ -1,0 +1,25 @@
+Date: Tue, 26 Nov 1996 18:47:10 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 21 Nov 1996 17:53:59 GMT
+Content-type: text/html
+Content-length: 1340
+
+CSC379 title page
+CSC 379: Ethics in Computing
+
+This course is a survey of the ethical issues involved  in
+computing.  It discusses the way that computers and software pose new
+ethical questions or pose new versions of standard moral problems and
+dilemmas. It stresses case studies that relate to ethical theory.
+
+Welcome to the web page for CSC 379!
+
+Course information
+Course policy
+Syllabus, with links to reading material and discussions.
+NetForum discussions
+Last year's final exam (for help in studying)
+
+Computer Science Department
+
+efg@ncsu.edu Dr. Edward F. Gehringer

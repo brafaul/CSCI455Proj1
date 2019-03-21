@@ -1,0 +1,34 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 21:40:37 GMT
+Content-Type: text/html
+Content-Length: 900
+Last-Modified: Thursday, 24-Oct-96 23:55:43 GMT
+
+ Multithreading 
+
+ Multithreading 
+
+ Objectives: 
+
+ maximize utilization of multiprocessor resources: CPU, memory,
+      network, I/0, etc. 
+ simplify implementation of load balancing policies 
+
+
+ Idea: Exploit concurrency in the uniprocessor level 
+
+ Implementation:  use multiple threads of control per processor 
+
+ Swap out blocked threads in order to maximize
+     utilization of multiprocessor resources: CPU, memory, network, I/0, etc 
+ Assign at run-time priorities to threads in order to
+     simplify implementation of load balancing policies 
+
+
+
+
+
+
+ For more information contact  Nikos P. Chrisochoides 
+

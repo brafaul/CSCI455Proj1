@@ -1,0 +1,64 @@
+Date: Thu, 07 Nov 1996 19:17:21 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 10 Oct 1996 04:19:03 GMT
+Content-length: 2400
+
+
+
+Avinash Sodani's Home Page
+
+
+ Avinash Sodani (sodani@cs.wisc.edu) 
+ 
+ Graduate Student
+ Department of Computer Sciences
+University of Wisconsin-Madison 
+    1210 West Dayton Street
+    Madison, WI 53706 USA
+  Education 
+
+ M.S. Computer Science, University of Wisconsin-Madison, May 1996.
+ B.Tech (Hons) Computer Science,  
+     Indian Institute of Technology, Kharagpur, 
+     India , July 1994.
+
+  Academic Interests 
+
+ Computer Architecture 
+
+  Multiscalar (Kestrel) Project
+
+ Programming Languages and Compilers 
+
+  Some Interesting Course Projects 
+
+  RPC Package for Java .  (Download the package).
+
+  Meet 
+
+ My batch-mates.  (CS '94)
+
+  CS Related Links 
+
+  CPU Info Center 
+  CS departments on the Web 
+  Ranks of CS departments 
+
+  India Related Links 
+
+ India News 
+  The Hindu : Online Edition 
+
+  Random Links 
+
+ Looking for a KGPite ? Follow  this .
+ AT&T Toll Free 800 Directory 
+  Wills World Cup Cricket '96 
+
+
+
+This page has been accessed  times since Feb 21, 1996
+
+
+

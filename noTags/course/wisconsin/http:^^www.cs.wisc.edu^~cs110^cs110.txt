@@ -1,0 +1,50 @@
+Date: Thu, 07 Nov 1996 19:23:36 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 04 Sep 1996 16:29:13 GMT
+Content-length: 2129
+
+
+
+CS 110
+
+
+Introduction to Computer Programming 
+Computer Sciences 110 
+Fall 1996
+
+This is a one-credit course designed to cover the basic programming
+structures needed to prepare the students for CS310 and elementary
+engineering courses.  The material covered will be sufficient to enable
+the student to write simple programs to solve engineering problems in
+elementary courses.
+
+
+The material in CS 110 is essentially the same as the first half of CS 302.
+
+
+
+List of fall sections:
+
+
+ Lecture 1 (FORTRAN), Jeff Lampert
+ Lecture 2 (FORTRAN), Jeff Lampert
+ Lecture 3 (C++), Tony D'Silva
+ Lecture 4 (C++), Tony D'Silva
+ Lecture 5 (C++), Sidney Hummert
+ Lecture 6 (C++), Sidney Hummert
+ Lecture 7 (C++), Michael Birk
+ Lecture 8 (C++), Michael Birk
+ Lecture 9 (C++), Sidney Hummert
+ Lecture 10 (C++),Sidney Hummert
+ Lecture 11 (C++), Tony D'Silva
+ Lecture 12 (C++), Tony D'Silva
+ Lecture 13 (C++), Russell Manning
+ Lecture 14 (C++), Russell Manning
+ Lecture 15 (C++), Martin Reames
+
+
+Last modified: Wed Sep  4 11:29:13 1996 by Anthony D'Silva
+
+
+

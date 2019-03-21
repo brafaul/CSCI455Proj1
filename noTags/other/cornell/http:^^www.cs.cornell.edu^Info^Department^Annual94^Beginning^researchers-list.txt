@@ -1,0 +1,60 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 23:02:00 GMT
+Content-Type: text/html
+Content-Length: 1734
+Last-Modified: Thursday, 10-Nov-94 21:00:56 GMT
+
+Departmental Research Scientists
+
+Departmental Research Scientists
+
+These are the Research Scientists in the Department.  
+To find out more about a specific researcher,
+please follow the link to her/his departmental home page.
+
+
+
+Paul Chew
+Senior Research Associate
+
+Dean Krafft
+Senior Research Associate; Director of Computing Facilities
+
+Bruce R. Land
+Project Leader of Visualization, Cornell Theory Center
+Senior Research Associate, Computer Science
+
+Yuying Li
+Research Associate
+
+Richard Palmer
+Research Associate
+
+Daniela Rus
+Research Associate
+
+Robbert van Renesse
+Research Associate
+
+Richard Zippel
+Senior Research Associate
+
+
+
+Return to: 
+
+
+ 
+        1993-1994 Annual Report Home Page
+
+ 
+        Departmental Home Page
+
+If you have questions or comments please contact: 
+ www@cs.cornell.edu.
+
+
+Last modified: 9 November 1994 by Denise Moore 
+(denise@cs.cornell.edu).
+

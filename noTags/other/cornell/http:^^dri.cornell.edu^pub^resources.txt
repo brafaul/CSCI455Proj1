@@ -1,0 +1,236 @@
+MIME-Version: 1.0
+Server: CERN/3.0pre6
+Date: Sunday, 24-Nov-96 23:12:59 GMT
+Content-Type: text/html
+Content-Length: 9969
+Last-Modified: Wednesday, 12-Jun-96 23:01:55 GMT
+
+
+
+
+Information sources
+
+
+DRI Information resources
+
+Information resources I think might be useful to DRI people, maintained
+by Jim Davis.
+
+
+About the DRI
+Libraries
+Finding more resources
+High Performance Computing
+National Information Infrastructure
+Companies
+Universities
+Uncle Sam
+Other
+
+
+DRI information
+
+search DRI public files
+Full test search of files on our WWW server and archives of DRI mailing lists.
+Or browse through the file system tree.
+
+Software environments pages
+The Design Research Institute
+The home page for our Web server, this is our "front door" to the
+rest of the world.
+
+
+
+Meta-Servers 
+
+These are the "Yellow Pages" of the Internet.  Some of these are lists
+or collections of "good sites" which you browse visually, and others
+are search systems (you fill in a form, and it tells you what it has).
+The advantage of the lists are that if they are not too long, you can
+search them by eye, and if they are well organized, you can search
+quickly.  The search systems are usually much larger, and often
+contain information gathered by automatic agents which exhaustively
+traverse the entire Web.  Unfortunately no single one of these
+systems is the best.  You will certainly want to try at least the first
+three.
+
+Searches
+
+The first three are all very powerful and comprehensive.
+
+
+ AltaVista
+
+Inktomi
+A fast Web indexer with a large database.
+
+Lycos
+W3 catalog
+If this is down, see the original site in Switzerland.
+
+World Wide Web Worm
+
+Search
+WWW Homepages using Harvest
+ALIWEB
+
+Lists
+
+ YAHOO
+ YAHOO:  Yet    Another  Hierarchically [insert  O   word]  Oracle
+maintained by David Filo and Jerry Yang.  It's become quite popular lately.
+
+What's new
+A historical list of new events on the Web, compiled by NCSA.  This
+is the same as the "What's new" link on Mosaic's Help menu.
+
+Reference Desk
+Good list of references on the net.
+
+All the world's servers, on a map
+Global Network Navigator
+This highly polished document is published by O'Rielly Associates
+is a kind of online magazine about the Internet.  It includes 
+the Whole
+Internet Catalog, a very useful index of things on the net.
+You must register to use it, but usage is free.
+
+
+
+Libraries
+
+Cornell Library Catalog
+Requires a 3270 emulator.
+
+Mann Library gateway
+This gateway connects to a number of useful databases including DIALOG and periodicals index.
+
+CS TR server
+Computer Science Technical Reports at Cornell, with links
+to other places.
+
+Library of
+Congress
+See also the Library of Congress
+gopher server
+Hytelnet
+List of online public library catalogs.  Good when you are searching for a book.
+
+
+
+High Performance Computing, Simulation, Design
+
+MetaCenter for Computational Science and Engineering
+Cornell Theory Center
+
+High performance networking and distributed systems archive
+Loughborough, UK
+
+
+NSF HPCC Science Highlights
+National Coordination Office for HPCC
+List of High Performance computing sites
+List of High Performance research groups
+General Electric CE Toolkit
+A strong set of demos of GE's work in Concurrent Engineering.
+
+Defense Information Systems Agency
+includes JIEO (Joint Interoperability and Engineering
+Organization) Center for Engineering Activities
+Monthly reports 
+
+National Software Exchange (NSE) for the High Performance Computing 
+and Communications community. 
+
+
+
+National Information Infrastructure
+
+InterNIC Internet Network Databases
+RFC index.
+See also RFCs at nic.merit.edu
+Internet drafts at nic.merit.edu
+UNC Chapel Hill
+Includes National Information Infrastructure.
+
+
+National Information Infrastructure Gopher
+National Information
+Infrastructure Guide
+Enterprise Integration Technologies
+
+Companies
+Home pages of various companies.
+
+
+Xerox
+Digital Equipment Corp
+AT&T Research
+McCaw Cellular Communications
+ Cellular Digital Packet Data (CDPD) is a fast, efficient, digital
+data transmission system that overlays existing analog cellular
+networks. The system operates at 19.2 Kbps per channel. CDPD provides
+maximum connectivity by using idle times between cellular voice calls
+or transmitting in a dedicated channel environment.
+
+Canon Research Centre Europe
+ Natural language processing and audio. No photocopiers.
+
+Hewlett Packard
+
+Object Management Group
+Source of Common Object specifications 
+
+
+ Thomas Register
+ one of the oldest and most comprehensive sources of information
+about companies. You need to supply a password to use it.  Try
+username dri and password tr.
+
+
+Universities
+This is just a list of those that are related in some way to the DRI.
+For exhaustive lists of university servers, consult the Meta server section.
+
+
+Cornell CS
+Center for Coordination Science, MIT
+
+
+United States Government
+
+FedWorld
+ White House Interactive Citizen's Handbook
+ARPA
+United States Census Bureau
+NASA
+Department of Justice
+ Department of Defense
+ See also United States Navy
+Patent and Trademark Office
+Including intellectual property and the NII, and reports
+on software patents
+
+
+
+Other servers
+
+Search all Usenet news
+
+Geography server Gateway
+CIT Gopher
+Cornell Information Technologies gopher network.  Include link to CUINFO
+
+Usenet FAQ files
+Frequently Asked Questions from Usenet newsgroups.  The technical
+groups are often good sources of information.
+
+
+Searchable FAQ index
+Usenet FAQs
+list of all FAQs, some of which are in HTML.
+FTP archive of FAQs
+
+
+
+

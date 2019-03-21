@@ -1,0 +1,818 @@
+Date: Tue, 26 Nov 1996 18:40:35 GMT
+Server: NCSA/1.5.1
+Last-modified: Wed, 09 Oct 1996 18:30:36 GMT
+Content-type: text/html
+Content-length: 27656
+
+
+
+CS 60:  Principles of Computer Science
+
+
+URL http://www.cs.hmc.edu/~keller/cs60f96.html
+
+
+
+Harvey Mudd College, Fall 1996
+
+Computer Science 60
+Principles of Computer Science
+Home Page and Reference Card
+
+
+
+Index Search
+
+
+Assignments
+Lecture Slides (partial)
+Examples
+Book errata
+Keller's Java index
+RCS
+rex reference card
+Personnel
+Catalog Description
+Course Goals
+Texts
+Course Assumptions
+Is this a programming course?
+Lectures
+Threads
+Resources
+Grading
+Tutoring
+Your Directory ~/cs60
+Honor Code Standard (Please read this carefully.)
+  Grading Weights
+Late Assignment Policy
+Topic Outline
+How to submit assignments
+
+
+Course Personnel
+
+
+Instructor: Robert Keller,
+242 Olin (4-5 p.m. MTuW or by appt.), keller@muddcs, x 18483
+  
+System administrator: Quay Ly, 101 Beckman, quay@muddcs, x 73474
+  
+Secretary: Nancy Mandala, 240 Olin (1-5 M-F), nancy@muddcs, x 18225
+  Mascot: rex
+
+CS60 specific help: email to cs60help@muddcs.cs.hmc.edu
+
+General system help: email to help@muddcs.cs.hmc.edu
+
+
+
+
+Tutor/Graders:
+    
+
+
+Drew Bernat '99
+    
+
+    x74849
+    
+abernat@muddcs
+
+
+Matt Dharm '98
+    
+
+    x74853
+    
+
+mdharm@muddcs
+
+
+Kevin Eustice '99
+    
+
+    x72482
+    
+
+kevin@muddcs
+
+
+Elizabeth Gordon '99
+    
+
+    x74910
+    
+
+egordon@muddcs
+
+
+Itai Seggev '99
+    
+
+    x74266
+    
+
+itai@muddcs
+
+
+
+
+Tutor Hours, in 102 Beckman:
+
+    
+
+
+    Hours
+    
+
+    Monday
+    
+
+    Tuesday
+    
+
+    Wednesday
+    
+
+    Thursday
+    
+
+    Friday
+    
+
+    Saturday
+    
+
+
+
+    10-11
+    
+ 
+
+ 
+    Matt
+    
+ 
+
+ 
+    Matt
+    
+ 
+
+ 
+
+ 
+
+
+
+
+    11-12
+    
+ 
+
+ 
+    Matt
+    
+ 
+
+ 
+    Matt
+    
+ 
+
+ 
+
+ 
+
+
+
+
+    12-1
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    1-2
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+    Kevin
+    
+ 
+
+ 
+
+
+
+
+    2-3
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+    Kevin
+    
+ 
+
+ 
+
+
+
+
+    3-4
+    
+ 
+    Lecture
+    
+ 
+    Drew (2:30)
+    
+ 
+    Lecture
+    
+ 
+    Drew (2:30)
+    
+ 
+    Beth
+    
+ 
+    Beth
+    
+ 
+
+
+
+
+    4-5
+    
+ 
+    Office Hrs.
+    
+ 
+    Drew (to 4:30)+ Office Hrs.
+    
+ 
+    Office Hrs.
+    
+ 
+    Drew (to 4:30)
+    
+ 
+    Beth
+    
+ 
+    Beth
+    
+ 
+
+
+
+
+    5-6
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    6-7
+    
+ 
+    Itai
+    
+ 
+    Kevin
+    
+ 
+    Itai
+    
+ 
+    Kevin
+    
+ 
+
+ 
+
+ 
+
+
+
+
+    7-8    
+    
+ 
+    Itai
+    
+ 
+    Kevin
+    
+ 
+    Itai
+    
+ 
+    Kevin
+    
+ 
+
+ 
+
+ 
+
+
+
+
+    8-9
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+If none of these hours work for you, please let me
+know.
+
+
+Room 102 Beckman
+is where the X terminals connected to our machine muddcs are.
+To find it, leave the back of the lecture hall (Beckman 126) turn right,
+go up the stairs to the first door on the left.
+
+
+To get to my office, enter the Olin Building from the southeast.  My 
+door is inside 240, the CS Department Office, which is the first
+door on the right.
+240 is always open during business hours.
+My door is usually closed to filter out noise, but don't hesitate to knock.
+
+
+Catalog Description
+
+Introduction to principles of computer science.  Algorithms, complexity
+analysis, data structuring, data and procedural abstraction, grammars, 
+correctness, logic principles, processor organization, operating system 
+concepts, programming languages, basic automata theory, and theoretical 
+limitations.
+
+
+Course Goals
+
+To learn and apply basic principles of computer science, including
+software construction, hardware organization, and limitations of
+computers.  
+
+Texts
+
+Robert M. Keller,  Principles of Computing, September 1996.
+Available by subscription at the cost of reproduction.
+This text is being substantially revised from prior years.  It will be
+available as it gets completed.  The first chapter will be free, following
+which you will be given a chance to be a subscriber at a fixed estimated
+cost.  Subscribers get the rest of the notes, loose-leaf and 3-hole punched.
+
+David H. Friedel, Jr. and Anthony Potts, 
+
+Java Programming Language Handbook,
+Coriolis Group Books, 1996, ISBN 1-883577-77-2.
+
+
+
+
+Course Assumptions
+
+Students should have had a first course in computing at the college
+level (e.g. CS5).  Prior experience in C or C++ is preferred although
+not essential.  We will be using a number of different languages, including
+Java, 
+a simplified derivative of C++.
+It is possible to have only a knowledge of Pascal, rather than C++, when you start.
+This is fine, as long as you don't freak because of language syntax.
+You should know about procedures, arrays, and
+types at a minimum; if you are unfamiliar with these, please take CS5, 6
+or 50 first.
+
+
+Is this a "Programming Course"?
+
+In a sense, it is: much of the course entails programming.
+However, we  consider exposure
+to computer science ideas to be the important part.  The intent of the
+programming assignments is to drive home these key ideas.
+
+
+Lectures
+
+The word "lecture" below is used very loosely.  I expect that the lecture
+periods will include some traditional-style lecturing, but hope it will be more like a 
+multilogue (set of dialogues).  You are expected to attend, ask
+questions, and provide comments.
+
+I am planning to lecture 50-60 about minutes of the 75 minutes we have allocated
+in each session.
+The rest of the time will be for the purpose of answering extended questions
+and going into more specifics of some of the programming techniques and
+examples.  If you don't have things to ask of me in this remaining time, I may
+ask some things of you (e.g. a quiz).
+
+Threads
+
+There are essentially three interwoven "threads" in the course: The book,
+the problems, and the lectures.  I try to keep them "in synch" with one
+another, but active participation in all three threads is required.
+Volume-wise, the book covers more material than can be discussed in the
+lecture.  The lecture will cover some things not in the book.
+Staying attune to what is going on in lecture will help you focus on
+the areas in the book that are important as far as exam emphasis.  
+The problems exercise some, but not all, of the
+things discussed in the book and lecture.
+
+Course Resources
+
+The course is planned to be interactive throughout.  We are eager to
+prevent programming difficulties from consuming extraordinary time, so
+please ask when you get stuck with such difficulties.  It is
+much more efficient to start early on each assignment so that
+you give yourself enough time to cope with the numerous contingencies
+which inevitably materialize.  You can get help on-line by emailing to
+cs60help@muddcs which goes to the graders/tutors and to me.  I don't
+encourage use of 'talk' because it is too slow, but I check email often.  When
+you email a message, it will typically be answered to the entire class
+with parts of your message embedded.  If you do not want it to be
+attributed to you, please so indicate in your message.  
+
+By carrying problem solutions through to computer implementation, you
+are showing that you understand the issues, principles, and
+techniques.  I or the tutors will explain to you how to work any problem, to any
+level of detail, if you ask.  However, you must do so with a
+sufficient time margin.  Telling us at the eleventh hour that you just
+aren't getting it and therefore want to drop the course is not availing
+yourself of the substantial help available.
+
+ You are also welcome to submit email with any
+question you'd like to have answered or any point you would like
+addressed after lecture, or leave a note in my mailbox in 240
+Olin.  Of course you are encouraged to ask such questions in class as
+well.  
+
+
+There are many tools available on muddcs itself.  Use the
+'man' feature of UNIX to find what you need and to explore.  The command 
+
+    man command
+
+gives information on a specific command; 
+The command 
+
+    man -k topic
+
+lists commands relating to a specific topic.  You can also
+use the 'info' reader in GNU Emacs for certain library, language, and editor
+specifics.  In Emacs type 
+
+    escape-X info
+
+Emacs is a very powerful editor which is going to be around for a long time; it
+is highly encouraged that you learn to use it.
+Helpful information, examples, on-line copies of
+assignments, etc. will be kept in various subdirectories of the
+directory 
+
+/cs/cs60
+
+on machine muddcs.  There is a web page for rex and ISCAL documentation.  Finally, the "corner
+store" maxim applies: If you can't find what you want, ask for
+it. 
+Grading
+There will be approximately six graded assignments, most entailing programming.
+Programming assignments help drive home key working concepts and
+principles.  Assignments vary in difficulty and will not necessarily be equally
+weighted.  There will also be some assignments which you will not submit, but
+should do anyway because they will help you with other assignments.
+The languages for the graded assignments will probably be one in rex, two in Java,
+one in C++, one in Prolog,
+and one in assembly language (ISCAL, for a simulated machine).  
+Sufficient information about the languages will be
+provided to enable you to complete the assignments; you do not have to know these
+languages when you enter the class.
+
+Here is the nominal point breakdown we use on assignments.  This may vary somewhat,
+depending on the emphasis of the assignment.
+  
+40% for general correctness:
+    
+        The program should run according to specification,
+        taking into account any DWIM (do-what-I-mean) situations
+        (e.g. The professor says one thing but really meant something
+        different;  Hopefully he or someone will catch this and
+        say something about it before it goes too far.)
+     
+        We are a learning community here, so don't just be silent about 
+        things that you think are errors.
+     
+20% for choice or discovery of algorithm:
+    
+        Sometimes the algorithm is given.  However, sometimes
+        such clues are ignored, resulting in loss of points
+        unnecessarily or unnecessary floundering.
+    
+        Some people find a better way than what was suggested.
+        They get extra credit, at grader's discretion.  
+    
+        (Note: "better" does not mean more obscure or
+        cleverly hacked-up, but rather more elegant,
+        or substantially more efficient.)
+    
+20% for documentation:
+    
+        Comments should be included in the code which expose the method,
+        any subtleties, etc.
+    
+10% for style:
+    
+        The code should be readable without extraordinary effort.
+        Use spacing, braces, etc. to improve readability.
+        Layout characters are not at a premium, so use them liberally.
+    
+10% for robustness:
+    
+        The program should not break in unusual ways for minor input
+        aberrations.
+    
+
+Remember, you can always ask about things before you submit your actual product.
+There is no reason to lose points on most of the above.  
+You also lose no points or esteem for asking.
+
+Tutoring
+The tutors are expected to play a key role in the course.  Everyone will need to interact
+with a tutor, even if you don't need help:
+
+  
+ You will "check in" with your tutor
+  on a regular basis, and show him/her your progress.  Checking in will be
+  a part of your grade.
+  
+ Your tutor will advise you on your approach to solving the problem,
+  documentation, and presentation.
+  
+ Your tutor will make an evaluation of your work when you are ready
+  to submit it, and recommend a grade to me.
+  
+ I will assign the grade for the assignment, based on the tutor's 
+  recommendation, although I am not bound to follow the recommendation
+  100%.
+  
+
+Neither I nor the tutors are your adversaries.  We want you to succeed, but it
+requires effort, cooperation, and timing on your part.
+
+Your Directory ~/cs60
+You should have a directory ~/cs60 which has group access by group cs60.
+If not, the system administrator will create one for you.  Access to this
+directory will thus be by you, the instructor, and the tutors, but preferrably
+no one else.  When properly setup the directory listing, obtained by ls -l, for
+this directory should look like:
+
+   2 drwxrwx---   2 yourid     cs60         512 Sep  8 20:32 cs60/
+
+If it does not, you should execute the following command from your home directory:
+
+   chmod 770 cs60
+
+The purpose of
+this directory is to be able to get help on programs without mailing the program.
+Simply indicate the file name to the instructor or tutor.  He or she can connect
+to the directory and write things there.  It is not necessary that you keep all
+of your work accessible there, just the things on which you are currently working.
+
+Honor Code Standard (Please read this carefully.) 
+
+Although discussion of problems with others is encouraged,
+programming in CS60 emphasizes individual learning, not group
+projects.  We observe the following Standard:  "You may discuss the
+assignment with other students.  You may not
+share [i.e. give or receive]
+written work of any kind, inside or outside the course".
+Elaboration:  In the case of programming assignments, we consider
+"written work" to include email, computer files, fragments of files, and printed output.
+In developing code for a programming assignment, you can
+discuss ideas with others, but discussion of ideas
+must not involve wholesale examination or 
+transcription of the actual working code of
+others, with the exception that you may use any code explicitly
+provided by the instructor. 
+
+The following types of activities have occurred in the past.  They have, in
+most cases, resulted in receiving a failing grade in the course, 
+one or more appearances before the judicial board (with the attendant
+blighted record), and in some cases eventual ITR (Ineligible to Register) status.
+
+
+Two or more students split up an assignment, then transcribe each others' contributions,
+sometimes changing names of variables, comments, formatting, etc.  
+
+
+A student browses the directories of other students and finds someone's
+homework file unprotected.  He makes a copy of the file and edits it
+as above to try to make it look like his own.
+
+You would be surprised how easy it is for a grader to spot violations.
+If you have any doubts about whether a form of
+interaction constitutes a violation of this standard, please consult
+with me prior to continuing.
+
+If you get significant, but legitimate, help from another, you should acknowledge
+it on your submission.  You do not lose credit for this.  It is only
+proper to acknowledge the other person.
+
+Grading Weights
+Here is how your overall grade is determined:
+
+50% programming assignments
+
+25% final-examination
+
+15% mid-term examination
+
+10% attendance, participation, tutor-checkin, and random quizzes
+
+Exams are open book and emphasize conceptual understanding, rather
+than memorization of fine details.  
+
+Late Assignment Policy
+
+Submissions are done by following the instructions below,
+which also establishes the time of submission.
+The due dates on assignments should be noted carefully.
+The work of an assignment should be conducted in the week or weeks
+before, not on the last day when there is no space for the necessary
+thinking.  
+
+Automatic Grace
+There is an automatic, fixed, one-day grace period on all assignments.  
+In other words, if the due date
+states day N, then the assignment must be turned in before midnight on
+day N+1 to receive any credit.  After midnight on day N+1 work you
+spend on the problem is for you own edification only (which is not 
+to say that it isn't worth doing or required; you just don't get
+points for it then).  It is best to plan to get the assignments in
+on the stated due date.
+
+CS 60 Topic Outline
+
+The lectures will roughly follow this outline.  The progression is at
+the rate of about two of the numbered topics below per week.  I should
+say that this is what I would like to do.  Depending on background,
+some of the topics expand to longer than allocated, with the result
+that other topics get jettisoned or fall off the end.  Please keep up
+on the reading without it being explicitly assigned.  The notes
+generally expand on the lectures and discussions.  But the lectures
+may also expand on the notes or introduce new material.  More often
+than not, several threads will be interwoven in the lectures over a
+period of time, in part to emphasize the commonality of concepts from
+different vantage points.  Brackets below indicate where chapters in
+the notes start with respect to the concepts that follow.  The outline
+does not mention every topic.  The actual lectures determine points of
+emphasis.
+
+
+[Information structures].
+List notation.   Trees and Graphs.
+
+[High-level functional programming].  
+Higher-order functions.  Anonymous functions.  Equivalences.
+
+[Low-level functional programming].
+Rewrite rules.  Recursion.  Mutual recursion.  Depth-first 
+and breadth-first search of trees and graphs.
+Caching. 
+
+[States and Transitions].Computation problems and models of
+computation. Assignment-based programs.  McCarthy's transformation.  Turing
+machines.
+RAM model.  Arrays.  Linear addressing principle.  Pointers.  L-values and R-values.  
+
+[Computing Objectively]  Object-orientation and data abstraction.
+Java objects.  Inheritance.
+
+[Structural Computing] The Polya library.  Translating rex to Java.  
+S expressions.  Low-level data structuring.  Dynamic storage
+allocation.  Open- vs. closed-list models
+
+[Computing Grammatically]  Inductive definitions, grammars,
+syntax.  Parsing. Evaluation.  
+
+[Computing Logically]  Proposition logic and applications.  Gate
+realizations.  Physical bases for computation.  Minterm expansion.  Boole/Shannon expansion.
+
+Logic simplification.  Hypercubes. Karnaugh maps.  "Don't care"
+situations. 
+
+Predicate logic.  Programming in logic.  Backtracking. 
+
+Program specification, correctness, and verification.
+
+Mid-term examination.  (Date of Midterm: Wednesday, 30 October 1996).
+
+[Complexity of computing]  Runtime measures. Profiling.
+Growth-rate comparisons.  Upper bounds.  "O" notation.   Examples from
+sorting: Heapsort, radix sort.
+
+Complexity (continued).  Empirical measurements.  Amdahl's law.  
+Set abstraction examples.  Bit-vectors.
+
+Weighted graphs.  Shortest paths.  Traveling salesman problem.
+
+[Finite-State Computing]  Finite-state machines.  Sequential
+logic design.  Physical basis for memory.
+
+Regular expressions and finite-state machines.
+
+Computer components.  Registers, buses, multiplexors, etc.
+
+[Stored-Program Computing]  
+Stored-program computer structure.  ISC (Incredibly-Simple Computer).
+
+ISC Assembly language.  Low-level implementation of recursion.
+
+[Computing in Parallel]  Parallel computation.  Multi-threading.  Networking.
+
+[Limitations of Computing] Finite-state limitations.  Lower
+bounds.  Incomputability.  Intractability and NP-completeness.   
+The glitch phenomenon.
+
+Comprehensive final exam (Date of Final: Monday, 16 December 1996).
+
+How to submit assignments:
+
+To submit an assignment, login to muddcs and run
+
+    cs60submit filename
+
+where filename is the file containing the assignment to be submitted.  
+The file should be an non-encoded ascii file with at most 80 characters per line.
+The program will ask what assignment this is (a number), and then submit the
+assignment properly.  Shortly thereafter (usually a few seconds), you
+will recieve by e-mail an exact copy of what was submitted.  You
+will notice that some headers are attached, containing certain
+essential information.  These headers are commented out so that compilation
+of the program is not affected.  If what you recieve is not
+acceptable (e.g. becomes MIME encoded because it is more than 80 columns or contains
+control characters), you are responsible for noticing this
+immediately, correcting the file, and re-submitting it.  All submissions
+will be kept for archival purposes, but only the latest submission before
+the time deadline will be graded.
+
+

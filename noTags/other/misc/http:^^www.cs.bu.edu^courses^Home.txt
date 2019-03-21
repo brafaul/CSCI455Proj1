@@ -1,0 +1,187 @@
+Date: Tue, 14 Jan 1997 20:29:44 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+BU - Computer Science Department // Courses of Instruction
+
+Computer Science Department
+General Information
+
+ 
+     Course map
+ 
+     Course Schedule for Fall Semester
+ 
+     Course Schedule for Spring Semester
+ 
+     Academic Calendar
+ 
+     Official Staff Holidays
+ 
+     Degree Requirements
+
+
+Course Home Pages (current/next semester)
+
+ 
+     [CS101][S'97] Introduction to Computers (Section A1)
+ 
+     [CS101][S'97] Introduction to Computers (Section C1)
+ 
+     [CS 111][S'97] Introduction to Computer Science I (C Programming) 
+ 
+     [CS330][S'97] Introduction to Analysis of Algorithms
+ 
+     [CS410][S'97] Software Systems (Unix Programming) 
+ 
+     [CS480][S'97] Introduction to Computer Graphics
+ 
+     [CS538][S'97] Cryptography
+ 
+     [CS550][S'96] Advanced Computer Architecture
+ 
+     [CS680][S'97] Graduate Intro to Computer Graphics
+
+F = Fall   S = Spring   M = Summer 1   R = Summer 2
+
+Course Home Pages (previous semesters)
+
+ 
+     [CS101][F'96] Introduction to Computers (Section A1)
+ 
+     [CS101][F'96] Introduction to Computers (Section B1)
+ 
+     [CS101][F'96] Introduction to Computers (Section C1)
+ 
+     [CS101][F'96] Introduction to Computers (Section D1)
+ 
+     [CS101][R'96] Introduction to Computers (Evening)
+ 
+     [CS101][S'96] Introduction to Computers (Section A1)
+ 
+     [CS101][S'96] Introduction to Computers (Section B1)
+ 
+     [CS101][S'96] Introduction to Computers (Section C1)
+ 
+     [CS101][F'95] Introduction to Computers (Section B1)
+ 
+     [CS101][S'95] Introduction to Computers (Section A1)
+ 
+     [CS101][F'94] Introduction to Computers (Section A1)
+ 
+     [CS101][F'94] Introduction to Computers (Section B1)
+ 
+     [CS103][S'95] Computing Technology
+ 
+     [CS111][F'96] Introduction to Computer Science
+ 
+     [CS111][R'96] Introduction to Computer Science
+ 
+     [CS111][S'96] Introduction to Computer Science I
+ 
+     [CS111][R'95] Introduction to Computer Science I
+ 
+     [CS111][S'95] Introduction to Computer Science I
+ 
+     [CS111][F'94] Introduction to Computer Science I
+ 
+     [CS112][F'95] Introduction to Computer Science II
+ 
+     [CS112][M'95] Introduction to Computer Science II
+ 
+     [CS112][S'95] Introduction to Computer Science II
+ 
+     [CS113][F'96] Introduction to Computer Science II with Intensive C
+ 
+     [CS113][S'96] Introduction to Computer Science II with Intensive C
+ 
+     [CS113][F'95] Introduction to Computer Science II with Intensive C
+ 
+     [CS210][F'96] Computer Systems
+ 
+     [CS210][S'96] Computer Systems
+ 
+     [CS210][S'95] Computer Systems
+ 
+     [CS305][F'96] Automata and Formal Languages
+ 
+     [CS305][F'95] Automata and Formal Languages
+ 
+     [CS320][F'96] Concepts of Programming Languages
+ 
+     [CS320][F'95] Concepts of Programming Languages
+ 
+     [CS320][S'95] Concepts of Programming Languages
+ 
+     [CS330][F'95] Introduction to Algorithms
+ 
+     [CS410][S'96] Unix Programming
+  
+     [CS420][S'95] Introduction to Parallel Computing
+ 
+     [CS450][F'96] Computer Architecture
+ 
+     [CS450][F'95] Computer Architecture
+ 
+     [CS450][F'94] Computer Architecture
+ 
+     [CS480][S'96] Introduction to Computer Graphics
+ 
+     [CS480][S'95] Introduction to Computer Graphics
+ 
+     [CS511][F'96] Software Engineering
+ 
+     [CS520][F'96] Principles of Programming Languages
+ 
+     [CS520][F'94] Principles of Programming Languages
+ 
+     [CS520][F'95] Principles of Programming Languages
+ 
+     [CS525][M'96] Compiler Design
+ 
+     [CS530][S'96] Analysis of Algorithms
+ 
+     [CS530][S'95] Analysis of Algorithms
+ 
+     [CS535][F'96] Complexity Theory
+ 
+     [CS545][F'96] Natural Language Processing
+ 
+     [CS550][S'96] Advanced Computer Architecture
+ 
+     [CS550][S'94] Advanced Computer Architecture
+ 
+     [CS551][F'94] Parallel Computing: Models, Languages, and Architectures
+ 
+     [CS552][F'96] Operating Systems
+ 
+     [CS552][F'94] Operating Systems
+ 
+     [CS585][F'96] Image and Video Computing
+ 
+     [CS591][S'95] Seminar in Computer Graphics
+ 
+     [CS680][S'96] Graduate Introduction to Computer Graphics
+ 
+     [CS752][F'96] Advanced Operating Systems Seminar
+ 
+     [CS792][S'95] Introduction to Lambda Calculus and Type Theory
+ 
+     [CS792][S'95] Distributed Systems Seminar
+ 
+     [CS835][F'96] Networked Computing Systems Seminar
+ 
+     [CS835][S'96] Real-Time Systems Seminar
+ 
+     [CS835][F'95] Seminar in Image and Video Computing
+ 
+     [CS835][S'95] Seminar on Tools for Parallel Systems
+
+F = Fall   S = Spring   M = Summer 1   R = Summer 2
+
+This page is maintained by  Azer
+Bestavros. Please email comments/corrections to best@cs.bu.edu. 
+
+Created on: 1994.09.09
+Updated on: 1996.08.30
+

@@ -1,0 +1,37 @@
+Date: Tue, 26 Nov 1996 00:38:41 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 07 Mar 1996 22:02:54 GMT
+Content-length: 1528
+
+
+SFU Database Systems Group
+
+SFU Database Systems Group
+
+Research in the area of database systems ranges from relational
+databases to distributed, intelligent, and heterogeneous data- and
+knowledge-bases, and their applications. Faculty interests include the
+design and implementation of extended-relational, object-oriented and
+deductive database systems, query processing and query optimization,
+concurrency control, recovery, and transaction management in
+traditional distributed databases and heterogeneous multi-databases,
+fault-tolerant distributed databases, spatial databases, knowledge
+discovery in databases, multimedia databases, natural language
+interfaces to database systems, and database applications in
+engineering and geographic information systems.
+
+The Database Systems Group is actively involved in placing
+more information
+about their current activities on-line!
+
+Faculty:
+Veronica Dahl,
+Jia-Wei Han,
+Tiko Kameda,
+Wo-Shun Luk,
+Peter Triantafillou.
+
+To the top! Visit Computing Science or Simon Fraser University
+
+

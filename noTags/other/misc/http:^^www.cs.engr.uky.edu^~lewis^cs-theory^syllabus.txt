@@ -1,0 +1,59 @@
+Date: Tuesday, 14-Jan-97 20:40:13 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+
+
+
+CS 575 Syllabus
+
+
+CS 575 - Theoretical Aspects of Computing
+
+COMPUTABILITY 
+
+The NICE Programming Language
+Turing Machines
+A Smaller Programming Language
+Equivalence of the Models
+Machine Enhancement
+The Theses of Church and Turing
+
+UNSOLVABILITY 
+
+Arithmetization
+Properties of the Enumeration
+Universal Machines and Simulation
+Solvability and the Halting Problem
+Reducibility and Unsolvability
+Enumerable and Recursive Sets
+
+COMPLEXITY 
+
+Measures and Resource Bounds
+Complexity Classes
+Reducibilities and Completeness
+The Classes P and NP
+Intractable Problems
+
+AUTOMATA 
+
+Finite Automata
+Closure Properties and Nondeterminism
+Regular Sets and Expressions
+Decision Problems for Finite Automata
+Pushdown Automata
+Unsolvable Problems for Pushdown Automata
+Linear Bounded Automata
+
+LANGUAGES 
+
+Grammars
+Language Properties
+Regular Languages
+Context Free Languages
+Context Free Language Properties
+Summary
+
+
+

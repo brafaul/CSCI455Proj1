@@ -1,0 +1,60 @@
+Date: Wed, 15 Jan 1997 01:52:56 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2159
+Last-modified: Fri, 04 Oct 1996 22:02:59 GMT
+
+ Wenyu's Answerbook 
+
+
+
+ Wenyu's Answerbook
+
+
+ Why spend $30 for a LaTeX manual, when you can get the same info
+on-line? 
+
+  GNU Emacs Manuals 
+
+
+U. of Vermont's GNU Emacs Manual 
+
+  LISP Manuals 
+
+ New Mexico
+State U.'s Emacs Lisp Manual 
+
+  LaTeX Manuals 
+
+
+Kramer's LaTeX Manual 
+
+UPenn's LaTeX Manual 
+
+Harvard's LaTeX Manual 
+
+LaTeX2HTML user's guide 
+
+LaTeX Answers 
+
+  More Answerbooks... 
+
+ Most GNU Tools... 
+ Tex and
+LaTeX... 
+ MIT Stock Answers 
+
+  Misc... 
+
+ TCP/IP Setup on Window95 
+ Remote Control of Netscape on X-windows 
+ Unix Security... 
+ PGP miniFAQ 
+ Yahoo's Map Server 
+ libHiTech Computer Book Club 
+ The Bookpool Club 
+
+
+
+Email:  wenyu@cs.columbia.edu
+

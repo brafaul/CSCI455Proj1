@@ -1,0 +1,129 @@
+Date: Tue, 10 Dec 1996 14:44:06 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 521, Project
+
+
+The Traveling Tourist Problem
+
+
+
+
+It is summer vacation, and you have purchased a Greyhound Bus pass
+allowing you unlimited travel.  Can you visit every city in the United
+States before your vacation ends?  This is the Traveling tourist problem.
+
+
+The CSE 521 course project is to implement algorithms for the
+Traveling Tourist Problem, and test them out on various data sets.
+The  Speedy Tourist Page  keeps track of the
+best tours found on each of the problem instances in the project data
+set.  The Challenge Page  gives a few
+specific challenges, and Lower bound page gives
+the best known lower bounds.  Last update: 1/24/96.
+Eric Anderson has developed an 
+
+applet to animate tours.
+
+
+The Traveling Tourist Problem can be viewed as a politically correct
+version  of the Traveling Salesman Problem, where travel is
+restricted to public transportation.  The TTP is easily shown to be
+NP-complete.   An instance
+of the Traveling Tourist
+Problem is given by providing a schedule, which lists the departure
+time each bus.  The schedules are periodic, so it is only necessary to
+give a single day's schedule.  The goal is to find a
+minimum duration tour which visits every city, and gets back to the
+original city.  A tour is allowed to visit the same city multiple
+times.  Since the problem is NP-complete, it is unlikely that you can
+find an algorithm that efficiently solves large instances.  So it is 
+natural to look for approximation algorithms, which find good (but
+maybe not optimal tours).  Another option is to implement an
+exponential algorithm, and use it to solve small instances of the
+problems.  
+
+
+
+In this project, you should investigate both approaches for the
+Traveling tourist problem.  Try to come up with good approximations,
+and also implement branch and bound to solve smaller instances
+exactly.  There is a lot of literature on the Traveling salesman
+problem, so that suggests a number of approaches.  However, there are
+significant differences between the two problems, so it will be
+necessary to invent new algorithms.
+
+
+
+This project is modelled after various DIMACS Challenges, where researchers 
+were invited to implement algorithms to solve specific problems.  An
+important aspect of the DIMACS Challenges was a publically available
+set of problem instances which made it possible to directly compare
+results.  In this challenge, the problem is to do as well as possible
+on an NP-complete problem, so the two competitions are to come up with
+as good approximations on large instances, and to solve smaller
+instances exactly with a branch and bound algorithm.  As far as I
+know, this isn't a well studied problem, so there should be a chance
+to prove some interesting theorems as well.
+
+
+
+ How to Participate 
+
+I welcome participation from outside of my University of Washington, 
+CSE 521 class.  The data
+files and source code are available from the web.  If you can find
+better tours to the official instances, send them to me, and I
+will update the hall of fame.  (I hope to automate this soon.)  I will
+also keep track of lower bound results on various instances.
+
+  Details  
+
+Here are a few details on exactly how the problem is formulated, and
+what a solution is.
+
+
+  Theory  
+
+I don't know of any results related to this problem (although I haven't 
+looked either).  The theory page will contain some useful theorems, as
+well as pointers to the literature.  Contributions welcome!
+
+
+
+
+
+  Data Sets  
+
+The current data sets were randomly generated, although some of them are 
+based upon the locations for real cities.  Each instance specifies a
+schedule file, a city file, a starting city, and a starting time.
+(I would be interested in receiving real data sets to add to set of
+instances.)
+
+
+  Source Code and Support Software  
+
+Some source code is available to "use at your own risk".  This code
+handles I/0 and provides some very primitive graphics capabilities.
+There is also an algorithm which finds very bad tours.  You can use the
+showmap, showsch, and showtour programs to examine the data files.
+If you submit a tour, make sure that it conforms to the format of a
+tour file.
+
+
+  Mechanics  
+
+For the CSE 521 course project, there are a few rules, regulations, and 
+deadlines.
+
+
+
+
+
+
+anderson@cs.washington.edu
+

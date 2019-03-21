@@ -1,0 +1,70 @@
+Date: Mon, 25 Nov 1996 20:26:44 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3793
+Last-modified: Fri, 05 Apr 1996 18:20:05 GMT
+
+
+
+
+ John R. Kender
+
+
+
+
+
+
+
+     
+ Next:  Shape from Darkness
+Up:  Faculty Research Guide
+ Previous:  Gail E. Kaiser
+  
+ John R. Kender
+
+ Research Area: 
+Computer Vision, Robotic Navigation, Artificial Intelligence
+
+My main research interests center around the higher levels of
+computer visual perception of objects and space.  These higher levels
+involve surfaces, volumes, place locations, topological
+relationships, and verbal descriptions.  This is the mental landscape
+in which vision meets mainstream AI, and where knowing the "where" of
+things is more important than knowing what the "what" of things are.
+
+This research most recently has had four components.  The most
+classical component is the development of shape from darkness, a
+(non-human) method to determining object surface shape from the
+shadows that the object casts, including shadows that it casts on
+itself.  Less classical are two researches into navigation and
+description.  The first of these uses topological relationships of
+objects to describe a navigational path without using metric
+quantities: this is qualitative direction giving, without the use of
+compass or odometer, much as people do on the back of an envelope.
+The second explores how the location of a single object in a
+cluttered enviroment can be described purely in spatial terms:
+medical radiologists do this for a living.  The final investigation
+seeks to develop a Cheshire mouse: an indicating and selecting input
+device that requires no instrumentation other than the images of the
+moving and gesturing hand.  Like Carrol's Cheshire cat, all that
+remains of the standard mouse is the smile (on the hand of the user).
+
+We review these four investigations in order, from most classical in
+terms of vision research, to most multidisciplinary.  We state what
+the objective of each is, summarize current progress, and sketch one
+or two areas of further research that would have the most scientific
+and engineering payoff.
+
+ 
+
+  Shape from Darkness
+  Qualitative Navigation
+  Natural Language Description from Visual Images
+  Visual Interpretation of Gestures
+
+ 
+
+Sabah S. al-Binali 
+Fri Sep 22 16:39:42 EDT 1995
+
+

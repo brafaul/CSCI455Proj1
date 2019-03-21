@@ -1,0 +1,121 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:24:19 GMT
+Content-Type: text/html
+Content-Length: 4854
+Last-Modified: Wednesday, 28-Aug-96 18:19:38 GMT
+
+
+Interprocessor Collective Communications Library (iCC)
+
+Interprocessor Collective Communications Library (iCC)
+
+D. Payne, Intel SSD L. Shuler, Sandia National Laboratories 
+
+R. van de Geijn ,
+University of Texas at Austin 
+
+J. Watts ,
+California Institute of Technology
+
+
+Current version:  Release R2.1.0, March 1, 1995
+ Please sign our  guestbook  
+What's new
+
+  MPI-like group interface
+  Version of iCC for OSF R1.3 
+  Version of iCC for SUNMOS R1.6
+  New reference manual, that includes group interface
+  New summary, (not yet finished)
+ Fortran example for using groups
+ 
+New paper comparing iCC to NX, MPI and BLACS 
+  Tutorial
+on Collective Communication (PowerPoint presentation) 
+  The first and only (so far) valid bug 
+report since Spring 1994 
+ Patch R2.1.0:  Fixes above bug.
+
+
+Introduction
+
+
+This page describes the second release of the Interprocessor Collective
+Communications (InterCom) Library, iCC release R2.1.0.  This library
+is the result of an ongoing collaboration between David Payne (Intel
+SSD), Lance Shuler (Sandia National Laboratories), Robert van de
+Geijn (University of Texas at Austin), and Jerrell Watts (California
+Institute of Technology), funded by the Intel Research Council, and 
+Intel SSD.  Previous contributors to this effort include
+Mike Barnett (Univ. of Idaho), Satya Gupta (Intel SSD),
+Rik Littlefield (PNL), and Prasenjit Mitra (now with Oracle).
+
+The library implements a comprehensive approach to collective
+communication.  The results are best summarized by the following
+performance tables 
+
+ Comparison of the various libraries 
+
+The following tables give the ratios of times required
+for completion on 
+a 16x32 mesh Paragon using OSF R1.3 
+
+               Broadcast   
+     bytes   NX/iCC   BLACS/iCC   MPI/iCC     
+   -----------------------------------------  
+        16    1.4         1.0        1.6       
+      1024    1.5         1.0        2.5       
+     65536    5.5         2.9        2.8       
+   1048576   11.3         6.1        7.5        
+
+
+
+               Sum-to-All   
+     bytes    NX/iCC  BLACS/iCC    MPI/iCC     
+   -----------------------------------------   
+        16     1.0        1.2        2.1       
+      1024     1.0        1.0        2.0       
+     65536    21.1        4.1        6.9       
+   1048576    34.6        5.9       11.8       
+
+
+
+Attaining the improvement in performance is as easy as
+linking in a library that automatically translates NX collective
+communication calls to iCC calls.  Furthermore, the iCC library gives
+additional functionality like scatter and gather operations, and more
+general "gopf" combine operations.  
+
+As had been planned, an MPI-like group interface to iCC is now 
+available.  The interface lets the user create and free groups 
+and communicators, and it gives user-defined groups complete 
+access to the high performance routines in the iCC library. 
+
+We would like to note that this library is not intended to compete 
+with MPI.  It was started as a research project into techniques 
+required to develop high performance implementations of the MPI
+collective communication calls.  We are making this library available
+as a service to the user community, with the hope that these techniques
+eventually are incorporated into efficient MPI implementations. 
+  Using the library.  
+ Manuals 
+
+
+ Reference manual 
+
+ Summary 
+
+ How to get iCC 
+
+iCC binaries and manuals are available from 
+ netlib  (directory intercom)
+and via anonymous 
+
+ftp (net.cs.utexas.edu, directory pub/rvdg/intercom/R2.1.0). 
+Related Publications
+ 
+Related Tutorials  
+ Bug Reports  
+
+

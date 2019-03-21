@@ -1,0 +1,317 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:48:43 GMT
+Content-Type: text/html
+Content-Length: 9677
+Last-Modified: Sunday, 22-Sep-96 21:08:03 GMT
+
+
+
+tt4
+
+
+
+
+CS100
+
+Lecture 4
+
+
+CONCEPTS --- last lecture
+
+types, user-defined functions, applicative-order
+substitution, recursion
+
+
+CONCEPTS --- this lecture
+
+specifications
+
+
+READING
+
+Teitelbaum, Section 2.10
+
+Specifications
+
+
+A specification is a contract between
+a producer and consumers. 
+
+
+
+
+Example: electrical outlets
+
+
+
+
+Specification: if you put two pieces of metal
+of the appropriate shape into an outlet, you will get 110 Volts
+at 60 Hz between them
+
+
+
+
+A specification details what the consumer
+can assume about the component, which is what the producer (the
+power company) must deliver.
+
+
+
+
+You can think of a specification as a legally
+binding contract
+
+
+
+
+How the power company generates the power is
+not part of the specification
+
+Hydro power, or Coal, or hamsters on treadmills
+
+
+
+
+
+Software specifications
+
+
+Functions are software components.
+
+
+
+
+In software, producers are implementors and
+consumers are clients.
+
+
+
+
+When defining a function, you are implementor;
+when using a function, you are client. 
+
+
+
+
+A function's specification consists of its signature
+and its correctness specification. 
+
+
+
+
+/* exp(x,n) == x^n, for n >= 0.
+*/
+
+int exp(int x, int n)
+
+{
+
+ return (n == 0) ? 1 : exp(x, n-1)
+* x;
+
+}
+
+signature: a function
+taking two int's and returning an int
+
+correctness specification:
+if n >= 0, then exp(x,n)
+will yield xn
+
+ 
+
+Signatures
+
+
+The number of parameters that a function takes,
+together with their types, and  the type of the result it returns
+are its signature.
+
+
+
+
+
+Note that the body of the function doesn't affect
+the signature
+
+
+
+
+In a function application, the number and type
+of the arguments must match the signature.
+
+
+exp(5, 3, 1)    is wrongexp("Hello", 1)
+  is wrongprintf(exp(5, 1))   is wrong
+
+Correctness Specifications
+
+
+A correctness specification states what
+a function does without saying how it does it.
+
+
+/* == x^n, for n >= 0. */
+
+It consists of a precondition and a postcondition
+(this distinction will be clearer in a few weeks).
+
+
+
+
+The precondition restricts the permissible
+arguments, e.g., n ³
+0.
+
+
+
+
+The postcondition describes the result
+in terms of the arguments, e.g., xn.
+
+
+
+
+In general, a correctness specification states:
+
+
+If the arguments in a function application satisfy
+the precondition, then the application will yield a value that
+satisfies the postcondition.
+e.g., if n >= 0, then exp(x,n) will yield
+xn.
+
+
+If the precondition is not satisfied, the result
+is not defined, i.e., can be anything (or diverge).
+
+
+
+
+E.g.,  exp(x, n) diverges, for
+n < 0.
+
+
+exp(5, -1)(-1 == 0) ? 1 : exp(5, -1 - 1) *
+50 ? 1 : exp(5, -1 - 1) * 5exp(5, -1 - 1) * 5exp(5,
+-2) * 5((-2 == 0) ? 1 : exp(5, -2 - 1) * 5) * 5(0
+? 1 : exp(5, -2 - 1) * 5) * 5exp(5, -2 - 1) * 5 * 5exp(5,
+-3) * 5 * 5...
+
+
+A function should never be called with arguments
+that do not satisfy the precondition.
+
+
+
+
+Because a conditional expression is non-strict,
+evaluating exp(5,0) never
+calls exp(5,-1) in
+
+
+exp(5, 0)(0
+== 0) ? 1 : exp(5, 0
+- 1)1 ? 1 : exp(5, 0 - 1)1
+
+Implementations
+
+
+Many implementations can satisfy a given specification.
+
+
+/* == x^4. */
+int fourth(int x) { return (x * x * x * x); }
+/* == x^4. */
+int fourth(int x) { return (square(square(x))); }
+
+/* == x^4. */
+int fourth(int x) { return (exp(x, 4)); }
+
+
+The specification should not describe the implementation,
+which the implementor has freedom to change.
+
+This is why specifications are vital to
+the design of large programs!Use
+of Mathematical Functions
+
+
+
+
+
+Can use arbitrary mathematical functions in a
+specification, but …
+
+
+
+
+Be sure the mathematical functions are well-defined
+for all arguments permitted by the precondition.
+
+
+
+
+E.g., a minor flaw in
+/* == x^n, for n >= 0. */
+because xn is not defined for x = 0 and
+n = 0.
+
+
+Correction
+
+
+/* == x^n, for n >= 0,  and x and n not both 0.
+*/
+
+
+or
+/* == x^n, for n >= 0 and
+x != 0, and   == 1, for n == 0 and x == 0. */
+Counting
+/* == id. */
+int count(int lo, int hi, int id) {
+return lo > hi ? id : count(lo + 1, hi, id);}
+
+
+For example
+count(1, 2, 0)1 > 2
+? 0 : count(1 + 1, 2, 0)0 ? 0 : count(1 + 1, 2, 0)count(1
++ 1, 2, 0)count(2, 2, 0)2 > 2 ? 0 : count(2 + 1,
+2, 0)0 ? 0 : count(2 + 1, 2, 0)count(2 + 1, 2, 0)count(3,
+2, 0)3 > 2 ? 0 : count(3 + 1, 2, 0)1 ? 0 : count(3 +
+1, 2, 0)0
+
+Sum of squares
+/* == lo^2 + (lo+1)^2
++ ... + hi^2. */
+int sumSquares(int lo, int hi){
+return lo > hi ? 0 : square(lo) + sumSquares(lo + 1, 
+hi);}
+
+
+For example, sumSquares(1,2)
+-> 1*1+2*2
+-> 5.
+
+
+
+Factorial
+/* == lo * (lo+1)
+*... * hi. */
+int multIntegers(int lo, int hi){
+return
+lo > hi ? 1   :  lo * multIntegers(lo + 1, hi);}
+
+
+For example, multIntegers(1,4)
+-> 1*2*3*4
+-> 24.
+
+/* == n!, n >= 0. */
+int factorial(int n) {
+ return multIntegers(1,n); }
+
+

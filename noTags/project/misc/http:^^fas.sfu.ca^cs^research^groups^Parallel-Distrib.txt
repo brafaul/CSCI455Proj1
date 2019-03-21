@@ -1,0 +1,38 @@
+Date: Tue, 26 Nov 1996 00:38:08 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 07 Mar 1996 22:05:51 GMT
+Content-length: 1812
+
+
+SFU Parallel and Distributed Computing Group
+
+SFU Parallel and Distributed Computing Group
+
+Research in the area of parallel and distributed computing ranges from
+theory to practice. Faculty interests include complexity of parallel
+and distributed algorithms, scheduling theory, operating systems
+issues, VLSI implementation of parallel machines, parallel and
+distributed communications networks, parallel programming languages,
+parallel vision algorithms, distributed databases, tools for
+development of distributed and parallel algorithms, highly-available
+distributed systems and other applications.
+
+Faculty:
+M. Stella Atkins,
+F. Warren Burton,
+Arvind Gupta,
+Pavol Hell,
+Richard F. Hobson,
+Tiko Kameda,
+Ramesh Krishnamurti,
+Wo-Shun Luk,
+Ze-nian Li,
+Arthur L. Liestman,
+Joseph G. Peters,
+Thomas C. Shermer,
+Peter Triantafillou.
+
+To the top! Visit Computing Science or Simon Fraser University
+
+

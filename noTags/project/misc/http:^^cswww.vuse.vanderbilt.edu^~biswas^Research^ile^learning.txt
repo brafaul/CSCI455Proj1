@@ -1,0 +1,85 @@
+Server: Netscape-Enterprise/2.0a
+Date: Wed, 15 Jan 1997 01:19:41 GMT
+Last-modified: Mon, 04 Nov 1996 05:37:03 GMT
+Content-length: 2949
+Content-type: text/html
+
+
+
+Learning
+
+
+Intelligent Learning Environments
+
+Summary
+
+The Cognition and Technology Group at Vanderbilt (CTGV) is
+developing the Jasper Woodbury Problem Solving Series, a 
+videodisc based program
+designed to motivate students and help them learn to think and
+reason mathematically about complex realistic problems.
+As part of this project, we are developing a collection of
+computer-based
+learning environments that incorporate the project's
+constructivist theories, generative learning techniques, and
+anchoring macrocontexts into an Intelligent Learning 
+Environment design.
+The resulting paradigm Macrocontexts Plus Microworlds
+(MPMs), where microworld exploration and problem solving is 
+anchored within an interesting macrocontext.  
+
+Two systems we have constructed and tested are:
+
+ AdventurePlayer, a 
+trip planning microworld that can be anchored to a Jasper
+macrocontext.  
+This system allows students to construct, evaluate, and reason
+about 
+solutions to trip planning problems, and 
+
+ SmartTools, also linked
+to a trip planning microworld, where students study and develop
+graphical
+tools to quickly answer various questions about distance, time,
+rate and
+gas consumption. This system has also been used as a test bed
+for
+studying the richness of computer traces for protocol analysis.
+
+
+Both systems incorporate beneficial aspects of both
+intelligent tutoring systems and cognitive tools through
+reflective interaction, scaffolding, and coaching.  
+
+Current work in this area is focusing on an ONR-sponsored
+project for
+studying student understanding of AC-circuit concepts.  The goal
+is to develop appropriate instructional methodologies and
+computer-based
+environments for training technicians in complex maintenance and
+troubleshooting tasks. 
+
+Index:
+
+
+Selected Bibliography
+Graduate Students
+	
+ Tamara Balac (email: tamara@vuse.vanderbilt.edu)
+	Thad Crews  (email: crews@pulsar.cs.wku.edu)
+	Stephen Owens
+
+
+
+Some Useful Links on the Web:
+
+AI in Education
+General AI
+Links to Navigate the Web
+
+
+
+
+
+
+Last modified: November 03, 1996

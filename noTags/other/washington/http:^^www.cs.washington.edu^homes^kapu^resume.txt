@@ -1,0 +1,220 @@
+Date: Tue, 10 Dec 1996 21:28:21 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 09 Jun 1996 02:51:34 GMT
+Content-length: 7723
+
+
+
+Kari Pulli: Resume;
+
+
+
+KARI
+PULLI
+
+
+
+
+    University of Washington
+    Department of Computer Science & Engineering
+    Box 352350
+    Seattle, Washington 98195-2350
+
+
+    206-545-3809  (h)
+    206-543-3368 (w)
+    kapu@cs.washington.edu
+    http://www.cs.washington.edu/homes/kapu/
+
+
+
+
+
+
+EDUCATION
+
+
+
+		Ph.D. (Comp. Sci.)
+	
+		Univ. of Washington
+	
+
+		all done but thesis
+	
+
+		M.Sc. (Comp. Sci.)
+	
+		Univ. of Washington
+	
+		6/95
+	
+		3.83/4.0
+	
+
+		Lic. Tech. (Comp. Eng.)
+	
+		Univ. of Oulu
+	
+		5/93
+	
+		with highest grades
+	
+
+		M.Sc. (Electr. Eng.)
+	
+		Univ. of Oulu
+	
+		10/91
+	
+		2.45/3.0, with high distinction
+	
+
+		B. Comp. Sci.
+	
+		Univ. of Minnesota
+	
+		6/90
+	
+		4.0/4.0, with high distinction
+	
+
+		secondary school
+	
+		Oulu, Finland
+	
+		5/85
+	
+		9.3/10.0, laudatur
+	
+
+
+
+
+AWARDS
+
+Finnish Academy Scholar 1996-97 at the University of Washington
+
+Finnish Academy Scholar 1994-95 at the University of Washington
+
+Fulbright scholar 1993-94 at the University of Washington
+
+The Finnish Technical Society's national price for the 
+  ``Diploma (Master's) thesis of 1991''
+
+``Ambassador of Good Will'' Rotary International scholar at 
+  the University of Paderborn, Germany in 1990-91
+
+
+
+EXPERIENCE
+
+Internship at Alias/Wavefront, Seattle 6/96 -- 9/96. 
+  I'll say what once I've done it.
+Research assistant, University of Washington 9/95 -- 6/96. 
+  Research in surface reconstruction from a set of unregistered
+  range views.
+Internship at Silicon Graphics, Inc., Mountain View, CA, 6/95 --
+  9/95. Fast rendering of subdivision surfaces on Onyx Reality Engine,
+  a possible extension to OpenGL. Included microcoding of the graphics
+  engines and writing an interactive subdivision surface editor using
+  Inventor and Motif libraries.
+Internship at Microsoft, Seattle, WA 6/94 -- 9/94. 
+  3D graphics, porting SoftImage's Creative Environment into NT,
+  building an emulator for running programs written for SGI and old GL
+  on OpenGL and Windows.
+Research assistant, University of Washington 9/93 -- 6/95. 
+  Maintenance and setup of the PREMIO computer vision software system, 
+  research in model-based vision using probabilistic models.
+Research scientist, Radiology Clinic, University hospital in Oulu, 
+  Finland 8/93 -- 9/93. 
+  Design and partial implementation of a system that tracks movement of a 
+  tumor as patient breaths.
+Research scientist, University of Oulu 9/91 -- 7/93. 
+  Developing of range vision software for a robotic paper roll manipulator. 
+  (Licentiate thesis)
+Research assistant University of Paderborn, Germany 12/90 -- 8/91. 
+  Implementing a 3D computer graphics rendering system for a transputer 
+  based system. (Master's thesis)
+Internships at Bayer AG in Leverkusen, Germany, summers '88, 
+  '89, and '90. 
+  User interface programming for data base applications.
+Programming experience in C++, C, Pascal, Fortran, LISP, PROLOG,
+  assembler, Perl, OpenGL, Inventor, Motif, Windows.
+Larger school projects (at Univ. of Washington):
+    Image compression and radiosity graphics with wavelets
+    Calibrating a stereo camera system
+    Animating mesh-based "blobs" (3D graphics)
+    Implementing a thread and RPC package
+    Designing a distributed shared memory system (entry consistency
+        model) for Cray T3D
+    Designing a PLGA chip: Cache Miss Lookaside buffer
+    Designing a VLSI chip: Image compression using wavelets
+
+
+
+
+PUBLICATIONS
+
+
+Kari Pulli and Mark Segal
+Fast rendering of subdivision surfaces
+Proceedings of 7th Eurographics Workshop on Rendering, 
+Porto, Portugal, June 1996 (to appear)
+also Technical Report UW-CSE-96-03-02, University of Washington
+also Technical Sketch in SIGGRAPH '96 Visual Proceeding (to
+appear)
+
+Kari Pulli and Tony DeRose
+Effective Removal of Detail for a Multiresolution Viewer
+a Technical Sketch in SIGGRAPH '96 Visual Proceeding (to
+appear)
+
+Kari Pulli and Linda Shapiro
+Triplet-Based Object Recognition Using Synthetic and Real 
+Probability Models
+Proceedings of ICPR, Wien, Austria, August 1996 (to appear)
+a longer version is in
+Kari Pulli
+TRIBORS: A Triplet-Based Object Recognition System
+Technical Report UW-95-01-01, University of Washington
+
+Hubert Jin, Tom Duchamp, Hugues Hoppe, John McDonald, Kari Pulli,
+and Werner Stuetzle
+Surface reconstruction from misregistered data
+Proc. of SPIE vol. 2573, pp. 324-8, 1995.
+
+Kari Pulli
+Vision Methods for an Autonomous Machine Based on Range Imaging
+Licentiate thesis, ACTA Universitatis Ouluensis, C 72, 1993.
+
+Kari Pulli and Matti Pietikainen
+Range Image Segmentation Based on Decomposition of Surface Normals
+Proc. Scandinavian Conference on Image Analysis, Norway, 1993.
+
+Kari Pulli
+A Vision System for a Partially Autonomous Machine
+Proc. Nordic Summer School on Active Vision & Geometric Modeling,
+Denmark, 1992.
+
+Jukka Riekki, Kari Pulli, and Juha Roning
+A Goal Oriented and Reactive Autonomous Machine
+Proc. Finnish Conference on Artificial Intelligence, 1992.
+
+Kari Pulli
+3D Graphics on the Multiprocessor System DAMP
+Diploma thesis, University of Oulu and University of Paderborn, 1991.
+ 
+
+LANGUAGES
+
+Fluent:  Finnish, English, German, Swedish 
+Some:    French, Spanish 
+ 
+
+
+
+
+
+

@@ -1,0 +1,158 @@
+Date: Thu, 21 Nov 1996 20:22:38 GMT
+Server: NCSA/1.5.2
+Last-modified: Tue, 08 Oct 1996 21:27:12 GMT
+Content-type: text/html
+Content-length: 6651
+
+Klara Nahrstedt
+Klara Nahrstedt
+
+
+
+3111 Digital Computer Laboratory
+1304 West Springfield Avenue
+Urbana, IL 61801
+
+(217) 244-6624
+(217) 333-3501- fax
+klara@cs.uiuc.edu
+
+Administrative help:
+
+Anda Harney
+
+Teaching Multimedia Courses: 
+ Selected Topics in Multimedia Communication (Fall 1995) - 
+CS497
+ Multimedia Computing Systems (Spring 1996) - 
+CS397
+ Resource Management For Video Traffic in High-Speed Networks (Fall 1996 - seminar)
+CS491
+ Teaching System Courses: 
+ Operating System Design (Fall 1996) - CS323
+
+ Areas of Research Interest:
+Communication Networks: Quality of Service Support, Real-Time Protocols, Network Management, Guaranteed Services, Pricing, Dynamic Connection Management
+Real-Time Systems: Resource Management, Scheduling, Languages
+ Multimedia Distributed Systems and Applications: 
+Multimedia Document Architectures, 
+Visualization of Quality of Service, Authoring Systems, Security
+
+ Publications:
+
+Books:
+
+Ralf Steinmetz, Klara Nahrstedt,
+"Multimedia: Computing, Communications, and Applications"
+Prentice Hall, July 1995
+Book Chapters:
+
+ Klara Nahrstedt and Jonathan Smith, 
+"A Service Kernel for Multimedia Endpoints" , in  
+Multimedia: 
+Advanced Teleservices and High-Speed Communication Architectures, 
+Ralf Steinmetz (editor), Springer Verlag  
+ Lecture Notes in Computer Science LNCS-868,  1994, 
+ Section I., pp. 8-22, 
+
+ Klara Nahrstedt, Ralf Steinmetz, 
+``Resource Management in Multimedia Networked Systems'' in 
+Handbook of Multimedia Networking, Jim Cavanagh (editor), 
+ Auerbach Publications, 1995, 
+Chapter 7.3, pp. 381-405
+Journal/Magazine Publications:
+Klara Nahrstedt, Jonathan M. Smith,
+"The QoS Broker",
+IEEE Multimedia, Spring 1995, Vol.2, No.1, pp. 53-67
+ Klara Nahrstedt, Ralf Steinmetz
+"Resource Management in Multimedia Networked Systems",
+IEEE Computer, pp. 52-64, May 1995
+ Klara Nahrstedt, "
+
+End-to-End QoS Guarantees in Networked 
+Multimedia Systems",  ACM Computing Surveys Journal, December 1995 
+
+ Klara Nahrstedt, Jonathan M. Smith, 
+"  
+Design, Implementation and 
+Experiences with the OMEGA End-point Architercture",
+IEEE JSAC, September 1996
+
+
+Conference Publications:
+ Lintian Qiao and Klara Nahrstedt, 
+"
+Lip Synchronization within an Adaptive VOD ", 
+accepted to International Conference on 
+Multimedia Computing and Networking , February 1996, San Jose 
+Hao Chu, Klara Nahrstedt
+"
+Dynamic Multi-Path Communication for Video Traffic
+ ", 
+accepted  to HICSS'97, January, 1997, Hawai 
+Ian R. Philp, Klara Nahrstedt, Jane W. S. Liu
+"Scheduling and Buffer Management for Soft Real-Time 
+VBR Traffic in Packet Switched Networks ", 
+accepted  to LNC'96, September, 1996, Minneapolis 
+ Klara Nahrstedt and Jonathan Smith, 
+"
+New Algorithms for Admission Control and Scheduling to support 
+Multimedia Feedback Remote Control Applications ", 
+IEEE International Conference on Multimedia Systems, Hiroshima, Japan, 
+June 1996 
+ Klara Nahrstedt, Ashfaq Hossain and Sung-Mo Kang, 
+"
+
+A Probe-based Algorithm for QoS Specification and Adaptation ", 
+International Workshop on QoS, Paris, France, March, 1996
+Klara Nahrstedt and Jonathan Smith,
+"An Integrated Multimedia Architecture for High-Speed Networks",
+  Multimedia '92 Conference, Monterey, CA, April 1992
+ Klara Nahrstedt and Jonathan Smith,
+"An Application-Driven Approach to Multimedia Networks",
+ 18th Conference LCN '93, Minneapolis, MN, September 1993
+ Klara Nahrstedt and Jonathan Smith,
+"QoS Negotiation in a Robotics Environment",
+ Workshop on Distributed Multimedia Applications and
+QoS Verification, Montreal, Canada, June 1994
+
+
+Recent Technical Reports:
+Klara Nahrstedt, Jonathan M. Smith,
+"Experiment Study of End-to-End Issues",
+MS-CIS-94-08, DSL 76,University of Pennsylvania,
+February 1994
+ Klara Nahrstedt, Jonathan M. Smith,
+"End-Point Resource Admission Control for Remote Control Multimedia 
+    Applications", MS-CIS-95-18,
+   University of Pennsylvania, April 1995
+ Klara Nahrstedt, Jonathan M. Smith,
+"Design, Implementation and Experiences of the OMEGA Architecture", 
+    MS-CIS-95-22, University of Pennsylvania, May 1995
+Klara Nahrstedt, 
+"An Architecture for End-to-End Quality of Service 
+Provision and its Experimental Validation", PhD Thesis, 
+University of Pennsylvania, August 1995
+Klara Nahrstedt, Jonathan M. Smith,
+"
+End-to-End QoS Guarantees: Lessons Learned from OMEGA ",
+Report No. UIUCDCS-R-96-1957, UILU-ENG-96-1720, 
+University of Illinois, May 1996.
+Klara Nahrstedt, Lintian Qiao,
+"
+Tuning System for Distributed Multimedia Applications",
+Report No. UIUCDCS-R-96-1958, UILU-ENG-96-1721,
+University of Illinois, May 1996. 
+
+
+
+Links to UPenn server: currently  available
+papers  by Klara Nahrstedt (papers written until August 1995 
+at the University of Pennsylvania).
+
+
+Any comments send to 
+klara@cs.uiuc.edu
+
+Back to
+FacultyIndex

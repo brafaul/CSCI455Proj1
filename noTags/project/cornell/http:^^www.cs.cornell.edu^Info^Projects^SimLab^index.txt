@@ -1,0 +1,65 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:52:56 GMT
+Content-Type: text/html
+Content-Length: 3055
+Last-Modified: Wednesday, 20-Dec-95 21:14:16 GMT
+
+  Cornell Modeling and Simulation Project Home Page  
+
+
+
+
+
+
+  Cornell Modeling and Simulation Project 
+ Enormous effort is currently expended in creating scientific
+software, particularly for simulating physical systems defined on
+complex geometries, and when using advanced computing hardware.  The
+goal of the SimLab project is to reduce this effort by bringing
+together technologies such as geometric modeling, symbolic
+mathematics, numerical analysis, compilation/code generation, and
+formal methods to create tools that raise the semantic level
+at which it is possible to create scientific software.
+
+
+
+  Overview of the Project 
+  The SimLab Software
+Package 
+ Selected Research Activities: 
+
+  Collaborative Mathematics Environments, a research proposal [a postscript version]
+ 
+Guaranteed-Quality Mesh Generation 
+  Microstorage
+Architecture 
+  The Weyl computer
+algebra substrate 
+  SPL, a high-level
+programming language for synthesizing scientific software 
+ The
+Chains Algebraic-Topological Programming Language 
+
+Selected Presentations:
+
+  The SimLab Component of the
+ARPA/NIST MADEFAST Collaborative Design and Manufacturing Exercise.
+ [longer version] 
+  New Directions in
+Systems Research.  Richard Zippel's presentation on some new ideas
+on how systems research should proceed.  Includes brief discussions of
+non-contemporaneous communications, microstorage architecture, and the
+use of program transformations.
+
+  The Chains
+Programming Language.  A language for computing with ``complex
+topological systems,'' such as engineering models, numerical
+algorithms, etc.  Rick Palmer.
+
+
+  People 
+  Selected Publications and Reports
+
+
+ Paul Chew / chew@cs.cornell.edu 

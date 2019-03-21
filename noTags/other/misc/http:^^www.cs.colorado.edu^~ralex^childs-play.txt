@@ -1,0 +1,96 @@
+Date: Tue, 14 Jan 1997 22:01:22 GMT
+Server: Apache/1.1.2
+Content-type: text/html
+Content-length: 7905
+Last-modified: Mon, 26 Aug 1996 05:50:35 GMT
+
+Child's Play '96
+  Child's Play '96: VL '96 Special Event
+
+
+
+ 
+Second Workshop on End-User Programming and Education, September 3, 1996
+held in conjunction with
+ VL'96:  1996 IEEE Symposium on Visual Languages
+
+September 3-6, 1996
+Boulder, Colorado 
+Updates:
+
+
+8/25/96: Agenda and Directions: how to get to the workshop site and what to do
+4/22/96: register for Child's Play via the VL registration pages
+4/15/96: linked to VL'96 + Child's Play Demos: Child's Play participants get to demo to VL participants
+2/16/96: linked to Position Papers: WHO is attending and what do they think about  End-User Programming and Education
+1/26/96: linked to Problem-Centered Visual Language Benchmarks
+
+
+What is it?
+
+ Child's Play '96 is an all-day pre-VL '96 conference workshop bringing together a diverse group of researchers, teachers, and artists, who are actively involved in designing, creating and applying programming environments for end users, especially kids. The workshop will also include a special panel/demo event to be held during the VL conference. We like to stress the hands-on nature of the workshop by giving participants the opportunity to demo their systems and by allocating time to play with all [the other] systems. 
+
+At the  Child's Play '95 workshop system designers analyzed and compared the computational characteristics of systems including  AgentBuilder, Agentsheets, Cartoonist, Chart 'n Art, ChemTrains, KidSim, and ToonTalk. This year we will examine the programming environments more from a user perspective than a system perspective. In what ways do end-users and specifically kids benefit from using any individual system or combination of systems?
+
+
+Theme: ".. but programming is not on the test"
+
+This year's theme will be the  impact of end-user programmable systems on education. How effective are end-user programming approaches as vehicles  for learning? Faced with  very little evidence of transfer from programming to mathematics or even general problem solving skills, many educators have moved away from the "programming as vehicle to reach mathland" view of computer use. Increasingly, programming environments such as Basic and Logo are put aside and programming/math classes are replaced with classes teaching computer applications such as word processors, and drawing programs. Has programming generally failed as vehicle of creativity or could new programming and teaching approaches avoid this bleak scenario? Participants should make arguments how their approach overcomes some of the following problems: 
+
+ Why should people use your (or somebodye else's) system?
+ Who should use the system?
+ In what kind of context can the system work (at home, workplace, school)?
+ What is the motivation to use it?
+ What kind of skills are learned by using it?
+ How feasible is the use of you system in a traditional K-12, university, workplace setting (resources: time, space, money, ..)
+ How do educational settings need to be changed to better accommodate new kinds of learning?
+ How do the skills learned in some virtual/computer environment map to real world skills?
+
+
+
+ 
+Specific Goals
+
+ Understand the impact of end-user programming on education.
+
+ Join people from the computers and education community with the visual languages community. 
+
+ Establish a World Wide Web repository of generic end-user programming problem benchmarks and system specific solutions.
+
+
+Pre Workshop activities
+
+This year the workshop will be only one day. To make this work best we require you to contribute in two ways:
+
+ Submit a position statement (not to exceed 2 pages) in HTML or ASCII assessing your work with respect to its impact on education. Ideally refer to the issues raised in this CFP. If your are not a system author, e.g., an educator, think about what kind of system you could use in your teaching activity. Your document will be put on the World Wide Web under the Child's Play heading. If your document is an HTML file feel free to refer to any page on the web, for instance, you can use this to point to your home page or pages describing your, or related systems. If you already have some kind of position statement on the web just send us the URL. 
+ During last years Child's Play workshop we enumerated a large set of programming problem benchmarks. We will make these benchmarks available to you. We have started to create a World Wide Web repository of generic end-user programming problem benchmarks and system specific solutions. We believe that it is crucial for the end-user programming and visual programming community to have such a repository as instrument to assess the applicability of systems to problems.
+
+
+Participation and Deadlines
+
+There is a minimal $50 workshop participation fee to cover hand outs and food.  To participate:
+
+ Submit a position statement (not to exceed 2 pages) HTML or ASCII describing your work with respect to its impact onto education. Send your position statement to Alexander Repenning (ralex@cs.colorado.edu). The position statements will be available on the web. Deadline is Feb. 5. but it will help other participants to send it as soon as possible.
+
+ you get to demo your system (if you have one) to Child's Play and VL'96 participants Wednesday September 4.
+ you are encouraged to also attend the  VL '96 conference and to submit a paper. The VL'96 paper deadline is Feb. 12. 
+
+
+Organizers
+ Alexander Repenning, University of Colorado
+ Roland Hubscher, Georgia Institute of Technology
+ Clayton Lewis, University of Colorado
+
+For more information, contact Alexander Repenning. For an
+idea of what Child's Play might be about, check out the Web page for
+
+Child's Play '95. About Boulder, a place to stay, and how to get to Boulder. 
+
+
+
+
+
+
+
+
+

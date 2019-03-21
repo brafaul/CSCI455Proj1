@@ -1,0 +1,120 @@
+Date: Wed, 20 Nov 1996 19:25:27 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Fri, 19 Jan 1996 16:40:33 GMT
+Content-length: 4078
+
+Impulse-based Dynamic Simulation
+
+
+
+
+
+Impulse-based simulation is a new paradigm for the simulation of physical
+systems, especially those which are hard to simulate efficiently 
+with traditional constraint-based methods.  
+The key idea is that all contact interactions
+between objects are affected through collisions; even a block apparently
+at rest on a table actually experiences many tiny, rapid collisions with
+the surface.
+
+
+The basic theory has been put into practice with Impulse, a
+rigid body dynamic simulator running on HP and SGI platforms.  
+Impulse was written in C by
+Brian Mirtich.  Physical accuracy
+and computational efficiency have been and continue to be important
+design criteria for this evolving system.  Physically accurate, real time
+3D simulation of reasonably complex systems is the goal.
+
+
+
+Ongoing Research with Impulse 
+
+
+Francesca Barrientos:
+Metaphors for manual (haptic interface) interaction with virtual
+environments and animated agents
+
+Dina Berkowitz:
+Simulation scripting languages and simulation-based design of parts feeders 
+
+John Canny:
+Advising
+
+Brian Mirtich:
+Combining impulse- and constraint-based techniques for interactive 
+simulation 
+
+Eric Paulos, 
+Dinesh Manocha:
+Parallelization of impulse-based algorithms 
+
+Check out Eric's work on 
+
+parallelizing Impulse, including an in-depth 
+tour
+through its operational steps.
+
+Aaron Wallack:
+Simulation-based verification of fixturing algorithms 
+
+
+
+Related Research
+ 
+
+Papers
+
+
+Brian Mirtich,
+ ``Hybrid Simulation:  Combining Constraints and Impulses,'' 
+in  Proceedings of First Workshop on Simulation and Interaction
+in Virtual Environments,  
+July 1995.
+  [238K postscript]  
+  [50K gzipped postscript]  
+
+
+Brian Mirtich and John Canny,
+ ``Impulse-based Simulation of Rigid Bodies,'' 
+in  Proceedings of 1995 Symposium on Interactive 3D Graphics, 
+April 1995.
+  [3.46M postscript]  
+  [184K gzipped postscript]  
+
+
+Brian Mirtich and John Canny,
+ ``Impulse-based Dynamic Simulation,''  
+in  Proceedings of Workshop on Algorithmic Foundations of Robotics, 
+February 1994.
+  [2.54M postscript]  
+  [166K gzipped postscript]  
+
+
+
+
+
+Simulation Movies
+
+
+ Simulation Art Gallery 
+
+Special thanks to Master Motion Blurer, 
+ Paul Debevec .
+
+
+
+Bowling pins
+
+Coins
+
+Block Letters
+
+
+
+
+Brian Mirtich /
+mirtich@cs.berkeley.edu /
+25 July 1995
+

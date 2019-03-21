@@ -1,0 +1,63 @@
+Date: Tue, 26 Nov 1996 18:47:45 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Tue, 30 Apr 1996 14:24:45 GMT
+Content-length: 1808
+
+Artificial Intelligence (Undergraduate) Home Page
+
+Artificial Intelligence
+V22.0480.001
+
+Monday and Wednesday 11:55-1:10
+
+Room 102, Warren Weaver Hall
+
+
+Professor Ernest Davis
+
+Reaching Me
+
+ e-mail 
+davise@cs.nyu.edu
+ phone: (212) 998-3123
+ office: 429 Warren Weaver Hall
+ office hours: 9:30 - 11:00 Tuesday and Thursday
+
+ 
+Syllabus (revised 1/31)
+
+ 
+Instructions for course email list
+ Prolog code
+
+ Prolog notes
+ Prolog code from notes
+ NLP parser.
+ NLP parser with number agreement.
+
+ Problem sets
+
+  Problem set 1 (due Jan. 31)
+  Solution set 1
+  Problem set 2 (due Feb. 19)
+  Problem set 3 (due Feb. 27)
+  Solution set 3
+  Problem set 4 (due March 25)
+  Solution set 4
+  Solution to map coloring problem
+  Problem set 5 (due April 1)
+  Problem set 6 (due April 22)
+
+ Midterm 
+
+  Practice Midterm
+  Solutions to Practice Midterm
+  Midterm
+  Solutions to Midterm
+
+ Final
+
+  Syllabus for Final
+  Final Exam from 1994
+

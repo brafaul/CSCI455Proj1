@@ -1,0 +1,117 @@
+Server: Netscape-Commerce/1.12
+Date: Wednesday, 20-Nov-96 23:23:34 GMT
+Last-modified: Sunday, 03-Mar-96 02:27:20 GMT
+Content-length: 3246
+Content-type: text/html
+
+
+
+ EE539 Home Page 
+
+
+EE539: Neural Networks & Applications
+
+Nabil H. Farhat
+
+Table of Contents
+
+ Brief Description
+
+ General Information
+
+Course Syllabus
+
+Textbook
+
+Grading Policy
+
+Exam Dates
+
+
+
+Course Description
+
+
+Examines the application of paradigms in neural networks to problems in pattern classification, optimization, function approximation, and machine learning.  The course will include: review of the physiology and anatomy of neurons and neuron networks, form
+
+
+
+
+
+
+
+
+
+
+
+al models of neurons and networks; attractor networks, associative memory; storage capacity; the pattern classification problem; neural classifiers; optimization by energy minimization, solving the TSP (Traveling Salesman problem) with attractor networks;
+
+
+
+
+
+
+
+
+
+
+
+ simulated annealing and the Boltzmann  machine; hardware implementations of neural networks; the problem of learning; algorithmic approaches; perceptron learning; back-propagation; randomized algorithms; and genetic algorithms.
+
+
+
+
+General Information
+Nabil H. Farhat
+Nabil H. Farhat
+Room 372 Moore
+Phone: 898-5882
+Email:farhat@ee.upenn.edu
+Office Hours
+If unavailable, please see, Drucilla Spanner, Room 363 Moore, 898-6823
+
+PrerequisiteNone (Undergraduates need permission of Instructor)
+
+Time and LocationTTh, 3-4:30, 223 Moore
+
+Course Syllabus
+
+Topic 1, Review of Essential Properties of the Biological Neuron and the Nervous System
+Topic 2, Essentials of Nonlinear Dynamical System Theory
+Topic 3, The Hopfield Model and Spin Glasses
+Topic 4, Stochastic Neural Networks and the Boltzmann Machine
+Topic 5, Multilayer Feedforward Networks for Supervised Learning
+Topic 6, Unsupervised and Competitive Learning Algorithms
+Topic 7, Bifurcating Neural Networks
+
+
+Textbooks
+Main texts
+
+Neural Network Architectures , Dayhoff, J., Van Nostrand Reinhold, 1990.
+
+Reference
+
+Neural Computing: Theory and Practice,  Wasserman, Philip, D., Van Nostrand Reinhold, 1989
+Introduction to the Theory of Neural Computation Hertz, J., Krogh,A., and Palmer, R.G., Addison Wesley, 1991
+Supplementary classnotes and material for additional reading will be handed out in class.
+
+
+
+Grading Policy
+
+Homeworks:   1/3
+Midterm:        1/3
+Final:               1/3
+
+Exam Dates
+
+Midterm 1: TBA
+Final: Mo.Dec. 18, 1:30-3:30 pm
+
+
+Nabil H. Farhat
+Updated: Sept. 21, 1995
+
+
+

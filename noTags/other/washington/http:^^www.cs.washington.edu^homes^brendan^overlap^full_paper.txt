@@ -1,0 +1,71 @@
+Date: Tue, 10 Dec 1996 21:21:56 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 12 Aug 1996 23:59:01 GMT
+Content-length: 3619
+
+
+
+
+A Powerful Clone Overlap Test for Restriction Fragment Mapping
+
+
+
+
+
+
+
+    
+ Next:  Introduction
+  
+A Powerful Clone Overlap Test for Restriction Fragment Mapping
+ 
+Brendan Mumey  
+ Department of Computer Science 
+ University of Washington, Seattle, WA 98195, USA
+ brendan@cs.washington.edu   
+ Key words: physical mapping, statistical inference, 
+ probabilistic reasoning, cluster analysis
+
+
+Abstract:
+This paper addresses a computational biology problem which
+is to decide whether two clones (segments of a genome)
+overlap based on their  multiple complete digest (MCD) fingerprint.
+The problem arises in the context of building a physical map
+of a genome, an important step in the human genome project.
+The main result is an overlap test which is
+argued to be powerful in a stochastic model of the process
+in the sense of admitting the lowest false negative rate for a given rate
+of false positives.  Initial experiments show that it yields about
+20% fewer false negatives for a given rate of false positives than
+a commonly used test.  This is likely to improve the success of
+the subsequent mapping stages.
+
+ 
+
+  Introduction
+  A Stochastic Model of MCD Fingerprinting
+  The  a posteriori Probability of Overlap
+
+  Estimating 
+  Estimating 
+
+  The Proposed Overlap Test
+  Comparison with a Currently Used Test
+  Open problems and future work
+ References
+  Proof of Lemma 1
+
+  An Initial Inequality
+  Bounds on 
+  Discrepancy between  and 
+
+    About this document ... 
+
+ 
+
+Brendan Mumey 
+Mon Aug 12 16:18:30 PDT 1996
+
+

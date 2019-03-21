@@ -1,0 +1,84 @@
+Date: Mon, 25 Nov 1996 23:59:01 GMT
+Server: Apache/1.2-dev
+Connection: close
+Content-Type: text/html
+Last-Modified: Thu, 18 Apr 1996 23:19:59 GMT
+ETag: "b8f50-d60-3176ce1f"
+Content-Length: 3424
+Accept-Ranges: bytes
+
+The Scheme Underground
+
+The Scheme Underground
+
+"I am not a Church numeral; I am a free variable!"
+
+ 
+The Scheme Underground is a new effort starting between LCS
+and the AI Lab to develop useful software packages in Scheme
+for use by research projects and for distribution on the net.
+ 
+We want to take over the world.  The internet badly needs a
+public domain software environment that allows the rapid construction
+of software tools using a modern programming language.  Our goal is to
+build such a system using Scheme 48, an
+ultra-portable Scheme implementation which is easily interfaced to
+existing software written in other languages.
+
+MIT Undergrads: want to hack Scheme for the summer?
+
+Are you interested in hacking advanced Scheme systems at MIT?
+We are looking for several UROPS to do design and implementation
+work on these packages. These packages include Unix shells,
+World Wide Web systems, graphics, text editors, and base systems 
+tools for a new Scheme implementation developed at MIT, Scheme 48.
+ 
+A major emphasis of this effort will to create a hacker culture that
+teaches and encourages elegant coding style.  People working on this
+project will be expected to be mature enough to allow
+other people to constructively critique their code.  They
+should also be mature enought to critique others' code in a
+constructive and professional manner.  This project will give you the
+opportunity to learn good coding style from highly experienced Scheme
+programmers, many of whom helped define the language.
+
+UROP projects
+Here is a partial list of projects for which we are willing to take summer 
+UROPS. Many of these projects interweave and overlap. Any of them,
+if well-executed, would make a real impact both inside MIT and on the 
+Internet. 
+ 
+
+ Scsh, a Scheme-based shell for Unix.
+
+World Wide Web projects
+ Graphics projects
+ Systems programming projects
+
+
+We are looking for motivated hackers, with good programming
+taste, who like Scheme, are looking for interesting and fun projects,
+and are willing to continue into the fall semester.
+If any of these projects appeal to you, and you think you fit the
+bill, get in touch with us.
+
+Related efforts
+Does the Rice PLT project
+provide a cover for the Texas cell of The Underground, 
+or are the reports of a separate, shadowy conspiracy accurate? 
+We could tell you, but then we'd have to kill you.
+It is known that the conspiracy needs new blood,
+particularly in the 
+summer.
+
+
+ Olin Shivers
+     (shivers@ai.mit.edu)
+
+ Ian Horswill
+(ian@ai.mit.edu)
+
+ Jonathan Rees
+	(jar@altdorf.ai.mit.edu)
+
+Ian Horswill --- ian@ai.mit.edu

@@ -1,0 +1,45 @@
+Date: Wed, 15 Jan 1997 01:27:56 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 20 Apr 1995 21:09:06 GMT
+Content-type: text/html
+Content-length: 1642
+
+
+
+
+
+Rutgers University Online Services
+
+
+
+Rutgers University Online Network Services
+
+ 
+
+The following links provide interactive information services for
+Rutgers University and the Internet. 
+ 
+WhitePages provides access to the Rutgers University Faculty,
+Staff, and Student directories, and to similar directories at other
+sites on the Internet. 
+
+
+Archie
+locates publicly available software and other information on the
+Internet. This WWW gateway will let you search for and retrieve files
+for use on your local computer.
+
+
+Rutgers FTP servers 
+offer a variety of information and software for public access. 
+
+
+INFO: The Rutgers University Campus-Wide Information System, provides
+information about University facilities and services. 
+
+
+ns-www@www-ns.rutgers.edu
+Document last modified on $Date: 1995/04/20 21:09:06 $
+
+
+

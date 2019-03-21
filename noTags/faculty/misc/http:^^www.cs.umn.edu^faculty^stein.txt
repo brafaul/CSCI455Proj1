@@ -1,0 +1,25 @@
+Date: Thu, 21 Nov 1996 20:55:09 GMT
+Server: Apache/1.1b3
+Content-type: text/html
+
+
+Marvin L. Stein
+Marvin L. Stein
+Professor
+Associate Department Head and Director of Graduate Studies
+
+Machine arithmetic, organization of programming systems.
+
+stein@cs.umn.edu
+office
+(612) 624-8311
+
+
+Education
+Ph.D. 1951, M.A. 1949, B.A. 1947, Mathematics, University of California, Los Angeles
+
+
+Comments and Questions | On-Line Help and Software List | Department Home Page |Department FTP Server | Research Projects | System Information
+
+
+Last Modified on: Thursday, August 17, 1995

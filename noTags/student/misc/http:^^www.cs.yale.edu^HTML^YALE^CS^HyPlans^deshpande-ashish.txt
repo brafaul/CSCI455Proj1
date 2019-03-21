@@ -1,0 +1,196 @@
+Date: Thu, 21 Nov 1996 23:47:58 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Wed, 24 Jan 1996 20:59:40 GMT
+Content-length: 7271
+
+
+Ashish Deshpande's Home Page
+
+Ashish's Home Page
+
+
+(deshpande-ashish@cs.yale.edu)
+
+
+
+
+	Address
+
+	Yale University Department of Computer Science
+	P.O. Box 208285
+	New Haven, CT 06520-8285
+	Tel: (203)-432-1203
+	Fax: (203)-432-0593
+
+
+
+
+
+This page is still under construction.
+
+
+
+
+Personal Information
+I'm a graduate student in the 
+Department of Computer Science at
+ Yale
+University. I expect to get a Ph.D. in Computer Science in May 1996. I'm from 
+India and moved
+to the US in 1988. I hold a Bachelor's degree in Computer Science and Engineering
+from the Indian Institute of Technology, Bombay and an MS in Computer Science from the
+University of Virginia.
+
+I'm married to  Rashmi and we have a baby boy 
+
+Rohan. Here's some
+cool stuff I enjoy.
+
+
+
+
+
+
+	Research
+
+Dissertation Research
+We investigate a novel procedure for the numerical solution of
+scalar partial differential equations, which are in conservation form.
+Such equations are most commonly
+solved on a computer by approximating the derivatives using finite
+differences and advancing the solution forward in time using either an
+explicit or an implicit method.
+
+Explicit schemes have the advantage that each time step is very fast
+to compute.  They are also highly parallelizable. However,
+stability requirements necessitate a very small time step, which
+increases the total amount of work unacceptably.
+
+Implicit schemes remove the necessity of taking a very small time
+step. However, each time step is far more expensive in terms of
+computer time. Furthermore, the computation process is not easily
+parallelizable.
+
+In this thesis, we propose a new procedure intermediate between the
+explicit and implicit schemes described above. It results from
+modifying the explicit method using the Gauss-Seidel principle. We
+simply use the latest available information at any point in the
+computation process. We retain the computational efficiency
+of the explicit scheme, and at the same time obtain a stability
+requirement that imposes an acceptable restriction on the length of
+the time step. However, the truncation error is of a form that again
+imposes an unacceptable restriction on the length of the time step. We
+circumvent this difficulty by using one or more additional sets of
+approximations to cancel out the undesirable terms in the truncation
+error. The new procedure is not as easily parallelized as the explicit
+method but is more parallel than the implicit method.  Hence, its
+characteristics lie between those of the explicit and implicit methods.
+We use the new method to solve the 1,2 and 3 dimensional Burgers'
+equation, which is frequently used as a model for the incompressible
+Navier-Stokes equations. We present proofs of
+stability along with experimental results that
+validate the theory.
+
+Details in Postscript format (these are incomplete drafts I'm currently
+working on)
+
+ 
+	Numerical solution of conservation laws (169 K)
+ 
+	Parallel numerical solution of Burgers' equation  (643 K)
+
+Time Domain Parallelism
+Time dependent PDE's are often solved by parallelizing the solution
+process in the spatial domain. This often limits efficiency as the
+number of processors increases. In this paper, we examine a class
+of algorithms, which incorporate parallelism in the temporal domain
+to increase efficiency. We discuss conditions under which these
+algorithms may be useful.
+
+A Postscript version can be found
+here (133 K).
+
+Parallel CFD Simulations
+A general purpose, 3D, incompressible Navier-Stokes algorithm is implemented
+on a network of workstations using PVM. Performance comparisons with the
+Cray Y-MP and Intel IPSC/860 are made.
+
+A Postscript version can be found
+here (395 K).
+
+Efficient Parallel Programming with Linda
+We discuss C-Linda's performance in solving a representative scientific
+computing problem, the shallow water equations, and make comparisons with
+alternatives available on various shared and distributed memory machines.
+
+A Postscript version can be found
+here (173 K).
+
+Biological Sequence Comparison
+We describe a general, efficient and flexible platform for searching biological
+sequence databases that runs on Intel hypercubes. It can easily be adapted to
+evaluate a wide variety of sequence comparison algorithms and shows close to
+optimal performance characteristics.
+
+I don't have a Postscript version :-(
+
+
+
+
+
+Other Technical Interests
+
+Check out Intel's fantastic 
+
+P6 processor presentation.
+Info on tons of CPU's at the
+
+CPU Info Center
+Here's a very nice
+
+GAMS : Guide to Available Mathematical Software.
+Lots of MPI stuff is
+here.
+
+
+
+
+
+Cool Stuff
+
+Movies
+Pink Floyd
+Sci-fi (esp. Star Trek)
+
+World band radio
+15-minute delayed quotes can be found at the
+
+Security APL Quote Server
+ Check out the  Money and Investing Update
+from the Wall Street Journal.
+ Here's  Money Magazine
+on the Internet.
+Stock Market Data from MIT is here.
+Deep discount broker services from E*Trade.
+(This is not an endorsement). Also has delayed stock quotes.
+
+
+
+
+
+Sports
+
+
+	Golf
+Lots of cool sports stuff at 
+Sports Illustrated.
+Check out Jacqueline Dupree's fabulous 
+
+Site that the ATP hates.
+Here's the home page of the 
+	Tennis ATP Tour.
+
+	Running
+
+

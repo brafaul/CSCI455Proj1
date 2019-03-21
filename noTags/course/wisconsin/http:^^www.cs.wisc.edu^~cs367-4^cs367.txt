@@ -1,0 +1,117 @@
+Date: Thu, 07 Nov 1996 19:23:55 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 05 Nov 1996 20:55:25 GMT
+Content-length: 4841
+
+
+
+
+Data Structures, CS367 Lecs 1 & 4
+
+
+
+CS367: Introduction to Data Structures
+Lecture 1, MWF 9:30 - 10:45, 121 Psychology
+Lecture 4, MWF 11:00 - 12:15, 121 Psychology
+
+
+Course Information
+
+Announcements 11/5/96
+Reading Assignments
+Getting Started!
+Getting Help!
+
+Exams
+Programming Assignments
+Sample Code
+
+Lecturer and TA Information
+Course Materials
+Computers: Labs/Home/Other
+
+
+
+Announcements
+Any general announcements are placed here with the most recent
+    announcements first.  Any announcements or problems with programming
+    assignments are not found here, but are located on each assignment's
+    web page.
+  
+ 
+11/5/96 Now that the last makeup exam is done, I have
+	placed a copy of the solution key for exam one on reserve at
+	the Kurt Wendt Library.
+    11/1/96 Queue ADT sample code is online in samples page.
+    10/10/96 Stack ADT sample code is online in samples page.
+    10/9/96 Exam 1 topics are online in exams page.
+    10/3/96 List ADT sample code is online in samples page.
+    9/28/96 The handin directories have been created.
+    9/19/96 The list of Common
+        C++ Programming Errors is now online.  Any suggestions/additions
+	are welcomed.
+    9/17/96 You can now use either the vega or the sol computer
+        labs to do CS367 work.  See computers
+	for more information.
+    9/14/96 Sample code has been placed on-line for Monday's
+	and Wednesday's lectures.
+    9/6/96 Are you getting a "bad magic number" error?  Source
+        files must end in .cc for them to be able to be compiled.
+        Otherwise you will get this unusual error!
+    9/6/96 Are you looking at stale pages?  Don't forget to reload
+	the web pages.  The pages are being updated, and copies that your web
+	browser caches become outdated (i.e. stale).
+    9/4/96 Attend the Unix Tutorial! You need only
+	attend one of the times listed below.
+	
+	Mon. 9/3 - Thurs. 9/5, 4 and 6 PM, CS1221
+	Mon. 9/9 - Thurs. 9/12, only 4 PM, CS1221.
+	
+
+
+
+Reading Assignments
+
+FUTURE: Trees, Chapter 10
+   11/4+ Lectures: Queues, Chapter 7, skip simulation
+   11/1 Lecture: Overloading Operators, Chapter 8, Pages 384-386
+   10/23+ Lectures: Hash Tables, Chapter 12, Pages 591-608
+   10/14+ Lectures: Stacks, Chapter 6
+   10/7+ Lectures: Linked Lists, Chapter 4
+   10/4 Lecture: Pointers and Dynamic Memory Allocation, Chapter 4, Pages 142-152
+   10/2 Lecture: Sorting and Searching Analysis, Chapter 9, Pages: 392-405
+   9/27+ Lectures: Sorting Algorithms, Chapter 9, Pages: 405-429
+   9/23+ Lectures: Basic Recursion and Searching Algorithms, Chapter 2
+   9/16+ Lectures: Basic OOP, Chapter 3, Pages: 118-120 skip, 120-129 focus
+   9/6+ Lectures: Basic C++, Appendix A, Pages: A1-A35
+ 
+
+
+Who's Who in CS367
+
+Lecturer
+Jim Skrentny,
+      skrentny@cs.wisc.edu
+Office:1303 Computer Sciences, 262-0191
+      Office Hours:
+M 12:30-1:30 PM, TW 3:00-4:00 PM
+Teaching Assistants
+Baicheng (Billy) Liao,
+bail@cs.wisc.edu
+Office: 1343 Computer Sciences, 262-5596
+      Office Hours:
+W 4:00 - 5:00 PM, F 3:00 - 4:00 PM
+Jia Cheng,
+      jiacheng@cs.wisc.edu
+Office:  1306 Computer Science, 262-6601
+      Office Hours:
+M 8:00 - 9:00 AM, R 4:00 - 5:00 PM
+
+
+
+Copyright © 1996 James D. Skrentny,
+skrentny@cs.wisc.edu
+
+
+

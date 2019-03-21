@@ -1,0 +1,12 @@
+Date: Wed, 15 Jan 1997 01:46:07 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+Test and Experiment Whatever Curious
+
+Image and Video Computing
+Java
+CGI Imagemaps
+CGI Fill-out forms
+Frames
+

@@ -1,0 +1,63 @@
+Date: Tue, 05 Nov 1996 00:24:41 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sun, 15 Sep 1996 18:07:25 GMT
+Content-length: 1704
+
+
+
+The Condor-World Mailing List
+
+
+
+
+The Condor-World Mailing List
+
+
+
+The Condor-World mailing list is intended for distribution and
+exchange of information regarding the Condor software developed at the
+University of Wisconsin - Madison, Computer Sciences Department.
+Condor-World should serve as a means to exchange information and
+experience relating to Condor.  We would also like to use it as a
+channel for comments, wishes and complaints regarding the system.  As
+we continue to work on the problem of batch processing in a cluster of
+workstations, we would like to know what you think about the
+system.
+
+
+To subscribe to Condor-World, send email to
+condor-world-request@cs.wisc.edu
+with the message body subscribe:
+
+
+	To: condor-world-request@cs.wisc.edu
+	Subject: 
+
+	subscribe
+
+
+To unsubscribe, send a message with unsubscribe in the body.
+
+
+To post a message to the list, send it to 
+condor-world@cs.wisc.edu.
+
+
+The Condor-World Mailing List Archive is indexed by 
+thread,
+date,
+subject, and
+author.  There is also a Condor 
+FAQ and an 
+archive of answers to questions
+sent to condor-admin@cs.wisc.edu.
+
+
+
+Last modified: Sun Sep 15 13:07:25 1996 by Jim Basney
+
+condor-admin@cs.wisc.edu
+
+
+

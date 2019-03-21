@@ -1,0 +1,56 @@
+Date: Thu, 21 Nov 1996 22:03:05 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 26 Feb 1996 21:52:38 GMT
+Content-length: 1136
+
+ Cindy Ball
+Cindy Ball
+ How To Contact Me
+
+ e-mail: cindy@gg.caltech.edu
+ office: (818) 395-2820 
+
+ What I'm Up To
+
+I'm currently a graduate student in the 
+ 
+Computer Graphics Group 
+, at
+ 
+Caltech 
+. 
+
+
+ HTML and CGI Help 
+
+Hints on HTML and publicising home pages through Caltech are at 
+
+Caltech Personal Pages
+.
+
+Information about writing CGI scripts can be found at 
+ 
+The Common Gateway Interface
+.
+
+ Other Links
+
+A Computer Graphics Resource Center: 
+ 
+3D Site
+.
+
+Real-time LA Traffic Reports: 
+
+small non-clickable map
+, or 
+
+large (slower) clickable map
+.
+
+
+ Art Center
+
+Proposal for Web Site Design
+

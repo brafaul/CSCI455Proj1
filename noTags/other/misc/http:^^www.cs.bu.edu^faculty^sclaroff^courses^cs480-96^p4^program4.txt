@@ -1,0 +1,124 @@
+Date: Tue, 14 Jan 1997 23:02:01 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+		
+
+BU CAS CS 480: Introduction to Computer Graphics---Programming Assignment 4
+		
+
+
+
+BU
+CAS
+		
+CS 480
+
+Introduction to Computer Graphics
+Spring 1996
+		
+
+Programming Assignment 4: Shaded Display of Superquadric Toroids
+Due before class on Tuesday April 9
+		
+
+The purpose of the assignment is to introduce you to 1) polygonal surface
+generation, 2) basic 3-D shaded display in OpenGL, and 3) camera modeling.
+
+The Program You Write
+
+Write a program that allows the user to create and display a superquadric
+toroid (donut) in 3-D with shading.  
+
+
+Allow the user to modify the toroid's two exponents, the three radii,
+and the hole radius.  You may also want to allow the user to vary the
+number of polygons used to approximate the torus. 
+
+
+Allow the user to modify the camera viewpoint to front, back, top,
+bottom, left, and right views.  In addition, make it possible to
+rotate and position the object in 3-D.  To make things easier, center
+you may want to put your toroid at the world coordinate system
+origin.
+
+
+Create an animation by defining a camera trajectory, and ``fly by'' a
+model created with your toroid(s).  During the fly-by, the camera
+motion should be smooth and remain pointed at the center of the
+scene.
+
+ Parametric Surface and Normal Functions 
+
+
+Given the following equations: 
+c(w,m) = SGN(cos(w))*pow(fabs(cos(w)),m)
+s(w,m) = SGN(sin(w))*pow(fabs(sin(w)),m)
+
+where SGN(x) = -1, 0, or 1, depending on whether x
+is less than, equal, or greater than 0. Suggestion: SGN(x) can be
+implemented as a C macro.
+
+Points on the surface of a superquadric toroid can be
+computed with the following parametric equations:
+x(u,v) = rx*(r + c(u,e1))*c(v,e2)
+y(u,v) = ry*(r + c(u,e1))*s(v,e2)
+z(u,v) = rz*s(u,e1)
+
+where: 
+rx, ry, rz  are the radii,
+r  is the hole's radius,
+e1, e2 are the superquadric exponents,
+u, v are the surface parameters, both in the range -PI to PI.
+
+Normals on the surface of a superquadric toroid can
+be computed with the following equations:
+nx(u,v) = (1.0/rx)*c(u,2-e1)*c(v,2-e2)
+ny(u,v) = (1.0/ry)*c(u,2-e1)*s(v,2-e2)
+nz(u,v) = (1.0/rz)*s(u,2-e1)
+
+Example Program
+
+Example source files for a simple program
+that generates a shaded display of a "regular" torus are
+available in ~cs480/courseware/p4 on the CGL
+cluster.
+
+This example program was adapted from "The OpenGL Programming Guide."
+This program is only provided as an example and you are not required
+to use it as basis for your own program.
+
+Demos and Grading
+
+Your project must run on the SGI, therefore you will need
+to use one of the SGI workstations in the CGL cluster (unless you have
+access to an OpenGL elsewhere). 
+
+Your program's source files are to be electronically submitted by using the submit program on cgl.  The code you submit
+should conform with the program assignment
+guidelines.
+
+Part of your grade for this programming assignment will be based on
+your giving a short demo (2-3 minutes) in the CGL cluster.  You will
+be expected to talk about how your program works, and we will see
+how well your program performs on some test examples. Demos will be
+scheduled for the Friday afternoon following the assignment due date.
+
+Start programming early.
+
+Extra Credit
+
+Compute a procedural texture map using fractal techniques and apply it
+to your toroid.  Allow the user to toggle whether a texture map is
+used or not.
+
+Test Cases 
+
+You are responsible for testing your own code. 
+
+
+Page Created: Feb 23, 1996      
+Last Modified: Feb 23, 1996
+Maintained by: Stan Sclaroff
+
+

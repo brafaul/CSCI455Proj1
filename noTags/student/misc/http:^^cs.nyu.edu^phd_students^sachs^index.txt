@@ -1,0 +1,156 @@
+Date: Tue, 26 Nov 1996 03:44:21 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Wed, 25 Sep 1996 18:25:00 GMT
+Content-length: 4239
+
+
+
+Jay Sachs
+
+
+
+
+
+
+JAY SACHS
+              
+
+
+  
+Snailmail:
+  
+715 Broadway Room 715New York, NY 10003
+
+
+
+Phone:
+
+212.998.3485
+
+
+
+Fax:
+
+212.995.4123
+
+
+
+Email:
+
+sachs@cs.nyu.edu
+
+
+
+
+
+
+I'm a full-time 6th year PhD Student in 
+Computer Science
+at the 
+Courant Institute of
+Mathematical Sciences, 
+New York University. 
+My support this year generously comes from the coffers of the
+University via the Dean's Dissertation Fellowship. This fellowship is
+intended to encourage late-year slackers like myself to finish my
+dissertation. Which leads us to ...
+
+My research interests
+
+I am investigating reusable and extensible synchronization for concurrent
+object-oriented languages. For more detail, click 
+here.
+
+
+My advisor is 
+Benjamin Goldberg.
+
+
+Some useful and/or pertinent Computer Science links: 
+
+CS Tech report search
+
+
+Object-Oriented Information Sources
+A site close to my heart.
+
+General Computer Science Resources
+A meta index.
+
+Type Theory Papers
+Certainly, of less general interest. But pertinent to me.
+
+Computer Science Bibliography Glimpse Server
+
+
+University of Tokyo Yonezawa Lab WWW Server
+
+
+University of Edinburgh LFCS Tech Reports
+
+
+
+TA/RA duties
+
+
+
+Summer 1996
+I designed and implemented a GUI front end in 
+Java for the
+Cart3D
+computational geometry system, working with 
+Marsha Berger
+and 
+Michael
+Aftosmis.
+
+Fall 1996
+No duties
+
+Spring 1997
+
+I'll be the TA for Computer Systems Organization II (V22.0202), taught by 
+Benjamin Goldberg.
+I'll be teaching the C language during recitations.
+
+
+
+
+
+The flesh around the dusty skeleton of professionalism
+If you're curious, you can see my reading list.
+
+I'm a sometimes-professional
+jazz pianist. My favorites
+include Thelonious Monk, Herbie Hancock, Abdullah Ibrahim, and Randy Weston.
+
+I really enjoy a good
+brew. 
+
+Another favorite escape of mine: 
+film.
+
+Odds 'n ends ('n links)
+
+Futurist Programming Notes
+
+The Surrealist Compliment Generator
+
+Wall O' Shame
+
+Mother Jones Magazine
+
+Consequences<!-- - an online magazine regarding the nature and
+implication of environmental change. Of course, funded by NSF and
+others, so don't expect unbiased>
+
+
+
+
+Jay Sachs
+(sachs@cs.nyu.edu)
+/
+Last updated: 08/16/96
+
+

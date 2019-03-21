@@ -1,0 +1,65 @@
+Date: Fri, 13 Dec 1996 14:49:01 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 15:54:21 GMT
+Content-length: 1973
+
+
+
+Kent Wenger's Home Page
+
+
+ Welcome to Kent Wenger's home page!
+Note: this page is definitely still under construction, so be prepared
+for some potholes!
+
+
+(I need to get a picture of myself scanned in to put here...)
+
+R. Kent Wenger
+
+Associate Researcher
+
+Computer Sciences Department
+University of Wisconsin
+1210 West Dayton Street
+Madison, WI 53706-1685
+
+telephone: 608/262-6623
+fax: 608/262-9777
+email: wenger@cs.wisc.edu
+Finger me.
+
+
+Work
+The main projects I'm working on are
+COD (Clusters of Data providers) and
+DEVise (Data Exploration and
+Visualization).  Coming up with a good acronym is one of the most important
+parts of a project, wouldn't you agree?
+
+Here's a visualization
+produced by the DEVise software.
+
+The people I work for:
+
+Yannis Ioannidis
+
+    Miron Livny
+Raghu Ramakrishnan
+
+More information about the University of Wisconsin:
+
+UW-Madison DBMS Research Group
+UW-Madison Computer Sciences home page
+WiscINFO (UW-Madison home page)
+
+
+Personal
+Links
+Images
+
+
+Last updated Nov. 15, 1996.
+
+

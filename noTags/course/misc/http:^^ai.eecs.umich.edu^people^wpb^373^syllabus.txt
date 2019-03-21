@@ -1,0 +1,395 @@
+Date: Tue, 26 Nov 1996 19:12:30 GMT
+Server: NCSA/1.5.1
+Last-modified: Thu, 21 Nov 1996 20:53:41 GMT
+Content-type: text/html
+Content-length: 8058
+
+
+
+EECS 373
+
+
+
+EECS 373
+
+Fall 1996 
+
+COURSE SYLLABUS
+
+
+
+Course Notices 
+
+
+21 Nov: End of semester lab information: The following applies
+
+to Sections 7, 8, 9 and 10 (Weds evening through Friday afternoon):
+
+
+Lab 7 writeup is due the appropriate day the week after Thanksgiving
+
+(the week of 2 December). Of course, you can hand it in earlier.
+
+Lab 8 will have the following make-up days:
+
+
+Dec 9 and 10: Lab open normal hours only for students in the
+
+effected sections.
+
+Dec 11: Lab will be open, details to follow.
+
+
+
+
+
+25 Oct: Some news about the exam:
+
+
+You may bring your text and a calculator, but nothing else.
+
+No notes, no labs.
+
+Rooms: Please go the following rooms based on the first letter
+
+of your last name. If you go to the wrong room, you run the risk
+
+of not getting an exam.
+
+
+A - K: 1504 GG Brown Labs (the normal lecture room)
+
+L - Z: 1003 EECS 
+
+
+
+
+
+10 Oct: Prelab 5 has been updated to reflect the optional
+
+questions. Be sure to take a look.
+
+
+
+4 Oct: The PIO mode chart is available
+
+
+
+
+
+24 Sept: Prelab 3 and the Lab report format
+
+are available.
+
+
+
+12 Sept: Prelab 2 has been updated, be sure to look at it! 
+
+
+
+10 Sept: Instructions on signing up for
+
+the class mailing list.
+
+
+
+6 Sept: The lab schedule has be updated. Please check it.
+
+
+
+6 Sept: There are prelab questions for Lab 1 in the course pack
+
+(part I, pg 10). You must answer these questions before your lab.
+
+
+
+
+
+Self-Assessment Exams 
+
+Exam 1
+
+
+
+Prelabs and Lab Report Format 
+
+Prelab 2
+
+Prelab 3
+
+Prelab 4
+
+Prelab 5
+
+Prelab 6
+
+Prelab 7
+
+Prelab 8
+
+Lab report format
+
+
+Times when the lab is open
+
+
+
+
+Prerequisites 
+
+EECS 270
+
+and Jr. standing
+
+
+
+
+Meeting Times 
+
+Lectures: Tuesday, Thursday 1:30-2:30 in 1504 GG Brown
+
+Labs
+
+
+Labs: all labs are in EECS 2334; phone 936 0182
+
+
+Monday:
+
+
+Sec 2: 12:30 - 3:30
+
+Sec 3: 3:30 - 6:30 
+
+
+Tuesday:
+
+
+Sec 4: 2:30 - 5:30
+
+Sec 5: 6:30 - 9:30 
+
+
+Wednesday:
+
+
+Sec 6: 1:30 - 4:30
+
+Sec 7: 4:30 - 7:30 
+
+
+Thursday:
+
+
+Sec 8: 2:30 - 5:30
+
+Sec 9: 6:30 - 9:30 
+
+
+Friday:
+
+
+Sec 10: 1:30 - 4:30 
+
+
+
+
+
+
+Text and Course Pack 
+
+Lab Manual: Available at Dollar Bill Copying
+
+
+Text: Microcomputer System: The 8086/8088 Family Architecture,
+
+Programming, and Design. Liu and Gibson. Prentice-Hall, 1986
+
+(2nd Edition)
+
+
+Reference: Microcomputer Interfacing, H. Stone,
+
+Addison Wesley. (A copy will be placed in the library reserve
+
+stack )
+
+
+
+
+Lecture and lab schedule
+
+
+
+
+
+
+Instructional Staff 
+
+Instructor:
+
+
+Professor Bill Birmingham
+
+
+128 ATL
+
+
+
+936-1590
+
+
+wpb@eecs.umich.edu
+
+
+Office Hours: Tuesday 3 - 4
+
+
+Lab Assistants:
+
+Bhaskar Thiagarajan:
+
+bhaskart@eecs.umich.edu
+
+
+Mazin Assanie: mazina@eecs.umich.edu
+
+
+Roger Chan: csrchan@eecs.umich.edu
+
+Mike Carr: mcarr@umich.edu
+
+
+Baheerathan Rajalingam: baheer@eecs.umich.edu
+
+
+
+
+
+Course Objectives 
+
+
+
+
+
+
+EECS 373 is an introduction to microprocessor-based computer design.
+
+During the semester, you will build an Intel 80186-based computer
+
+containing a variety of memory and IO devices. The course will
+
+cover the basic principles of system design, including how various
+
+devices operate and how they can be used to form useful computing
+
+systems. In addition, you will used state-of-the-art design tools
+
+in the lab. While this is primarily a hardware class, you will
+
+be expected to write software in 80186 assembly language and to
+
+become familiar with hardware prototyping tools.
+
+Grading Policy 
+
+
+1. Labs reports are due one week after the lab work is
+
+complete at the beginning of your next lab period. Lab hardware
+
+demos are due at the end of lab period ( e.g., the
+
+end of the second lab period for a two week lab). The TA, however,
+
+may grant an extension allowing hardware demo any time before
+
+your next lab period ( e.g., if your lab section meets
+
+Tuesday night, you may demo anytime before 6:30 of the following
+
+week). In this case, you may demo to any TA; the TA will
+
+sign a copy of your code listing that you must show to your regular
+
+TA. You are responsible for ensuring that the lab is properly
+
+recorded as being complete.
+
+
+
+2. One lab report per group is sufficient. Each lab will have
+
+a prelab that is to be turned in beforethe start of that
+
+lab. Lab grading will work as follows:
+
+
+Prelab: 5%
+
+Demonstration: 45%
+
+Lab report: 50% 
+
+
+
+
+3. In labs you may work in groups of two. Division of lab work
+
+is permitted; however, each student is responsible for fully understanding
+
+all aspects of the lab. Your lab TA will quiz you on your understanding
+
+of the lab.
+
+
+
+4. Late labs will be substantially penalized; you will lose
+
+30% for each day the lab is late, problems with either CAEN or
+
+lab equipment not withstanding. No labs will be collected over
+
+weekends or holidays, but you will still be assessed 30% for each
+
+day ( i.e., 60% for a weekend). If there is a problem with turning
+
+in a lab on time, get in touch with Prof. Birmingham ( and only
+
+Prof. Birmingham) as soon as possible.
+
+
+4. The honor code is in force on all assignments and exams.
+
+This means that while lab group members may collaborate on lab
+
+assignments ( within the bounds specified above), there shall
+
+be no sharing of code or hardware among lab groups. Members of
+
+other groups may not help debug hardware or software of other
+
+groups without consent from the TAs or Prof. Birmingham. Furthermore,
+
+you are not allowed to look at the lab reports or code of others
+
+groups, or any past 373 course. Remember, you are under obligation
+
+to report any cheating you witness.
+
+
+
+
+
+Grading Scheme 
+
+
+Lab 1: 0%
+
+
+Lab 2-8 (each): 10% 
+
+
+2 Exams (each): 15% 
+
+

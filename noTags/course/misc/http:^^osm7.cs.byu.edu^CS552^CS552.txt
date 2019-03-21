@@ -1,0 +1,56 @@
+Date: Wed, 20 Nov 1996 21:53:19 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 13 Feb 1996 23:05:00 GMT
+Content-length: 2309
+
+
+
+CS 552: Object-Oriented Database Systems
+CS 552: Object-Oriented Database Systems
+
+
+
+Welcome to CS 552, Object-Oriented Database Systems.
+
+For now, this home page for CS 552 only provides you with access to short
+reference manuals, sites of interest, and news groups of interest.
+As additional useful material is found or created, it will be made available.
+
+Please contact
+Dr. David W. Embley
+for questions or comments.
+
+Reference Material
+
+Harmony Lex Scanner Source
+Harmony Yacc Grammar Source
+Object-Oriented Database System Manifesto
+Composer Tutorial
+OSA Tutorial
+OSM-QL Interface Tutorial -- under construction
+ OSS-L Reference Manual
+Unix Tutorial -- embedded in the ECEN Computer Handbook
+ vi Tutorial -- vi is a text editor available for your use
+ O2 Information:
+     especially for cs552 students
+
+OODBMS Books
+
+Books and Book Chapters
+
+WWW Sites of Interest
+
+ODMG
+
+News Groups of Interest
+
+CS 353 News Group -- the news group for our class
+ Database Theory News Group
+General Database News Group
+Object-Oriented Database Group
+Oracle Database Group
+Paradox Database Group
+
+
+

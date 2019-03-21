@@ -1,0 +1,47 @@
+Date: Tue, 14 Jan 1997 19:53:34 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1282
+Last-modified: Tue, 11 Jul 1995 02:47:24 GMT
+
+
+
+Clemson CS - Look Around
+
+
+ 
+Where we learn...
+
+
+
+
+ 
+Edwards Hall
+
+  Jordan Hall
+
+     
+ 
+G15 - Graduate Lab 
+      
+        G26 - Undergraduate Lab 
+      
+        G20 - VR Lab 
+      
+G29 - Graduate Lab 
+      
+        G32 - Classroom 
+      
+Student Office 1
+ 
+Student Office 2
+
+  Daniel
+
+
+[ Begin Tour 
+     | Up ] 
+
+webmaster@cs.clemson.edu
+Last Update:  17 June 1995
+

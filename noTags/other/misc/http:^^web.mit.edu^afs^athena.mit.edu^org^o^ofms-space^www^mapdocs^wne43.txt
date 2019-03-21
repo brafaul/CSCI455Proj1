@@ -1,0 +1,21 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 14-Jan-97 12:34:25 GMT
+Content-Type: text/html
+Content-Length: 2122
+Last-Modified: Monday, 15-May-95 23:54:16 GMT
+
+                                                                                                    
+
+
+MIT OFMS SA WNE43
+
+
+
+
+
+BUILDING : NE43
+NAME : TECHNOLOGY SQUARE BUILDING
+LOCATION : 545  TECHNOLOGY SQUARE
+
+

@@ -1,0 +1,43 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 21:32:51 GMT
+Content-Type: text/html
+Content-Length: 1231
+Last-Modified: Monday, 13-Mar-95 14:33:34 GMT
+
+
+
+ CS 314 Home Page 
+
+
+ CS 314 Home Page 
+
+  Brian Smith:  Your Tour Guide
+  Course Information
+
+ Homework Assignments 
+
+  Assignment 1
+  Assignment 2
+  Assignment 3
+  Assignment 4
+
+ Projects 
+
+  Project 1
+  Project 2
+  PS314 Spec
+
+ Lectures 
+  Table of Contents (postscript of slides are here)
+
+  Introduction to Computer Systems
+  CPU Organization 
+  68000 Programming 
+  Procedures, Recursion, and Stacks 
+  Assemblers, Linkers, and Loaders 
+  Interrupts and I/O 
+  Introduction to Logic Design 
+
+
+

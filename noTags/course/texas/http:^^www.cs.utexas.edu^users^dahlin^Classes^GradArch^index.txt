@@ -1,0 +1,205 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 20:28:56 GMT
+Content-Type: text/html
+Content-Length: 5166
+Last-Modified: Monday, 06-Jan-97 03:53:34 GMT
+
+
+
+
+CS382M: Advanced Computer Architecture
+
+
+
+CS382M: Advanced Computer Architecture
+This course focuses on the techniques of quantitative analysis and evaluation
+of modern computing systems, such as the selection of appropriate benchmarks
+to reveal and compare the performance of alternative design choices in
+system design. The emphasis is on the major component subsystems of high
+performance computers: pipelining, instruction level parallelism, memory
+hierarchies, input/output, and network-oriented interconnections. Students
+will undertake a major computing system analysis and design project of
+their own choosing.
+
+
+Administrative Information
+
+Unique Number: 47315
+Meeting Place: MWF 2-3, WEL 2.304
+Instructor: Mike
+Dahlin
+Office Hours: MW 3-4 or by appointment, TAY 4.136
+TA: TBD
+TA Office Hours: TBD
+
+
+Readings
+Textbook: Hennessy and Patteson Computer
+Architecture: A Quantitative Approach, Second Edition 
+
+Note that the 2nd edition is significantly different than the 1st
+edition, and it is not recommended that you attempt to use the 1st
+edition as a textbook for this course. 
+Errata Sheet
+for Hennessy & Patterson
+
+In addition, we will read current papers on various aspects of current
+computer architecture research. Watch this space for a pointer to the reading
+list. 
+
+Grading
+
+10% Class Participation
+30% Homework (Work in pairs)
+30% Exams (2 midterms)
+30% Project (Work in pairs)
+
+
+
+Course Schedule
+
+
+Week
+Date
+Topic
+Reading
+Due
+
+
+1
+Jan 13
+Intro, Admin, Review: Perf/Cost, Amdahl's Law, Tech Trends
+Ch 1
+
+
+
+2
+Jan 20
+Caching and Memory, ISAs, Pipelining, Hazards and Branch Prediction
+Ch 2
+M: MLK Holiday
+F: HW 1
+
+
+
+3
+Jan 27
+Pipelining, Hazards, and Static Branch Prediction
+Ch 3
+F: Project Proposal
+
+
+4
+Feb 3
+ILP: Scoreboarding, Tomasulu, Speculation
+Ch 4
+F: HW 2
+
+
+5
+Feb 10
+ILP: Dynamic Prediction, Limits of ILP, Vector Processors
+Ch D
+
+
+
+6
+Feb 17
+Memory Hierarchy
+Ch 5
+F: Project Survey
+
+
+7
+Feb 24
+Memory DRAM, VM, and Banks
+
+F: HW 3
+
+
+8
+Mar 3
+Memory and Review
+
+W: Midterm 1
+
+
+9
+Mar 10
+Spring Break
+
+M-F: Spring Break
+
+
+10
+Mar 17
+I/O: Metrics, Queuing, Busses, Disks, RAID
+Ch 6
+
+
+
+11
+Mar 24
+I/O: Tertiary, Networks
+
+F: HW 4
+
+
+12
+Mar 31
+Networks
+Ch 7
+F: Project Checkpoint
+
+
+13
+Apr 7
+Networks, Parallel Architectures
+
+F: HW 5
+
+
+14
+Apr 14
+MPPs
+Ch 8
+
+
+
+15
+Apr 21
+MPPs, Review
+
+W: Midterm 2
+
+
+16
+Apr 28
+Project Preseantations
+
+M/W/F: Project Presentations
+Fri: Last Day of Classes
+
+
+
+
+
+
+
+M: Project Written Report
+
+
+
+
+Additional Resources
+
+Course Pages 
+Products and Research 
+Conferences, Bibliographies, and Tech Reports
+
+Yahoo: Business
+and Economy:Companies:Computers:Systems
+
+
+

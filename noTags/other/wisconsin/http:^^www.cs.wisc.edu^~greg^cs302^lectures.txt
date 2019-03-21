@@ -1,0 +1,124 @@
+Date: Mon, 11 Nov 1996 17:16:20 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 29 Oct 1996 00:00:55 GMT
+Content-length: 3347
+
+
+
+Class Notes
+
+
+Class Notes
+
+I am posting two different versions of the class notes.
+Both versions have the same information.
+
+The Microsoft Word version is 1 to a page.
+The Postscript version is 2 to a page.
+Printing the Postscript version saves paper.
+
+You can view and print the postscript versions from the Vectra lab.  
+Netscape will ask "What should I do with this PS file?"
+
+To print the file, choose "Print to lpt1/laser queue"
+To view the file, choose "View Postscript file with Ghostview" 
+
+
+DO NOT print out both the word version and the postscript version.
+They are the same.
+
+DO NOT print the postscript version using ghostview.  
+You will not be satisfied with the results.
+
+If you have PRINTING PROBLEMS, stop by my office (CS 1307).
+I will give you a copy to photocopy.
+
+Class Notes (Postscript, 2 to a page)
+
+ Sept 12, 1996: 
+       
+       Part I: Introduction
+       
+ Sept 18, 1996: 
+       
+       Errata for Part I
+       
+ Sept 18, 1996: 
+       
+       Part II: Selection
+       
+ Sept 18, 1996: 
+       
+       Part III: Loops
+       
+ Sept 26, 1996: 
+       
+       Part IV: Functions
+       
+ Oct 9, 1996: 
+       
+       Part V: File I/O
+       
+ Oct 28, 1996: 
+       
+       Part VI: Intro to Classes
+       
+ Oct 28, 1996: 
+       
+       Using Multiple Files
+       
+
+Class Notes (Word, 1 to a page)
+
+ Sept 12, 1996: 
+       
+       Part I: Introduction
+       
+ Sept 18, 1996: 
+       
+       Errata for Part I
+       
+ Sept 18, 1996: 
+       
+       Part II: Selection
+       
+ Sept 18, 1996: 
+       
+       Part III: Loops
+       
+ Sept 26, 1996: 
+       
+       Part IV: Functions
+       
+ Oct 9, 1996: 
+       
+       Part V: File I/O
+       
+ Oct 28, 1996: 
+       
+       Part VI: Intro to Classes
+       
+ Oct 28, 1996: 
+       
+       Using Multiple Files
+       
+
+Class Extras
+
+PGM File Format
+      (greyscale)
+  PPM File Format
+      (color)
+  PGM Sample source code
+
+
+Last modified:
+Monday, October 20, 1996
+by Greg Sharp
+
+greg@cs.wisc.edu
+| http://www.cs.wisc.edu/~greg/greg.html
+
+
+

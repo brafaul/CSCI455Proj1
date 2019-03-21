@@ -1,0 +1,39 @@
+Date: Tue, 10 Dec 1996 03:27:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sat, 02 Nov 1996 02:27:28 GMT
+Content-length: 1526
+
+
+Java Source Files
+
+Java Source Files
+
+The files in the distribution java-bench.tar.gz implement the
+benchmarks used in the ASPLOS VII paper on interpreters (Romer, Lee,
+Voelker, Wolman, Wong, Baer, Bershad, and Levy, "The Structure and
+Performance of Interpreters" ASPLOS VII). 
+
+The five directories Hanoi, Mand, TestDes, aster, and espresso contain
+the java source files for the application benchmarks, and the micro
+directory contains the java source for the java microbenchmarks.  The
+application directories also contain a file named "URL" which has the
+URL from which we originally downloaded the source. 
+
+The Mand directory also contains the class files that we used for our
+measurements; the class files were actually compiled from a slightly
+modified version of the Mand.java file in the directory.  The
+modifications automated the application so that it performed three
+operations and exited, without requiring user input; these
+modifications were lost due to a disk crash. 
+
+The TestDes directory contains the java source for the des benchmark,
+as well as source for the C version (written locally).  Interestingly,
+this benchmark will work fine on some versions of the java interpreter
+(e.g., the version we used on the alpha for the paper), but reports
+errors on others (e.g., on Solaris).  This appears to be due to the
+arithmetic shift operations. 
+
+
+rocky@cs.washington.edu
+

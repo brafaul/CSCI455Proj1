@@ -1,0 +1,56 @@
+Date: Thu, 21 Nov 1996 21:21:39 GMT
+Server: Apache/1.1.1+
+Content-type: text/html
+Content-length: 1686
+Last-modified: Mon, 01 May 1995 16:47:24 GMT
+
+
+
+Elaine Cohen
+
+
+
+
+
+
+
+
+
+
+
+
+Elaine Cohen
+Professor of Computer Science.
+Co-Head, with Richard
+Riesenfeld, of the Alpha_1
+Project.
+Co-Principal Investigator of the National Science Foundation, 
+Science and Technology Center for Computer Graphics and Scientific
+Visualization.
+Principal Investigator of the NSF Young Scholar's Program, Utah
+Summer Computing Institute for Computer Graphics, Modeling and
+Expert Systems.
+
+Current Areas of Interest and Research:
+
+Algorithms, Representations, and High Level Design Operators
+for Complex Models in Computer Graphics, Geometric Modeling, and
+Mechanical Design.
+Reverse Engineering and Data Fitting.
+Integrated Process Planning and Computer Aided Manufacturing.
+Rapid Prototyping.
+Scientific Visualizations.
+Physically Based Modeling for Animation and Design.
+New Paradigms for Modeling.
+Kinematics, Dynamics, and Design of Mechanical Systems and
+Assemblies.
+Selected Applications Projects including Medical Modeling and
+Imaging, and Paleontological Reconstructions.
+
+
+
+
+
+Alpha_1 Research Group, University of Utah 
+
+

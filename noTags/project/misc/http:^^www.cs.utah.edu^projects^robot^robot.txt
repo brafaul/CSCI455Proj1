@@ -1,0 +1,91 @@
+Date: Tue, 14 Jan 1997 22:16:04 GMT
+Server: Apache/1.1.1+
+Content-type: text/html
+Content-length: 3168
+Last-modified: Fri, 22 Nov 1996 00:37:18 GMT
+
+
+
+ Vision and Robotics - University of Utah 
+
+
+
+University of Utah
+Department of Computer Science
+
+
+
+Vision and Robotics
+
+
+
+
+
+
+
+
+
+
+
+ Research 
+
+The vision and robotics group investigates a broad range of problems
+in computer vision, sensing for manfacturing, and robotics.  Much of
+this work involves interdisciplinary, multi-investigator efforts.  The
+group works closely with the 
+Alpha_1 group and Utah's Center for Engineering Design. 
+
+  Principal Faculty 
+
+       Tom Henderson
+       John Hollerbach
+
+  William Thompson
+
+
+ Projects 
+
+ 
+	Biorobotics Laboratory
+
+ 
+        Extraction of Micro-Terrain Features
+ 
+        Hard-copy Benchmark Suite
+  
+        Mobile Robotics
+  
+        Reverse Engineering of Mechanical Parts
+
+        The Utah Robotics Kit (URK) and
+        the Utah Prototyping Environment (UPE).
+  Virtual Prototyping of Assemblies
+  
+        Vision-Based Navigation in Unstructured, Outdoor Terrain
+  
+        Visual Motion
+
+
+ Miscellaneous 
+
+   Facilities
+
+
+
+Support
+
+
+Research in vision and robotics is supported by grants from the Advanced
+Research Projects Agency and the National Science Foundation. 
+
+
+
+
+
+
+
+
+
+vision@hayduke.cs.utah.edu
+
+

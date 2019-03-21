@@ -1,0 +1,138 @@
+Date: Mon, 25 Nov 1996 23:20:02 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 28 Oct 1996 18:09:39 GMT
+Content-length: 6224
+
+ Luger Home Page 
+
+
+Professor George F. Luger 
+
+
+Professor George F. Luger obtained a Ph.D. from the University of 
+Pennsylvania in 1973. His specialty is artificial intelligence, especially 
+computational models of human problem solving. He received a 
+Burlington Foundation Award in May 1993. His special interests are 
+artificial intelligence, computational models of human problem 
+solving and knowledge engineering. He is coauthor of a popular 
+Artificial Intelligence textbook and recently completed a textbook on 
+Cognitive Science.
+
+ Cognitive Science ftp site
+ Artificial Intelligence ftp site
+
+ Principal Publications and Presentations of the Last 5 Years: 
+ 
+ Luger, G.F., Johnson, P., Stern, C., et al. Cognitive Science:
+ A Science of Intelligent Systems. Boston, MA: Academic Press (1994).
+
+Luger, G.F. Artificial Intelligence and the Design of Expert
+Systems. A four-day short course for Learning Group International,
+Los Angeles, CA.  First published 1983; revised annually to 1994.      
+
+Luger, G.F. Forward for Expert Systems: Design and Development,
+John Durkin, ed. New York, NY: Macmillan (1994).
+
+ Luger, G.F., Ballance, R.A., Giancola, A.J., and Ross, T.J. "A
+framework-based environment for object-oriented codes." Scientific
+Programming. New York, NY: John Wiley (1994).
+
+ Luger, G.F. and Skinner, J.M. "Contributions of a case based
+reasoner to an integrated reasoning system." Journal of Intelligent
+Systems. London, U.K.: Freund (1994).
+
+ Luger, G.F., Ballance, R.A., Giancola, A.J., and Ross, T.J. "A
+framework-based environment for object-oriented scientific codes."
+Proceedings of Object-Oriented Numerics Conference-SKI 93. A SIAM
+Conference, April 1993.
+
+ Luger, G.F., Parkinson, W.J., Shalek, P.D., Duerre, K.H., and
+Jamshidi, M. "Two intelligent control systems for silicon carbide
+whisker production." Journal of Intelligent and Fuzzy Systems,
+Vol. I (1993), pp. 199-214. New York, NY: John Wiley & Sons, Inc.
+
+ Luger, G.F., Parkinson, W.J., Osowaski, J.J., and Bretz,
+B. "Expert system for selecting enhanced oil recovery methods."
+Computers and Electrical Engineering, Special Edition on Artificial
+Intelligence and Expert Systems, Winter 1993.
+
+ Luger, G.F. and Skinner, J.M. "An integrated reasoner for
+diagnosis in satellite control." Proceedings of Conference on
+Applications of Artificial Intelligence XI: Knowledge Based Systems in
+Aerospace and Industry, 1993.
+
+ Luger, G.F. and Stern, C. "A model for abductive problem solving
+based on explanation templates and lazy evaluation." International
+Journal of Expert Systems, Vol. 4, 1993.
+
+ Luger, G.F. and Stern, C. Abduction, Abstraction, and
+Interpretation: Towards a Situated Theory of Diagnosis. (Accepted
+for presentation at Workshop on Human and Machine Cognition, Florida,
+1993, and submitted for journal publication.)
+
+ Luger, G.F. and Stern, C. "Towards a sign-based theory of abduction."
+International Journal of Artificial Intelligence, 1993.
+
+Luger, G.F. and Stubblefield, W.A. Artificial Intelligence:
+Structures and Strategies for Complex Problem Solving.  Palo Alto,
+CA: Benjamin Cummings, 2nd Ed. (1993).
+
+Luger, G.F., Ross, T., and Wagner, L. "Object-oriented Programming
+for scientific codes I: Thoughts and concepts." J. Computing in
+Civil Engineering, Vol. 6, No. 4 (1992), pp. 480-496.
+
+Luger, G.F., Ross, R., and Wagner, L. "Object-oriented programming
+for scientific codes II: Examples in C++." J. Computing in Civil
+Engineering, Vol. 6, No. 4 (1992), pp. 497-514.
+
+Luger, G.F., Ross, T.J., Morrow, J.P., and Wagner, L.R. "Two
+paradigms for object-oriented programming models for scientific
+applications." Proceedings of the 8th Conference of Computing in
+Civil Engineering. New York, NY: American Society of Civil
+Engineers Publications (1992), pp. 535-542.
+
+ Luger, G.F. and Schluter, L. Expert Systems to Aid in Wind
+Farm Operations. Engineering for a Sustained Environment
+Conference, sponsored by The American Society of Mechanical Engineers,
+January 1992.
+
+ Luger, G.F. and Skinner, J.M. "An architecture for integrating
+reasoning paradigms." In Principles of Knowledge Representation and
+Reasoning, B. Nobel, C. Rich, W. Swartout, eds. San Mateo, CA:
+Morgan-Kaufmann (1992).
+
+ Luger, G.F. and Stubblefield, W.A. "Rule based expert systems."
+In Computer Engineering Handbook, C.H. Chen, ed. New York, NY:
+McGraw-Hill (1992).
+
+ Luger, G.F. and Stern, C. "Expert systems and the abductive
+circle." In Cognition and Semiotics, R. Jorna, ed. Berlin: de
+Gruyter Verlag (1992).  This was an invited paper in Conference on
+Semiotics and Systems, Groningen, the Netherlands, December 1991.
+
+ Luger, G.F., Parkinson, W.J. et al. "Screening enhanced oil
+recovery methods with fuzzy logic." In Third International
+Reservoir Characterization Technical Conference, sponsored by
+National Institute for Petroleum and Energy Research, November 1991.
+
+ Luger, G.F. and Parkinson, W.J. "Three CLIPS based expert systems
+for solving engineering problems." In  Proceedings of First CLIPS
+Conference, sponsored by NASA, Johnson Space Center, Houston,
+1991.
+
+ Luger, G.F. and Skinner, J.M. "A synergistic approach to
+reasoning for autonomous satellites." In Proceedings for NATO
+Conference of the Advisory Group for Aerospace Research and
+Development, Portugal, 1991.
+
+Luger, G.F. and Stubblefield, W.A. "Artificial intelligence." In
+MacMillan Encyclopedia of Computer Science. New York, NY:
+MacMillan (1991).
+
+
+
+
+ 
+luger@cs.unm.edu, 505-277-3204 
+

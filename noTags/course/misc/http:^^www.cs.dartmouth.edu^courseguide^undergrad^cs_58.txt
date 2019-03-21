@@ -1,0 +1,31 @@
+Date: Wed, 20 Nov 1996 22:12:16 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 03 Sep 1996 13:09:12 GMT
+Content-length: 901
+
+
+Operating Systems
+
+Operating Systems
+(Computer Science 58)
+Times: 96F: 12  97F: Arrange 
+Instructors: Kotz 
+Prerequisite: Computer Science 23 and 37. Computer Science 25 is recommended. 
+Dist: TAS 
+
+
+This course studies how computer operating systems allocate resources and create virtual machines for the
+execution of user jobs. Topics covered include storage management, scheduling, concurrent processing,
+shared access to files, synchronization, and data protection. Both abstract models and actual examples of
+operating systems will be studied. 
+
+
+
+
+
+
+Back to Dartmouth CS Home Page
+
+
+

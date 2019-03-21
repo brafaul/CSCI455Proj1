@@ -1,0 +1,33 @@
+Date: Mon, 25 Nov 1996 23:09:41 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 28 Oct 1996 17:02:54 GMT
+Content-length: 677
+
+
+
+ Ed Ferguson 
+ Ed Ferguson's Home Page 
+
+
+ Your host at work 
+
+
+
+
+
+I am teaching 
+ COS 460  
+- Interactive Computer Graphics 
+
+We are using C++ and OpenGL on Silicon Graphics Indy's and an Indigo 2.
+
+Here are a couple of graphics that we are working with right now:
+
+ Snoopy
+
+ Pooh
+
+
+
+ UMCS Homepage 

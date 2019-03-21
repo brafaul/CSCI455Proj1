@@ -1,0 +1,98 @@
+Date: Mon, 02 Dec 1996 16:01:01 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+ 
+CSE 473 TOPICS FOR FINAL EXAM
+
+CSE 473 Topic List for the Final Exam
+
+
+
+Common Lisp: Evaluation of S-expressions involving
+
+   CONS, LIST, APPEND, LET, FIRST, REST, +, *, NULL, =,
+   SETF, APPLY, QUOTE, DEFUN, IF, PROGN, LAMBDA
+
+Production systems and pattern matching
+
+   Unordered and ordered production systems
+   Discrimination nets
+
+Knowledge representation
+
+   ISA Hierarchies and Partial Orders
+   Propositional Calculus
+   Truth tables, rules of inference
+   Predicate Calculus
+    Well-formed formulas
+    Semantics: Interpretations and models
+    Quantification and representation of unique existence
+
+State-space search
+
+   Computing the size of the state space for the painted squares puzzle
+   Iterative formulation of depth-first search
+   Breadth-first search, best-first search, uniform-cost search
+   A* search algorithm, with f'(n) = g'(n) + h'(n)
+   Genetic search
+
+Logical reasoning
+
+   Proofs in the propositional calculus by 
+    perfect induction
+   Resolution in the propositional calculus
+   Satisfiability, Tautology and Contradiction in
+    the propositional calculus
+   Predicate calculus literals and clauses
+   Reduction to clause form
+   Unification, most general unifiers
+   Predicate calculus resolution
+   Satisfiability, tautology and contradiction in
+    the predicate calculus
+
+Probabilistic reasoning
+
+   Bayes rule
+   Odds
+
+Commonsense reasoning
+
+   Case-based reasoning approach to problem solving
+   Distance functions and distance metrics
+
+Planning
+
+   Difference between world space and plan space
+   Iterative-deepening depth-first search
+
+Learning
+
+   Learning as improvement as measured by a function of merit, etc.
+   Concept synthesis in theory formation, example of prime numbers in AM
+
+Natural-language understanding
+
+   Levels of NLU from acoustic to pragmatic
+   Semantic grammar
+
+Vision
+
+   Edge detection with the Roberts cross operator
+   Representing contours with chain codes
+   Hough transform (how it works and its main formula)
+   Medial axis transform ("skeleton")
+   Ramer's algorithm for polygonal approximation
+   Guzman's method for labelling a line drawing of blocks
+
+Neural networks
+
+   Perceptrons
+   Fundamental training theorem for perceptrons
+
+
+
+
+tanimoto@cs.washington.edu
+
+

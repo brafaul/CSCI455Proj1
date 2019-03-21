@@ -1,0 +1,193 @@
+Date: Tue, 26 Nov 1996 18:51:35 GMT
+Server: NCSA/1.5
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wed, 17 Apr 1996 19:17:39 GMT
+Content-length: 12655
+
+
+
+ CSE233: Functional Programming 
+
+
+
+
+
+
+[  Administrative Information
+ | Lecture Notes | Programming
+Hints and Study Helps  ]
+[  Homework | Related Links
+ ]
+
+
+
+Official Course
+Description from Undergraduate
+Brochure 
+
+
+Instructor & Teaching Assistants
+
+
+Andrew
+Lumsdaine 
+(Finger)
+Yan
+Lin 
+(Finger)
+James
+Regovich 
+(Finger)
+Greg
+Sharek 
+(Finger)
+Administrative Information
+
+Syllabus
+Policies
+and Procedures
+Instructional
+Objectives
+FAQ
+List
+The
+Six Scheme Mantras
+Homework
+Groups
+
+
+Lectures 
+
+Introduction
+Functional Programming 
+  
+Introduction
+Recursion
+and Iteration
+Towers of Hanoi
+
+Higher
+Order Procedures
+product
+
+
+Programming with Abstract Data
+  
+Abstract
+Data: Cons, Car, Cdr, and All That 
+  Symbols
+Pattern
+Matching
+match.scm
+
+Extended Example: Solving
+a Maze
+maze.scm
+
+Extended Example: Series-Parallel
+Networks
+Extended Example: Mergers
+Humorous Example: Message
+Passing Run Amok
+
+Modularity, Objects, and State
+  
+Local
+State
+flip
+
+The
+Environment Model of Evaluation
+Object
+Oriented Programming
+Mutable
+List Structures
+Streams
+
+Metalinguistic Abstraction
+  
+The
+Metacircular Evaluator
+
+
+
+Programming Hints and Study Helps
+
+Code
+(all of it) from the text 
+Scheme
+User's Guide
+Scheme
+Reference Guide
+GNU
+Emacs Interface to Scheme 
+Emacs
+Quick Reference
+Exams From Prior Years 
+  
+Exam
+#1 Spring 1994 
+  Exam
+#1 Solutions Spring 1994 
+  Exam
+#2 Spring 1994 
+  Exam
+#2 Solutions Spring 1994 
+  Final
+Exam Spring 1994 
+  Final
+Exam Solutions Spring 1994 
+  
+
+Problem Sets
+
+Problem
+Set #1
+Problem
+Set #1 Solutions
+Problem
+Set #2
+Problem
+Set #2 Solutions
+Problem
+Set #3
+Problem
+Set #3 Solutions
+Problem
+Set #4
+Problem
+Set #4 Solutions
+Problem
+Set #5
+Problem
+Set #6
+Problem Set #7 Part One
+Problem Set #7 Part Two
+Problem
+Set #8
+
+Links
+
+
+nd.courses.cse233
+comp.lang.scheme
+Scheme
+Home Page
+Internet
+Scheme Repository Home Page
+Lambda
+Humour 
+
+Hal Abelson's Home Page
+
+Gerry Sussman's Home Page
+Hot
+Hot Hot Welcome
+Godiva
+Online Home Page
+
+
+Lumsdaine.1@nd.edu
+
+

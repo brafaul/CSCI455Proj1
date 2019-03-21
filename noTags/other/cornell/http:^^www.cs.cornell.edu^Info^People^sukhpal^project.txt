@@ -1,0 +1,34 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:22:19 GMT
+Content-Type: text/html
+Content-Length: 737
+Last-Modified: Monday, 01-Jul-96 17:55:59 GMT
+
+ SUKHPAL SANGHERA 
+
+  
+
+  Hippi: an Infrastructure for Protocol Performance Tests in
+  the Horus Distributed System.
+ 
+  
+ 
+
+
+
+
+ Text in Postscript   
+
+
+ Figure 1   
+
+
+ Figure 2   
+
+
+ Figure 3   
+
+
+ Figure 4   
+

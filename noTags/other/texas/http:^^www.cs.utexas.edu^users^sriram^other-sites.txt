@@ -1,0 +1,23 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:39:01 GMT
+Content-Type: text/html
+Content-Length: 1280
+Last-Modified: Wednesday, 22-Nov-95 00:09:33 GMT
+
+
+ Interesting WWW Pages 
+ Work Related 
+
+   Berkeley NOW Project 
+   UCLA CS Division 
+   MIT Media Labs 
+   Brian Bershad at Univ. of Washington, Seattle 
+   Stanford CS Home Page 
+   Kevin Jeffay's Group at UNC 
+   Univ. of Arizona Home Page 
+   OS Research Projects 
+
+ RSI Related 
+  Useful Information about Computer Related Repetitive Strain Injury
+

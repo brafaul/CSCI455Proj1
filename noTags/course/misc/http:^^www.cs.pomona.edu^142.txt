@@ -1,0 +1,70 @@
+Date: Tue, 26 Nov 1996 18:38:21 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 30 Aug 1995 21:49:48 GMT
+Content-type: text/html
+Content-length: 2635
+
+
+
+
+CS 142 Syllabus
+
+
+
+
+
+
+
+Computer Science 142 - Theory of Computation
+Pomona College Fall Semester, 1995 Mr. BullMillikan 210 TTh 9:40
+
+
+Prerequisites:
+  The official prerequisite for the course
+is an introduction to Computer Science, usually Pomona CS 41 or HMC
+CS 60.  It is helpful also to have taken a mathematics course, like
+linear algebra, which emphasizes definitions and theorems.  Consult
+the instructor if you are uncertain about your preparation.
+
+Textbook:
+  Floyd and Beigel, The Language of
+Machines:  An Introduction to Computability and Formal Languages,
+Computer Science Press, 1994.
+
+Topics:
+  The purpose of the course is to understand the
+nature of computation by investigating several different models.
+Formal languages (including regular languages, context­ free languages,
+recursive languages, and languages which can be recognized in
+polynomial time) and other tools will be used to study the comparative
+power of these models.  There will not be enough time to cover the
+entire book, but we will include some sections from almost every
+chapter.  The central chapters are 4, 5, and 7.
+
+Assignments:
+  Written work, mostly problem sets, will be
+assigned weekly.  No late work will be accepted, except for illness or
+similar reasons.  Normally, 40% of the grade will be determined by
+the work on these assignments.  The effect on the grade will be
+greater for those who do not turn in the assigned work.
+
+Midterms:
+  The two midterms, which together will
+account for 35% of the grade, will be on September 28 and November 2.
+
+Final Exam:
+  The final exam is scheduled for 8 a.m. on
+Tuesday, December 12.  It will contribute toward 25% of the grade.
+
+Office Hours:
+  Mondays 1:15-2:30, Tuesdays 11-12,
+Fridays 11-12, and by appointment.  Millikan 212­ c.  Extension 18709.
+Electronic mail: rbull@pomona.edu
+
+
+ 
+
+Everett Bull
+August 30, 1995
+
+

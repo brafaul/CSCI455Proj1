@@ -1,0 +1,51 @@
+Date: Tue, 26 Nov 1996 20:59:11 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 14 Aug 1996 22:18:22 GMT
+Content-length: 1511
+
+
+
+ People: Drew Miners 
+
+
+Drew Miners
+To the top! Visit Computing Science or SFU Home Page
+
+
+ see what Drew has to say . . .
+
+   Group: SFU School of Computing Science Technical Support Staff
+   Title: Manager, Research and Education Systems 
+  Office: ASB 10866
+   Email: dminers@cs.sfu.ca
+   Phone: +1-604-291-3006
+     Fax: +1-604-291-3045
+
+
+Duties and Responsibilities:
+
+ Overall administrative and supervisory responsibility for the
+                  Computing Science technical staff
+    Signing authority on capital and operating accounts
+    Signing authority on key and card access requisitions
+    Technical support of:
+
+       CenterLine ObjectCenter, C++ and ANSI-C
+          Sun OpenWindows, DevGuide,
+          Insignia SoftWindows, PC emulation
+          standard.login
+
+ Technical Consulting
+          NeXT
+          Graphical User Interface Design
+    Technical Assessment of new products
+
+
+
+page maintained by: sumo@cs.sfu.ca
+last update:
+Wed Aug 14 15:18:17 PDT 1996
+
+
+

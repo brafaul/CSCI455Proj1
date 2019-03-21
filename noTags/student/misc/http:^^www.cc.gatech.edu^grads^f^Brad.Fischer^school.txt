@@ -1,0 +1,50 @@
+Date: Wed, 15 Jan 1997 01:39:45 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2203
+Last-modified: Mon, 11 Dec 1995 20:00:38 GMT
+
+
+Brad Fischer in school
+
+
+Note: Some people may be offended by material on this page, or
+on pages accessible from this one.
+
+Master's Degree Candidate, Computer Science
+Georgia Institute
+of Technology
+I earned a Master's Degree in Computer Science at
+the College of Computing.
+I finished in December, 1995.
+During the summer of 1995, I took Software Generation, Testing,
+ and Maintenance (CS8113A).  We had a team project to expand the
+CITATION program and include a
+Web interface.
+The previous summer (1994) I took Human-Computer
+Interface, CS6751.  I worked on a fun project designing an
+information kiosk for an art museum.
+My undergraduate degree is in biochemistry/molecular biology,
+and I earned it at Harvey
+Mudd College in 1981.  I got a
+Certificate in Computer Science at UCLA
+in 1991; that's equivalent to taking the undergraduate CS major classes.
+
+
+Obviously, if you're reading this, you are either actually interested in
+me, happen to think that anything on the World Wide Web is important,
+or are hopelessly bored.  In any case, you might want to seek out
+psychiatric help.  There are cheaper alternatives, though.  To satisfy
+your strange curiosities, you can check out
+what I do with much of the rest of my time,  or
+find out more about my life (if you don't have one of
+your own).  If you wound up viewing this page by mistake, you can
+get an overview of all of my stuff.
+
+
+This page is maintained by
+Brad Fischer
+ brad@cc.gatech.edu
+
+Last update: 1995 December 4.
+

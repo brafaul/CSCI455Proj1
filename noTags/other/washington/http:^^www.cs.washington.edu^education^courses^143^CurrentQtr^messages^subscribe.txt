@@ -1,0 +1,65 @@
+Date: Mon, 02 Dec 1996 14:26:00 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 143 Class Messages
+
+
+CSE 143 Class Messages
+
+This page contains information on how to subscribe to course
+mailing lists.  You should subscribe to at least 4 mailing lists -
+cse143, cse143-announce, the list for your computing platform, and the
+one for your section.
+
+
+Limitations of E-mail
+
+A caveat about mailing lists: Mailing lists have their strong points,
+but generally speaking, you'll get a lot more help via direct, human
+interaction.  Go to office hours, go to the lab and talk to a
+consultant, TA, or instructor.  In particular, it is nearly impossible
+to debug programs via email; so taking those kinds of questions
+directly to a human is the best approach.  Finally, you should
+never post homework related code to any mailing list.
+
+
+
+How do I subscribe?
+
+To subscribe to a mailing list, send e-mail to
+majordomo@cs.washington.edu;
+with the line subscribe listname in the message's
+body (not its header), where listname is the name of
+the list you want to join.
+
+For example, to subscribe to a standard set of groups, send mail to
+majordomo with the contents
+
+subscribe cse143
+subscribe cse143-announce
+subscribe cse143-mac
+subscribe cse143-section-ta-lastname
+
+
+Within a moment, you should receive a response confirming your
+addition to the list.
+
+
+Avoid Embarrassment!!! When subscribing to a list,
+make sure you send your "subscribe" message to majordomo@cs -- not to
+the mailing list!  Otherwise you'll send a message to all the students
+already on the list.
+
+
+
+If you want to leave a list, send an "unsubscribe" message to
+majordomo instead.
+
+
+cse143-webmaster@cs.washington.edu
+
+
+

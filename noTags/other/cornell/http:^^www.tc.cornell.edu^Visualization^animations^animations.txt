@@ -1,0 +1,130 @@
+Date: Sun, 24 Nov 1996 23:10:23 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 04 Sep 1996 16:37:45 GMT
+Content-length: 5219
+
+CTC - Visualization - Animations
+
+
+
+ 
+Cornell Theory Center
+
+
+Scientific Images and Animation
+
+See also the CTC 
+ Explorations page.
+
+
+ 
+ 
+A dynamic brittle-ductile transition
+in a simulation of 100 million atoms.   
+A simulation of the dynamical failure of 3D notched solids under
+ tension at the atomistic level using classical molecular dynamics and
+system sizes from 10 to more than 100 million atoms. 
+(Research by Farid Abraham, IBM Almaden Research Center, 
+Visualization by Bruce Land and David Schneider.)
+
+
+
+
+
+Diagnosis of Emphysema and Lung Cancer using 3D techniques.  
+ 
+Modern radiologic techniques, particularly computed tomography (CT) and 
+magnetic resonance (MR) imaging, acquire more data than are routinely displayed
+in diagnostic images. Supercomputers can be
+very helpful in processing and presenting this information.
+ Image analysis used on
+appropriate images in conjunction with representative 
+patient databases will permit the
+development of clinical analysis and decision support 
+systems and will form an integral part of the
+diagnostic process in the future.
+(Research by Claudia I. Henschke and David F. Yankelevitz, Cornell University 
+Medical College, Visualization by Catherine Devine.) 
+
+
+
+
+
+SORTIE Simulation: A Model of Forest Growth 
+ A simulation of 1000 years of forest growth under different 
+conditions.
+(Research by Douglas Deutschman and Linda Buttel at Cornell and Simon Levin  
+at Princeton University, Visualization by Catherine Devine.) 
+
+
+
+
+
+Molecular Visualization 
+
+A variety of research projects focusing on molecular visualization. Projects
+range from imaging of chromosomes in petunias, to the mechanism of 
+Acetylcholinesterase, to mechanisms of Chagas Disease. (Visualization by
+Richard Gillilan).
+
+
+
+
+
+A Physically-Based Model of Fabric Drape 
+
+Drape, the final shape a fabric assumes when laid over an object, is
+an important characteristic of fabric for both aesthetic and
+engineering applications.  (Research by Bijian Chen and Muthu
+Govindaraj, Department of Textiles and Apparel, Cornell University.
+Visualization by Catherine Devine) 
+
+
+
+
+
+Isospectral drums 
+
+Recently it was proved that there exist nonisomeric planar regions that have 
+identical Laplace spectra. That is, one cannot "hear the shape of a drum." For
+more information see technical report  
+ CTC95TR209 .
+(Research by Toby Driscoll, Center for Applied Math, Cornell.
+ Visualization by Bruce Land.) 
+
+
+
+
+
+Cornell/Honeywell Keyboard Systems Study  
+ Two-dimension angular
+deviation data of wrist motion, obtained with an exoskeleton measuring glove worn by human
+subjects using keyboards, had previously been obtained by Hedge. While human factors
+researchers had long used such measuring devices to obtain wrist motion data, this data had not
+previously been visualized. 
+
+
+
+
+
+Tsunami simulations  
+Tusnami are caused by underwater earthquakes which start waves propagating
+rapidly across the ocean. Simulations help to understand and predict these
+large, often dangerous, phenomena.
+(Research by Phil Liu, Department of Civil 
+and Environmental Engineering, Cornell
+University; Visualization by Catherine Devine.)
+ 
+
+
+
+ 
+Past Visualization Examples  
+
+
+General information about Visualization at the
+Theory Center is also available online.
+
+© Copyright Statement
+

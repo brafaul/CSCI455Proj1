@@ -1,0 +1,55 @@
+Date: Mon, 11 Nov 1996 17:02:09 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 29 Oct 1996 16:08:09 GMT
+Content-length: 2099
+
+
+
+Handouts cs302-1, cs302-22
+
+
+Handouts
+Handouts will not always be handed out in class.  Often, they'll simply be posted here, and you'll be
+responsible for reading them here, or printing your own copy.
+
+ The First Day
+ Getting Started (Links for the lab and software).
+   (Sept 18) This program demonstrates the simple square function.
+
+ (Sept 20) Short example of an if-else statement.
+   (Sept 20) Short example of an
+if-else controling more than a single statment.
+   (Sept 20) Another example of
+if-else.  This one shows an if-else statement inside of another if-else.
+   (Sept 20) This demonstrates the
+danger of typing '=' when you mean '=='.
+   (Sept 20) This demonstrates the
+danger of having an extra ';' in the wrong place.
+   (Sept 20) This shows a use of a while
+loop that sings the song "99 bottle of beer on the wall."
+   (Sept 20) These are some relevant code samples from the text:
+
+ if-else example (2.6) (simple)
+   if-else example (2.9) (complex)
+   while loop example (2.10)
+
+
+ (Oct 24) A simple example of a date class.
+   (Oct 24) This is another date
+	class.  This one demonstrates constructors. 
+
+ (Oct 29) Here are the files for the ship
+example.  This example shows nested objects, and initialization lists in constructors.
+
+
+
+Here are all of the sample code fragments from your text book.
+
+
+Last modified: Thu Oct 24 15:09:17 1996 by David Melski
+
+melski@cs.wisc.edu
+
+
+

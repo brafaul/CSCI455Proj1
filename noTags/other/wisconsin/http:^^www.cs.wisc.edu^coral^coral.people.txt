@@ -1,0 +1,43 @@
+Date: Tue, 05 Nov 1996 20:58:05 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 11 Sep 1995 17:33:58 GMT
+Content-length: 904
+
+
+Coral Database Project - Coral People
+
+
+People Working on the Coral Project
+
+Principal Investigators
+
+Raghu Ramakrishnan
+
+
+
+Research Staff and Graduate Students
+
+Shaun Flisakowski
+
+
+
+Previous Staff and Students
+
+
+Praveen Seshadri
+
+S. Sudarshan
+Divesh Srivastava
+Joseph Albert
+Tarun Arora
+Kevin Beyer
+Per Bothner
+William Roth
+Wei Xiao
+
+
+
+Return to the  Coral home page. 
+
+

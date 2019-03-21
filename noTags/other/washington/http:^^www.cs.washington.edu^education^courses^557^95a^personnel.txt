@@ -1,0 +1,32 @@
+Date: Mon, 02 Dec 1996 15:42:52 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 557 Course Personnel
+
+
+CSE 557: Introduction to Computer Graphics
+Autumn Quarter 1995
+
+Course Personnel
+Professor: Tony DeRose.
+
+
+ Office: Sieg 315
+ Office hours: Monday 1:30-2:30, Wednesday 2:30-3:30
+ Office phone: (206) 685-3795
+ Email address: derose@cs.washington.edu
+ For more information: Click here
+
+TA: Jim Fix 
+
+
+ Office: Chateau 109c (Guggenheim Annex)
+ Office hours: Wednesday 1:30-2:30, Friday 11:30-12:30 in Sieg 4th floor cubicles
+ Office phone: (206) 616-1848
+ Email address: 
+fix@cs.washington.edu 
+
+

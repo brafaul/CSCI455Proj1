@@ -1,0 +1,56 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 22:00:05 GMT
+Content-Type: text/html
+Content-Length: 882
+Last-Modified: Saturday, 02-Sep-95 18:07:07 GMT
+
+
+
+
+Doug Stuart's Author Page
+
+
+Doug Stuart's Author Page
+
+Hello.
+
+
+I am a graduate student at the
+ 
+University of Texas at Austin
+
+in
+ 
+Computer Sciences
+
+in the
+ 
+Real Time Systems Group
+
+(temporary
+
+site
+
+)
+.
+
+
+Last updated 8/25/95.
+
+ 
+Douglas Stuart
+
+
+ 
+Department of Computer Sciences
+
+
+ 
+The University of Texas at Austin
+
+
+dastuart@cs.utexas.edu
+
+
+

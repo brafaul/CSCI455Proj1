@@ -1,0 +1,46 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:23:04 GMT
+Content-Type: text/html
+Content-Length: 1273
+Last-Modified: Thursday, 17-Oct-96 18:59:39 GMT
+
+
+
+Adam Florence -- Work
+
+
+Adam Florence
+Work
+
+Cornell University
+
+I am one of three TA's for
+
+CS100B.  I hold
+
+office hours and teach two sections.
+
+The MITRE Corporation
+
+I have worked for
+The MITRE Corporation
+of McLean, Virginia for three summers. Most recently, I investigated ADS-B
+requirements under Free Flight. The project was funded by the
+Federal Aviation Administration.
+
+Virginia Tech
+
+I performed research with
+Dr. Bill Curtin
+of Virginia Tech. We investigated the affect of bridging arrangements on the
+R-curve and time-to-fracture of brittle ceramics. Our paper has been submitted
+for publication to the Journal of the American Ceramics Society.
+
+Back to my home page.
+
+Last updated 22 Sept 1996.
+E-mail me
+with comments or corrections.
+
+

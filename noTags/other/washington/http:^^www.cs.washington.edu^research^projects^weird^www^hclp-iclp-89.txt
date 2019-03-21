@@ -1,0 +1,57 @@
+Date: Tue, 10 Dec 1996 03:26:29 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+Constraint Hierarchies and Logic Programming
+
+
+Constraint Hierarchies and Logic Programming
+
+
+Authors: Alan Borning, Michael Maher, Amy Martindale, and Molly Wilson
+
+
+
+Published in Proceedings of the Sixth International Logic Programming
+Conference, Lisbon, Portugal, June 1989, pages 149-164.
+
+
+
+Abstract
+
+Constraint Logic Programming (CLP) is a general scheme for extending logic
+programming to include constraints.  It is parameterized by D, the domain
+of the constraints.  However, CLP(D) languages, as well as most other
+constraint systems, only allow the programmer to specify constraints that
+must hold.  In many applications, such as interactive graphics, page
+layout, and decision support, one needs to express preferences as
+well as strict requirements.  If we wish to make full use of the constraint
+paradigm, we need ways to represent these defaults and preferences
+declaratively, as constraints, rather than encoding them in the procedural
+parts of the language.  We describe a scheme for extending CLP(D) to
+include both required and preferential constraints, with an arbitrary
+number of strengths of preference.  We present some of the theory of such
+languages, and an algorithm for executing them.  To test our ideas, we have
+implemented an interpreter for an instance of this language scheme with D
+equal to the reals.  We describe our interpreter, and outline some examples
+of using this language.
+
+
+
+
+
+Click 
+here to get the postscript file.
+
+
+
+There is an earlier 
+tech report version of this paper, which is basically made obsolete by
+the conference paper.  The tech report does have an appendix with
+pseudo-code for an HCLP interpreter, though.
+
+
+
+Return to Constraints home page

@@ -1,0 +1,75 @@
+Server: Netscape-Communications/1.1
+Date: Tuesday, 26-Nov-96 18:43:21 GMT
+Last-modified: Monday, 18-Nov-96 13:54:53 GMT
+Content-length: 3459
+Content-type: text/html
+
+
+Beth Katz's CS161 Fall 1996
+
+
+Computer Science 161 - Fall 1996
+last updated November 18, 1996
+This page describes Beth Katz's section of CS 161 (161.05).
+However, if you are in the other sections, info here may be useful.
+For instance, all sections are using the same text
+(Owen Astrachan's A Computer Science Tapestry:
+Exploring Programming and Computer Science with C++.)
+Dr. Hutchens and I are using the same labs but not homework.
+
+Labs and Handouts
+If you try to print these pages, they probably
+won't print as compactly as the paper copies students receive in class.
+Other faculty members are welcome to use and modify the labs.
+These are in reverse chronological order (most recent first) for ease of access.
+
+ Debugger lab (do it 11/25)
+ Dice Game lab (week of 11/18) 
+ Tree Growth lab
+ Guess the Number lab
+ Diamond and Comments lab
+ Weather lab
+ Baby Weight homework
+ Expr lab
+ Coins lab
+ Wheels on the Bus homework
+ Train lab
+ Second part of lab 1
+ First part of lab 1
+ Syllabus
+
+Example Programs From Class
+These are
+example programs
+from class as well as finished lab assignments.
+I'll try to remember to update it whenever I add examples to the directory.
+They are sorted both alphabetically and in the order developed in class
+with the most recent programs first.
+They are also available in /grader/katz/examples.
+
+Example Programs From the Text
+We will be using Owen Astrachan's 
+A Computer Science Tapestry:
+Exploring Programming and Computer Science with C++.
+The textbook has many example programs.
+It is a good idea to read, compile, execute, and modify these programs
+on your own. To help you do this, the programs are available
+here.
+They are also available in /grader/katz/tapestryProgs.
+
+Some other Useful Things
+These are some additional resources you may find useful.
+
+ Style Guidelines
+ Helpful extra things
+ Internet tutorials
+
+
+
+Life is what happens while you're making other plans. - John Lennon
+
+Connections: CS161-Fall 1996 | Beth Katz | CS161 Class Examples | CS161 Textbook Examples | Millersville CS | Sun Lab Schedule 
+
+ Beth Katz, katz@cs.millersv.edu
+
+

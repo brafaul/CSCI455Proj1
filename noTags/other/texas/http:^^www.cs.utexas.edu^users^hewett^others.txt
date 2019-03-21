@@ -1,0 +1,193 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:25:16 GMT
+Content-Type: text/html
+Content-Length: 10327
+Last-Modified: Tuesday, 26-Nov-96 19:13:10 GMT
+
+
+
+Mike's favorite WEB pages
+
+
+Interesting Network Sites
+
+Web Indexes and Info
+
+ MetaCrawler: Searching the WEB in parallel
+ Alta Vista Advanced Search
+ LYCOS: Searching the WEB
+ Yahoo
+ FAQ list
+ WHOIS
+ Internet Bargain Finder (Anderson Consulting)
+ HTML Quick Reference
+ Beginner's Guide to HTML
+ Network Starting Points
+ InterNIC - Internet headquarters
+
+
+The following pages may seem to be mainly of prurient interest, but 
+actually they contain quite a few good links related to current events.
+I recommend a visit to the page of your choice.
+
+ The Daily Bikini
+ The Daily Hunk
+
+
+References
+
+ UNIX man pages
+
+ The World-Wide Web Virtual Library: Computing
+ Index of CS Bibliographies
+ Common LISP Reference Manual
+ Another Common LISP Reference Manual
+
+ UT Library
+ Webster's Dictionary
+ Encyclopedia Britannica
+ Project Gutenberg (gopher)
+ National telephone directory (Switchboard)
+ AT&T 1-800 directory service
+ ZIP+4 finder
+
+ Car Repair Advice
+
+ Internet File Format Guide
+
+Science, Research and Government
+
+ Nobel Foundation (Sweden)
+ Rankings of CS schools (NAS)
+
+ Stanford University
+ CAMIS (Stanford)
+ Knowledge Systems Laboratory (Stanford)
+ Generic Frame Protocol (SRI)
+ Design Patterns (Illinois)
+ AI Repository (CMU)
+
+ Apple Computer
+ EDS Research
+ Jet Propulsion Laboratory
+ AT&T Bell Labs Software Research
+ Bell Labs R++ project
+ Kestrel Institute
+ MCC
+ Space Telescope Science Institute
+ NCSA Digital Gallery CD-ROM Science Theatre
+
+ AAAI
+ ACM
+ IEEE
+ Smithsonian Institution
+
+ NIH
+ FedWorld (NTIS, IRS, etc.)
+ CIA
+ FBI
+ National Academy of Sciences
+ NSA
+ United States Postal Service
+
+Lugares del Artistes
+
+ Web Museum, Paris
+ Vatican Exhibit
+ Electric Gallery
+ Walt Disney Studios
+
+Publishing Companies
+
+ Complete list of publishers
+ Addison-Wesley
+ Benjamin/Cummings Inc.
+ Macmillan Computer Publishing
+ AAAI Press
+ MIT Press
+ Prentice Hall
+ Xerxes Fine and Rare Books & Manuscripts (math/science)
+
+ Electronic Magazines
+ List of online books
+
+Macintosh Software and Info
+
+ Macintosh Index
+ MIT Info-Mac Archive
+ Info-Mac search engine
+ NCSA Mosaic for the Macintosh
+ Macintosh Common LISP
+
+ PostScript viewer for the Mac
+ PowerBook Info page
+ PowerBook Software
+ PowerBook Control Strip Modules
+
+Fun
+
+ Computer Risks
+ Fun Stuff (network starting points)
+ Annals of Improbable Research
+ Dilbert comic strip
+ Editorial cartoons
+ Worst of the Net
+ Useless WWW pages
+ HOMR music index (MIT)
+
+News and Sports
+
+ Ziff-Davis Publishing (MacWeek, PCWeek, etc.)
+
+ Time-Life Magazines
+ American Reporter (online newspaper)
+
+ Sports Illustrated Magazine
+ 1996 Summer Olympics (Atlanta)
+ Baseball Hall of Fame
+
+ Badminton
+
+Travel
+
+ American Airlines
+ Continental Airlines
+
+ GNN Travel Center
+ Cozumel, Mexico
+ ASIA ONLINE
+ Thailand
+
+ U.S. States and Cities
+ Maps of states
+
+ Detailed map of U.S. and travel planner.
+
+Local stuff
+
+ Austin long-range weather
+ Austin weather bulletins
+ University of Texas
+ University of Texas Department of Computer Sciences
+
+ UT Libraries
+ UT MicroCenter
+ State of Texas
+ Texas State Parks
+ Austin, Texas
+ Bryan/College Station, Texas
+ Dallas, Texas
+ Houston, Texas
+ San Antonio, Texas
+
+ UT surplus auctions (see also ftp.fc.net:pub/auctions)
+ Test
+
+
+Author: Micheal S. Hewett
+Email: hewett@cs.utexas.edu
+Last Updated: Wednesday, January 17, 1996
+
+
+

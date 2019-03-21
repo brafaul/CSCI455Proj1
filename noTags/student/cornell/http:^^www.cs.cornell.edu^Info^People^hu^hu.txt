@@ -1,0 +1,33 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:49:25 GMT
+Content-Type: text/html
+Content-Length: 789
+Last-Modified: Friday, 09-Sep-94 18:25:50 GMT
+
+ Deyu's Home Page>
+ Deyu Hu 
+ Graduate Student 
+ hu@cs.cornell.edu 
+Cornell University
+Dept. of Computer Science
+4104 Upson Hall
+Ithaca NY 14853
+Tel: (607) 255-8597
+Fax: (607) 255-4428
+
+
+I'm a third-year Ph.D. student in 
+Computer Science at Cornell.
+I was born in 
+Shanghai, 
+China. I received my undergraduate degree from CS at UC Berkeley.
+
+My faculty advisor is 
+
+Thorsten von Eicken.
+
+More to come ...
+
+Last Modified Wed Sep 9 14:00:00 EDT 1994
+ Deyu Hu / hu@cs.cornell.edu

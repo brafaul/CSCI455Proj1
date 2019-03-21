@@ -1,0 +1,24 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 14-Jan-97 20:34:09 GMT
+Content-Type: text/html
+Content-Length: 890
+Last-Modified: Thursday, 24-Oct-96 22:39:23 GMT
+
+
+
+The info.net package
+The source is at ufs/info/classes/ for the stuns and vlsi lab.  It is
+/net/info/classes/ for the ugcs cluster (sgis).  A suggested classpath
+would be:
+
+	/ufs/info/classes:.
+
+to get it all to work.   Note the change! We had
+/ufs/info/classes/jdk.zip in the CLASSPATH as well but that is
+incorrect for multiple architecture support in java.  You need not
+include the base java classes explicitly in your CLASSPATH, they
+are added automatically from the install location of your runtime.
+
+Documentation for the source is here.
+The docs for the info.net package itself is here.

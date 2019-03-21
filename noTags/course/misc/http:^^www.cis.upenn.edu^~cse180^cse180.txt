@@ -1,0 +1,90 @@
+Server: Netscape-Communications/1.1
+Date: Wednesday, 20-Nov-96 23:25:12 GMT
+Last-modified: Monday, 03-Jun-96 12:31:16 GMT
+Content-length: 3080
+Content-type: text/html
+
+CSE 180 Home Page
+CSE 180 - X Window Programming Laboratory - Summer I 1996
+
+Please DO NOT print copies of this material on the CETS printers!
+
+
+
+
+
+
+
+General Information 
+
+ Syllabus
+ How to submit your homework electronically
+ Read newsgroup upenn.cis.cse180
+ Send questions/comments to nick@central.cis.upenn.edu
+
+
+Homework
+
+ Homework 0
+ Homework 1
+ Homework 2
+
+
+Solutions
+
+
+
+ Handouts
+
+ Notes on UNIX
+ Notes on Xlib Graphics Primitives
+
+
+ Slides
+
+ Introduction to X Window System
+ Introduction to Motif
+ Labels and Buttons
+ Manager Widgets
+ DrawingArea Widgets
+ MainWindows and Menus
+ Dialogs
+ Tcl/Tk Overview
+ Tcl
+ Tcl-based C Applications
+ Tk
+ Guidelines 
+
+
+ On-line Resources
+Manual Pages
+
+  X Window User Commands
+ Xlib and X Toolkit Functions
+  TCL/TK
+
+Notes and Tutorials
+
+  A complete description of Motif resources
+ 
+       A brief introduction to TCL/TK 
+
+
+Answers To Frequently Asked Questions
+
+  about X
+  about Motif
+
+Companies
+
+ The X Consortium is the
+       official owner of the X Window System
+
+        The Open
+       Software Foundation is the provider of Motif
+       
+
+         Freedom Software Corp provides some Motif software
+       
+
+

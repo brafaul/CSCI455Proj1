@@ -1,0 +1,26 @@
+Date: Thu, 21 Nov 1996 20:54:58 GMT
+Server: Apache/1.1b3
+Content-type: text/html
+
+
+Krzysztof Frankowski
+Krzysztof Frankowski
+
+Associate Professor
+Compilers and assemblers, algebraic manipulations,
+ mathematics of computations.
+
+kfrankow@cs.umn.edu
+(612) 625-3464
+
+Education
+Ph.D. 1964, Mathematics, Hebrew University of Jerusalem
+M.S. 1956, Applied Mathematics, Warsaw University
+B.Sc. 1953, Mathematics, Lodz University, Poland
+
+
+
+Comments and Questions | On-Line Help and Software List | Department Home Page |Department FTP Server | Research Projects | System Information
+
+
+Last Modified on: Thursday, August 17, 1995

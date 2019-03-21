@@ -1,0 +1,209 @@
+Date: Wed, 08 Jan 1997 20:43:18 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+
+CSE 322  
+Assignment 4 Solution Set  
+Monday, January 29, 1996
+
+
+
+
+
+
+
+    
+ Next:    About this document 
+  
+
+CSE 322  
+Assignment 4 Solution Set  
+Monday, January 29, 1996
+
+
+
+ Number 36 on page 69.  Better yet construct the derivation tree for
+.
+
+
+For the derivations, I'll use the following abbreviations:
+
+<E> means <expression>
+<SE> means <simple expression>
+<T> means <term>
+<F> means <factor>
+<AO> means <adding operator>
+<MO> means <multiplying operator>
+<V> means <variable>
+<EV> means <entire variable>
+<VI> means <variable identifier>
+<I> means <identifier>
+<IT> means <identifier tail>
+<L> means <letter>
+<UC> means <unsigned constant>
+<UN> means <unsigned number>
+<UI> means <unsigned integer>
+<D> means <digit>
+<DS> means <digits>
+
+Also, I'm using the following CFG productions in place of their BNF 
+equivalents:
+
+<unsigned integer>  <digit> | <digit> <digits> 
+<digits>  <digit> <digits> |  
+<identifier>  <letter> <identifier tail> 
+<identifier tail>  <letter or digit> <identifier tail> |  
+
+
+
+
+
+ The given grammar is unambiguous because there are two leftmost
+derivations for the string ababab:
+
+
+There are two derivation trees for ababab, as well:
+
+
+
+-0.75
+
+
+
+-0.75
+
+
+ The ambiguity in the grammar is due to the 
+production.  
+The grammar allows multiple derivation trees of any terminal string that
+can be derived from .
+The following grammar corrects this problem:
+
+Intuitively, what this does is force immediate parsing on the left
+side of the string, by forcing the parse to the A productions.  
+A formal argument
+for why this grammar is ambiguous might come
+from the following observation: if we consider any 
+string made up of balanced parenthesis, it can be described uniquely as
+a set of nested parenthesis surrounding some empty or non-empty string
+of balanced parenthesis, concatenated with some empty or
+non-empty string of balanced parenthesis.  This description corresponds 
+exactly to the grammar: the A productions generate the ``nested'' part 
+and the S productions generate the ``concatenated'' part.
+
+
+ Use the construction given in class for producing a regular grammar
+from a regular expression to construct a regular grammar which generates
+the language defined by the regular expression .
+
+Since we eventually need to generate a unique set of non-terminals for 
+each a and b in the regular expression, we annotate the expression
+with indices: .  These indices aren't
+intended to mean anything, but we'll use them for bookeeping as we develop the grammar.  For each set of productions, we denote any starting symbol
+S as .  If any nonterminal and its productions can be 
+eliminated because it is unreachable from the starting symbol, it is 
+marked with .
+
+
+
+
+
+
+
+
+
+
+
+One grammar for the language described by  is then
+
+where P is given by the productions below:
+
+
+
+ Suppose  where  in the given grammar.
+Properties i) and ii) can be shown to hold for any such x 
+by (strong) induction on the length of the leftmost derivation of x.
+
+Basis: (n=1) Suppose  and .  There
+is only one such terminal string x, namely x=ab.  
+ (property i) ,a, and ab are the only prefixes of 
+ab.  For all of these prefixes, the number of a's is at least 
+equal to the number of b's.  
+ (property ii) 
+
+(Strong) Inductive hypothesis: 
+Assume that properties i) and ii) are true for any 
+ where  for all .
+Inductive step: From this we need to show i) and ii) for any
+ where .  There are two 
+possibilities for the derivation of x:
+ 
+
+Since this is a leftmost derivation, we know that
+that there exist some y and z where 
+.
+This means that  and  where
+k+j=n.  Thus y and z have leftmost derivations from S of
+less than n+1 steps, so properties i) and ii) hold for y and z by 
+the induction hypothesis.
+
+(property i) Consider any prefix  of x=yz.  There are two 
+possibilities:
+  is a prefix of y.  Then 
+ 
+by property i) for y.
+  for some prefix of z, .  
+Then  by property i) for z and property ii) for y.
+
+In each case of , the number of a's in  is at least
+the number of b's in .
+
+(property ii) Since property ii) holds for y and z we have 
+.
+So the number of a's in x is equal to the number of b's in x.
+
+ 
+We know that there exists some w where
+.
+This means that .
+Thus w has a leftmost derivation from S of
+less than n+1 steps, so properties i) and ii) hold for w by the induction
+hypothesis.
+
+(property i) Consider any prefix  of x=awb.  There are three 
+possibilities:
+ .  
+In this case, .
+  for some prefix of w, .
+Then  
+by property i) for w.
+ .  Since property ii) holds for w, we have
+.
+
+In each case of , the number of a's in  is at least
+the number of b's in .
+
+(property ii) Since property ii) holds for w we have 
+.
+So the number of a's in x is equal to the number of b's in x.
+
+
+Therefore, for any  where , properties
+i) and ii) hold by the principle of strong induction.
+
+ 
+
+    About this document ... 
+
+    
+ Next:    About this document 
+  
+ 
+
+James Fix 
+Mon Jan 29 17:24:25 PST 1996
+
+

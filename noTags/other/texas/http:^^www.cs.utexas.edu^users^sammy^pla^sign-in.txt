@@ -1,0 +1,48 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:22:29 GMT
+Content-Type: text/html
+Content-Length: 1359
+Last-Modified: Wednesday, 24-Jul-96 16:02:12 GMT
+
+
+
+
+    PLAPACKERS's Sign-In
+  
+
+
+ PLAPACKERs Sign-In 
+
+Get on the PLAPACKERs mailing list -- Contribute comments or suggestions
+
+
+
+ Personal information: 
+  Name:          
+  E-mail:         
+  Title:         
+  Organization:   
+
+ Contact information: 
+  Address:        
+  Phone:         
+  FAX:           
+  Other:         
+
+ Systems information: 
+  Applications:  
+  Platforms:      
+
+ Comments: 
+ 
+
+ 
+
+
+
+Send mail to 
+ plapackers@cs.utexas.edu  
+Back to  PLAPACKERs page  
+
+

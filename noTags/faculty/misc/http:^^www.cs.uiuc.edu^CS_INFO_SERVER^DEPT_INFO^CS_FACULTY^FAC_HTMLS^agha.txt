@@ -1,0 +1,46 @@
+Date: Thu, 21 Nov 1996 20:24:25 GMT
+Server: NCSA/1.5.2
+Last-modified: Fri, 28 Jul 1995 21:20:09 GMT
+Content-type: text/html
+Content-length: 1563
+
+Agha, Gul
+
+Gul Agha
+
+
+Areas of research interest:
+
+
+Artificial Intelligence:  Knowledge Representation
+Computer Architecture & Systems:  Multicomputers
+Programming Languages:  Logic; Object-Oriented; Formal Semantics; Actors
+Distributed Systems & Networks:  Modeling & Analysis
+Operating Systems:  Distributed; Object-Oriented
+
+Parallel Computing:  Algorithms; Languages; Compilers; Computer Systems
+Software Engineering:  Specifications & Prototyping; Program Transformation
+
+Research group:
+
+
+OSL Research Group
+
+
+Administrative help:
+
+
+Bonnie Howard
+
+3121 Digital Computer Laboratory
+1304 West Springfield Avenue
+Urbana, IL 61801
+
+(217) 244-3087
+(217) 333-3501- fax
+agha@cs.uiuc.edu
+
+
+
+
+Go back to Faculty Index

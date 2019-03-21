@@ -1,0 +1,120 @@
+Date: Tue, 05 Nov 1996 00:28:09 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 24 Oct 1996 16:02:16 GMT
+Content-length: 3805
+
+
+ CS 701 Reading Assignments and  Research Papers 
+Reading Assignments
+
+
+Sept 3 (Lecture 1)
+
+
+Get class handouts 1 and 2 from DOIT.
+
+Read Section 15.6 of Chapter 15 (from handout 1)
+
+Read Davison & Fraser paper ("Retargetable Peephole Optimization")
+
+Read  Project 1  assignment.
+
+
+Sept 17 (Lecture 5)
+
+
+Get class handout 3 from DOIT.
+
+Read Davison & Fraser paper ("Code Selection through Object Code Optimization")
+
+
+Sept 19 (Lecture 6)
+
+
+Read Section 15.1 of Chapter 15 (from handout 1)
+
+
+Sept 24 (Lecture 7)
+
+
+Read Section 15.2 of Chapter 15 (from handout 1)
+ 
+      Efficient Instruction Scheduling for Delayed-Load Architectures 
+
+
+Sept 26 (Lecture 8)
+
+
+Read Section 15.4 of Chapter 15 (from handout 1)
+
+Read Chaitin's paper ("Register Allocation via Coloring")
+
+Read  Project 2  assignment.
+
+
+October 3 (Lecture 10)
+
+
+Read Hennessy & Chow's paper ("Priority-Based Coloring")
+ 
+               Iterated Register Coalescing 
+
+
+October 8 (Lecture 11)
+
+ 
+     Register Allocation via Hierarchical Graph Coloring
+
+
+October 10 (Lecture 12)
+
+
+Read Wall's paper ("Global Register Allocation at Link-time")
+ 
+               Minimum Cost Interprocedural Register Allocation 
+
+
+October 15 (Lecture 13)
+
+
+Read Gibbon's & Muchnick's paper
+("Efficient Instruction Scheduling for a Pipelined Architectire")
+
+
+October 17 (Lecture 14)
+
+
+Read Goodman & Hsu's paper
+("Code Scheduling and Register Allocation")
+
+Get Bernstein & Rodeh's paper
+("Global Instruction Scheduling") from DOIT.
+
+
+October 24 (Lecture 16)
+
+
+Read Section 15.5 of Chapter 15 (from handout 1)
+ 
+ BURG -- Fast Optimal Instruction Selection and Tree Parsing 
+ 
+ Engineering a Simple, Efficient Code Generator 
+
+Get Handout #5
+("Automatic Program Optimization") from DOIT.
+
+
+ Suuplementary Information and Research Papers 
+
+
+ 
+               Sparc Architectures 
+ 
+               Summary of Sparc Architectures 
+ 
+               Demand Driven register Allocation 
+
+
+
+

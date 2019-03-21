@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 17-Dec-96 00:17:26 GMT
+Content-Type: text/html
+Content-Length: 2547
+Last-Modified: Monday, 28-Oct-96 02:37:32 GMT
+
+PODC 95 home page
+
+Fourteenth ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing (PODC)
+PODC is a conference that focuses on research in the theory, design,
+	specification or implementation of distributed systems.
+PODC will be held in Ottawa (Ontario, Canada) from August 20-23 1995.
+Important dates
+Feb 10, 1995: Paper submission deadline
+Apr 14, 1995: Acceptance/rejection notifications
+May 20, 1995: Camera-ready versions of accepted papers due
+July 15, 1995: Late registration fee charged after this date
+Aug 20-23, 1995: Conference dates, see you in Ottawa!
+Major changes from previous PODCs
+This year PODC is inaugurating a best student paper award. A paper is
+eligible if at least one of its authors is a full-time student at the time of
+submission.  This year's recipient is titled
+
+Collecting Cyclic Distributed Garbage Using Heuristics to Control Migration
+by Umesh Maheshwari and Barbara Liskov from MIT.
+Further information
+ The call for papers
+ How to register
+and get to the conference.
+ The conference program (includes links to some papers
+available online).
+ Information from the local arrangements co-chairs
+ Temporary notices about PODC '95 (e.g., room
+	share information)
+ The PODC '96 and PODC '97 home pages
+ Other related conferences and calls for papers
+ About research in distributed algorithms and systems
+ Ordering proceedings from earlier PODCs
+
+Maintained by tushar@watson.ibm.com

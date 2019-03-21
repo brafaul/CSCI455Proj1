@@ -1,0 +1,24 @@
+Date: Mon, 02 Dec 1996 14:49:04 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+Posting of interesting stuff, Autumn 1996
+
+
+
+
+Lecture OverheadsAutumn 1996
+
+Internet background    -  Monday, September 30.
+Human data transfer by a touch  - October 31
+Network issues from a users perspective  - November 18
+
+
+
+jari@cs.washington.edu
+
+
+
+

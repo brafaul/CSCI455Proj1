@@ -1,0 +1,33 @@
+Date: Tue, 26 Nov 1996 18:53:49 GMT
+Server: NCSA/1.5.2
+Last-modified: Tue, 26 Nov 1996 16:41:25 GMT
+Content-type: text/html
+Content-length: 1039
+
+ CS 112: Data Structures 
+ CS 112: Data Structures 
+
+ Class Material 
+
+
+ Staff Office Hours
+ Syllabus
+ C Primer
+ Programming Assignment 1
+ Programming Assignment 2
+ Programming Assignment 3
+Binary Trees
+Old Exams
+Sample Questions for Exam 2
+
+
+
+ Language and Systems 
+
+
+ Getting Started with UNIX
+ Using MacX
+ Pointers, Arrays, Strings in C
+ Programming in C Under UNIX
+
+

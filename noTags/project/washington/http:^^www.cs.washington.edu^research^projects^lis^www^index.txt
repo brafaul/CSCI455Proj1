@@ -1,0 +1,163 @@
+Date: Thu, 21 Nov 1996 20:32:46 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+ Northwest Laboratory for Integrated Systems
+
+
+
+
+
+ 
+ Northwest Laboratory for Integrated Systems
+ 
+
+
+
+
+     Department of Computer Science & Engineering 
+University of Washington,
+     Box 352350 
+Seattle, WA 98195-2350 USA
+
+
+
+
+
+
+
+
+
+
+
+
+The Department of Computer Science and Engineering at the University of 
+Washington has been engaged in Very Large Scale Integration (VLSI) and 
+Computer-Aided Design (CAD) research, development, and education since 
+the late 1970s.  Today, the Northwest Laboratory for Integrated Systems 
+is the focus of a wide variety of VLSI architectures, embedded sytems,
+and CAD research.
+
+
+
+
+
+
+
+
+Current Research Projects
+
+
+Asynchronous Circuits and Verification
+
+
+
+
+Time Separation of Events:
+	Specification, synthesis, and verification of timed asynchronous
+	circuits.
+
+
+	Asynchronous Circuits:
+ Survey of current asynchronous design methodologies, as
+	well as the first FPGA for asynchronous circuits.
+
+
+
+
+
+FPGAs and Rapid-Prototyping
+
+
+
+
+
+Triptych/Montage FPGA Architectures:
+	Development of the Triptych and Montage FPGA 
+	architectures, architectures with improved densities over current 
+	commercial FPGAs.
+
+
+
+Multi-FPGA Systems & Rapid-Prototyping:
+	Development of the Springbok Rapid-Prototyping System for
+	Board-Level Designs, as well as partitioning, pin assignment,
+	and routing topology work for general multi-FPGA systems.
+
+
+
+Emerald - An Architecture-Adaptive Toolset for FPGAs:
+	A complete set of mapping, placement and routing tools
+can be generated automatically from a description of an FPGA
+architecture.  Architecture-specific metrics can be incorporated
+into the various tools to improve the results.
+
+
+
+
+
+Embedded Systems
+
+
+
+
+The Chinook Project:
+	A Hardware/Software Co-design, Co-synthesis, and Co-simulation
+	system for embedded applications.
+
+
+
+
+
+
+Performance Optimization of Synchronous Circuits
+
+
+
+
+Retiming Level-Clocked Circuits:
+	Efficient algorithms for retiming circuits that use
+level-sensitive latches to improve performance, reduce cost, and
+increase tolerance to clock skew.
+
+
+
+Architectural Retiming:
+	Methods for improving the performance of synchronous
+circuits that have latency or feedback contraints.
+
+
+
+
+Network Router
+The Chaotic
+Routing Project 
+
+
+
+
+
+Self-Tuned Systems
+
+
+Self-tuned systems are directed by Ted Kehl
+
+
+
+Previous Research Projects
+
+ 
+ Gemini
+ Validating layout by comparing the specification circuit to the
+	implemented circuit.
+ 
+
+MacTester
+ A low-cost digital functional tester for chips and circuits
+	with TTL or CMOS voltage levels.
+
+
+
+

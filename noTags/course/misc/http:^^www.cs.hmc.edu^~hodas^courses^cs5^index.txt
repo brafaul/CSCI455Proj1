@@ -1,0 +1,258 @@
+Date: Tue, 26 Nov 1996 18:40:43 GMT
+Server: NCSA/1.5.1
+Last-modified: Mon, 25 Nov 1996 00:21:43 GMT
+Content-type: text/html
+Content-length: 9168
+
+CS 5 Home Page
+
+
+
+
+Course Home
+Syllabus
+Homework Submission
+Homework Solutions
+Lab Solutions
+
+
+
+
+
+
+
+ Concepts
+      Keywords
+
+
+
+
+CS 5 Home Page
+ 
+
+
+For the Fall of 1996, CS 5, "Structured Programming and Problem Solving", is being
+taugh in an experimental format relying on web-based notes, recitation/Q&A sessions,
+and hands-on lab sessions. 
+
+The material has been divided up along the lines of calendar weeks.
+A "week" consists of:
+
+A set of lecture notes, to be studied
+in advance (presumably over the weekend) of the recitation/Q&A session on Monday
+A set of lab problems to reinforce the ideas in the that week's notes, 
+to be done in lab on Tuesday or Wednesday (depending on your assigned lab section)
+A homework assignment to reinforce and test
+the ideas in the lecture, to be worked on that week and due the following Tuesday.
+
+Note that the homework for a given week overlaps into the next week. 
+This allows you to use a second recitation to ask any lingering
+questions before the assignment is due.
+
+The following list gives you direct access to the lecture notes,
+lab problems, and homework problems for each week. The links will be made
+live as the corresponding documents are available. You are free to work as far
+ahead as availability allows. The date given for each week is the date
+of the Monday recitation/Q&A session in which the material in that week's 
+lecture notes will be reviewed.
+
+
+Week 01 (9/9/96): Introduction to CS 5, computers and Java programming
+
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 02 (9/16/96): Your first program, simple output, and simple arithmetic
+
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 03 (9/23/96): Variables, formatted output, user input, and the Math library
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 04 (9/30/96): Top-down design and conditional evaluation
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 05 (10/7/96): Looping with for
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 06 (10/14/96): Looping with while and do, and first midterm (Friday)
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 07 (10/21/96): Fall break (Monday) and exam post-mortem (Friday)
+ 
+ 
+Exam Solutions
+
+ 
+
+Week 08 (10/28/96): Top-down design with functions
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 09 (11/4/96): Introduction to one-dimensional arrays
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 10 (11/11/96): Review of Methods and of Arrays (Monday and Friday)
+ 
+ 
+
+ 
+
+Week 11 (11/18/96): Second midterm (Monday)  and exam post-mortem (Friday)
+ 
+ 
+Exam Solutions
+
+ 
+
+Week 12 (11/25/96):  Searching and sorting, and multi-dimensional arrays
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 13 (12/2/96): Classes, objects, and methods
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Week 14 (12/9/96): Classes, objects, and methods (Part II)
+ 
+ 
+Lecture Notes
+Lab Problems
+Homework Problems
+
+ 
+ 
+ 
+Lab Solutions
+Homework Solutions
+
+ 
+
+Final Exam: Thursday, December 19th at  2 PM in Galileo MacAlister
+
+
+
+
+This page copyright ©1996
+by Joshua S. Hodas. It was built with 
+Frontier on a Macintosh
+. Last rebuilt on Sun, Nov 24, 1996 at 4:21:07 PM.
+http://cs.hmc.edu/~hodas/courses/cs5/index.html
+
+

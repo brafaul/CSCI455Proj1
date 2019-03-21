@@ -1,0 +1,232 @@
+Date: Tue, 14 Jan 1997 19:51:33 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 13497
+Last-modified: Wed, 21 Aug 1996 16:25:49 GMT
+
+
+
+
+Research
+
+
+
+
+
+
+
+
+
+Research Groups | 
+	Publications | 
+	Faculty Research Interests | 
+	Related Departments
+
+
+
+
+
+
+
+Research Groups
+
+
+Columbia Automated Vision Environment
+Computer Graphics and User Interfaces Laboratory
+Database Research Group
+Digital Libraries
+Distributed Computing and Communications Laboratory
+Information-Based Complexity
+Knowledge Representation and Reasoning Group
+Mobile Computing Laboratory
+Natural Language Processing Group
+Parallel and Distributed Intelligent Systems Laboratory
+Programming Systems Laboratory
+Robotics Laboratory
+
+
+Publications
+
+
+Technical Report Archive
+Faculty Research Guide (HTML) (PostScript 235K)
+
+SEAS Bulletin Pages 
+	(PostScript 75K)
+
+
+
+Faculty Research Interests
+
+
+
+Below you will find a list of areas in which Columbia is active in research,
+together with pointers into the 
+ 
+Faculty Research Guide. If the information
+in the guide is not sufficient for your purposes, please contact the
+revelant 
+faculty member(s).
+
+
+Algorithms (combinatorial):
+ Alfred V. Aho; 
+ Zvi Galil; 
+Algorithms (numerical):
+ Joseph F. Traub; 
+ Henryk Wozniakowski; 
+Artificial Intelligence:
+ Mukesh Dalal; 
+ John R. Kender; 
+Asynchronous Circuits/Self Timed Systems:
+ Steven Nowick; 
+ Stephen H. Unger; 
+Collaboarative Work:
+ Gail E. Kaiser; 
+Combinatorial Modelling:
+ Jonathan L. Gross; 
+Complexity Theory:
+ Zvi Galil; 
+Computer Aided Design of Logic Circuit:
+ Steven Nowick; 
+Computer 3-D Modelling:
+ Peter K. Allen; 
+Computer Vision:
+ Peter K. Allen; 
+ John R. Kender; 
+ Shree K. Nayar; 
+Cryptography:
+ Zvi Galil; 
+Databases:
+ Alfred V. Aho; 
+ Mukesh Dalal; 
+ Kenneth A. Ross; 
+ Gail E. Kaiser; 
+ Salvatore J. Stolfo; 
+Declarative Languages:
+ Kenneth A. Ross; 
+Digital Libraries:
+ Alfred V. Aho; 
+ Steven K. Feiner; 
+ Kathleen McKeown; 
+Distributed and Parallel Computing:
+ Alfred V. Aho; 
+ Daniel J. Duchamp; 
+ Gail E. Kaiser; 
+ Salvatore J. Stolfo; 
+ Joseph F. Traub; 
+ Yechiam Yemini; 
+Financial Computation:
+ Joseph F. Traub; 
+Graph Theory:
+ Zvi Galil; 
+ Jonathan L. Gross; 
+Graphics:
+ Steven K. Feiner; 
+ Shree K. Nayar; 
+Hardware Verification:
+ Steven Nowick; 
+Information Based Complexity:
+ Joseph F. Traub; 
+ Henryk Wozniakowski; 
+Knowledge Representation and Inference:
+ Mukesh Dalal; 
+ Salvatore J. Stolfo; 
+Limits of Scientific Knowledge:
+ Joseph F. Traub; 
+Logic Design and Synthesis:
+ Steven Nowick; 
+ Stephen H. Unger; 
+Machine Learning:
+ Salvatore J. Stolfo; 
+Mobile Computing:
+ Daniel J. Duchamp; 
+ Gail E. Kaiser; 
+Multimedia Applications:
+ Alfred V. Aho; 
+ Daniel J. Duchamp; 
+ Steven K. Feiner; 
+ Leana Golubchik; 
+ Kathleen McKeown; 
+Natural Language Processing:
+ Kathleen McKeown; 
+Networks:
+ Yechiam Yemini; 
+Numerical Analysis:
+ Joseph F. Traub; 
+ Henryk Wozniakowski; 
+Operating Systems:
+ Daniel J. Duchamp; 
+Robotics: 
+ Peter K. Allen; 
+ John R. Kender; 
+ Shree K. Nayar; 
+Scientific Computation:
+ Joseph F. Traub; 
+ Henryk Wozniakowski; 
+Social Implications of Technology:
+ Stephen H. Unger; 
+Software Development Environments:
+ Gail E. Kaiser; 
+Software Engineering:
+ Alfred V. Aho; 
+ Gail E. Kaiser; 
+ Steven K. Feiner; 
+User Interfaces:
+ Steven K. Feiner; 
+Virtual Worlds:
+ Steven K. Feiner; 
+
+
+
+
+Related Departments and Research Centers
+
+The Department of Computer Science 
+is very active in many collaborative
+research projects with other departments and research centers throughout
+the university.
+The following is a list of links to such institutions.
+
+
+Center for Advanced Technology
+Center for New Media 
+Center for Research on Information Access
+Center for Telecommunications Research
+Continuous Algorithms and Complexity/
+	Foundations of Computational Mathematics
+Department of Electrical Engineering
+Department of Industrial Engineering and Operations Research
+Department of Medical Informatics
+Digital Design Lab
+Institute for Learning Technologies
+Other Departments in the School of Engineering and Applied Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General | 
+Academics | 
+Research | 
+People | 
+Admissions
+
+
+

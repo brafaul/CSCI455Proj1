@@ -1,0 +1,106 @@
+Date: Tue, 14 Jan 1997 19:31:23 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 5565
+Last-modified: Thu, 10 Oct 1996 18:19:16 GMT
+
+
+
+
+Applications
+
+
+
+
+
+ 
+
+
+
+Computational Chemistry
+
+Computational
+Chemistry Publications
+
+
+Direct
+Simulation Monte Carlo (DSMC) Methods 
+Direct Simulation Monte Carlo (DSMC) 
+Publications 
+In highly adaptive irregular problems such as many Particle-In-Cell
+(PIC) codes and Direct Simulation Monte Carlo (DSMC) codes, data access
+patterns may vary from time step to time step. 
+To efficiently parallelize such adaptive irregular problems on distributed
+memory parallel computers, effective methods for domain partitioning
+must be addressed. 
+A simple one-dimensional domain partitioning method is implemented and
+compared with unstructured mesh partitioners such as recursive coordinate
+bisection and recursive inertial bisection.
+
+DSMC
+Simulations 
+
+
+
+Sparse Matrix Applications 
+
+Sparse
+Matrix Application Publications
+
+
+
+
+Computational Combustion
+
+Computational
+Combustion Publications
+
+
+Detailed multi-dimensional numerical simulations provide an ideal vehicle
+to study fundamental properties of hydrocarbon flames. The physical processes
+in hydrocarbon flames are highly complex and interact in a strongly non-linear
+fashion. Numerical experimentation is an excellent way to isolate physical
+processes, study their interactions, or predict important properties such
+as flammability limits. The study of flammability limits is of great practical
+importance to fire safety. Near the flammability limit, several physical
+processes, especially chemistry, become very important and the interaction
+among them becomes crucial in determining the flammability limit. Only
+highly detailed models which include detailed chemistry and diffusive processes
+can obtain the correct flammability limits. 
+The extinction of hydrocarbon flames is a multidimensional, transient
+process. To date, sufficiently detailed calculations for hydrocarbon flames
+has only been carried out for steady-state flames. Some preliminary calculations
+of transient methane flames with moderately detailed flames have been carried
+out at the Naval Research Laboratory. These calculations clearly show the
+need for including detailed chemistry in hydrocarbon flame modeling. The
+reaction scheme used in these calculations used 15 species and 35 reactions.
+A complete reaction mechanism for methane would involve 50 species and
+200 reactions. For higher hydrocarbons, which are of more interest to the
+Navy, the number of species and reactions is far greater. These calculations
+are currently beyond the capabilities of current supercomputers. 
+Parallel computers are only means currently available to perform these
+calculations. Thus it is imperative that the current detailed flame code
+be ported to a parallel machine. The existing sequential code has been
+extensively tested and verified, so to ensure reliability, the code should
+be ported with only minimum modification. The PARTI software will enable
+us to port the code to a wide variety of parallel computes with limited
+disruption to the existing sequential code. 
+The flame code is not restricted to hydrocarbon fuels and can be generalized
+to other energetic fuels. A parallel reactive flow code will provide the
+Navy with a very powerful tool to study these fuels. 
+
+
+
+
+
+[Applications
+| High
+Performance I/O | Compilers
+| Tools]
+
+Questions about the system or webserver: webmaster@cs.umd.edu
+Problems with publications homepage: wes@cs.umd.edu
+
+
+
+

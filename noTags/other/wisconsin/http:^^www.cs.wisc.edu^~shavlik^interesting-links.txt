@@ -1,0 +1,235 @@
+Date: Tue, 05 Nov 1996 21:00:54 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 07 Mar 1996 15:29:26 GMT
+Content-length: 9515
+
+
+
+ WWW Pages Relevant to the UW ML Research Group
+
+
+
+
+
+
+ Table of Contents 
+  
+             External AI-Related Links
+ 
+             External Compbio-Related Links
+ 
+             Links to Advice
+ 
+             Links to Federal Agencies
+ 
+             Links to Libraries, Publishers, etc.
+ 
+             Links to References
+ 
+             Useful Mosaic/WWW Links
+ 
+             Writing HTML
+ 
+             Local Links
+
+
+
+
+ External AI-Related Links 
+
+
+  
+         Recent Table of Contents and Abstracts of Selected Journals
+ (mostly from Wendt Library; readable only if @cs.wisc.edu)
+    
+         Pointers to ML Courses
+ 
+         Machine Learning journal
+         (the on-line page)
+    
+         IEEE Neural Networks Council (several journals connected to this page)
+    
+         NIPS-95 papers
+ 
+         AI Resources (Canadian NRC Server)
+    
+         The UC-Irvine ML Dataset Archive
+ 
+         Some ILP Stuff
+ 
+         Reinforcement Learning at CMU
+ 
+         Intelligent Control FTP Archive (in Australia)
+    
+         International Society for Adaptive Behavior
+ 
+         Knowledge-Discovery in Databases
+ 
+	 Neural Networks FAQ
+ 
+         Neural Network Resources
+ 
+	 AI and Stats page
+ 
+	 Pattern recognition info
+    
+         Machine Learning Information Services
+ 
+         Machine Learning Benchmarking
+ 
+         AI Bibliography Server (Austrian AI Institute)
+    
+         Neural Networks Bibliography Server (Austrian AI Institute)
+    
+	 Aha's Links to People in ML
+ 
+         More External AI References
+
+
+ External Compbio-Related Links 
+
+
+ 
+         Info on Biosciences
+ 
+         Johns Hopkins Bio-Informatics Home Page
+ 
+         Wash. U. in St. Louis Inst. for Biocomputing
+
+
+ Links to Advice 
+
+
+ 
+ How to be a Good Graduate Student [Advisor] 
+         by Marie desJardin of SRI
+     David Chapman's tips on
+         
+         How to Do AI Research
+ 
+             Advice on Research and Writing (from CMU)
+    Ann Landers
+  
+ Links to Federal Agencies 
+
+
+ 
+         ARPA
+ 
+         NSF
+         (also see 
+         links to other federal agencies)
+    
+         NASA
+ 
+         NIH
+ 
+         NLM
+ 
+         NIST
+ 
+         Dept. of Commerce
+ 
+         NRC/NAS/NAE/IOM
+ 
+         Dept. of Education
+
+
+ Links to Libraries, Publishers, etc. 
+
+
+ 
+         Library of Congress Gopher
+    Telnet to 
+         NIH Library
+ 
+         MIT Press
+ 
+         Benjamin Cummings
+ 
+         Journal of AI Research (JAIR)
+    
+         ACM
+ 
+         IEEE Computing Society
+ 
+         Computing Research Association (CRA)
+    
+         Syllabus (educational s/w magazine)
+    
+The Scientist On-line
+    
+         Peterson's Guide
+
+
+ Links to References 
+
+
+ 
+         US English Dictionary
+ 
+         Webster's Dictionary
+ 
+         Dictionary of Computing
+ 
+         Roget's Thesaurus
+ 
+         Bartlett's Book of Quotations
+ 
+         CIA Factbooks and Maps | 
+        
+         Maps of the World
+ 
+         Acronym server
+
+
+ Useful WWW/Mosaic Links 
+
+
+ 
+         Yahoo
+ 
+         Internet Information by Subject
+ 
+         Cyberweb (index of various WWW-related resources)
+    
+         Guide to Network Resources
+ 
+         What's New on Mosaic?
+ 
+         NCSA httpd Server
+ 
+         What Can You Set in Your .Xdefaults File?
+
+
+ Writing HTML 
+
+
+ 
+         A Beginner's Guide to Creating HTML (WWW) Documents
+ 
+         A More Detailed Guide to Writing HTML
+ 
+         Elements of HTML
+ 
+         Official HTML Specifications
+  
+         URL (Uniform Resource Locator) Specification
+  
+         P. Flynn's How to Write HTML Files
+ 
+         Style Guide for Online Hypertext Document Structures
+ 
+         HTML Quick Reference
+
+
+
+Last modified: Thu Mar  7 09:29:26 1996 by Jude Shavlik
+
+
+shavlik@cs.wisc.edu
+
+
+
+

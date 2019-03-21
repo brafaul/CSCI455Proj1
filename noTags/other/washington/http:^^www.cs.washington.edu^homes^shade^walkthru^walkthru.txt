@@ -1,0 +1,64 @@
+Date: Thu, 16 Jan 1997 03:31:56 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 11 Jul 1996 20:41:46 GMT
+Content-length: 2024
+
+
+
+j ward shade pages -- Walkthru
+
+
+
+Hierarchical Image Caching for Accelerated 
+	Walkthroughs of Complex Environments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We present a new method that utilizes path coherence to accelerate
+walkthroughs of geometrically complex static scenes. As a
+preprocessing step, our method constructs a BSP-tree that
+hierarchically partitions the geometric primitives in the scene. In
+the course of a walkthrough, images of nodes at various levels of the
+hierarchy are cached for reuse in subsequent frames. A cached image is
+reused by texture-mapping it onto a single quadrilateral that is drawn
+instead of the geometry contained in the corresponding node. Visual
+artifacts are kept under control by using an error metric that
+quantifies the discrepancy between the appearance of the geometry
+contained in a node and the cached image. The new method is shown to
+achieve speedups of an order of magnitude for walkthroughs of a
+complex outdoor scene, with little or no loss in rendering quality.
+
+
+
+
+
+ Paper with High Resolution Figures
+ 494K Adobe Acrobat PDF 
+
+
+ Paper with High Resolution Figures
+ 2.4MB Compressed Postscript 
+
+
+ Paper with Low Resolution Figures
+ 285K Compressed Postscript 
+
+
+
+
+

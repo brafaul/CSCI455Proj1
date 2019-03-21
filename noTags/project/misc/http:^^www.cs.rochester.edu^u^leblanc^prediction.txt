@@ -1,0 +1,209 @@
+Date: Wednesday, 20-Nov-96 20:04:49 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Friday, 21-Jun-96 21:14:58 GMT
+Content-length: 8223
+
+
+
+Performance Prediction
+
+
+
+Measurement and Prediction of 
+Parallel Program Performance
+NSF CISE grant CCR-9510173
+Faculty
+
+
+Tom LeBlanc
+(leblanc@cs.rochester.edu)
+
+
+
+in collaboration with
+Mark Crovella
+(crovella@cs.bu.edu)
+
+
+Graduate Students
+
+
+Wagner Meira
+(meira@cs.rochester.edu)
+
+
+
+Alex Poulos
+(poulos@cs.rochester.edu)
+
+
+
+Nikolaos
+    Hardavellas (nikolaos@cs.rochester.edu)
+
+
+
+
+Project Summary
+
+Carnival is a tool designed to automate the process
+of understanding the performance of parallel programs.
+It supports performance measurement, modeling, tuning,
+and visualization.
+
+
+Carnival measurements are based on
+predicate profiling,
+which quantifies the time spent in each category of overhead during execution.
+Our first implementation of predicate profiling
+was implemented on the KSR-1.
+We now have implementations for
+the SGI Challenge multiprocessor,
+the IBM SP-2,
+a network of SUN workstations running PVM,
+and a cluster of Alpha workstations.
+
+
+Carnival is a novel attempt to automate the cause-and-effect
+inference process for performance phenomena.
+In particular, Carnival currently supports waiting time analysis,
+an automatic inference process that explains each source
+of waiting time in terms of the underlying causes,
+instead of simply identifying where it occurs.
+We are now developing a similar technique to explain
+the causes of communication.
+
+
+Our ultimate goal is to combine the accuracy of empirical performance
+measurement with the predictive power of analytic performance modeling.
+Towards that end, Carnival supports
+lost cycles analysis,
+which uses a priori knowledge of the sources and characteristics
+of the overhead categories in parallel systems to guide and constrain
+the modeling process.
+The Lost Cycles Toolkit, which we are integrating within Carnival,
+combines empirical model-building techniques from statistics
+with measurement and modeling techniques for parallel programs.
+
+
+Carnival is also a visualization tool
+that provides a link between performance measurements
+and the source code.
+The interface presents the original source code in a window.
+Along the left hand side of the source is a grey-scale
+scroll bar that indicates the amount of time spent in
+each portion of the source code (summed across all processors).
+Along the right hand side of the source code are color bars that indicate
+the percent of time spent in each overhead category by that section of
+source code (again summed across all processors).
+Pop-up windows are used during modeling and waiting time analysis.
+
+
+The Carnival implementation comprises about 15,000
+lines of Tcl/Tk and C source code.
+It has been installed at the Cornell Theory Center
+and we plan to make it more widely available soon.
+We are currently porting the instrumentation library
+(the only machine-dependent portion of the tool)
+to clusters of DEC Alphas connected by the DEC Memory Channel.
+
+
+Related Publications
+
+ Crovella, M. R. Bianchini,
+    T. LeBlanc, E. Markatos, and R. Wisniewski,
+    ``Using Communication-to-Computation Ratio in Parallel Program Design
+    and Performance Prediction,''
+    In Proc. 4th IEEE Symposium on Parallel and Distributed Processing,
+    Dallas, Texas, December 1992, pp. 238-245.
+ Crovella, M. and T. LeBlanc.
+      Performance Debugging Using
+     Parallel Performance Predicates.
+     In Proc., 3rd ACM/ONR Workshop
+     on Parallel and Distributed Debugging, pp. 140-150, May 1993.
+ Crovella, M. and T. J. LeBlanc.
+      The Search for Lost Cycles:
+     A New Approach to Performance Tuning of Parallel Programs.
+     In Proc. Supercomputing '94, Washington, D.C. November 1994, pp. 600-609.
+     Also available as
+     Technical Report 479, Computer Science Dept., Univ. of Rochester,
+     December 1993.
+ Crowl, L. A., M. Crovella, T. J. LeBlanc, and M. L. Scott. ``The
+     Advantages of Multiple Parallelizations in Combinatorial
+     Search.'' J. of Parallel and Distributed Computing, 21, 1, April 1994,
+     pp. 110-123.  Also available as
+     Technical Report 451,
+     Computer Science Dept., Univ. of Rochester, April 1993.
+ Crovella, M.
+     Performance
+     Prediction and Tuning of Parallel Programs.
+     Ph.D. Dissertation, TR 573, Computer Science Department,
+     University of Rochester, August 1994.
+ Mark Crovella, Thomas J. LeBlanc, Wagner Meira, Jr.,
+    Parallel
+    Performance Prediction Using the Lost Cycles Toolkit.
+    TR 580, Computer Science Department, University of Rochester, May 1995.
+ Wagner Meira Jr., Modeling
+    Performance of Parallel Programs,
+    TR 589, Computer Science Department, University of Rochester, June 1995.
+ Wagner Meira Jr., Thomas J. LeBlanc, and Alexandros Poulos,
+    Performance Visualization and
+    Tuning with Carnival, ACM SIGMETRICS Symp. on Parallel and
+    Distributed Tools, May 1996, pp. 1-10.
+
+
+Related Projects
+
+ AIMS
+	(NASA Ames)
+     Pablo
+	(University of Illinois)
+     Paradyn
+	(University of Wisconsin)
+     Poirot
+	(University of Oregon)
+     TASS
+	(Georgia Tech)
+     TAU
+	(University of Oregon)
+
+
+Other Information
+
+There is a new symposium on parallel and distributed tools
+sponsored by ACM SIGMETRICS.
+The symposium has a
+home page,
+and was held May 1996 as part of the ACM Federated Conference
+in Philadelphia, PA.
+See the proceedings of that symposium for papers on the latest work
+in this area.
+
+
+The Parallel Tools Consortium was formed to help coordinate tool
+development in the parallel processing community.
+See their home page
+for a list of projects approved by the consortium, as well as a
+comprehensive list of research projects on parallel tools.
+
+
+The Cornell Theory Center maintains a
+list
+of parallel tools
+(including Forge, ParaGraph, ParaScope, and upshot)
+and associated documentation.
+
+
+For an introduction to parallel computing, and a discussion of
+related performance issues, see Ian Foster's on-line text
+Designing and Building
+Parallel Programs.
+
+
+
+last modified June 21 1996 / Tom LeBlanc / leblanc@cs.rochester.edu
+
+
+

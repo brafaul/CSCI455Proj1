@@ -1,0 +1,462 @@
+Date: Tue, 05 Nov 1996 00:40:48 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 19 Sep 1996 17:25:10 GMT
+Content-length: 25336
+
+
+
+ Publications of the UW ML Research Group 
+
+
+ 
+
+This page contains relevant information about publications by the members of the Machine Learning Research Group (MLRG) at the University of Wisconsin - Madison.
+
+ 
+ Journal Articles 
+ 
+ Conference Papers 
+ 
+ Book Chapters 
+ 
+ Workshop Papers 
+ 
+ Tech Reports 
+ 
+ PhD Theses 
+
+ Bibtex file 
+
+
+
+  Journal Articles  
+
+
+  R. Maclin & J. W. Shavlik (1996). 
+
+
+  Creating Advice-Taking Reinforcement Learners.
+  Machine Learning, 22, pp. 251-281.
+
+  Abstract.
+
+  D. W. Opitz & J. W. Shavlik (1995). 
+
+  Dynamically Adding Symbolically Meaningful Nodes to Knowledge-Based Neural Networks.
+  Knowledge-Based Systems, 8, pp. 301-311.
+
+  Abstract.
+
+  K. J. Cherkauer (1995). 
+
+  Stuffing Mind into Computer: Knowledge and Learning for Intelligent Systems.
+  Informatica, 19, pp. 501-511.
+
+  Abstract.
+
+  J. W. Shavlik (1994). 
+
+  A Framework for Combining Symbolic and Neural Learning.
+  Machine Learning, 14, pp. 321-331.
+
+(The on-line file is an extended version of the journal article.)
+
+  Abstract.
+
+  G. G. Towell & J. W. Shavlik (1994). 
+
+  Knowledge-Based Artificial Neural Networks.
+  Artificial Intelligence, 70, pp. 119-165.
+
+  Abstract.
+
+  R. Maclin & J. W. Shavlik (1993). 
+
+  Using Knowledge-based Neural Networks To Improve Algorithms: Refining the Chou-Fasman Algorithm for Protein Folding.
+  Machine Learning, 11, pp. 195-215.
+
+  Abstract.
+
+  G. G. Towell & J. W. Shavlik (1993). 
+
+  The Extraction of Refined Rules from Knowledge-Based Neural Networks.
+  Machine Learning, 13, pp. 71-101.
+
+  Abstract.
+
+  M. W. Craven & J. W. Shavlik (1993). 
+
+  Machine Learning Approaches to Gene Recognition.
+  IEEE Expert, 9.
+
+(The on-line file is a variant of the journal article.)
+
+  Abstract.
+
+  M. W. Craven & J. W. Shavlik (1992). 
+
+  Visualizing Learning and Computation in Artificial Neural Networks.
+  International Journal on Artificial Intelligence Tools, 1, pp. 399-425.
+
+  Abstract.
+
+
+
+  Conference Papers  
+
+
+  D. W. Opitz & J. W. Shavlik (1996). 
+
+
+  Generating Accurate and Diverse Members of a Neural-Network Ensemble.
+  Advances in Neural Information Processing Systems, Denver, CO.  MIT Press.
+
+  Abstract.
+
+  K. J. Cherkauer & J. W. Shavlik (1996). 
+
+
+  Rapid Quality Estimation of Neural Network Input Representations.
+  Advances in Neural Information Processing Systems, pp. 45-51, Denver, CO.  MIT Press.
+
+  Abstract.
+
+  M. W. Craven & J. W. Shavlik (1996). 
+
+
+  Extracting Tree-Structured Representations of Trained Networks.
+  Advances in Neural Information Processing Systems, Denver, CO.  MIT Press.
+
+  Abstract.
+
+  C.F. Allex, S.F. Baldwin, J.W. Shavlik, & F.R. Blattner (1996). 
+
+
+  Improving the Quality of Automatic DNA Sequence Assembly using Fluorescent Trace-Data Classifications.
+  Proceedings, Fourth International Conference on Intelligent Systems for Molecular Biology, pp. 3-14, St. Louis, MO.  AAAI Press.
+
+  Abstract.
+
+  K.J. Cherkauer & J.W. Shavlik (1996). 
+
+
+  Growing Simpler Decision Trees to Facilitate Knowledge Discovery.
+  Proceedings, Second International Conference on Knowledge Discovery and Data Mining, pp. 315-318, Portland, OR.  AAAI Press.
+
+  Abstract.
+
+  J. C. Jackson & M. W. Craven (1996). 
+
+
+  Learning Sparse Perceptrons.
+  Advances in Neural Information Processing Systems, Denver, CO.  MIT Press.
+
+  Abstract.
+
+  J. W. Shavlik (1996). 
+
+
+  An Overview of Research at Wisconsin on Knowledge-Based Neural Networks.
+  Proceedings of the International Conference on Neural Networks, pp. 65-69, Washington, DC.
+
+  Abstract.
+
+  R. Maclin & J. W. Shavlik (1995). 
+
+  Combining the Predictions of Multiple Classifiers: Using Competitive Learning to Initialize Neural Networks.
+  Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence, pp. 524-530, Montreal, Canada.
+
+  Abstract.
+
+  M. W. Craven, R. J. Mural, L. J. Hauser & E. C. Uberbacher (1995). 
+
+  Predicting Protein Folding Classes without Overly Relying on Homology.
+  Proceedings of the Third International Conference on Intelligent Systems for Molecular Biology, pp. 98-106, Cambridge, England.  AAAI Press.
+
+  M. W. Craven & J. W. Shavlik (1994). 
+
+  Using Sampling and Queries to Extract Rules from Trained Neural Networks.
+  Proceedings of the Eleventh International Conference on Machine Learning, pp. 37-45, New Brunswick, NJ.
+
+  Abstract.
+
+  R. Maclin & J. W. Shavlik (1994). 
+
+  Incorporating Advice into Agents that Learn from Reinforcements.
+  Proceedings of the Twelfth National Conference on Artificial Intelligence, pp. 694-699, Seattle, WA.
+
+  Abstract.
+
+  D. W. Opitz & J. W. Shavlik (1994). 
+
+  Using Genetic Search to Refine Knowledge-Based Neural Networks.
+  Machine Learning: Proceedings of the Eleventh International Conference, pp. 208-216, New Brunswick, NJ.  Morgan Kaufmann.
+
+  Abstract.
+
+  M. W. Craven & J. W. Shavlik (1993). 
+
+  Learning to Predict Reading Frames in E . coli DNA Sequences.
+  Proceedings of the 26th Hawaii International Conference on System Sciences, pp. 773-782, Wailea, HI.  IEEE Computer Society Press.
+
+  Abstract.
+
+  M. W. Craven & J. W. Shavlik (1993). 
+
+  Learning to Represent Codons: A Challenge Problem for Constructive Induction.
+  Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence, pp. 1319-1324, Chambery, France.
+
+  Abstract.
+
+  M. W. Craven & J. W. Shavlik (1993). 
+
+  Learning Symbolic Rules Using Artificial Neural Networks.
+  Proceedings of the Tenth International Conference on Machine Learning, pp. 73-80, Amherst, MA.  Morgan Kaufmann.
+
+  Abstract.
+
+  K. J. Cherkauer & J. W. Shavlik (1993). 
+
+  Protein Structure Prediction: Selecting Salient Features From Large Candidate Pools.
+  Proceedings of the First International Conference on Intelligent Systems for Molecular Biology, pp. 74-82, Bethesda, MD.  AAAI Press.
+
+  Abstract.
+
+  D. W. Opitz & J. W. Shavlik (1993). 
+
+  Heuristically Expanding Knowledge-Based Neural Networks.
+  Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence, pp. 1360-1365, Chambery, France.
+
+  Abstract.
+
+  G. G. Towell & J. W.Shavlik (1992). 
+
+  Using Symbolic Learning to Improve Knowledge-Based Neural Networks.
+  Proceedings of the Tenth National Conference on Artificial Intelligence, pp. 177-182, San Jose, CA.
+
+  Abstract.
+
+  G. M. Scott, J. W. Shavlik & W. H. Ray (1992). 
+
+  Refining PID Controllers using Neural Networks.
+  Advances in Neural Information Processing Systems, pp. 555-562, Denver, CO.  Morgan Kaufmann.
+
+  Abstract.
+
+  G. G. Towell & J. W. Shavlik (1992). 
+
+  Interpretation of Artificial Neural Networks: Mapping knowledge-based Neural Networks into Rules.
+  Advances in Neural Information Processing Systems, pp. 977-984, Denver, CO.  Morgan Kaufmann.
+
+  Abstract.
+
+  R. Maclin & J. W. Shavlik (1992). 
+
+  Using Knowledge-Based Neural Networks to Improve Algorithms: Refining the Chou-Fasman Algorithm for Protein Folding.
+  Proceedings of the Tenth National Conference on Artificial Intelligence, pp. 165-170, San Jose, CA.
+
+  Abstract.
+
+  M. O. Noordewier, G. G. Towell & J. W. Shavlik (1991). 
+
+  Training Knowledge-Based Neural Networks to Recognize Genes in DNA Sequences.
+  Advances in Neural Information Processing Systems, pp. 530-536, Denver, CO.  Morgan Kaufmann.
+
+  Abstract.
+
+  G. G. Towell, J. W. Shavlik & M. O. Noordewier (1990). 
+
+  Refinement of Approximate Domain Theories by Knowledge-Based Neural Networks.
+  Proceedings of the Eighth National Conference on Artificial Intelligence, pp. 861-866, Boston, MA.
+
+  Abstract.
+
+
+
+  Book Chapters  
+
+
+  D. W. Opitz & J. W. Shavlik (1995). 
+
+  Using Heuristic Search to Expand Knowledge-Based Neural Networks.
+ In T. Petsche, S. Hanson & J. Shavlik, editors,  Computational Learning Theory and Natural Learning Systems, Volume III.  MIT Press.
+
+  M. W. Craven & J. W. Shavlik (1995). 
+
+  Investigating the Value of a Good Input Representation.
+ In T. Petsche, S. Hanson & J. Shavlik, editors,  Computational Learning Theory and Natural Learning Systems, Volume III.  MIT Press.
+
+  R. Maclin & J. W. Shavlik (1994). 
+
+  Refining Algorithms with Knowledge-Based Neural Networks: Improving the Chou-Fasman Algorithm for Protein Folding.
+ In S. Hanson, G. Drastal & R. Rivest, editors,  Computational Learning Theory and Natural Learning Systems, Volume I.  MIT Press.
+
+  K. J. Cherkauer & J. W. Shavlik (1994). 
+
+  Selecting Salient Features for Machine Learning from Large Candidate Pools through Parallel Decision-Tree Construction.
+ In H. Kitano, editor,  Massively Parallel Artificial Intelligence.  AAAI Press/The MIT Press, Menlo Park, CA.
+
+  Abstract.
+
+  G. G. Towell & J. W. Shavlik (1993). 
+
+  Refining Symbolic Knowledge Using Neural Networks.
+ In R. S. Michalski & G. Tecuci, editors,  Machine Learning: An Integrated Approach.  Morgan Kaufmann, San Mateo, CA.
+
+
+
+  Workshop Papers  
+
+
+  K.J. Cherkauer (1996). 
+
+
+  Human Expert-Level Performance on a Scientific Image Analysis Task by a System Using Combined Artificial Neural Networks.
+  Working Notes, Integrating Multiple Learned Models for Improving and Scaling Machine Learning Algorithms Wkshp, 13th Nat Conf on Artificial Intelligence, pp. 15-21, Portland, OR.
+
+  Abstract.
+
+  K. J. Cherkauer & J. W. Shavlik (1995). 
+
+  Rapidly Estimating the Quality of Input Representations for Neural Networks.
+  Working Notes of the IJCAI-95 Workshop on Data Engineering for Inductive Learning, Fourteenth International Joint Conference on Artificial Intelligence, Montreal, Quebec, Canada.
+
+  Abstract.
+
+  M. W. Craven & J. W. Shavlik (1995). 
+
+  Extracting Comprehensible Concept Representations from Trained Neural Networks.
+  Presented at the IJCAI Workshop on Comprehensibility in Machine Learning, Montreal, Quebec, Canada.
+
+  Abstract.
+
+  D. W. Opitz & J. W. Shavlik (1994). 
+
+  Genetically Refining Topologies of Knowledge-Based Neural Networks.
+  International Symposium on Integrating Knowledge and Neural Heuristics, pp. 57-66, Pensacola, FL.
+
+  Abstract.
+
+  J. W. Shavlik (1991). 
+
+  Finding Genes by Case-Based Reasoning in the Presence of Noisy Case Boundaries.
+  Proceedings of the DARPA Cased-Based Reasoning Workshop, pp. 327-338.
+
+  Abstract.
+
+  G. G. Towell, M. W. Craven & J. W. Shavlik (1991). 
+
+  Constructive Induction in Knowledge-Based Neural Networks.
+  Proceedings of the Eighth International Machine Learning Workshop, pp. 213-217, Evanston, IL.
+
+  Abstract.
+
+  R. Maclin & J. W. Shavlik (1991). 
+
+  Refining Domain Theories Expressed as Finite-State Automata.
+  Proceedings of the Eighth International Machine Learning Workshop, pp. 524-528, Evanston, IL.
+
+  Abstract.
+
+
+
+  Tech Reports (not published elsewhere)  
+
+
+  D. W. Opitz & J. W. Shavlik (1995). 
+
+  Generating Accurate and Diverse Members of a Neural-Network Ensemble.
+ Department of Computer Sciences, University of Wisconsin, Machine Learning Research Group Working Paper 95-2.
+
+(A version of this paper appears in Advances in Neural Information Processing, vol. 8, 1996)
+
+  Abstract.
+
+  R. Maclin & J. W. Shavlik (1994). 
+
+  Incorporating Advice into Agents that Learn from Reinforcements.
+ Department of Computer Sciences, University of Wisconsin, UW TR 1227.
+
+(A shorter version appears in AAAI-94.)
+
+  Abstract.
+
+  E. Gutstein (1992). 
+
+  Learning from Students to Improve an Intelligent Tutoring System.
+ Department of Computer Sciences, University of Wisconsin, Machine Learning Research Group Working Paper 92-3.
+
+
+
+  PhD Theses  
+
+
+  M. W. Craven (1996). 
+
+
+  Extracting Comprehensible Models from Trained Neural Networks.
+ PhD thesis, Department of Computer Sciences, University of Wisconsin-Madison.
+
+(Also appears as UW Technical Report CS-TR-96-1326)
+
+  Abstract.
+
+  D. W. Opitz (1995). 
+
+  An Anytime Approach to Connectionist Theory Refinement: Refining the Topologies of Knowledge-Based Neural Networks.
+ PhD thesis, Department of Computer Sciences, University of Wisconsin-Madison.
+
+(Also appears as UW Technical Report CS-TR-95-1281)
+
+  Abstract.
+
+  R. Maclin (1995). 
+
+Learning from Instruction and Experience: Methods for Incorporating Procedural Domain Theories into Knowledge-Based Neural Networks.
+ PhD thesis, Department of Computer Sciences, University of Wisconsin-Madison.
+
+(Also appears as UW Technical Report CS-TR-95-1285)
+
+  Abstract.
+
+(This publication is contained in several postscript files.)
+
+  part 1 
+
+  part 2 
+
+
+  Eric Gutstein (1993). 
+
+SIFT: A Self-Improving Fractions Tutor.
+ PhD thesis, Department of Computer Sciences, University of Wisconsin-Madison.
+
+  G. G. Towell (1991). 
+
+Symbolic Knowledge and Neural Networks: Insertion, Refinement and Extraction.
+ PhD thesis, Department of Computer Sciences, University of Wisconsin-Madison.
+
+(Also appears as UW Technical Report 1072 [out of print].)
+
+  Abstract.
+
+(This publication is contained in several postscript files.)
+
+  part 1 
+
+  part 2 
+
+  part 3 
+
+  part 4 
+
+
+
+
+
+ 
+Return to Machine Learning Research Group Home Page
+
+
+

@@ -1,0 +1,69 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:26:46 GMT
+Content-Type: text/html
+Content-Length: 1973
+Last-Modified: Tuesday, 26-Nov-96 18:07:47 GMT
+
+ 
+CS414 Home Page
+
+
+
+CS414: Systems Programming and Operating Systems
+
+CS415 Practicum in Operating System
+
+Kenneth P. Birman
+
+CS414/415 News Group
+Course Syllabus
+Lecture Notes
+
+Unix Filesystem Structure
+Linking (Static and Dynamic)
+
+Assignments
+
+Homework 1
+Homework 2
+Homework 3
+Homework 4
+Homework 6
+
+Assignment Solutions
+
+Solution 1
+Solution 2
+Solution 4
+Solution 5
+
+Prelim 1 Solution
+
+TAs
+
+LiLi
+     5162 Upson Hall
+     Phone: 255-7421
+     E-Mail: 
+     lili@cs.cornell.edu
+     Office Hours: Wednesday and Friday 3:30-5:00
+Yi-Cheng Huang
+     5151 Upson Hall
+     Phone: 255-3042
+     E-Mail: 
+     ychuang@cs.cornell.edu
+     Office Hours: Tuesday and Thursday 2:00-3:30
+Mihai Budiu
+     4132 Upson Hall
+     Phone: 255-1179
+     E-Mail: 
+     budiu@cs.cornell.edu
+     Office Hours: Wednesday 11:00-12:30 and Thursday 11:30-1:00
+
+
+
+
+Last modified: Tue Nov 26 13:07:45 1996
+
+ 

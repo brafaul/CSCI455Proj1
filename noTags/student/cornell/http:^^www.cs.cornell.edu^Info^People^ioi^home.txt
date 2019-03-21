@@ -1,0 +1,90 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:48:33 GMT
+Content-Type: text/html
+Content-Length: 3001
+Last-Modified: Thursday, 03-Oct-96 04:19:14 GMT
+
+
+
+Ioi Lam's Homeless Page
+
+
+Ioi Lam's Home Page
+
+
+Ioi K Lam
+ioi@cs.cornell.edu
+
+
+  I am currently a research assistant to 
+  Prof. Brian Smith at the 
+  Computer Science Department of 
+  Cornell University.
+
+
+
+Interests
+
+
+       Multi-media. 
+Parallel Programming. 
+Tcl/Tk. 
+
+Using Software in the System Lab
+Instructions about setting your
+   environment to use the system lab software.
+
+Tcl/Tk
+
+  Tcl/Tk Knowledge Base. 
+  Tcl/Tk
+  Engineering Manual (PDF): Guidelines for writing good Tcl/Tk
+  extensions in C code. It doesn't cover much of writing Tcl scripts
+  per-se, but it has a section about writing test suites that is
+  valuable to both C and Tcl programmers. You can get the PostScript Version and  complete
+  Tcl/Tk Engineering Manual package that includes template C
+  source files.
+              
+
+CVS Documentation
+
+ A short introduction to using CVS
+       in the system lab. 
+
+ A short description of CVS (87K, PS).
+   CVS User Manual. (543K, PS).
+   Using CVS on remote machines (93K, PS).
+       
+ CVS FAQ
+       .
+   Index of CVS
+       Information.
+  
+       CVS Tutorial.
+
+What am I doing right now (Week of Sep 23)
+
+ Putting together the Tcl/tk knowledgebase.
+
+   CVS repository for DP has been set up (see dp-cvs.txt).
+
+   Trying to package up SPAM and do a site test on it in the
+  ~multimed home directory.
+       
+   Getting started with VRC -- virtual reality conferencing. More
+  details to come ..
+
+   Working on a prototype of a mpeg video file server based on the
+  HTTP protocol. More details to come ..
+
+       
+
+CS417 (Spring '96)
+
+ CS 417 homework solutions
+
+
+
+
+

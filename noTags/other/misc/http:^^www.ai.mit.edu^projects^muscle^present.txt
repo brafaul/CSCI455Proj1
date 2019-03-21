@@ -1,0 +1,24 @@
+Date: Tue, 14 Jan 1997 19:07:32 GMT
+Server: Apache/1.2-dev
+Connection: close
+Content-Type: text/html
+Last-Modified: Sun, 03 Sep 1995 02:58:07 GMT
+ETag: "cbab7-261-304919bf"
+Content-Length: 609
+Accept-Ranges: bytes
+
+
+
+Artificial Muscle Project - Presentations
+
+
+
+
+
+
+International Conference on Intelligent Materials,
+June 5, 1994
+
+A Dynamic Model of a Linear Actuator based on Polymer Hydrogel
+
+

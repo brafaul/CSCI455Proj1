@@ -1,0 +1,244 @@
+Date: Thu, 07 Nov 1996 19:23:39 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 04 Nov 1996 18:52:47 GMT
+Content-length: 11822
+
+
+
+CS 132,  Fall 1996
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Search the CS 132 web pages for keywords (returns all matching paragraphs):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+ 
+  Once you set up your class account, NEVER LEAVE YOUR
+  COMPUTER WITHOUT EXITING FROM WINDOWS.  When you exit from
+  windows, you automatically exit from your account, too.  If you don't
+  do as instructed, the next person starting using the computer
+  you've just abandoned has complete control over your account.
+  They can send messages signed with your name, read your mail, copy, or even
+  delete your personal work.  Remember to exit windows when you're
+  done working for the day, or when you plan to leave your machine
+  unattended for some time.
+ 
+  The email address you get when you initialize your account is
+  provided to you by the Computer Sciences department and is
+  different from the one provided by DoIT.  You will have the account
+  for CS 132 only during this semester; after the end of the course the
+  account will be canceled.  As long as you are a UW student, the email 
+  account that DoIT provides will be active.  Look for messages and
+  announcements for CS 132 in your Computer Sciences account.
+
+
+Midterm exam answer key
+
+
+Instructor
+
+Professor Ed Desautels
+
+Office: 5375 Computer Sciences
+Office hours: 12-1 Monday-Wednesday, or by appointment.
+Phone: 262-7971; dept office 262-1204
+E-mail: ed@cs.wisc.edu
+
+
+Teaching Assistants
+
+Follow these links to your TA's home page...
+
+
+
+Name:Kelly Ratliff
+Email:kelly@cs.wisc.edu
+Office #:3360 CS&S
+Office phone:262-9275
+Office hours:MW 3:30-4:30
+132 sections:304, 305
+GRADES
+
+
+Name:Nathan Bockrath
+Email:bockrath@cs.wisc.edu
+Office #:3310 CS&S
+Office phone:262-1721
+Office hours:MW 10:00-11:00
+132 sections:301, 302
+GRADES
+
+
+Name:Rehnuma Rahman
+Email:rehnuma@cae.wisc.edu
+Office #:1349 CS&S
+Office phone:262-5340
+Office hours:M 11:00-12:00,W 12:30-1:30
+132 sections:317, 318
+GRADES
+
+
+Name:Jaime Fink
+Email:jfink@cs.wisc.edu
+Office #:1306 CS&S
+Office phone:262-6601
+Office hours:TR 10:45-11:45
+132 sections:315, 316
+GRADES
+
+
+Name:Ashraf Aboulnaga
+Email:ashraf@cs.wisc.edu
+Office #:3310 CS&S
+Office phone:262-1721
+Office hours:MW 4:00-5:00
+132 sections:319, 320
+GRADES
+
+
+Name:Andrew Geery
+Email:geery@cs.wisc.edu
+Office #:1301 CS&S
+Office phone:
+Office hours:R 2:30-4:30
+132 sections:303, 304
+GRADES
+
+
+Name:James Herro
+Email:jherro@cs.wisc.edu
+Office #:1301 CS&S
+Office phone:
+Office hours:WF 12:30-1:30
+132 sections:305, 310
+GRADES
+
+
+Name:Abhinav Gupta
+Email:agupta@cs.wisc.edu
+Office #:3360 CS&S
+Office phone:262-9275
+Office hours:MF 9:30-10:30
+132 sections:322, 323
+GRADES
+
+
+Name:Jyothi Krothapalli
+Email:jyothi@cs.wisc.edu
+Office #:3310 CS&S
+Office phone:262-1721
+Office hours:MW 10:00-11:00
+132 sections:306, 307
+GRADES
+
+
+Name:Su-Hui Chiang
+Email:suhui@cs.wisc.edu
+Office #:6384 CS&S
+Office phone:262-6619
+Office hours:R 4:00-5:00
+132 sections:321
+GRADES
+
+
+Name:Thanos Tsiolis
+Email:tsiolis@cs.wisc.edu
+Office #:6364 CS&S
+Office phone:262-6615
+Office hours:R 10:00 - 11:00
+132 sections:309
+GRADES
+
+
+
+
+
+Explore the Web Further...
+
+Companies Whose Software or Hardware We Will Use
+
+ Borland 
+
+ Hewlett-Packard 
+
+ IBM 
+
+ Intel 
+
+ Microsoft 
+
+ Novell 
+Useful Links for Further Web Exploration
+
+
+Lycos
+Enormous Database of Web Sites.
+
+Yahoo
+Internet resources classified by categories.  Has a lookup search.
+
+The Virtual Tourist
+Find W3 sites around the world by clicking on a world map.
+
+The Mother of All BBS
+Large Alphabetical List of Web Sites.
+
+What's Hot and Cool on the Web
+Lists of Especially Excellent Web Sites.
+
+University of Wisconsin-Madison CS Home Page
+
+
+
+
+This page was originally created and maintained by 
+Ben Teitelbaum and Thanos Tsiolis.
+
+It was modified and now maintained by 
+Kelly Ratliff.
+
+

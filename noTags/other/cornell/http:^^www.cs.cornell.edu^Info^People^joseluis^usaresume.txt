@@ -1,0 +1,153 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:04:52 GMT
+Content-Type: text/html
+Content-Length: 4663
+Last-Modified: Thursday, 29-Feb-96 00:09:18 GMT
+
+Jose Luis Fernandez Home Page
+
+
+ResumeJose Luis Fernandez
+
+
+
+
+
+Download a PostScript copy of this Resume
+
+
+
+INDEX
+
+  Education
+  Undergraduate Projects
+  Graduate Courses
+  Relevant Experience  Computer Skills
+  Scholarships
+  Activities / Interests
+  Hobbies
+
+
+
+
+
+Education
+
+
+Aug. 95 / May. 96:Cornell University Ithaca, NY. Master of Engineering in Computer Science 
+Sep. 88 / Sep. 93:  Universidad de Cantabria - Santander (SPAIN).
+Bachelor in Physics, Electronic Specialty (five year courses)	
+Position in the ranking of 1993: Number 1
+
+
+
+
+Undergraduate Projects
+
+
+Programmed complex database software in TURBO PASCAL 6.0.  
+Designed and implemented new algorithms to calculate the Quick Cosine Transform in UNIX C.
+Designed and constructed hardware and drivers for the processor M68010.
+Designed VLSI Circuits using CADENCE/SOLO 2000.
+
+
+
+
+
+Graduate Projects
+
+
+Multimedia: Image/Video Transitions and Special Effects for RIVL.
+Operating Systems: Design and coding of a complex basic operating system.
+Software Engineering: Pyramania, 3D Action Space Adventure. Computer Game.
+
+
+
+
+
+
+Relevant Experience
+
+
+Oct. 95Microsoft Beta Tester 
+Aug. 95Microsoft  Certified Systems Engineer
+Apr. 95 / Aug. 95  
+Consultant Engineer
+INFOSTRAT, S.A. (Madrid - SPAIN):			
+Participated in the design a new Network Architecture for the Company Canal+ TV (one of the most important TV companies in Spain) based on Windows NT 3.51.
+Aug. 94 / Apr. 95 
+Junior Consultant Engineer
+INFOSTRAT, S.A. (Madrid - SPAIN):			
+Participated in the implementation of a Network Architecture based in Windows NT 3.5 for the Daily "El País" (SPAIN).
+
+Jan. 94 / Jul. 94 
+Second Lieutenant, Spanish Air Forces
+Air Force Head Quarters, Las Palmas G.C. (Canary Islands)			
+Military Service, responsible for Computer Systems at the Laboratory of Calibration of Measurement Equipment (Air Forces Head Quarters Canary Islands).
+
+Sep. 93 / Jan. 94 
+Second Lieutenant, Spanish Air Forces
+Academy of the Air Forces. Granada (SPAIN)			
+Course taken to achieve the grade of Second Lieutenant.
+
+
+
+
+
+
+Computer Skills
+
+
+MS DOS, UNIX, Windows 3.11, Windows 95, Windows NT 3.51, Pascal, C, Assembler, Visual Basic, MS Word, MS Excel.
+
+
+
+
+
+
+Scholarships
+
+
+1995
+Scholarship from la Caixa  for Graduate Studies at Cornell University.	
+
+1989/1993
+Scholarship from "Fundación Botín" to study at University of Cantabria.
+
+
+
+
+
+Activities / Interests
+
+
+1983/1990
+Took seven year courses in piano.	
+
+1984/1992
+Took seven year courses in violin.
+1988/1994
+First Violin in various Student Chamber Orchestras.
+1987/1991
+Karate up to blue belt
+1993/1994
+German ( one year course )
+
+
+
+
+
+Hobbies
+
+
+Photography.
+Click to view some of my pictures
+Music
+Computers
+Writing and directing crazy movies with my Video 8 and some actors recruited from my friends
+
+
+
+Back to my Home Page 
+

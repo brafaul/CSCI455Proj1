@@ -1,0 +1,93 @@
+Date: Tue, 10 Dec 1996 03:34:59 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+Safeware: System Safety and Computers
+
+
+
+
+
+         SAFEWARE: SYSTEM SAFETY AND COMPUTERS
+
+                   Nancy G. Leveson
+
+              University of Washington
+
+
+
+        	(leveson@cs.washington.edu)
+
+
+
+Publisher:  Addison-Wesley
+ISBN: 0-201-11972-2
+Price: $49.50
+
+Contents: This book examines past accidents and what is currently known 
+about building safe electromechanical systems to see what lessons can be 
+applied to new computer-controlled systems.  One lesson is that most 
+accidents are not the result of unknown scientific principles but rather 
+of a failure to apply well-known, standard engineering practices.  A 
+second lesson is that accidents will not be prevented by technological
+fixes alone, but will require control of all aspects of the development 
+and operation of the system.  The features of a methodology for building
+safety-critical systems are outlined.
+
+PART 1: The Nature of Risk (126 pages) 
+   Is there a problem? 
+   How safe is safe enough?
+   The role of computers in accidents
+   Software myths 
+   Why software engineering is hard
+   Problems in ascribing causality 
+   A hierarchical model of causality
+   Root causes of accidents 
+   Do humans cause most accidents? 
+   The need for and role of humans in automated systems
+
+PART 2: Introduction to System Safety  (50 pages)
+   Foundations of system safety (systems theory and systems engineering)
+   Historical development
+   Basic concepts (hazard analysis, design for safety, management),
+   Software system safety 
+   Cost and effectiveness of system safety
+   Other approaches to safety (industrial engineering, reliability
+       engineering).
+
+PART 3: Definitions and Models  (75 pages) 
+   Terminology 
+   Accident models
+   Human task and error models
+
+PART 4: Elements of a Safeware Program  (290 pages) 
+   Managing safety (the role of management, setting policy, communication
+       channels, setting up a system safety organization, place in the 
+       organizational structure, documentation) 
+   The system and software safety process (general tasks, real examples) 
+   Hazard analysis (what it is, how to do it, types of models, types of 
+       analysis, current models and techniques, limitations, evaluations) 
+   Software hazard analysis and requirements analysis
+   Designing for safety 
+   Design of the human--machine interface 
+   Verification of safety (testing, software fault tree analysis).
+
+APPENDICES:  (132 pages)  
+ Detailed descriptions of well-researched accidents along 
+ with brief descriptions of industry-specific approaches to safety 
+   Appendix A Medical Devices:  The Therac-25 story
+   Appendix B  Aerospace:  The civil aviation approach to safety, Apollo 13, DC-10,
+   and Challenger
+   Appendix C  The Chemical Industry: The chemical process industry approach to 
+   safety, Seveso, Flixborough, and Bhopal
+   Appendix D  Nuclear Power: How a nuclear power plant works, The nuclear power
+   approach to safety, Windscale, Three Mile Island, and Chernobyl
+
+References (20 pages)
+
+
+
+
+

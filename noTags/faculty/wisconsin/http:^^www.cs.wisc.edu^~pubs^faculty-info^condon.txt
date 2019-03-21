@@ -1,0 +1,76 @@
+Date: Thu, 07 Nov 1996 19:06:55 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 03 Oct 1995 22:00:45 GMT
+Content-length: 2640
+
+
+
+ Home Page of Anne Condon 
+
+
+ 
+ Anne Condon 
+
+ Associate Professor 
+
+ Computer Sciences Department 
+ University of Wisconsin 
+ 1210 W. Dayton St. 
+ Madison, WI 53706-1685 
+
+ telephone: (608) 262-1204 
+ fax: (608) 262-9777 
+ email: 
+ condon@cs.wisc.edu 
+
+Ph.D., University of Washington, 1987 
+Interests:
+Complexity theory, interactive proof systems, randomized complexity
+classes, theory of parallel computation 
+
+ Research Summary 
+
+I am interested in models of computation, such as interactive
+proof systems, which combine nondeterminism and randomness. Such
+models have recently proven surprisingly useful in solving classic
+problems in complexity theory. For example, although the theory
+of NP-completeness has long been used to identify hard computational
+problems, there has not been much progress in understanding which
+hard problems have solutions that are easy to approximate. Recent
+results on interactive proof systems have resulted in novel models
+of NP, which in turn can be used to prove non-approximability
+results for several NP-hard problems. In our work we are developing
+both positive and negative results on the approximability of hard
+combinatorial problems which arise in game theory, graph theory
+and automata theory. 
+
+I am also interested in design and analysis of parallel algorithms.
+I am currently working on development of parallel algorithms for
+sorting and for graph problems, such as minimum spanning tree.
+The goal is to develop algorithms that work well on `practical'
+parallel models, where communication and synchronization costs
+can be expensive. 
+ Sample Recent Publications 
+
+Interactive proof systems with polynomially bounded strategies
+(with R. Ladner), Journal of Computer and System Sciences,
+vol. 50, no. 3, 1995. 
+ 
+Finite state automata with nondeterministic and probabilistic
+states (with L. Hellerstein, S. Pottle, and A. Wigderson), Proceedings
+of the 26th Annual ACM Symposium on the Theory of Computing,
+May 1994. 
+ 
+PSPACE is provable by two provers in one round (with J.-Y. Cai
+and R. Lipton), Journal of Computer and System Sciences,
+vol. 48, no. 1, February 1994. 
+
+
+ This page was automatically created October 3, 1995.
+ Email pubs@cs.wisc.edu
+to report errors.
+
+
+
+

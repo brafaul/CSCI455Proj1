@@ -1,0 +1,303 @@
+
+
+Elke A. Rundensteiner's homepage
+
+
+ Elke A. Rundensteiner
+ Publications by Research Group
+
+
+Database Systems Research Group 
+Software Systems Research Laboratory  
+Divison of Computer Science and Engineering  
+Department of Electrical Engineering and Computer Science   
+Electrical Engineering and Computer Science Building  
+University of Michigan, Ann Arbor 48109-2122 USA  
+
+
+
+Below is a listing of  references
+for the reports included in this ftp site.
+Most of the papers are available in
+postscript format. Please contact the author(s) directly
+otherwise.
+Also, some of the journal papers may not include 
+the last fine-tuned editing performed by the publisher
+on the final proof sheets, 
+and you are referred to the actual journal or proceeding
+for that final version.
+
+
+
+
+
+
+ 1996 Publications: 
+
+
+
+Kuno, H. A., and Rundensteiner, E. A.,
+ 
+``Using Object-Oriented Principles to Optimize
+Update Propagation to  Materialized Views,''
+
+IEEE Int. Conf. on Data Engineering, (ICDE-12),
+1996, March 1996.
+
+
+
+Taube, V. C., and Rundensteiner, E. A.,
+ 
+``Schema Removal Issues for Transparent Schema Evolution'',
+
+(RIDE'96),
+IEEE,  1996, March 1996.
+
+
+
+Kuno, H. A., and Rundensteiner, E. A.,
+ 
+``Augmented Inherited Multi-Index for Path Views'',
+
+(RIDE'96), IEEE,  1996, March 1996.
+
+
+
+* Harumi A. Kuno and Elke A. Rundensteiner,
+ 
+``The MultiView OODB View System: Design and Implementation,''
+
+accepted for
+Journal of Theory and Practice of Object Systems (TAPOS),
+Special Issue on Subjectivity in Object-Oriented Systems,
+(Issue Editors: Harold Ossher and William Harrison),
+John Wiley New York, 1996.
+(extended version of Univ. of Michigan
+Tech. Rep. CSE-TR-246-95, May 1995.)
+
+
+
+Kuno, H. A., and Rundensteiner, E. A.,
+ 
+``New Benchmark Issues for  Object-Oriented View Systems,''
+
+OOPSLA Workshop on Object-Oriented Database Benchmarking,
+Oct. 1995.
+
+
+
+ 1995 Publications: 
+
+
+
+Thomas, S. W., Rundensteiner, E. A., and  Lee, A.J, 
+ 
+``Visualization and Database Tools for YAC and Cosmid Contig Construction,''
+
+Project-Oriented Databases and Knowledge Bases in Genome Research,
+Biotechonology Computing Track,
+Twenty-seventh Hawaii International Conference of System Sciences,
+HICSS-28, Jan. 1995.
+
+
+
+
+Ra, Y.G., and Rundensteiner, E. A., 
+ 
+``A Transparent Object-Oriented Schema Change Approach
+Using View Evolution,''
+IEEE Int. Conf. on Data Engineering, (ICDE-11),
+1995, Taipei, Taiwan, March 1995.
+
+
+
+
+Kuno, H. A., and Rundensteiner, E. A., 
+ 
+``Materialized Object-Oriented Views in MultiView,''
+
+Fifth International Workshop on Research Issues on Data Engineering: 
+Distributed Object Management (RIDE-DOM'95), 
+IEEE,  1995, Taipei, Taiwan, March 6-7, 1995.
+
+
+
+Zhou, L, Rundensteiner, E. A., Shin, K.,
+ 
+``OODB Support for Real-Time Open-Architecture Controllers,''
+
+DASFAA'95.
+
+
+
+Lee, A.J, Rundensteiner, E. A., Thomas, S. W., 
+ 
+``Active OODB System for Genome  Map Assembly,''
+
+Information Systems, Special Issue on Scientific Databases,
+to appear Spring 1995.
+
+
+
+A. Nica and E. A. Rundensteiner,
+ 
+"A Constraint-based Object Model for  Structured Document Management,"
+
+Electrical Engineering and Computer Science Dept.,
+University of Michigan, Ann Arbor,
+Tech. Rep. CSE-TR-237-95, 1995.
+
+
+
+Hibino, S., and  Rundensteiner, E. A.,
+ 
+``Interactive Visualizations for Exploration
+and Spatio-Temporal Analysis of Video Data,''
+
+IJCAI-95 workshop, Intelligent Multimedia Information Retrieval,
+Montreal, Quebec, Aug. 1995.
+
+
+
+A. Nica and E. A. Rundensteiner,
+ 
+"Uniform Structured Document Handling Using a Constraint-based
+Object Approach,"
+
+Advances in Digital Libraries (ADL'95),
+A Forum on Research and Technology Advances in Digital Libraries,
+Virginia, May 1995.
+(appears as book chapter in ADL'95, Springer Verlag).
+
+
+
+Chaudhry, N. A., Moyne, J. R., and  Rundensteiner, E. A.,
+ 
+``A Generic Framework for Inter-Cell Control of a Semiconductor
+Manufacturing Facility,''
+
+accepted for presentation at the 42nd National Symposium of the American
+Vacuum Society, Minneapolis, October 16-20, 1995
+
+
+
+Hibino, S., and  Rundensteiner, E. A.,
+ 
+``A Graphical Query Language for Identifying
+Temporal Trends in Video Data,''
+
+ 1995 International Workshop on Multi-Media Database
+ Management Systems (IW-MMDBMS'95),
+IEEE Computer Press.
+
+
+
+Kuno, H., Ra, Y.G.,  and Rundensteiner, E. A.,
+ 
+``Object-Slicing: A Flexible Object Representation and Its Evaluation,''
+
+Electrical Engineering and Computer Science Dept.,
+University of Michigan, Ann Arbor,
+Tech. Rep. CSE-TR-241-95, April 1995.
+
+
+
+Harumi A. Kuno and Elke A. Rundensteiner,
+ 
+``The MultiView OODB View System: Design and Implementation,''
+
+Electrical Engineering and Computer Science Dept.,
+University of Michigan, Ann Arbor,
+Tech. Rep. CSE-TR-246-95, May 1995.
+
+
+
+Huang, Y.W., Jing, N., and Rundensteiner, E. A.,
+ 
+``A Semi-Materialized View Approach for Route Guidance in Intelligent
+Vehicle Highway Systems,''
+
+ITS RCE Center, Technical Report, 1995.
+
+
+
+Huang, Y.W., Jing, N., and Rundensteiner, E. A.,
+ 
+``Path View Algorithm for Transportation Networks:
+The Dynamic Reordering Approach,''
+
+ITS RCE Center, Technical Report, June 1995.
+
+
+
+Jones, M., and Rundensteiner, E. A.,
+ 
+``An Object Model and Algebra for the Implicit Unfolding of
+Hierarchical Structures,''
+
+Electrical Engineering and Computer Science Dept.,
+University of Michigan, Ann Arbor,
+Tech. Rep. CSE-TR-251-95, July 1995.
+
+
+
+Kuno, H., and Rundensteiner, E. A.,
+ 
+``Using Object-Oriented Principles to Optimize
+Update Propagation to  Materialized Views,''
+
+Electrical Engineering and Computer Science Dept.,
+Computer Science and Engineering Division,
+University of Michigan, Ann Arbor,
+Tech. Rep. CSE-TR-252-95, July 1995
+(revised version of 1994 paper).
+
+
+
+Y.G. Ra, and Rundensteiner, E. A.,
+ 
+``A Transparent Schema Evolution System Based on
+Object-Oriented View Technology,''
+
+IEEE Trans. on Knowledge and Data Engineering, 1995
+(a revised version of the Tech. Rep. CSE-TR-211-94, April 1994.).
+
+
+
+Hibino, S., and  Rundensteiner, E. A.,
+ 
+``A Visual Multimedia Query Language for Temporal
+Analysis of Video Data,''
+
+invited chapter in book titled
+``The Design and Implementation of Multimedia Database Systems,''
+(ed. Kingsley Nwosu), Kluewer Pub., 1995. (draft version).
+
+
+
+Ra, Y.G., and Rundensteiner, E.A.,
+ 
+``Supporting Hard Changes in TSE,''
+
+{\it ACM 4th Int. Conf on Information and Knowledge Management (CIKM'95),}
+Nov. 1995.
+
+
+
+Huang, Y.W., Jing, J., and Rundensteiner, E. A.,
+ 
+``Hierarchical Path Views: A Model Based on Fragmentation and
+Transportation Road Types,''
+
+ACM Workshop on Geographic Information Systems, Nov. 1995.
+
+
+
+
+ 1994 Publications: 
+
+(listing currently under construction)
+
+
+
+

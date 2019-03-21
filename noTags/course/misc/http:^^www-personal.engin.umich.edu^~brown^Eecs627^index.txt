@@ -1,0 +1,50 @@
+Server: Netscape-Commerce/1.12
+Date: Tuesday, 26-Nov-96 19:09:53 GMT
+Last-modified: Tuesday, 17-Sep-96 01:27:10 GMT
+Content-length: 1668
+Content-type: text/html
+
+
+
+EECS 627 Home Page
+
+
+
+EECS 627: VLSI Design II, Winter 1996
+Prof. Richard B. Brown
+Office: 2236 EECS
+Phone: 763-4207
+Email: 
+brown@engin.umich.edu
+
+
+
+
+
+TA(unofficial):  Phiroze Parakh: phiroze@engin.umich.edu
+
+Class E-mail alias: eecs627@engin.umich.edu
+
+
+
+Design by Mike Riepe
+
+
+General Information
+
+Course Information
+
+
+Useful Web Sites
+
+ The University of Michigan's 
+High Performance Microprocessor Project.
+ University of Idaho's 
+VLSI Links. 
+ Synopsys University Program
+ A new VLSI text book by Prentice Hall: Digital Integrated Circuits - Jan Rabaey.
+ The World-Wide Web  Virtual Library for Electrical Engineering.
+ MIT's  Semiconductor Subway.
+Career Mosaic.
+Internet's Online Career Center.
+

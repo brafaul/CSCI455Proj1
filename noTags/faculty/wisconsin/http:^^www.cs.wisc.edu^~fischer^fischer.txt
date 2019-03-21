@@ -1,0 +1,277 @@
+Date: Thu, 07 Nov 1996 19:07:05 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 06 Sep 1996 22:37:49 GMT
+Content-length: 7398
+
+
+
+ Home Page of Charles N. Fischer 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     &nbspCharles N. Fischer
+
+     &nbspProfessor of Computer Sciences
+
+     &nbspUniversity of Wisconsin
+
+
+
+
+
+
+
+
+ Computer Sciences Department  
+ University of Wisconsin 
+ 1210 W. Dayton St. 
+ Madison, WI 53706-1685 
+
+ Telephone:	(608) 262-6635 
+ Messages:	(608) 262-1204 
+ Fax:	(608) 262-9777 
+ Email:	fischer@cs.wisc.edu
+
+
+
+
+ Teaching 
+
+
+This semester I'm teaching
+
+CS 701,
+the graduate course in compilers.
+
+In the spring I'll be teaching
+
+CS 536,
+the undergraduate course in compilers.
+
+
+
+
+ Research 
+
+My research interests focus on compiler design and implementation.
+Recently, I've been interested in how to best exploit the enormous
+capabilities provided by modern computer architectures.
+Some of the issues my students and I have investigated include:
+
+
+
+Code scheduling is important to avoid unnecessary pipeline delays. We have
+investigated  issues in
+
+optimally scheduling arithmetic expressions.
+
+
+The dominant model for global (procedure-level) register allocation is graph coloring.
+Is this the best model?
+Maybe not.
+
+Other models 
+that explicitly quantify the likelihood and benefit of register
+residence are very attractive.
+
+
+Careful register allocation is vital in generating code -- unnecessary loads
+and stores must be avoided.
+The ultimate in register allocation is
+ interprocedural register allocation in which all the
+procedures of a program are analyzed.
+We have studied
+
+interprocedural allocation models
+that optimally
+allocate register among procedures in polynomial time.
+What's more, the approach seems to be effective in practice.
+
+
+Anyone who codes in C or C++ knows how easy it is to make mistakes.
+Errors involving pointers and array indices are especially common.
+We have studied ways to
+
+automatically check all pointer and array operations 
+at run-time on shared-memory multiprocessor workstations.
+Using one processor to run a program and another to monitor the program,
+it is possible to routinely check programs as they execute, with little or
+no apparent slowdown.
+
+
+
+ Recent Publications 
+
+
+
+"Minimum Cost Interprocedural Register Allocation," 
+Steven M. Kurlander and Charles N. Fischer,
+
+POPL '96: The 23rd ACM SIGPLAN-SIGACT Symposium on Principles of Programming
+Languages,
+January, 1996.
+
+
+
+"Low-cost, Concurrent Checking of Pointer and Array Accesses in C Programs,"
+Harish Patil and Charles N. Fischer,
+to appear in
+
+Software--Practice and Experience.
+
+
+ 
+"Demand-Driven Register Allocation,"
+Todd A. Proebsting and Charles N. Fischer,
+to appear in
+
+ACM Transactions on Programming Languages and Systems. 
+
+
+ 
+"Efficient Instruction Scheduling for Delayed-Load Architectures,"
+Steven M. Kurlander, Todd A. Proebsting and Charles N. Fischer,
+
+ACM Transactions on Programming Languages and Systems,
+Vol 17, No. 5, 740-776, (1995).
+
+
+"Zero-cost Range Splitting,"
+Steven M. Kurlander and Charles N. Fischer,
+
+SIGPLAN '94 Conference on Programming Language Design and Implementation,
+June, 1994.
+
+
+
+Other Activities
+
+
+A new, completely revised second edition of
+ 
+"Crafting a Compiler,"
+co-authored with
+ 
+Ron Cytron
+and
+ 
+Richard J. LeBlanc, Jr.
+is almost complete.
+It will be published by
+ 
+Benjamin/Cummings.
+Look for it soon at better bookstores everywhere.
+
+
+I am the "Short Communications" Editor for
+ 
+ACM Transactions on Programming Languages and Systems
+(TOPLAS).
+
+
+
+Education
+Ph.D.,
+ 
+Cornell University,
+1974
+
+"On Parsing Context-Free Languages in Parallel Environments,"
+
+supervised by John H. Williams.
+
+
+Ph.D Students
+
+
+Donn R. Milton,
+"Syntactic Specification and Analysis with Attributed Grammars,"
+July 1977.
+
+
+Bruce R. Rowland,
+"Semantic Attribute Evaluation During Syntactic Analysis,"
+July 1977.
+
+
+Stephen K. Skedzielewski,
+"Definition and Use of Attribute Reevaluation in Attributed Grammars,"
+September 1978.
+
+
+Bernard A. Dion,
+"Locally Least-Cost Error Correctors for Context-Free and Context-Sensitive
+Parsers,"
+December 1978.
+
+
+Mahadevan Ganapathi,
+"Retargetable Code Generation and Optimization Using Attribute Grammars,"
+November 1980.
+
+
+Vimal Begwami,
+"A New Approach for Attribute Evaluation and Error Correction in Compilers,"
+August 1982.
+
+
+Jon Mauney,
+"Least-cost Syntactic Error Correction Using Extended Right Context,"
+January 1983.
+
+
+Gregory F. Johnson,
+"Context Sensitive Attribute Flow,"
+August 1983.
+
+
+Anil Pal,
+"Generating Execution Facilities for Integrated Programming Environments,"
+December 1986.
+
+
+William H. Winsborough,
+"Automatic, Transparent Parallelization of Logic Programs at Compile Time,"
+August 1988.
+
+
+G A Venkatesh,
+"A Framework for Specification and Implementation of Program Analysis Algorithms,"
+August 1989.
+
+
+ 
+Todd A. Proebsting, 
+"Code Generation Techniques,"
+August 1992.
+
+
+
+Steve Kurlander,
+"Approaches to Interprocedural Register Allocation,"
+January 1996.
+
+
+Harish Patil,
+"Efficient Program Monitoring Techniques,"
+June 1996.
+
+
+
+
+

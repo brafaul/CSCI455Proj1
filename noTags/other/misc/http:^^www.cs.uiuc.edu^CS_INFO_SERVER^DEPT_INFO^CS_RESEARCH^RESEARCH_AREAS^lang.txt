@@ -1,0 +1,56 @@
+Date: Wed, 15 Jan 1997 00:34:36 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 22 Jun 1994 16:45:19 GMT
+Content-type: text/html
+Content-length: 2441
+
+Programming Languages
+
+Programming Languages
+
+
+
+Actors:  
+	Agha
+Compilers:  
+	Johnson, 
+	Kale, 
+	Kamin, 
+	Kaplan, 
+	Mickunas, 
+	Torrellas
+Formal Semantics:  
+	Agha, 
+	Kamin, 
+	Kaplan, 
+	Reddy
+Functional:  
+	Dershowitz, 
+	Johnson, 
+	Kamin, 
+	Kaplan, 
+	Reddy
+Logic:  
+	Agha, 
+	Dershowitz, 
+	Johnson, 
+	Kale, 
+	Kamin, 
+	Kaplan, 
+	Reddy
+Object-Oriented:  
+	Agha, 	
+	Campbell, 
+	Dershowitz, 
+	Johnson, 
+	Kamin, 
+	Kaplan, 
+	J. Liu, 
+	Reddy
+Run-Time Support:  
+	Torrellas
+
+
+
+
+Go back to Research Areas Index

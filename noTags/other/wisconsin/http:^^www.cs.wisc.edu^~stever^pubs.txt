@@ -1,0 +1,182 @@
+Date: Mon, 04 Nov 1996 23:50:42 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 07 Jun 1996 18:15:05 GMT
+Content-length: 5104
+
+
+
+ Steve Reinhardt's Publications 
+
+
+
+ Publications  
+
+Most files are available in Postscript (ps), compressed
+Postscript (ps.Z), and gzipped Postscript (ps.gz).
+
+ Tempest, Typhoon, etc. 
+
+
+
+Decoupled Hardware Support for Distributed Shared Memory.
+Steven K. Reinhardt, Robert W. Pfile, and David A. Wood.
+23rd Annual International Symposium on Computer Architecture (ISCA), May 1996.
+
+ps
+ps.Z
+ps.gz
+
+
+
+Tempest Interface Specification.
+Steven K. Reinhardt. UW CS TR #1267, Feb. 1995.
+
+ps
+ps.Z
+ps.gz
+
+
+
+Application-Specific Protocols for User-Level Shared Memory.
+Babak Falsafi, Alvin R. Lebeck, Steven K. Reinhardt, Ioannis Schoinas,
+Mark D. Hill James R. Larus, Anne Rogers, David A. Wood.
+Supercomputing '94, Nov. 1994.
+
+ps
+ps.Z
+ps.gz
+
+
+
+Fine-grain Access Control for Distributed Shared Memory.
+Ioannis Schoinas, Babak Falsafi, Alvin R. Lebeck,
+Steven K. Reinhardt, James R. Larus, David A. Wood.
+The Sixth International Conference on Architectural Support for Programming
+Languages and Operating Systems (ASPLOS VI), Oct. 1994.
+
+ps
+ps.Z
+ps.gz
+
+
+
+Tempest and Typhoon: User-Level Shared Memory.
+Steven K. Reinhardt, James R. Larus, and David A. Wood.
+21st Annual International Symposium on Computer Architecture (ISCA), April 1994.
+
+ps
+ps.Z
+ps.gz
+
+
+ Wisconsin Wind Tunnel 
+
+
+
+The Wisconsin Wind Tunnel:  Virtual Prototyping of Parallel Computers.
+Steven K. Reinhardt,
+Mark D. Hill,
+James R. Larus,
+Alvin R. Lebeck,
+James C. Lewis,
+and David A. Wood.
+ACM SIGMETRICS Conference on Measurement & Modeling of Computer Systems, May 1993.
+
+ps
+ps.Z
+ps.gz
+
+
+
+Kernel Support for the Wisconsin Wind Tunnel.
+Steven K. Reinhardt, Babak Falsafi, and David A. Wood.
+Usenix Symposium on Microkernels and Other Kernel Architectures, September 1993.
+
+ps
+ps.Z
+ps.gz
+
+
+ Cooperative Shared Memory / Dir1SW 
+
+
+
+
+Cooperative Shared Memory: Software and Hardware for Scalable Multiprocessors.
+Mark D. Hill, James R. Larus, Steven K. Reinhardt, and David A. Wood.
+ACM Transactions on Computer Systems (TOCS), November 1993.
+(A version of this paper originally appeared at ASPLOS V.)
+ps
+ps.Z
+ps.gz
+
+
+
+Mechanisms for Cooperative Shared Memory.
+David A. Wood,
+Satish Chandra,
+Babak Falsafi,
+Mark D. Hill,
+James R. Larus,
+Alvin R. Lebeck,
+James C. Lewis,
+Shubhendu S. Mukherjee,
+Subbarao Palacharla, and
+Steven K. Reinhardt.
+20th Annual International Symposium on Computer Architecture (ISCA), May 1993.
+
+ps
+ps.Z
+ps.gz
+
+
+
+
+
+Back to Steve's home page
+
+
+
+
+Last Updated: June 6, 1996
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

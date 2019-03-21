@@ -1,0 +1,53 @@
+Server: Netscape-Enterprise/2.0a
+Date: Tue, 14 Jan 1997 23:09:37 GMT
+Accept-ranges: bytes
+Last-modified: Fri, 15 Nov 1996 18:18:45 GMT
+Content-length: 3232
+Content-type: text/html
+
+
+
+
+
+
+
+
+
+Topics:
+Data Structures
+1. Searching Algorithms
+[ Site
+1
+2. Sorting Algorithms
+[ Site
+1
+3. Queues [Site
+1, 
+4. Stacks [Site
+1, 
+5. Linked List [Site
+1, 
+6. Graphs [ Site
+1,
+7. Binary Trees [ Definition,
+Animation
+Example, ]
+
+a. Binary [ Site
+1, Download Source]
+b. Balanced [OPSIS, Site
+1, Site
+2, Efficiency,
+Download Source]
+c. SPLAY [ Demo,
+Dowload Source ]
+d. Tree Search [Site
+1, 
+d. Others [ Site
+1, Site
+2, Examples,
+Examples
+2 ]
+
+
+

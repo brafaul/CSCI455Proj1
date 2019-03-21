@@ -1,0 +1,148 @@
+Date: Tue, 10 Dec 1996 14:28:56 GMT
+Server: Apache/1.0.0
+Content-type: text/html
+Content-length: 3638
+Last-modified: Thu, 29 Feb 1996 18:47:19 GMT
+
+Assorted links to Java pages 
+
+Chris' Java Jump Page
+
+Last update: 29-Feb-96
+
+
+
+"They have been at a great feast of languages, and stolen the scraps."
+
+- William Shakespeare,  Love's Labour's Lost
+
+
+
+
+Sun links
+
+
+
+Java home page
+Java FAQ
+The HotJava browser
+The Java 
+developer's kit
+Java language 
+
+tutorial
+
+documentation page
+
+demo applets
+
+
+
+Developer's resources
+
+Digital Focus
+
+The Java Developer
+Stephen R. Pietrowicz's
+
+Java information page
+ Elliotte Rusty Harold's 
+
+Cafe Au Lait
+Gamelan
+Nelson Yu has an unofficial
+
+AWT tutorial 
+
+
+
+
+
+Contributed classes
+
+
+
+AlphanumStreamTokenizer
+is a workaround for the fact that StreamTokenizer won't give you
+a number (or anything starting with a digit) as a string token.
+
+
+
+
+
+Misc
+
+
+
+Java news group.
+elisp files for a java mode in emacs at 
+ftp://java.sun.com/java/contrib/emacs/, mirrored at 
+
+ftp://ftp.science.wayne.edu/pub/java/java/contrib/emacs/
+The Toronto JUG
+(Java Users' Group)
+
+
+
+
+UW Java Programming Language Email Conference
+
+I've set up a listproc discussion group/email conference on the
+Java Programming language.  
+[Thanks to cac. Cool service & easy to use].
+It's intended for folks here at the
+U but registration is not limited and the conference is not 
+moderated.  
+To subscribe send email to 
+
+   listproc@u.washington.edu 
+
+containing only
+the line 
+
+   subscribe java_lang &ltyour name here>
+
+This group should
+be smaller and more newbie-friendly than the usenet conference comp.lang.java,
+which is also recommended.
+
+
+
+
+Ports
+
+
+OSF is coordinating a bunch of ports.  
+You can download [at no charge ] the software from the OSF Open Mall at
+http://www.osf.org/mall/
+
+Linux link?
+
+
+
+Psst!
+
+Actually, Java is an island in the archipelago that forms the
+republic of
+
+Indonesia.  It's has the fourth largest population of any
+nation, enormous oil reserves, great 
+
+music
+and a horrific level of 
+
+political violence.
+Ever heard of 
+
+East Timor?
+
+
+
+This page is maintained by
+
+Chris Abajian
+Please 
+
+email
+
+me about any interesting Java pages or applets you want me to add.

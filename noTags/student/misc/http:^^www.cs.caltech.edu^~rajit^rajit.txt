@@ -1,0 +1,71 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:01:49 GMT
+Content-Type: text/html
+Content-Length: 2238
+Last-Modified: Monday, 14-Oct-96 07:31:45 GMT
+
+
+
+Rajit Manohar
+
+
+Rajit Manohar 
+B.S. 1994, California Institute of Technology;
+M.S. 1995, California Institute of Technology.
+
+Graduate student, Computer Science, Caltech (with a little "t"!).
+
+
+ Contact Information:
+ Department of Computer Science 256-80
+California Institute of Technology
+Pasadena, CA 91125.
+
+
+Office (=home) phone: (818) 395-6498
+Fax: (818) 792-4257
+rajit@cs.caltech.edu
+
+ Research:
+I work on 
+asynchronous VLSI design
+with Prof. Alain Martin. 
+Apart from that, I am interested in a number of other subjects including
+scalable parallel computing, formal methods, programming language semantics, 
+neural networks, and information theory. 
+
+
+ Publications / Talks
+
+
+ Teaching:
+ Fall 1996-97: Instructor for 
+CS
+139, a course on synchronization issues in concurrent
+computation. It has become apparent that I'm also going to be an
+unofficial TA for CS/EE 181.
+
+ Winter 1996-97: Instructor for 
+CS/EE 181, a VLSI
+design laboratory.
+
+ Spring 1996-97: Co-intructor for 
+CS/EE 181, a VLSI
+design laboratory.
+
+
+
+ Other:
+ You can find out a bit about
+me
+if you like. Once in a while (when I get really really bored) I write 
+scripts to do various things on the
+www.  
+Here are some
+quotations
+I'd like to share.
+
+
+
+

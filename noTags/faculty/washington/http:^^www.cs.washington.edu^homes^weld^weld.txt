@@ -1,0 +1,97 @@
+Date: Thu, 21 Nov 1996 20:21:00 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 23 Oct 1996 21:20:39 GMT
+Content-length: 4550
+
+
+
+  Daniel S. Weld      
+
+
+
+ Daniel S. Weld is Associate Professor of  Computer Science and Engineering
+at the  University of
+Washington. He received bachelor's degrees in both  Computer Science and Biochemistry at Yale University in 1982.  He landed a Ph.D.
+from the  MIT Artificial Intelligence Lab in 1988,
+received a Presidential Young Investigator's award in 1989 and an Office of Naval Research Young
+Investigator's award in 1990. Weld  is on the
+advisory board for the  Journal of AI
+Research, was guest editor for Computational Intelligence, edited the
+ AAAI report on the  Role of
+Intelligent Systems in the National Information Infrastructure, and is
+co-Program Chair for AAAI-96.  Weld has published two books and scads of
+ 
+technical papers.  
+
+
+
+Personal Data: Here's how to reach him:
+
+ Office: 408 Sieg Hall
+ Phone: (206) 543-9196 (work); 543-2969 (FAX); 523-9058 (home) 
+ Mail: Dept. of Computer Science and Engineering, 
+Box 352350, University of Washington, Seattle
+WA 98195-2359
+
+
+
+Research Interests: Weld's current research interests are in 
+
+Artificial intelligence, specifically 
+software agents and  planning.
+As one example, Weld's group supports the 
+UCPOP planner, which is being used at almost one hundred sites
+worldwide. Many of Weld's papers are available electronically; here are
+his current favorites: 
+
+
+ 
+Representing Sensing Actions: The Middle Ground Revisited (KR-96, Nov 1996) 
+
+ 
+Planning to Gather Information (AAAI-96, August 1996)
+
+
+  
+Planning-Based Control of Software Agents  (AIPS-96, May 1996) 
+
+  A
+Scalable Comparison-Shopping Agent for the World-Wide Web (January '96)
+
+  
+A  Softbot-Based Interface to the Internet  (CACM, July '94)
+
+  An
+Introduction to Least-Commitment Planning (AI Magazine, Winter '94)
+
+
+
+Or select from a more  exhaustive
+list. 
+
+ 
+ 
+Recreation: When absent from his office, Weld can be found
+at Cafe Allegro or in the 
+
+stormy
+mountains, 
+
+climbing. In the past, he enjoyed  traveling the
+world, but now he's more likely to be found playing with his twin boys
+ 
+Adam and Galen.
+ You are invited to visit his gallery of 
+Pacific Northwest and   
+Desert wilderness photographs.  See also his illustrated story about 
+
+Morocco.
+
+
+
+
+
+	weld@cs.washington.edu
+	
+

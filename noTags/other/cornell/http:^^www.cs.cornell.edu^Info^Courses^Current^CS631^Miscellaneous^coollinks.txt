@@ -1,0 +1,66 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:41:47 GMT
+Content-Type: text/html
+Content-Length: 3728
+Last-Modified: Saturday, 31-Aug-96 01:31:51 GMT
+
+
+Some useful links related to Multimedia Systems
+
+
+Some useful links related to Multimedia Systems
+Usenet Frequently Asked Question (FAQs)
+
+ 
+ Color Space FAQ
+ 
+ Gamma FAQ
+ 
+
+    Audio FAQ
+ 
+ MPEG FAQ
+ 
+ JPEG FAQ
+ 
+ Compression FAQ
+
+
+ Miscellaneous
+
+ 
+MPEG audio example
+ 
+Multimedia Backbone
+
+MPEG FAQ
+ 
+Rob's Multimedia Lab
+ 
+DT5: Desktop Video Conferencing Product Survey
+ 
+Apple Computer Video Glossary
+ 
+Digital Video
+ 
+Digital Audio
+ 
+JPEG Compression Examples
+ Desktop Video Glossary
+ A Technical Introduction to Digital Video
+ CS 294-3: Multimedia Systems and Applications
+ JPEG Compression Example
+ Real Time Video and Audio in the World Wide Web
+ Digital Audio
+ The Medusa Applications Environment
+ The VuSystem: A Programming System for Visual Processing of Digital Video
+ PLANET EARTH HOME PAGE - MOVIES AND VIDEO INFORMATION
+
+
+
+
+
+
+CS631 home page
+

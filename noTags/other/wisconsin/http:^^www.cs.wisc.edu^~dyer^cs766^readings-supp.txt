@@ -1,0 +1,209 @@
+Date: Mon, 11 Nov 1996 17:30:28 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 15 Nov 1995 23:45:04 GMT
+Content-length: 8680
+
+
+
+CS 766 Supplementary Reading Sources
+
+
+CS 766 Supplementary Reading Sources
+
+
+Image Processing Textbooks
+
+R. C. Gonzalez and R. E. Woods,
+Digital Image Processing,
+Addison-Wesley, Reading, Mass., 1992.  
+
+J. C. Russ,
+The Image Processing Handbook,
+CRC Press, Boca Raton, Fl., 1992.  
+
+W. K. Pratt,
+Digital Image Processing,
+2nd ed.,
+Wiley, New York, 1991.
+
+A. K. Jain,
+Fundamentals of Digital Image Processing,
+Prentice Hall, Englewood Cliffs, N.J., 1989.
+
+
+Computer Vision Textbooks
+
+
+D. H. Ballard and C. M. Brown,
+Computer Vision,
+Prentice-Hall, Englewood Cliffs, N.J., 1982. 
+
+R. M. Haralick and L. G. Shapiro,
+Computer and Robot Vision, Vols. I and II,
+Addison-Wesley, Reading, Mass., 1992.  
+
+V. S. Nalwa, A Guided Tour of Computer Vision,
+Addison-Wesley, Reading, Mass., 1993.  
+
+B. K. P. Horn,
+Robot Vision,
+McGraw-Hill, New York, 1986.
+
+O. Faugeras,
+Three-Dimensional Computer Vision,
+MIT Press, Cambridge, Mass., 1993.  
+
+
+Computer Vision Monographs
+
+
+D. Marr,
+Vision,
+Freeman, San Francisco, 1982.
+
+J. Aloimonos and D. Shulman,
+Integration of Visual Modules: An Extension of the Marr Paradigm,
+Academic Press, New York, 1989.
+
+J. Koenderink,
+Solid Shape,
+MIT Press, Cambridge, Mass., 1990. 
+
+W. E. L. Grimson,
+Object Recognition by Computer: The Role of Geometric Constraints,
+MIT Press, Cambridge, Mass., 1990.  
+
+B. A. Wandell, Foundations of Vision,
+Sinauer, Sunderland, Mass., 1995.  
+
+
+Paper Collections: General
+
+
+M. Fischler and O. Firschein, eds.,
+Readings in Computer Vision,
+Morgan Kaufmann, Los Altos, Ca., 1987.
+
+R. Kasturi and R. C. Jain, eds.,
+Computer Vision: Principles, and
+Computer Vision: Advances and Applications,
+IEEE Computer Society Press, Los Alamitos, Ca., 1991.  
+
+
+Paper Collections: Special Topics
+
+
+C. M. Brown and D. Terzopoulos, eds.,
+Real-time Computer Vision,
+Cambridge University Press, Cambridge, 1994.  
+
+J. L. Mundy and A. Zisserman, eds.,
+Geometric Invariance in Computer Vision,
+MIT Press, Cambridge, Mass., 1992.  
+
+Y. Aloimonos, ed.,
+Active Perception,
+Lawrence Erlbaum, Hillsdale, N.J., 1993.  
+
+A. Blake and A. Yuille, eds.,
+Active Vision,
+MIT Press, Cambridge, Mass., 1992.  
+
+L. B. Wolff, S. A. Shafer and G. E. Healey, eds.,
+Physics-Based Vision: Principles and Practice
+(in three volumes: Shape Recovery, Radiometry, and Color), 
+Jones and Bartlett, Boston, 1992.  
+
+A. K. Jain and P. J. Flynn, eds.,
+Three-Dimensional Object Recognition Systems,
+Elsevier, Amsterdam, 1993.  
+
+
+Papers
+
+Sensors
+
+J. Blinn, The world of digital video, 
+IEEE Computer Graphics and Applications 12(5),
+1992, 106-112.
+J. Blinn, NTSC: Nice technology, super color,
+IEEE Computer Graphics and Applications 13(2),
+1993, 17-23.
+P. Besl, Active, optical range image sensors,
+Machine Vision and Applications 1(2), 
+1988, 127-152.
+S. Sinha and R. Jain, Range image analysis, in
+Handbook of Pattern Recognition and Image Processing: Computer Vision,
+T. Young, ed., Academic Press, New York, 1994, 185-237.
+
+Image Processing
+Human-Computer Interface
+
+F. Quek, Eyes in the interface,
+  Image and Vision Computing 13(6), 1995, 511-525.
+  C. Tomasi and L. Guibas,
+  Image Descriptions for Browsing and Retrieval,
+  Proc. Image Understanding Workshop, 1994.  
+  W. Freeman and M. Roth,
+  Orientation Histograms for Hand Gesture Recognition,
+  Proc. Int. Workshop Automatic Face and Gesture Recognition,
+  1995.
+  W. Freeman and C. Weissman,
+  Television control by hand gestures,
+  Proc. Int. Workshop Automatic Face and Gesture Recognition,
+  1995.
+  J. Rehg and T. Kanade,
+  DigitEyes: Vision-Based Human Hand Tracking,
+  CMU TR CMU-CS-93-220, 1993.
+  R. Cipolla, et al., Uncalibrated Stereo Vision with Pointing for a Man-Machine Interface,
+  Machine Vision and Applications, 1994.  (file called cipolla_mva94.ps.Z)
+  A. Gee and R. Cipolla, Non-Intrusive Gaze Tracking for Human-Computer Interaction,
+  Proc. Mechantronics and Machine Vision in Practice, 1994, 112-117 (file called gee_mmvip.ps.Z).
+  A. Gee and R. Cipolla, Determining the Gaze of Faces in Images,
+  University of Cambridge Technical Report CUED/F-INFENG/TR 174, 1994 (file called gee_tr174.ps.Z).
+  A. Gee and R. Cipolla,
+  Fast Visual Tracking by Temporal Consensus, University of Cambridge Technical Report
+  CUED/F-INFENG/TR 207, 1995 (file called gee_tr207.ps.Z). 
+  Y. Yacoob, H. Lam, and L. Davis,
+  Recognizing Faces showing Expressions, Proc. Int. Workshop on Gesture and Face Recognition, 1995.
+  (Plus see other papers by Yacoob on the web.)
+
+Mosaics
+
+R. Szeliski, Image mosaicing for tele-reality applications, DEC CRL Technical Report 94/2, 1994.
+  R. Szeliski and S. Kang, Direct methods for visual scene reconstruction,
+  Proc. Workshop on Representation of Visual Scenes, 1995, to appear.
+  R. Kumar, P. Anandan, M. Irani, J. Bergen, and K. Hanna, Representation of scenes from collections of images, Proc. Workshop on Representation of Visual Scenes, 1995, to appear.
+  M. Hansen, P. Anandan, K. Dana, G. van der Wal, and P. Burt,
+  Real-time scene stabilization and mosaic construction,
+  Proc. Image Understanding Workshop, 1994, 457-465.  
+  P. Burt and P. Anandan, Image stabilization by registration to a reference mosaic,
+  Proc. Image Understanding Workshop, 1994, 425-434.  
+  M. Irani and S. Peleg, Improving resolution by image registration,
+  Computer Vision, Graphics, and Image Processing: Graphical Models and Image Processing 53, 1991, 231-239.
+  S. Chen, QuickTime VR - An image-based approach to virtual environment navigation, Proc. SIGGRAPH '95, 1995, 29-38.
+  L. McMillan and G. Bishop, Plenoptic modeling: An image-based rendering system,
+  Proc. SIGGRAPH '95, 1995, 39-46.
+  L. McMillan, Acquiring immersive virtual environments with an uncalibrated camera,
+  University of North Carolina Technical Report TR95-006, 1995.  
+  S. Mann and R. Picard, Video orbits of the projective group: A new perspective on image mosaicing, MIT Media Lab Technical Report TR-338, 1995.  
+
+ Morphing and View Synthesis
+  
+G. Wolberg, Digital Image Warping, IEEE Computer Society
+  Press, Los Alamitos, Ca., 1990.
+  T. Beier and S. Neely, Feature-based image metamorphosis,
+  Proc. SIGGRAPH '92, 1992, 35-42.
+  S-Y. Lee, K-Y. Chwa, S-Y. Shin, and G. Wolberg,
+  Image metamorphosis using snakes and free-form deformations,
+  Proc. SIGGRAPH '95, 1995, 439-448.  
+  S. Chen and L. Williams, View interpolation for image synthesis,
+  Proc. SIGGRAPH '93, 1993, 279-288.
+  S. Seitz and C. Dyer, Physically-valid view synthesis by image
+  interpolation, Proc. Workshop on Representation of Visual Scenes,
+  1995, to appear.  
+  
+
+
+

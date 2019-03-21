@@ -1,0 +1,111 @@
+Date: Mon, 25 Nov 1996 23:14:31 GMT
+Server: NCSA/1.5.1
+Last-modified: Thu, 10 Oct 1996 20:10:27 GMT
+Content-type: text/html
+Content-length: 4407
+
+
+Bill Birmingham's Homepage
+
+
+Bill Birmingham
+
+Associate Professor  
+Department of
+Electrical Engineering and Computer Science 
+University of Michigan 
+Joint Appointment with
+ School of Information (SI) 
+
+Office Address: 
+128 ATL Building 
+1101 Beal Avenue 
+Ann Arbor, MI 48109-2110 
+
+Email: wpb@umich.edu 
+Phone: (313) 936-1590 
+FAX:   (313) 763-1260 
+
+Video (CU-See Me): 141.212.36.20 
+
+Lab Affiliations
+
+  Artificial Intelligence Laboratory
+ Collaboratory for Research in Electronic Work (CREW) 
+
+A  Brief bio  is available.
+
+ Research Interests 
+
+
+
+The study of design is the study of intelligent behavior. Humans are unique
+in their ability to design artifacts to change the environment around them, both physical and intellectual. Thus, the study of design is central to the study of
+artificial intelligence.  
+The following projects blend research in agent-based systems (decentralized control, with opportunistic interaction to achieve design goals), optimization,
+and knowledge systems.
+
+
+ 
+Automated Configuration Design Service (ACDS) : is a multi-agent 
+concurrent-engineering system for designing artifacts from part catalogs. 
+  
+Hierarchical Concurrent Engineering : extends the ACDS framework to support optimization in hierarchical organizations, which are typical in large design organizations.
+
+I also am involved in 
+The University of Michigan's Digital Library Project , where I lead the development of the agent architecture.
+
+ Some research papers  are available (more 
+on the way).
+
+Graduates students in my research group:
+Tim Darr
+Joe D'Ambrosio
+Frtiz Freiheit
+Sun Park
+Eric Glover
+Susan McDaniel
+
+
+My students and I meet once a week to discuss research papers that are related 
+to our work, or are just plain fun. Any student or faculty member 
+is welcome to these meetings. The  schedule of topics  is available.
+
+ Teaching Activities: 
+
+  School of Information : SI 609:
+   
+"Foundations"  (Fall '96)
+EECS 373: Design of 
+Microprocessor-based systems (Fall '96)
+EECS 543:
+ Knowledge Systems  (Fall '95)
+EECS 592: Advanced Artificial Intelligence. 
+(Winter '96)
+
+
+ Associated activities 
+I'm on the editorial board of the following publications:
+
+  Artificial 
+Intelligence for Engineering Design, Analysis and Manufacture  (AI EDAM)
+  IEEE Expert 
+
+
+ Other Stuff 
+My wife,  Stacy
+ Bike , is a professor in the 
+ Chemical Engineering Department. 
+Back by popular demand: See 
+who 
+engineered the greatest peacetime economic expansion. 
+
+Interested in digital libraries? Check out the 
+lastest research, news, and related activities.
+ 
+
+
+
+
+Last Updated: 9/3/96
+

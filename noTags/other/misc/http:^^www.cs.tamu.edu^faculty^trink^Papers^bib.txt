@@ -1,0 +1,197 @@
+Date: Wed, 15 Jan 1997 00:27:40 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 8363
+Last-modified: Wed, 16 Oct 1996 18:21:58 GMT
+
+	 Trinkle's Available Publications
+ Available Publications
+Bibliography
+
+Please note that the copyrights of the papers with full citations below
+have been signed over to the publishers.
+
+Journal Papers
+
+	J.S. Pang and J.C. Trinkle, "Dynamic Multi-Rigid-Body Systems with
+	Concurrent Distributed Contacts," submitted to the Journal of
+	Applied Mechanics.
+ Abstract only or
+	Full paper in  B&W PostScript.
+	
+ D.E. Stewart
+	 and J.C. Trinkle,
+	"An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Coulomb
+	Friction,"
+	 International Journal of Numerical Methods in Engineering,
+    	in press.
+	 Abstract only or
+	Full paper in  B&W PostScript.
+	
+	J.C. Trinkle, J.S. Pang,
+	
+	S. Sudarsky,
+	and G. Lo,
+	"On Dynamic Multi-Rigid-Body Contact Problems with Coulomb Friction,"
+	 Zeithschrift fur Angewandte Mathematik und Mechanik,
+	accepted.
+	 Abstract only or
+	Full paper in  B&W PostScript.
+	
+	J.S. Pang and J.C. Trinkle,
+	"Complementarity Formulations and Existence of Solutions of Dynamic
+	Multi-Rigid-Body Contact Problems with Coulomb Friction,"
+	 Mathematical Programming, to appear.
+	 Abstract only or
+	Full paper in  B&W PostScript.
+	
+	J.C. Trinkle,
+	 A.O. Farahat
+	and  P.F. Stiller,
+	"First-Order Stability Cells of Active Multi-Rigid-Body Systems,"
+	 IEEE Transactions on Robotics and Automation,
+11(4):545-557.
+	 Abstract only or
+	Full paper in  B&W PostScript .
+	
+	J.S. Pang, J.C. Trinkle, and G. Lo,
+	"A Complementarity Approach to a Quasistatic Rigid Body Motion Problem,"
+	 Journal of Computational Optimization and Applications ,
+	in press.
+	 Abstract only or
+	Full paper in  B&W PostScript .
+	
+ A.O. Farahat,
+	 P.F. Stiller ,
+	and J.C. Trinkle,
+	"On the Geometry of Contact Formation Cells for Systems of Polygons,"
+	 IEEE Transactions on Robotics and Automation,
+	11(4):522-536.
+	 Abstract only or
+	Full paper in  B&W PostScript .
+	
+	J.C. Trinkle and
+	 D.C. Zeng,
+	"Prediction of the Quasistatic Planar Motion of a Contacted Rigid Body,"
+	 IEEE Transactions on Robotics and Automation,
+	11(2):229-246.
+	 Abstract only or
+	Full paper in  B&W PostScript .
+	
+	J.C. Trinkle,
+	"On the Stability and Instantaneous Velocity of Grasped Frictionless Objects,"
+	 IEEE Transactions on Robotics and Automation,
+	8(5):560-572.
+	 Abstract only
+
+	J.C. Trinkle and
+	 R.P. Paul,
+	"Planning for Dexterous Manipulation with Sliding Contacts,"
+	 International Journal of Robotics Research,
+	9(3):24-48.
+	
+	J.C. Trinkle and
+	 R.P. Paul,,
+	"The Initial Grasp Liftability Chart,"
+	 IEEE Transactions on Robotics and Automation,
+	5(1):47-52.
+	
+	J.C. Trinkle, J.M. Abel, and
+	 R.P. Paul,,
+	"An Investigation of Frictionless Enveloping Grasping in the Plane,"
+	 International Journal of Robotics Research,
+	7(3):33-51.
+	
+	M. Hubbard and J.C. Trinkle,
+	"Clearing Maximum Height with Constrained Kinetic Energy,"
+	 Journal of Applied Mechanics,
+	52(1):179-184.
+	
+Conference Papers
+
+	J.C. Trinkle, S.L. Yeap, and L. Han
+	"When Quasistatic Jamming is Impossible,"
+	 IEEE International Conference on Robotics and Automation,
+	pp 3401-3406, Apr. 1996.
+	 Abstract only or
+	Full paper in  Color PostScript .
+	
+J.D. Wolter
+	and J.C. Trinkle,
+	"Automatic Selection of Fixture Points for Frictionless Assemblies,"
+	 IEEE International Conference on Robotics and Automation,
+	vol. 1, pp 528-534, May 1994.
+	 Abstract only or
+	Full paper in  B&W PostScript .
+	
+	D.E. Stewart and J.C. Trinkle,
+	"Dynamics, Friction, and Complementarity Problems,"
+	International Conference on Complementarity Problems,
+	Johns Hopkins University, Baltimore, Nov. 1995.
+	 Abstract only or
+	Full paper in  B&W PostScript .
+	
+	J.C. Trinkle,
+	 A.O. Farahat,
+	and  P.F. Stiller ,
+	"Second-Order Stability Cells of Frictionless Rigid-Body Systems,"
+	 IEEE International Conference on Robotics and Automation,
+	vol. 4, pp 2815-2821, May 1994.
+	 Abstract only or
+	Full paper in  B&W PostScript 
+	(One figure is missing and one is incomplete).
+	
+	J.C. Trinkle,
+	 R.C. Ram,
+	 A.O. Farahat,
+	and  P.F. Stiller ,
+	"Dexterous Manipulation Planning and Execution of an Enveloped Slippery
+	Workpiece,"
+	 IEEE International Conference on Robotics and Automation,
+	vol. 2, pp 442-448, May 1993.
+	 Abstract only or
+	Full paper in  B&W PostScript .
+	
+	J.C. Trinkle,
+	"A Quantitative Test for Form-Closure Grasps,"
+	 IEEE International Conference on Intelligent Robots and Systems ,
+	pp 1650-1657, July 1992.
+	 Abstract only
+
+	J.C. Trinkle and J.J. Hunter,
+	"A Framework for Planning Dexterous Manipulation,"
+	 IEEE International Conference on Robotics and Automation,
+	pp 1245-1251, May 1991.
+	 Abstract only
+
+	J.C. Trinkle,
+	"A Quasi-Static Analysis of Dexterous Manipulation with Sliding and
+	Rolling Contacts,"
+	 IEEE International Confrence on Robotics and Automation ,
+	pp 788-793, May 1989.
+	 Abstract only
+
+	M. Hubbard and J.C. Trinkle,
+	"Optimal Fosbury Flop High Jumping,"
+	 9th International Congress on Biomechanics ,
+	pp 308-312, Aug. 1983.
+
+	    Technical Reports
+	J.C. Trinkle, J.S. Pang,
+	
+	S. Sudarsky, and G. Lo,
+	"On Dynamic Multi-Rigid-Body Contact Problems with Coulomb Friction,"
+	 Tech Report 95-003, Texas A&M University, Department of Computer
+	Science,
+ Abstract only or
+	Full paper in  B&W PostScript.
+	This paper is the long/full version of the one above in ZAMM.
+
+
+	
+
+	To 
+	Trinkle's home page .  
+ 
+	trink@cs.tamu.edu   16  October 1996 
+

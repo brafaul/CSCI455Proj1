@@ -1,0 +1,152 @@
+Date: Tue, 05 Nov 1996 00:24:02 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+
+
+
+
+
+ IEEE RAS Technical Committee on Robot Motion 
+and Path Planning 
+
+
+
+   IEEE RAS Tech. Committee  
+on Robot Motion & Path Planning      
+  Groups active in motion planning 
+research   
+ This is a partial list of people and organizations involved in
+research on automatic motion planning. At this time, one name for
+contact (noted by "c:") is given for each organization. The areas covered include
+both theory and applications of motion planning methodology:
+robotics, computational geometry, control systems, CAD-CAM design
+etc.  Those interested in adding, deleting, or correcting
+information on this list, please send your messages to
+        lumelsky@engr.wisc.edu.   
+  In the future, we may want to provide more than just names and
+addresses, so please add few words about your group: the name of the
+group; your position; nature of work; any software that your group
+can post so that people can try it; if available, a Web link to a
+page with more information. 
+
+We expect this list to grow, both in volume and diversity of
+information it provides. For example, one section to add is a
+bulletin of events that are of interest to this group; those
+interested in posting such information please send it to us. Advices
+on how we can make this page more effective are most welcome.
+ 
+ 
+
+ 
+
+AUSTRALIA 
+  Australian National University, Canberra. c:
+Jon Kieffer, jon.kieffer@anu.edu.au  
+
+
+CANADA   McGill University, Montreal. c: Vincent Hayward,
+hayward@cim.mcgill.ca 
+Simon Fraser University, Burnaby, B.C. c: Kamal Gupta, kamal@cs.sfu.ca
+
+
+
+FRANCE
+
+INRIA-Grenoble.  c: Christian Laugier, laugier@imag.fr
+
+LAAS-CNRS, Toulouse. c: J.P. Laumond, jpl@laas.fr 
+
+
+GERMANY
+
+
+German Aerospace Research Establishment, Wessling. c: G. Hirzinger,
+gerd.hirzinger@dlr.de  
+
+
+GREECE
+
+
+National Technical University of Athens. c: K. Kyriakopoulos,
+kkyria@central.ntua.gr   
+
+
+INDIA
+
+  Centre for Artificial Intelligence & Robotics,
+Bangalore. c: M. Vidyasagar, sagar@cair.ernet.in
+
+
+
+ITALY
+
+ Universita di Roma "La Sapienza".  c: Allessandro De Luca,
+adeluca@giannutri.caspur.it
+
+
+ISRAEL
+
+ Technion, Haifa. c: Ehud Rivlin
+ 
+
+
+JAPAN
+
+ University of Tokyo. c: Suguru Arimoto, 
+arimoto@arimotolab.t.u-tokyo.ac.jp  
+ University of Nagoya. c: Toshio Fukuda, 
+d43131a@nucc.cc.nagoya-u.ac.jp 
+
+
+SPAIN
+
+
+Jaume-I University,  Castellon. c: Angel P. del Pobil,
+pobil@inf.uji.es 
+
+
+SWEDEN 
+  University of Linkoping. c: Bernt Nilsson,
+berni@ikp.liu.se  
+ 
+UNITED KINGDOM
+    
+Oxford University. c: Stephen Cameron,
+stephen.cameron@comlab.ox.ac.uk  
+        
+
+USA
+
+ California Institute of Technology, Pasadena. c: Joel Burdick,
+jwb@robby.caltech.edu
+
+ Carnegie Mellon University, Pittsburg. c: Michael Erdmann,
+me+@h.gp.cs.cmu.edu
+
+
+General Electric Research Center, Schenectady. c: Hsuan Chang,
+changhs@crd.GE.COM   
+ Sandia Labs, Albuquerque.  c: Yong K. Hwang, hwang@isrc.sandia.gov  
+  Stanford University Robotics Lab. 
+c:  Jean-Claude Latombe, latombe@cs.stanford.edu 
+
+
+University of California-Berkeley . c: John Canny,
+jfc@ernie.berkeley.edu 
+ University of Illinois/Champaign-Urbana. c: Seth Hutchinson,
+seth@cs.uiuc.edu 
+ University of Massachusetts-Amherst. c: Roderic Grupen,
+grupen@cs.umass.edu   
+  
+University of Minnesota, Minneapolis.   
+c: Maria Gini,  gini@cs.umn.edu  
+  University of Wisconsin
+Robotics Lab, Madison.  
+c: Vladimir Lumelsky, lumelsky@engr.wisc.edu 
+
+
+ 
+Back to Robotics Lab Home Page 
+
+
+

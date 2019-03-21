@@ -1,0 +1,165 @@
+Date: Tue, 05 Nov 1996 21:45:41 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 20 Sep 1996 16:19:41 GMT
+Content-length: 7270
+
+
+
+Personal Info
+
+
+ Personal Info
+This is a very brief introduction of myself. If you are interested
+in talking with me, please contact me directly at
+ ywei@math.wisc.edu.
+
+
+ Education
+
+
+Univesity of Wisconsin-Madison
+	, - August 1994 to present
+ Ph.D. Candidate in Computer Science
+	 M.S. in Computer Science, December 1995.
+	 GPA: 3.95/4.0
+
+
+
+
+	Peking University, Beijing 
+	China-
+	September 1988 to July 1994
+B.S. in Computer Science 
+	B.A. in Mathematics
+
+
+ Experience 
+
+1996 Summer: Xerox, DITC, Webster, NY  
+Technical Intern. Worked on a color-image processing project.
+1995 Summer: UW-Madison, WI 
+Research Assistant. Conducted some research on off-line hand writing recognition, under the direction of professor Dyer.
+1992-1994: Graduate School of Peking University, Beijing, China.
+Research Assistant. Developped an Multimedia CAI(Computer-Aided Instruction) System, based on MDK(Multimedia Development Kit) of M.S. Windows 3.1, combining voice, graphic, text and animation together.
+1992: Great Wall Computer Company, Beijing, China.
+Technical Intern. Worked on an Image Processing Project. My works in this project including noise removal, sharping, motion blur and edge detection.
+1990-1991: Peking University, Beijing, China.
+Work in a Scientific Visualization Project. My job in this project is to draw 3-D mathematical equations and show the intersection, union and difference of any number of equations.
+
+
+
+Courses I enjoy in Madison
+
+
+CS458-Computer Graphics.
+My final project was a 3-D walking robotic, using Phigs and Motif. 
+Here is the Code.
+
+
+CS533-Image Processing.
+There are several projects in the course, such
+as motion blur an image, noise removal, etc., using software MatLab 
+
+
+CS540-Artificial Intelligence.
+
+    There was a programming competition in the class: a robotic want to clean the dirts
+in a room, and we are asked to write a heuristic function which minimizes both the length of walking route and 
+the running time to find that route. I won the
+    first place. Here is my Code.
+
+
+CS736-Advanced Operating System.
+Paper reading course. My final project was a Thread Management Package which includes all the nessesary feature of an
+ordinary Thread Package. I also built 3 applications based on my package: Producer/Consumer problem,
+Client/Server model and Quick Sort . Here is the Code.
+
+
+CS764-Database.
+Paper reading course which covered almost all the advanced topics of database. My final project is Moving the moose DBMS from Informix to Shore. Here is the code and final report.
+
+
+CS766-Computer Vision.
+Paper Reading course. HW including Skeleton, Image spline and Snake. My final project is the Image Mosaicing.Here is the code and final report. 
+
+
+CS990-Independent Study.
+My advisor was professor Dyer. My research topic is the 
+    off-line    
+    handwriting recognition. Here is the final report in PostScript format.
+
+
+CS532: Pattern Recognition
+ 
+
+
+CS558: Computional Geometry
+ 
+
+
+ECE602: Neural Network
+ 
+
+
+CS838: Information Retrieval
+ 
+
+
+Awards
+
+TA, UW-Madison, 1994-now
+First place, AI Programming Competition, 1995
+Scholarship, Peking University, 1990
+First class prize, National Mathematics Competition, 1986 
+
+
+Publications
+
+"Algorithms for font Transformation", Computer Software, 1990. (P.R.China)
+"Implementation of a Multimedia CAI System", Technical Report, Peking Univ., Beijing 100871, China, 1994. 
+
+
+Research Interest
+
+Computer Graphics, Image Processing, Computer Vision, Pattern Recognition, Computational Geometry, Multimedia and image database.
+
+
+Technical Knowledge
+
+
+Software Environments:
+
+UNIX (4.3BSD & Sys V)
+X Window, Xlib, Motif
+Graphics tools: RenderMan, Phigs
+Image Processing tools: MatLab, Vista
+Database: ZOO, Shore, SQL
+Neural Network Software Package
+Microsoft  Windows SDK(Software Development Kit)
+
+Software Languages:
+
+fluent in C, C++, Lisp, PASCAL
+
+Hardware:
+
+HP, DEC, SUN, SGI
+
+
+
+
+Activities 
+I am the sport chairman of CIU(China Independent Union). I organized a Bridge 
+game and a Go game this year.
+
+Language Ability
+
+English
+Chinese: my native language
+Japanese: Six years in high school plus four years in Peking University.
+
+
+Last modified by Wei Yinong.
+
+

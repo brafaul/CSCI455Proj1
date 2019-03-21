@@ -1,0 +1,82 @@
+Date: Thu, 21 Nov 1996 20:31:22 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+UW Cecil/Vortex Project
+
+
+UW Cecil/Vortex Project
+
+Welcome to the home page for the Cecil and Vortex projects at UW CSE.  We conduct research on programming language design and implementation, with an emphasis on these issues for object-oriented languages.
+Cecil is a purely object-oriented language intended to support rapid
+construction of high-quality, extensible software.  Cecil incorporates
+multi-methods, a simple prototype-based object model, a mechanism to
+support a structured form of computed inheritance, module-based
+encapsulation, and a flexible static type system which allows
+statically- and dynamically-typed code to mix freely.
+
+
+Vortex is an optimizing compiler infrastructure for
+object-oriented and other high-level languages.  It targets both pure
+object-oriented languages like Cecil and hybrid object-oriented
+languages like C++, Modula-3, and Java.  Vortex currently incorporates
+high-level optimizations such as static class analysis, class hierachy
+analysis, profile-guided receiver class prediction, profile-guided
+selective procedure specialization, intraprocedural message splitting,
+automatic inlining, and static closure analyses.  It also includes a
+collection of standard intraprocedural analyses such as common
+subexpression elimination and dead assignment elimination.  The Vortex
+compiler is written entirely in Cecil.
+
+
+
+An initial beta release of the Cecil/Vortex system is currently
+available for SPARCs running either SunOS 4 or SunOS 5 (Solaris).
+Send mail to cecil-interest-request with a message body of subscribe if you'd like to subscribe to a list of
+interested parties and get more information on how to obtain the
+Beta release.
+
+
+We've recently finished a technical report that describes much of our implementation research.
+
+More Information
+
+
+ Project Overview
+ A more detailed overview of the project's goals and direction.  A postscript version is also available.
+
+
+ Project members
+ Current and past project members
+
+ Papers
+ Papers we've written
+
+
+ Sample Projects
+ A list of some sample research projects (available to people from UW
+CSE)
+
+
+ Internal Documentation
+ Project internal documentation (available to people from UW CSE)
+
+
+ Support
+ This page lists some of the sources of support for our project
+
+
+ Some related projects
+ Pointers to a few other object-oriented language implementation projects
+
+
+
+
+
+
+Last updated August 25, 1996. 
+
+cecil@cs.washington.edu
+
+

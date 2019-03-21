@@ -1,0 +1,435 @@
+Date: Wed, 20 Nov 1996 22:16:58 GMT
+Server: NCSA/1.5.1
+Last-modified: Mon, 18 Nov 1996 22:48:55 GMT
+Content-type: text/html
+Content-length: 12996
+
+
+ CPS 108 Software Design and Implementation 
+
+ CPS 108, Software Design and Implementation, Fall 1996 
+
+ Object-oriented programming, design,and analysis 
+
+
+[ 
+Requirements |
+Syllabus |
+Books |
+Assignments |
+Code |
+Project |
+Groups |
+Teaching|
+Tools 
+]
+ 
+
+
+
+
+
+Making a Toonces Presentation
+
+
+
+
+  Overview  
+
+A 
+description of the course and an overview of what is covered.
+
+
+
+  Requirements  
+There will be a large group project (four to six person teams), two
+smaller group projects, and two individual "mastery" projects.  The
+mastery projects are designed to ensure that everyone who completes the
+course is "certified" as capable of writing and understanding reasonably
+complex C++ programs.  Since some people on the large team project may
+not write any C++ code, the mastery projects are necessary for this
+certification. One of the mastery projects will also use Java.  There will
+be at least three written/smaller assignments/programs.
+
+
+
+  Grading 
+ 
+
+ small assignments, class presentation, class participation
+   5 %
+
+ mastery exams
+   20 %
+
+ small group projects
+   35 %
+
+ large group project
+   40 %
+
+
+
+  Syllabus  
+
+The syllabus has information 
+about readings and topics for discussion.
+
+
+  Assignments  
+
+
+
+
+ grepple 
+
+Design due Monday, September 9
+Prototype Friday, September 13
+Final Project due Monday,September 16
+
+
+
+toonces
+
+The Object-Oriented Networked Calendar Extraction
+System
+
+
+Groups for toonces
+
+
+Revised due dates and submission guidelines for design
+ 
+
+
+What to turn in for toonces.
+
+
+
+Making a 
+Toonces presentation.
+
+
+
+
+Mastery I: Templated Deques
+
+Due: October 7 (there will be a group project started
+during this time)
+
+
+
+Mastery II: Boggle/Joggle
+
+Due: December 9
+ 
+Preliminary Joggle Code: see also ~ola/cps108/joggle
+
+ JoggleReader.java
+ JoggleGraph.java
+ JogglePlay.java
+ JoggleFE.java
+ JoggApp.java
+ bogdict.txt
+
+
+
+
+Code Examples
+
+
+
+
+Java in a Nutshell
+All the examples from the O'Reilly book Java in a Nutshell.
+These are accessible here, as source and runnable applets, and also
+in ~ola/cps108/nutshell on both cs and acpub machines.
+
+
+
+
+Templated map classes including an abstract base
+class and two implementations: unsorted vector and
+hash table
+
+
+ map.h (abstract base class)
+ uvmap.h , unsorted vector
+interface
+ uvmap.cc , unsorted vector
+implementation
+ hmap.h , hash table interface
+ hmap.cc  hash table
+implementation
+ 
+ iterator.h iterator
+base class
+ uviterator.h iterator
+class for uv map
+ iterator.cc
+implementation of uvmap iterator
+ hiterator.h iterator
+class for hashtable map
+ hiterator.cc
+implementation of hashtable map iterator
+ iterproxy.h
+proxy class for iterator (pointer proxy)
+
+
+
+
+
+A word tracking program (counts # occurrences of all words
+in a file) that uses map classes is available.
+
+
+ words.cc the main
+source code file
+ templatewords.cc
+the template instantiation file
+ Makefile the
+Makefile (site specific and requiring map classes)
+
+
+
+
+Two views of a menu-driven program for manipulating images.  One is
+non-object oriented (although there is a class used).  The other is very
+object oriented and uses the Command Pattern to implement commands
+used within menus (the menus are text based).
+
+
+First the non object oriented version
+
+ usepix.cc the
+main  program 
+ pixmap.h the
+interface/header file for the Pixmap class (manipulates images)
+ pixmap.cc the
+implementation of the Pixmap class
+
+
+The object oriented version (uses the Pixmap class too)
+
+ application.h
+the main application class interface
+ application.cc
+the main application class implementation
+ 
+ command.h
+the abstract base class for commands
+
+ quitcommand.h
+The quit command class interface
+ quitcommand.cc
+The quit command class implementation
+ readcommand.h
+The read command class interface
+ readcommand.cc
+The read command class implementation
+ 
+displaycommand.h The display command interface
+ 
+displaycommand.cc The display command implementation
+ simpcommand.h
+A templated class (using pointers to member functions) for
+non-parameterized commands.
+
+ menu.h
+The menu class interface
+ menu.cc
+The menu class implementation
+ menuitem.h
+The menu item class interface
+ menuitem.cc
+The menu item class implementation
+
+ filelister.h
+Read one of a list of files (from a hard-wired directory) interface
+ filelister.cc
+
+ templateapp.cc
+template instantiation file
+
+ Makefile
+
+
+
+
+A class for checking memory leaks (very rudimentary) by overloading
+new and delete on a global basis
+
+
+ heapstats.h
+ heapstats.cc
+
+
+
+
+In class design exercises.  Programming in the small and in the large
+
+
+
+
+ TBA
+
+
+
+ TBA
+
+
+
+
+  Books  
+
+There are several books we'll use in the course
+
+
+
+
+
+ Mastering Object-Oriented Design in C++  by Cay Horstmann
+
+
+
+ Java in a Nutshell  by Flanagan
+
+
+
+ Object-Oriented Design Heuristics  by Arthur Riel
+
+
+
+
+ Optional Books 
+
+
+
+ The C++ Programming Language  by Bjarne Stroustrup
+
+
+
+
+
+ Effective C++: 50 Specific Ways to Improve Your Programs
+and Designs  by Scott Meyers
+
+
+
+
+ Design Patterns: Elements of Reusable Object-Oriented Software
+ by the "gang of four"
+
+
+
+ Books on Reserve 
+
+
+
+ The Mythical Man-Month  by Fred Brooks
+
+
+
+ Debugging the Development Process  by Steve Maguire
+
+
+
+  Teaching staff 
+
+
+Support personnel: one professor, two TAs (one TA, one or more UTAs)
+
+
+
+ Professor  
+ Owen Astrachan
+
+
+ Office: D241, LSRC
+ email:  ola@cs.duke.edu
+ or  ola@acpub.duke.edu
+
+ phone: 660-6522
+ office hours: Monday 2:00-3:30, Thursday 11:00-12:30 
+any time for quick questions
+
+
+
+
+ TA  
+ Syam Gadde
+
+
+ Office: D230, LSRC
+ email:  gadde@cs.duke.edu 
+ phone: 660-6516
+ office hours: Tuesday 2:00-3:30, Wednesday 1:00-2:30
+
+
+
+ UTAs 
+Trevor Selby
+
+
+ Office: D240 LSRC
+ email: trevor@cs.duke.edu
+ phone: 660-65xx
+ office hours: 9-11 pm Teer Cluster (needs verification)
+
+
+
+ Groups 
+ Groups 
+
+Groups for the first assignment 
+
+Please fill out the information asked for 
+about groups and group preferences and
+submit it or turn it in during class.
+
+
+  Project  
+
+
+Information not yet available
+
+
+  Programming Tools  
+
+
+
+ GetOpt
+
+Information on parsing command line arguments
+
+
+
+
+using templates
+
+How to instantiate templated classes when using g++ (and some other
+compilers that don't generate template repositories).
+
+
+
+ gprof 
+
+Information on profiling programs
+
+
+
+
+Java References, Code, and Help
+
+
+ 
+Information on CVS and RCS coming
+
+
+
+
+
+
+Back to Owen Astrachan's home page 
+
+

@@ -1,0 +1,331 @@
+Date: Mon, 11 Nov 1996 17:52:37 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 08 Nov 1996 17:29:43 GMT
+Content-length: 10301
+
+
+
+Classes
+
+
+Classes
+A class is an extension of a struct.  I will introduce classes slowly
+by extending the functionality of structs, which we studied last week.
+
+One of the most apparent differences between a class and a struct
+is that, in addition to having "data members" like a struct, a class
+can have "member functions" or "methods".  We can think about these
+member functions as being operations that all objects that belong to
+the class can do.  For example, imagine that we wanted to augment our
+Alien struct that we declared last week so that every Alien is capable
+of giving a greeting.  We would declare our class as so:
+
+
+const int MAXSTR = 20;
+
+class Alien
+{
+  public:
+    char name[MAXSTR];
+    char homePlanet[MAXSTR];
+    int numLegs;
+    int isDeadly;
+
+    void greet(char who[]);
+};
+
+Notice that we have added an additional member, called
+greet to the class Alien.  Unlike the other members, this
+member is not declared to be a variable or array.  This member is a
+prototype for a function which takes an array of characters and
+produces no return value.  We have also added the word public which we
+will talk about later.
+
+
+Now, a prototype is only half of a function.  We need to
+give a function definition.  It could look like this:
+
+
+void Alien::greet (char who[])
+{
+  cout << "Hello " << who
+	<< ", my name is " << name
+	<< " and I am from " << homePlanet
+	<< ".\nLet's be friends for ever!\n";
+}
+
+
+This looks a lot like a normal function definition.  We have a return
+type (void), we have a parameter list (char who[]) and we have some
+code making up the function body.  What is different is the function
+name Alien::greet.  In our class declaration, our prototype
+has only the name greet.  What's going on here?  Well, it is
+possible that more than one class might have a method (member
+function) called greet.  For example, there might be a Robot class and
+it might have a greet method too.  In order to specify which
+greet method we are providing the body for, we need to give the class
+name.  That is why our function is called Alien::greet.  You
+can read this name as meaning "the greet method for the Alien class."
+The :: thing is called the "scope resolution operator."  This is
+because it is used to specify that its second operand (in this case
+"greet") is the one specified in the "scope" of its first operand (in
+this case "Alien").  The :: is used whenever we want to grab a part of
+a class.  We will see additional uses for the :: operator later.
+
+Some of you might be saying, hold on one second, we are using the
+variables "name" and "homePlanet" in the greet method without them
+being declared in the method body.  This is ok.  We will see what this
+means soon.
+
+We have defined the greet method for the Alien class.  Now we
+just need to call it.  Suppose we have a couple of Aliens.
+
+
+// this appears somewhere, maybe in main...
+Alien yoda;
+Alien darth;
+
+
+We have not yet talked about initializing objects.  For the time
+being, assume that yoda has name "Yoda" and home planet "Dagobah" and
+darth has name "Lord Vader" and home planet "the Death Star".  We can
+call the greet functions for both by the code:
+
+
+...
+// this appears somewhere, maybe in main...
+yoda.greet("Dad");
+darth.greet("Mom");
+...
+
+
+We call a method for a particular object (variable) by using "the dot
+operator".  We have done this before with file streams (remember
+cin.getline() and fin.getline()?).  We have also seen this as a way of
+accessing the data members of structs.  Basically, the dot operator is
+used whenever we want to grab a piece of an object (contrast with
+scope resolution operator).  The first line says 'call the greet
+method for the yoda object with the argument "Dad"' the second line
+says 'call the greet method for the darth object with the argument
+"Mom"'.  You can also think of these lines as being like messages to
+the objects.  We first tell yoda to greet Dad and then we tell darth
+to greet Mom.  The reason that we call variables like yoda and darth
+"objects" is that they are, in an abstract sense, entities that can
+receive messages and interact with each other.
+
+When we make the calls, the variables "name" and "homePlanet" will
+correspond to whichever object makes the call.  When yoda is asked to
+greet Dad he will be from Dagobah.  When darth is asked to greet Mom
+he will be from the Death Star.  The above two calls generate the
+screen output:
+
+
+Hello Dad, my name is Yoda and I am from Dagobah.
+Let's be friends for ever!
+Hello Mom, my name is Lord Vader and I am from the Death Star.
+Let's be friends for ever!
+
+Exercise: extend the class declaration to include a method called
+mutate which takes an integer and returns nothing.  Write a method
+definition for mutate which adds its integer argument to the aliens
+number of legs, "mutating" it.  It should accept negative arguments.
+At no time should an Alien's numLegs drop below zero.
+
+(Solution).
+
+Constructors
+Below this point these notes are written for my lecture.  They
+are very terse and will likely not make sense.  I am leaving them here
+because it doesn't make sense to remove them:
+First example:
+
+
+class Alien
+{
+  public:
+    char name[MAXSTR];
+    char homePlanet[MAXSTR];
+    int numLegs;
+    int isDeadly;
+
+    Alien(char nm[], char home[], int legs, int deadly);
+    void greet(char who[]);
+    void mutate(int moreLegs);
+};
+
+Alien::Alien (char nm[], char home[], int legs, int deadly)
+{
+    strcpy(name, nm);
+    strcpy(homePlanet, home);
+    numLegs = legs;
+    isDeadly = deadly;
+}
+
+Overloaded:
+
+
+class Alien
+{
+  public:
+    char name[MAXSTR];
+    char homePlanet[MAXSTR];
+    int numLegs;
+    int isDeadly;
+
+    Alien();
+    Alien(char nm[], char home[], int legs, int deadly);
+    void greet(char who[]);
+    void mutate(int moreLegs);
+};
+
+Alien::Alien ()
+{
+    //set to reasonable defaults
+    name[0] = '\0';
+    homePlanet[0] = '\0';
+    numLegs = 0;
+    isDeadly = 0;
+}
+
+Alien::Alien (char nm[], char home[], int legs, int deadly)
+{
+    strcpy(name, nm);
+    strcpy(homePlanet, home);
+    numLegs = legs;
+    isDeadly = deadly;
+}
+
+
+Point: why don't we call strcpy (name, "") instead?
+
+Two constructors.  Talk about how we decide which to call (parameters,
+types, of args).  Typical overloaded function.  Show example:
+
+
+  //in main or some other function...
+  Alien Generra;  // No init values, calls lame-o constructor.
+  Alien Gamera ("Gamera", "Tokyo 7", 2, 1);
+
+Points to ponder: Why doesn't Generra have the ()'s?  What would
+happen if it did?
+
+No args constructor is called default constructor.  Good idea to
+have one because you probably will want it. (E.g. when you make an
+array of classes!)
+
+You can use = to assign one whole class to another:
+
+
+Generra = Gamera;
+
+
+You can also call the constructor explicitly to make an anaonymous
+value of a certain type and assign it:
+
+
+Generra = Alien("ET", "Home", 2, 0);
+
+Alien::
+Example where I use it to resolve name clash in constructor:
+
+
+Alien::Alien (char name[], char homePlanet[], int numLegs, int isDeadly)
+{
+    strcpy(Alien::name, name);
+    strcpy(Alien::homePlanet, homePlanet);
+    Alien::numLegs = numLegs;
+    Alien::isDeadly = isDeadly;
+}
+
+Constant member: 
+
+
+class Alien
+{
+  public:
+    // ...
+
+    const int killer = 1;
+    const int lamb = 0;
+    // ...
+};
+
+
+Can use the killer and lamb constants in our Alien methods.  Can also
+use them in calls:
+
+
+    Alien Yoda("Yoda", "Dagobah", 2, Alien::killer);
+
+This way we can hide the "magic number".  Point: why can't we do this
+with non-constants?
+
+Friday's Class
+Public v. Private
+Talk about the separation of implementation and interface.  It
+would help to have an example of two different ways of doing the same
+thing.  Preferably something I have shown before.
+
+Define impl and intf
+
+Idea: provide a common interface that hides the details of
+implementation.  This way we can replace code later.
+
+Can also avoid things like: yoda.numLegs = -2; //semantic error.
+
+Tell them how.  Tell them what it means.  Give some decls.  Show
+accessors/constructors.  
+
+
+void Alien::Read ()
+{
+	char YorN;
+	
+	cout << "Enter the Alien's Name > ";
+	cin >> ws;
+	cin.getline (name, 20);
+	cout << "Enter Home World > ";
+	cin.getline (homePlanet, 20);
+	cout << "Enter Number of Legs > ";
+	cin >> numLegs;
+	cout << "Is " << lifeForm.name << " deadly? (y/n) > ";
+	cin >> YorN;
+	isDeadly = (toupper(YorN) == 'Y');
+}
+
+Contrast with:
+
+void ReadInAlien (Alien &lifeForm)
+{
+	char YorN;
+	
+	cout << "Enter the Alien's Name > ";
+	cin >> ws;
+	cin.getline (lifeForm.name, 20);
+	cout << "Enter Home World > ";
+	cin.getline (lifeForm.homePlanet, 20);
+	cout << "Enter Number of Legs > ";
+	cin >> lifeForm.numLegs;
+	cout << "Is " << lifeForm.name << " deadly? (y/n) > ";
+	cin >> YorN;
+	lifeForm.isDeadly = (toupper(YorN) == 'Y');
+}
+
+Accessor Functions
+
+Tips: Make all member variables private, define accessor functions,
+use the assignment operator.
+
+Reworks
+Skyline.  Alien catalog.  Hangman.
+(not covered yet: The "this" object)
+
+
+
+Last modified: Fri Nov  8 11:29:42 1996 by Todd Turnidge
+
+turnidge@cs.wisc.edu
+
+
+

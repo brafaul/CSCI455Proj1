@@ -1,0 +1,221 @@
+Date: Tue, 26 Nov 1996 19:09:48 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs359345849035388927; path=/
+
+
+ EECS 500 -- Fall 1996 
+
+
+
+
+
+ EECS 500 Homepage -- Fall 1996 
+
+ Organizer: 
+
+
+Professor Kim Wasserman
+
+EECS
+
+4223 EECS 
+
+Ph: 647-3524
+
+E-Mail: wass@umich.edu
+
+
+ Requirements 
+
+
+Prerequisite: graduate standing or permission of
+instructor
+
+1 CREDIT HOUR
+
+Attendance and a report on one of the talks is necessary for
+a passing grade.
+
+
+ Time and location: 
+
+Tuesdays &/or Thursdays 4:30-5:30 
+1003 EECS Building 
+**Unless otherwise noted**
+
+
+
+
+ Lectures:  
+
+
+Pravin Varaiya,
+
+EECS, Univ. of California/Berkeley
+
+INDEX: The Internet Demand Experiment
+
+ NOTE: Special Day - Time - Location
+Friday, September 20, 1996
+
+1:30 - 2:30
+
+1504 G. G. Brown, Lee Iacocca Room
+
+
+
+Anthony Ephremides,
+
+EE, Univ. of Maryland
+
+Satellite-Augmented Cellular Networks
+
+ NOTE: Special Day - Location
+Friday, September 27, 1996
+
+4:30 - 5:30
+
+1610 IOE, The Ford Auditorium
+
+
+
+R. L.
+Cruz,
+
+ECE, Univ. of California/San Diego
+
+
+Deterministic Bounds on Network Performance:  A Service
+Curve Calculus
+
+
+Tuesday, October 1, 1996
+
+4:30 - 5:30
+
+1003 EECS
+
+
+
+David
+Tse,
+
+EECS, Univ. of California/Berkeley
+
+Optimal Power Control for Multi-Access Fading Channels
+
+ NOTE: Special Day - Location
+Friday, October 4, 1996
+
+4:30 - 5:30
+
+1500 EECS
+
+
+
+Ioannis Ch. Paschalidis,
+
+Manufacturing Engineering, Boston Univ.
+
+Large Deviations and Their Applications in Traffic
+Management of High-Speed Communication Networks
+
+Thursday, October 17, 1996
+
+4:30 - 5:30
+
+1003 EECS
+
+
+
+Debasis Mitra,
+
+Lucent Technologies (formerly: AT&T Bell Labs)
+
+Some Recent Results on the Design and Control of
+Broadband Networks
+
+Thursday, October 24, 1996
+
+4:30 - 5:30
+
+1003 EECS
+
+
+
+Bruce Kwan,
+
+EE, Univ. of California/Los Angeles
+
+Intelligent Resource Allocation in High Speed LANs Using
+Wormhole Routing
+
+Tuesday, October 22, 1996
+
+4:30 - 5:30
+
+1003 EECS
+
+
+
+Gustavo de Veciana,
+
+EE, Univ. of Texas/Austin
+
+Traffic Management and Quality of Service in ATM
+Networks
+
+Thursday, November 14, 1996
+
+4:30 - 5:30
+
+1003 EECS
+
+
+
+Balaji Prabhakar,
+
+Basic Research Institute in the Mathematical Sciences
+
+Hewlett-Packard Laboratories Europe, Bristol, United
+Kingdom
+
+Some Problems of High-speed Switching
+
+Tuesday, December 3, 1996
+
+4:30 - 5:30
+
+1003 EECS
+
+
+
+ Sponsors: 
+
+Department of Electrical Engineering and Computer Science
+
+and the
+
+Department of Industrial and Operations Engineering
+
+
+ Prior Semester EECS500 Series: 
+
+Winter Term 1996
+
+
+
+
+
+return to
+UM
+EECS Systems Division
+homepage
+
+
+
+
+updated by Beth Olsen  on 8/28/96
+
+

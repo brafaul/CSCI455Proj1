@@ -1,0 +1,53 @@
+Date: Tue, 05 Nov 1996 00:31:08 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sat, 02 Nov 1996 23:06:29 GMT
+Content-length: 1392
+
+
+Assignments - Finding Out About (UWisc CS838 - F96) 
+
+CSE838: Assignments
+Finding Out About:
+Information Retrieval and other technologies  
+for seeking knowledge
+Richard K. Belew
+CS838 (Lecture 2)
+Univ. Wisconsin  - Computer Science Department
+Fall, 1996
+(back to CSE838 homepage)
+
+
+
+ Build a search engine
+
+ Parsing, Stopwords and Stemming 
+
+     See the   write-up   (Postscript, 33k)
+
+ Inverting the Index 
+     See the   write-up   (Postscript, 56k)
+
+ Weighting & Evaluation 
+     See the   write-up  (Postscript, 55k)
+
+
+ Midterm  Review Questions
+ Collaborative Booknmarks:  Find resources related to class topics
+that others will find interesting.  Annotate these with
+your opinions, context, etc.
+
+ IR engine vendors assessment
+
+ ELection information
+
+ 
+	Projects
+
+
+
+Last modified by:
+belew@cs.wisc.edu
+3 October 96
+
+

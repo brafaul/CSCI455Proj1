@@ -1,0 +1,122 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:46:43 GMT
+Content-Type: text/html
+Content-Length: 2963
+Last-Modified: Friday, 15-Nov-96 18:02:45 GMT
+
+
+
+CS100B Program 5 Clarifications
+
+
+CS100B Program 5 Clarifications
+14 November 1996
+
+Added: 13 November 1996
+Part 4
+
+Part 4 asks you to compare the running time of Parts 2 and 3. Unfortunately,
+since we're sorting only 256 elements, both parts execute in less than a
+second. So, for Part 4, answer this question: Which part (2 or 3) should
+execute faster? Why?
+
+
+Added: 13 November 1996
+make_array_3
+
+In make_array_3, I say that it has one argument,
+array. Then, in the function, it refers to a.
+These should be the same. So, the function should be:
+
+
+void make_array(elemptr a[256])
+{
+int i;
+
+for (i = 0; i < 256; i++)
+   {
+   a[i] = (elemptr)malloc(sizeof(elem));
+   if (a[i] == NULL)
+      {
+      printf("Error: out of memory at %d\n", i);
+      exit(1);
+      }
+   a[i]->x = rand() % 99 + 1;
+   }
+}
+
+
+Added: 8 November 1996
+Mac Memory Limits
+
+Macs have a memory limit that you can statically declare only 32k bytes of
+data. As a result, we have to change the number of things that you have to
+sort.
+
+Part 1
+
+Each int is 4 bytes, so 32k should be able to fit 8k ints. However, we need
+a little room for additional stuff (like function calls, which take up
+memory), so we'll only sort 4096 integers. For the output, print every 64th
+integer, 8 per line.
+
+
+Only the size of the array in make_array_1 changes.
+
+Part 2
+
+Each elem is 1k bytes, so we could only fit 32. As a result, we'll
+dynamically allocate the array. You don't know how to do this, so I'll
+give you the code. We will sort an array of 256 elems, printing every 4th
+for output. Change make_array_2 to:
+
+
+void make_array_2(elem **a)
+{
+int i;
+
+*a = (elem *)malloc(256 * sizeof(elem));
+if (*a == NULL)
+   {
+   printf("Error: out of memory!\n");
+   exit(1);
+   }
+
+for (i = 0; i < 256; i++)
+   (*a)[i].x = rand() % 99 + 1;
+}
+
+
+Also, your main should be:
+
+
+void main(void)
+{
+elem *a;
+
+make_array_2(&a);
+/* you add the rest of the code */
+}
+
+
+Recall the array/pointer duality presented in class. "a" is a pointer to an
+elem. However, we dynamically allocated an array for "a" to point to. As a
+result, "a[0]" is the first element of that array, and "a[255]" is the last
+element. In your quicksort function, you can treat "a" as though it was an
+array of elems.
+
+Part 3
+
+We will sort an array of 256 pointers to elems, printing every 4th
+for output. Only the size of the array in make_array_3 changes.
+
+
+Added: 7 November 1996
+Partitioning Example
+
+There is a very minor typo in the partitioning example. On page 3,
+in the third line, it says "However, since l < r...". This should be "r < l".
+
+
+

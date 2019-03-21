@@ -1,0 +1,113 @@
+Date: Mon, 11 Nov 1996 16:00:40 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 08 Nov 1996 04:36:35 GMT
+Content-length: 4471
+
+
+
+CS302, fall session info
+
+
+CS302 Fall Session
+Algebraic Language Programming in C++
+Instructor: Andrew Prock
+Email:  prock@cs.wisc.edu
+Office:  Computer Science and Statistics 1331
+Office Phone:  (608)262-6605
+Office Hours: 11am - 12pm M 12pm - 1pm W 8pm - 10pm Th
+
+
+Grader:  Haihong Wang
+Email:  whh@cs.wisc.edu
+Office:  Computer Science and Statistics 1347
+Office Phone:  (608)262-5786
+Consulting Hours (in 1350):  7:00-10:00 pm MTWR
+
+Announcements
+
+11/7 I have put a grades link below, please check
+	your grade and verify your scores.
+	11/6 I have modified crazy.txt yet again.
+	11/5 I will be having office hours today from
+	12 - 2pm today
+	10/29 I have made a minor modification to
+	the crazy.txt file for assignment 7, you should get
+	a new copy if you have already gotton one.
+	10/15 Assignment five is online.
+        10/10 Exam results: avg ~76 range 43-100
+        10/8: I have added the grading policy to the
+        end of assignment #4.
+	9/26: I have put some sample quizes and tests
+	online
+	for your general perusal.  These tests and quizes are from
+	another TA, but I think they should give you a good idea of
+	the level of knowledge you will need.  Remember that the
+	topics on our tests may not be the same as the tests online.
+	9/3 9pm: Webpages seem to be done.  Email me if you notice
+	any errors or have any questions. Make sure to check out assingment
+	0.  Assignment 1 is online as well for those of you who like to 
+	work ahead.
+
+	The final is on Tuesday, December 17, 1996. Mark your
+	calendar because everyone is required to take the final then.
+
+	You should check all the links to this page to get a feel
+	for where things are located. It is very important that
+        you carefully read the policies and administrative
+        information below.
+
+	Welcome to class.
+
+Class Information:
+
+Text: 
+	
+Problem Solving with C++, Walter Savitch.  
+    	Room: 1263 Computer Sciences & Statistics
+	Time: 5:00-6:15 (Section 30), 6:30-7:45 (Section 31) 
+	Tentative Syllabus
+Section 30 grades
+Section 31 grades
+Grading Policy
+Late Policy
+E-mail Policy
+
+	Academic Misconduct
+
+Course Materials
+
+ General Course Info
+ Style Guide
+ Lecture Notes
+ Assignments
+ 
+	Email archive for section 30
+ 
+	Email archive for section 31
+
+Other Info
+
+ 
+       	Introduction to Microsoft Windows (Do this first)
+   
+       	Introduction to Borland C++ 4.5 (Do this second)
+   
+	CS302 home page
+ 
+       	The Vectra Lab
+ 
+	Source code from the text
+ 
+	Who are consultants and what do they do?
+ 
+	Extra C++ reference material
+ 
+	CS302 FAQ (many of your questions will be answered here)
+
+
+
+prock@cs.wisc.edu
+
+
+

@@ -1,0 +1,64 @@
+Date: Tue, 05 Nov 1996 00:26:48 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 27 Sep 1995 22:44:05 GMT
+Content-length: 1015
+
+
+
+
+NEXT! People
+
+ 
+People on the NEXT! Project 
+
+
+
+
+Faculty
+
+
+
+Miron Livny
+
+
+Raghu Ramakrishnan
+
+
+Students
+
+
+
+
+Praveen Seshadri
+ 
+(
+
+SEQ
+)
+
+
+
+
+Jussi Myllyma
+ 
+(
+
+DEVise
+)
+
+
+
+
+Tian Zhang
+ 
+(
+
+BIRCH
+)
+
+
+
+miron@cs.wisc.edu
+
+

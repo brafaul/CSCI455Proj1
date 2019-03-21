@@ -1,0 +1,108 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:46:34 GMT
+Content-Type: text/html
+Content-Length: 3381
+Last-Modified: Sunday, 05-May-96 22:31:02 GMT
+
+
+
+
+
+
+
+Alexey Home Page
+
+
+Alexey I. Vaysburd
+
+
+alexey@cs.cornell.edu
+
+
+
+
+
+
+
+I am in the Ph.D. Program in 
+
+Computer Science at Cornell University
+. 
+
+
+
+My research interests include distributed systems, 
+group communication, large-scale/wide-area systems, and
+
+object-oriented tools for distributed computing
+.
+
+I work within the 
+
+Horus
+
+ group lead by 
+
+Ken Birman
+ 
+and
+
+Robbert van Renesse
+.
+
+
+ Papers: 
+
+
+Implementing Replicated State Machines Over Partitionable Networks.
+Roy Friedman and Alexey Vaysburd. Cornell University TR96-1581.
+
+
+ Some WWW links: 
+
+ Search Engines: 
+
+Lycos
+
+
+ Technical Reports: 
+
+Cornell CS Technical Reports
+
+	BROADCAST Technical Report Series
+
+	LSE - Ecole Polytechnique Federale de Lausanne
+
+	The Hebrew University - The Transis Home Page
+
+
+ Cornell: 
+
+CUINFO (Cornell Gopher)
+Directions to and from Cornell
+Cornell E-Mail Directory
+Cornell Staff Directory
+Cornell Student Directory
+Courses, Classes, Exams
+Cornell Calendar
+
+Cornell Arts -- Music
+Bailey Hall Concerts
+Cornell Musical Events
+
+
+ News and Weather: 
+
+Ithaca Weather
+
+	Current conditions & 5-day for Ithaca
+World News Briefs
+
+
+ Odessa: 
+
+OdessaWeb
+
+
+

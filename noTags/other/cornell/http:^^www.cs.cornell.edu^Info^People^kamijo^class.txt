@@ -1,0 +1,32 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:08:38 GMT
+Content-Type: text/html
+Content-Length: 1641
+Last-Modified: Friday, 05-Jul-96 21:35:44 GMT
+
+
+Classes and papers of Koichi Kamijo
+
+Classes and papers
+
+
+Fall 1995 Classes
+ 
+CS414: Operating Systems
+ 
+CS481: Automata and Computability Theory
+ 
+CS631: Multimedia Systems -- Project: Image Processing Experiment using KLT
+ EE521: Linear Systems
+
+
+
+Spring 1996 Classes
+ CS417: Computer Graphics
+ CS514: Practical Distributed Computing
+ CS664: Machine Vision -- Project: Neuron Edge Detection (still being updated).
+ CS790: M.Eng Project --  My advisor is Prof.Ramin Zabih.
+ -- Project: still on going
+
+

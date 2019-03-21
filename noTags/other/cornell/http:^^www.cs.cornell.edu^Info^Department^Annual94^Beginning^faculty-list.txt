@@ -1,0 +1,212 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:59:40 GMT
+Content-Type: text/html
+Content-Length: 7031
+Last-Modified: Thursday, 26-Oct-95 15:50:11 GMT
+
+Faculty Research Interests
+
+Faculty Research Interests
+
+The following are the research interests of each of the faculty
+members of the Computer Science Department at Cornell.  To find out
+more about any of the faculty, follow the link to his/her Annual Report
+and/or Personal home pages.
+
+
+Kenneth P. Birman:
+
+(Annual Report)
+
+Distributed computing, fault-tolerance, high performance 
+communication.
+
+Bard Bloom:
+(Annual Report)
+Semantics of programming languages, distributed algorithms.
+
+Claire Cardie:
+(Annual Report) 
+and/or 
+(Personal)
+Natural language processing, machine learning, artificial 
+intelligence.
+
+Thomas F. Coleman:
+(Annual Report)
+Numerical optimization, parallel computation.
+
+Robert L. Constable:
+(Annual Report)
+
+Theory of computation, programming logics, automated 
+reasoning.
+
+Bruce Randall Donald:
+(Annual Report)
+ and/or 
+(Personal)
+Robotics, artificial intelligence, computational geometry, 
+microelectronmechanical systems.
+
+Donald P. Greenberg:
+(Annual Report)
+
+Computer graphics, computer-aided design.
+
+David Gries:
+(Annual Report) 
+ and/or
+(Personal)
+Programming methodology, programming languages, 
+compiler construction.
+
+Juris Hartmanis:
+(Annual Report)
+
+Theory of computation, computational complexity.
+
+Thomas A. Henzinger:
+(Annual Report)
+ and/or
+(Personal)
+Theory of concurrent and real-time systems.
+
+John E. Hopcroft:
+(Annual Report)
+
+Modeling and simulation, algorithms, information capture 
+and access.
+
+Daniel P. Huttenlocher:
+(Annual Report)
+ and/or
+(Personal)
+Computer vision, computational geometry, digital video.
+
+Dexter Kozen:
+(Annual Report) 
+and/or
+(Personal)
+Theory of computation, computational complexity, analysis 
+of algorithms, program logics and semantics.
+
+Paul Pedersen:
+(Annual Report)
+
+Symbolic and algebraic computation and algorithms 
+(to UCLA, Fall 1994).
+
+Keshav K. Pingali:
+(Annual Report)
+
+Software for parallel systems, compilers.
+
+Monika H. Rauch:
+(Annual Report)
+ and/or
+(Personal)
+Algorithms, data structures, graph theory.
+
+Ronitt A. Rubinfeld:
+(Annual Report)
+
+Theory of computation, randomized algorithms, computational complexity.
+
+Gerard Salton:
+(Annual Report)
+Information retrieval, language and text processing, 
+information technology.
+
+Fred B. Schneider:
+(Annual Report)
+
+Concurrent programming, fault-tolerance, distributed systems, 
+real-time systems.
+
+Alberto M. Segre:
+(Annual Report)
+
+Artificial intelligence, machine learning (to U. of Iowa, Fall 1994).
+
+Brian C. Smith:
+(Annual Report) 
+and/or
+(Personal)
+Distributed multimedia systems, image processing, user 
+interfaces, information technology.
+
+Devika Subramanian:
+(Annual Report)
+
+Artificial intelligence, machine learning, information technology.
+
+Tim Teitelbaum:
+(Annual Report)
+
+Programming languages, systems, environments.
+
+Carlo Tomasi:
+(Annual Report)
+Computer vision, visual motion interpretation (to Stanford, 
+Spring 1994).
+
+Sam Toueg:
+(Annual Report) 
+and/or
+(Personal)
+Distributed computing, fault-tolerance, real-time.
+
+Lloyd N. Trefethen:
+(Annual Report)
+ and/or
+(Personal)
+Numerical analysis, applied mathematics.
+
+Charles Van Loan:
+(Annual Report)
+
+Scientific computing.
+
+Stephen Vavasis:
+(Annual Report)
+ and/or
+(Personal)
+Numerical analysis.
+
+Thorsten von Eicken:
+(Annual Report)
+  and/or
+(Personal)
+Parallel systems, computer architecture.
+
+Catherine M. Wagner:
+(Annual Report)
+
+Automated reasoning, constructive logic.
+
+Ramin Zabih:
+(Annual Report) 
+and/or
+(Personal)
+Computer vision, multimedia, information technology, robotics.
+
+
+
+Return to: 
+
+
+ 
+        1993-1994 Annual Report Home Page
+
+ 
+        Departmental Home Page
+
+If you have questions or comments please contact: 
+ www@cs.cornell.edu.
+
+
+Last modified: 24 March 1995 by Denise Moore 
+(denise@cs.cornell.edu).
+

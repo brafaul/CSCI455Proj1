@@ -1,0 +1,35 @@
+Date: Tue, 10 Dec 1996 03:37:09 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+SPIN
+ SPIN ARPA Pages 
+
+ Presentation at DC Security Workshop
+ May 31, 1996
+
+ 1995 Project Overview
+ Submitted April 10, 1995 for ARPA Bluebook.
+
+ 1995 Project Overview
+ Submitted Aug 10, 1995
+
+ 1995 Project Quadchart
+ Submitted Aug 10, 1995
+
+  1996 Project Overview 
+ Submitted July 15, 1996
+
+  1996 Project Quadchart 
+ Submitted July 15, 1996
+
+
+
+This page maintained by Brian Bershad.
+
+bershad@cs.washington.edu
+
+
+

@@ -1,0 +1,50 @@
+Date: Tue, 14 Jan 1997 19:58:15 GMT
+Server: Apache/1.1.1+
+Content-type: text/html
+Content-length: 1244
+Last-modified: Fri, 05 Jan 1996 23:29:43 GMT
+
+
+
+
+Computer Science - New Undergradate Student Information
+
+
+
+
+
+
+
+
+
+Information for New Undergraduate Students
+
+
+
+
+
+Welcome to the undergraduate Computer Science program at the University of
+Utah!   
+There is a handbook describing the
+department  here.  It has information about the undergraduate
+program also.
+
+Here is a postscript version of the
+undergraduate handbook.
+
+
+
+
+
+
+
+
+
+For e-mail correspondence regarding undergraduate study please contact
+Mary Rawlinson at
+
+
+mrawlins@cs.utah.edu.
+
+
+

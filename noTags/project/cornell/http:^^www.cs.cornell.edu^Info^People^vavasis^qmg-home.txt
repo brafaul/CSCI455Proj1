@@ -1,0 +1,51 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:52:09 GMT
+Content-Type: text/html
+Content-Length: 1448
+Last-Modified: Monday, 18-Nov-96 15:27:42 GMT
+
+
+
+ QMG project 
+
+
+ QMG: mesh generation and related software 
+
+The QMG package does finite element mesh generation in two and three
+dimensions.  The package includes geometric modeling software, the
+mesh generator itself, and a finite element solver.  It is free software
+downloadable from the Web.  QMG1.1 runs under Unix and Windows NT.
+
+
+There are now two releases of QMG:
+
+QMG1.0, released 5 May 1995, and
+QMG1.1, released 20 November 1996.
+
+
+
+Other useful websites for mesh generation and geometric software 
+are:
+
+
+ Robert Schneiders' 
+mesh generation home page.
+
+Ian McPhedran's page of
+finite element resources on the Web.
+
+The University of Minnesota Geometry Center's list of
+software for computational
+geometry.
+
+Jonathan Shewchuk's 
+Triangle package.
+
+
+ Back to Vavasis's home page. 
+
+
+Stephen A. Vavasis, Computer Science Department, Cornell University,
+Ithaca, NY 14853, vavasis@cs.cornell.edu
+

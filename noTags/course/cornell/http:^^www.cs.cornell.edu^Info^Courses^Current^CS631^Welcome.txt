@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:14:45 GMT
+Content-Type: text/html
+Content-Length: 1122
+Last-Modified: Sunday, 24-Nov-96 18:17:50 GMT
+
+
+CS 631 Home Page
+
+
+CS631
+Multimedia Systems
+Computer Science Department
+ Cornell University
+ Fall 1996 
+
+
+
+
+ Final Project Presentation Schedule
+ Course Staff
+ Course Info
+ Course Materials
+ Students' Web Pages
+ Project Web Pages
+ Some useful links
+ 631 Newsgroup
+ Anouncements 
+
+ Newsgroup Access 
+ Rivl bug
+
+
+
+
+
+
+
+Comments or questions about this web page? Send mail to janosi@cs.cornell.edu.
+

@@ -1,0 +1,52 @@
+Date: Thu, 21 Nov 1996 22:16:04 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1756
+Last-modified: Tue, 08 Oct 1996 18:04:19 GMT
+
+
+
+
+Harold Forbes Home Page
+
+
+
+
+
+ Harold Forbes
+Research Interests
+
+ Multiprocessor Operating Systems 
+ Real-Time Operating Systems 
+ Intelligent Autonomous Systems 
+
+Vita
+Courses
+
+ CS 4431 -- Operating Systems for Modern Machines
+ Introduction to Real-Time System Concepts and Implementation (under construction)
+
+Real-Time Publications
+Knowledge Based Publications
+Multiprocessor Publications
+Miscellany
+Tucker Balch, with Gary Boone aiding and
+abetting, breaks in to the worlds smallest police station in
+Carrabelle, Florida on Sunday, 21 April 1996.
+
+
+My wife Kate preparing to abscond with my motorcycle.
+
+
+
+Contact Information:
+
+harold@cc.gatech.edu
+College of Computing
+Georgia Institute of Technology
+Atlanta, GA 30332-0280
+
+
+
+
+

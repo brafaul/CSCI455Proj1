@@ -1,0 +1,118 @@
+Date: Thu, 21 Nov 1996 19:57:39 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Fri, 09 Aug 1996 20:23:03 GMT
+Content-length: 3019
+
+
+
+
+
+Richard Newton
+
+
+ Richard Newton
+
+Ph.D., University of California at Berkeley
+
+
+Professor
+(510) 642-2967
+newton@eecs.berkeley.edu
+
+Awards/Lectureships 
+
+
+C. Holmes McDonald Distinguished Teaching Award, Eta Kappa Nu Society,
+1986
+
+Best Paper Award, ACM/IEEE Design Automation Conference, 1990
+
+Best Paper, IEEE Computer-Aided Design of Integrated Circuits
+and Systems, 1989
+
+Best Paper Award, IEEE International Conference on Computer Design, 1988
+
+Best Paper Award, ACM/IEEE Design Automation Conference, 1987
+
+Best Paper Award, European Solid-State Circuit Conference, 1983
+
+Distinguished Lecturer, IEEE Circuits and Systems Society, 1985-1986
+
+Editorships/Program Committees
+
+
+
+General Chair
+ACM/IEEE Design Automation Conference, 1991
+
+
+
+Member
+Technical Advisory Board, CAD Framework Initiative (CFI)
+
+
+
+Organizer
+ACM Workshop on Synthesis, Simulation and Physical Design, 
+Leningrad, USSR, 1991
+
+
+
+Associate Editor
+IEEE Transactions on Computer-Aided Design, 1985-1988
+
+
+
+Member
+Technical Program Committee, IEEE International Conference on
+     Computer Aided Design, 1989-1990
+
+
+
+Member
+Technical Program Committee, IEEE International Conference on
+      Computer Aided Design, 1984-1986
+
+
+Selected Publications
+
+
+
+Test Generation and Verification for Highly Sequential Circuits
+(with A. Ghosh and S. Devadas), IEEE Trans. Computer-Aided Design, 
+Vol. 10, No. 5, May 1991, pp. 652-667.
+
+
+
+Exact Algorithms for Output Encoding, State Assignment, and 
+Four-Level Boolean Minimization
+(with S. Devadas), IEEE Trans. 
+Computer-Aided Design, Vol. 10, No. 1, January 1991, pp. 13-27.
+
+
+
+Alpha-Power Law MOSFET Model and Its Applications to CMOS Inverter 
+Delay and Other Formulas
+(with T. Sakurai), IEEE J. Solid-State Circuits, 
+Vol. 25, No. 2, April 1990, pp. 584-594.
+
+
+
+Electronic CAD Frameworks
+(with D. S. Harrison, R. L. Spickelmier, 
+and T. J. Barnes), Proc. IEEE, Vol. 78, No. 2, February 1990, 
+pp. 393-417 (invited).
+
+
+
+A Synthesis and Optimization Procedure for Fully and Easily Testable 
+Sequential Machines
+(with S. Devadas, H.-K. Ma, and A. L. 
+Sangiovanni-Vincentelli), IEEE Trans. Computer-Aided Design, Vol. 8, 
+No. 10, October 1989, pp. 1100-1107.
+
+
+
+
+

@@ -1,0 +1,156 @@
+Date: Thu, 07 Nov 1996 19:09:14 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 30 Oct 1996 19:21:17 GMT
+Content-length: 4372
+
+
+
+ Ken Kunen's Home Page 
+
+  Kenneth Kunen 
+
+Professor
+Math and Computer Sciences 
+University of Wisconsin
+1210 W. Dayton St.
+Madison, WI  53706-1685
+E-mail: kunen@cs.wisc.edu
+Telephone: (608) 263-2874
+
+Ph.D., Stanford University, 1968
+
+Interests: automated deduction, logic programing,
+set theory, topology
+
+
+ Research Summary  
+Most of my research work involves logic and its applications.
+
+
+Typical applications are automated deduction and logic programming.
+In automated deduction, we use tools like resolution
+to prove new mathematical theorems.
+In logic programming, we study the semantics of languages like
+Prolog.  Specific topics I am considering are the Prolog
+use of negation-as-failure, and the semantic incompatibilities between
+least-fixed-point computations and the Prolog-style backtracking computation.
+
+
+In mathematical logic, I work on axiomatic set theory.
+Besides being of interest in its own right, this
+subject relates to various abstract areas of mathematics,
+such as set-theoretic topology and measure theory,
+where many basic questions turn out to be independent of the usual
+axioms of set theory.
+
+ Selected Recent Publications 
+The following are all postscript files.
+
+
+
+
+
+ Kunen, K.,
+   
+   The Shortest Single Axioms for Groups of Exponent 4,
+   Computers and Mathematics and Applications,
+   29 (1995) 1-12.
+
+   Hart, J. & Kunen, K.,
+   
+       Single Axioms for Odd Exponent Groups, 
+   J. Automated Reasoning 14 (1995) 383-412.
+
+   Kunen, K.,  
+    
+     A Ramsey Theorem in Boyer-Moore Logic,
+     to appear, J. Automated Reasoning.
+
+   Kunen, K. & van Mill, J.,
+   
+       Measures on Corson Compact Spaces
+Fundamenta Mathematica 147 (1995) 61-72.
+
+
+   Hart, J. & Kunen, K.,
+   
+       Locally Constant Functions ,
+       Fundamenta Mathematica 150 (1996) 67-96.
+
+
+   Kunen, K.,  
+    
+       The Semantics of Answer Literals , 
+       Technical Report TR-95-1282, University of Wisconsin, 1995,
+       to appear, J. Automated Reasoning.
+
+   Kunen, K.,  
+    
+       Non-Constructive Computational Mathematics, 
+       Technical Report TR-95-1287, University of Wisconsin, 1995,
+       to appear, J. Automated Reasoning.
+
+
+   Kunen, K.,  
+    
+       Moufang Quasigroups, 
+       J. Algebra  83 (1996) 231-234.
+
+
+   Kunen, K.,  
+    
+       Quasigroups, Loops, and Associative Laws ,  preprint
+       to appear, J. Algebra .
+
+   Kunen, K.,  
+    
+       The Structure of Conjugacy Closed Loops  ,  preprint
+ Kunen, K.,
+    
+       A Completeness Result for Linked Resolution ,
+       to appear,  MIT Press.
+
+   
+       Hart, J. & Kunen, K.,
+   
+       Weak Measure Extension Axioms ,
+       ROUGH DRAFT!!
+
+
+
+
+
+
+Book Review:
+
+
+ 
+       Hart, J. & Kunen, K.,
+   
+       Review of "Notes on Set Theory" by Moschovakis,
+      American Mathematical Monthly 103 (1996) 87-91.
+
+
+ Courses Taught 
+
+
+
+For fall, 1996:
+
+ Math 131: Geometrical Inference and Reasoning.
+    Math 770: Foundations of Mathematics.
+
+
+
+For spring, 1997:
+
+ 
+        Comp Sci 540:  Artificial Intelligence. 
+
+
+
+ Last Changed: October 4, 1996 by kunen@cs.wisc.edu 
+
+
+

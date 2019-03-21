@@ -1,0 +1,240 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Friday, 15-Nov-96 03:51:22 GMT
+Content-Type: text/html
+Content-Length: 11496
+Last-Modified: Thursday, 07-Nov-96 16:00:46 GMT
+
+UT Intelligent Robotics Research
+
+
+UT Intelligent Robotics Research
+
+Spatial reasoning and intelligent robotics based on the  Spatial Semantic Hierarchy, has been a
+focus for research in the 
+Qualitative Reasoning group.  
+
+Most of our work has concentrated on mobile robot exploration and
+mapping of previously unknown environments.  We have used a number of
+different simulated robots, and are now working with several types of
+ physical robots.  
+
+We have recently been exploring new methods for 
+
+real-time active vision, primarily but not exclusively motivated
+by the navigational needs of a mobile robot.  
+
+Work on  heterogeneous control
+(our approach to fuzzy control, supporting validation via qualitative
+simulation), is also relevant to the robotics research.  
+
+ Robotics Researchers 
+
+  Ben Kuipers --- kuipers@cs.utexas.edu
+  Spencer Bishop --- sbishop@cs.utexas.edu
+  Rob Browning --- osiris@cs.utexas.edu
+  Cliff Chaput --- chaput@cs.utexas.edu
+  Bill Gribble
+       --- grib@cs.utexas.edu
+   Wan Yik Lee --- wylee@cs.utexas.edu
+  Emilio Remolina --- eremolin@cs.utexas.edu
+
+
+  Indexed Bibliography  
+
+  The Spatial Semantic Hierarchy 
+  The TOUR Model 
+ Learning from Uninterpreted Sensors and Effectors  
+ High-Speed Motion Control  
+ "Swan's Neck" Highly-Redundant Manipulators 
+ Mobile Robot Experiments 
+ Active Vision 
+
+The Spatial Semantic Hierarchy
+
+  B. Kuipers.  1996.
+
+A hierarchy of qualitative representations for space.
+In Working Papers of the Tenth International Workshop on
+Qualitative Reasoning (QR-96), Fallen Leaf
+Lake, California. 
+[Abstract] 
+   B. Kuipers, R. Froom, W.-Y. Lee & D. Pierce.  1993.  
+
+The semantic hierarchy in robot learning.   
+In J. Connell and S. Mahadevan (Eds.), Robot Learning.
+Kluwer Academic Publishers, 1993, pages 141-170.
+ 
+  B. J. Kuipers & Y.-T. Byun.  1991.
+
+A robot exploration and mapping strategy based on a semantic hierarchy
+of spatial representations.
+Journal of Robotics and Autonomous Systems, 8:  47-63. 
+Reprinted in Walter Van de Velde (ed.), Towards Learning Robots, 
+Bradford/MIT Press, 1993. 
+  B. J. Kuipers & Y.-T. Byun.  1988.
+A robust qualitative method for spatial learning in unknown environments.
+In Proceedings of the National
+Conference on Artificial Intelligence (AAAI-88).  Los Altos, CA:
+Morgan Kaufman, 1988.   
+
+The TOUR Model
+
+  B. J. Kuipers and T. Levitt.  1988.
+Navigation and mapping in large scale space.
+AI Magazine, vol. 9, no. 2, Summer 1988, pp. 25-43. 
+Reprinted in Advances in Spatial Reasoning, Volume 2, Su-shing Chen (Ed.),
+Norwood NJ:  Ablex Publishing, 1990. 
+ B. J. Kuipers.  1983.
+
+The cognitive map:  Could it have been any other way?
+In H. L. Pick, Jr. and L. P. Acredolo (Eds.),
+Spatial Orientation:  Theory, Research, and Application.
+New York:  Plenum Press, 1983, pages 345-359.  
+  B. J. Kuipers.  1982.  The `Map in the Head' metaphor.
+Environment and Behavior 14:  202-220, 1982. 
+  B. J. Kuipers.  1979.
+
+On representing common sense knowledge.  In N. V. Findler
+(Ed.), Associative Networks:  The Representation and Use
+of Knowledge by Computers.  New York:  Academic Press, 1979, pages 393--408. 
+  B. J. Kuipers.  1979.
+Commonsense knowledge of space:  learning from experience.
+In Proceedings of the Sixth International Joint Conference on
+Artificial Intelligence (IJCAI-79).  Tokyo, Japan, August 1979. 
+Reprinted in Advances in Spatial Reasoning, Volume 2, Su-shing Chen (Ed.),
+Norwood NJ:  Ablex Publishing, 1990. 
+ B. J. Kuipers.  1978.  
+
+Modeling spatial knowledge.
+Cognitive Science, 2: 129-153, 1978.   
+
+Reprinted in Advances in Spatial Reasoning, Volume 2, Su-shing
+Chen (Ed.), Norwood NJ: Ablex Publishing, 1990. 
+
+ The version of the PS file currently available (7-16-96) is
+missing the two figures.  I'll fix it as soon as possible.
+    There is a 
+
+Word version of the paper that includes the figures,
+but is a much longer file, and fails to display reasonably in ghostview,
+though it seems to print correctly.
+
+  B. J. Kuipers.  1977.
+Representing Knowledge of Large-Scale Space.  Doctoral dissertation,
+Mathematics Department, Massachusetts Institute of Technology,
+Cambridge, Massachusetts, June 1977.  Published as Technical Report
+418, M.I.T. Artificial Intelligence Laboratory, 1977. 
+
+Learning from Uninterpreted Sensors and Effectors
+
+ David Pierce and Benjamin Kuipers.  1997.
+
+Map learning with uninterpreted sensors and effectors.
+Artificial Intelligence Journal, 1997.
+ 
+[Abstract]
+
+ David M. Pierce.  1995.  
+
+Map Learning with Uninterpreted Sensors and Effectors.
+Doctoral dissertation, Department of Computer Sciences, The University of Texas
+at Austin.  (TR AI95-233, May 1995.)
+ 
+ D. Pierce and B. Kuipers.  1994.  
+
+Learning to explore and build
+maps.   In Proceedings of the National Conference on Artificial
+Intelligence (AAAI-94), AAAI/MIT Press, 1994.
+ 
+ David M. Pierce.  1991.  
+Learning turn and travel actions with an
+uninterpreted sensorimotor apparatus.  In  Proceedings of the IEEE
+International Conference on Robotics and Automation, pp. 246-251.
+Los Alamitos, CA: IEEE Computer Society Press.
+ 
+  David M. Pierce and B. J. Kuipers.  1991.  
+
+Learning hill-climbing
+functions as a strategy for generating behaviors in a mobile robot.  
+In J.-A. Meyer and S. W. Wilson (Eds.),  From Animals to Animats:  
+Proceedings of the International Conference on Simulation
+of Adaptive Behavior, pp. 327-336.  Cambridge, MA:  MIT
+Press/Bradford Books, 1991.
+  
+ Benjamin Kuipers.  1985.  
+
+The Map-Learning Critter.
+University of Texas at Austin, Artificial Intelligence Laboratory
+AI TR 85-17, December 1985.  
+
+High-Speed Motion Control
+
+ Richard Froom.  1995.  
+
+High-Speed Navigation with Approximate Maps.
+Doctoral dissertation, Department of Computer Sciences, The University of Texas
+at Austin.
+ 
+ Richard Froom.  1992.  
+
+Approximate maps for high-speed control of a mobile robot.  In
+ Mobile Robots VII: Proceedings of SPIE -- the International Society for
+Optical Engineering v. 1831, Boston, MA, November 15-20 1992.
+  
+ Richard Froom.  1991.  
+
+Acquiring effective knowledge of environment geometry for
+minimum-time control of a mobile robot.  In  Proceedings of the 1991 IEEE
+International Symposium on Intelligent Control, pages 501-506, Arlington, VA,
+August 13-15 1991.  
+
+"Swan's Neck" Highly-Redundant Manipulators
+
+ Motion planning for the  "Swan's Neck" manipulator.  
+
+ Akira Hayashi and Benjamin Kuipers.  1992.  
+
+A continuous approach to robot motion planning with many degrees of
+freedom. In Proceedings of the 1992 IEEE International
+Conference on Intelligent Robots and Systems (IROS'92).  
+ Akira Hayashi & B. J. Kuipers.  1991.  
+
+Path planning for
+highly-redundant manipulators using a continuous-curvature model.  In
+Proceedings of the National Conference on Artificial Intelligence
+(AAAI-91), AAAI/MIT Press, 1991.
+ 
+ Akira Hayashi.  1991.
+
+Geometrical Motion Planning for Highly
+Redundant Manipulators Using a Continuous Manipulator Model.
+Doctoral dissertation, Department of Computer Sciences, University of
+Texas at Austin, Austin, Texas.  May 1991.  (Available as TR
+AI91-156.) 
+  
+
+Mobile Robot Experiments
+
+  Wan Yik Lee.  1995.
+
+A Guide to Programming Spot, a Mobile Robot of the University of Texas at Austin. 
+Artificial Intelligence Laboratory, The University of Texas at Austin, 
+AI Laboratory Technical Report AI95-235, June 1995.  
+  Wan Yik Lee.  1995.
+
+Programming Spot in Lisp with SpotLisp Package. 
+Artificial Intelligence Laboratory, The University of Texas at Austin, 
+AI Laboratory Technical Report AI95-240, June 1995.  
+
+Active Vision
+
+ William S. Gribble.  1995.  
+
+Slow visual search in a fast-changing world.  In
+Proceedings of the 1995 IEEE Symposium on Computer Vision (ISCV-95)
+
+
+
+[QR home]
+BJK

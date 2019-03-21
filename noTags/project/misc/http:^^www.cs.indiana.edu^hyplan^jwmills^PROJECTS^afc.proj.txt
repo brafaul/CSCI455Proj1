@@ -1,0 +1,39 @@
+Date: Wed, 20 Nov 1996 19:16:13 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 1869
+Last-modified: Wed, 29 Nov 1995 21:48:09 GMT
+
+
+
+Analog Field Computing
+
+
+
+Analog Field Computing
+Description: 
+
+Analog field computing addresses the theory, design, implementation, and applications of analog computers including at least one component that can be treated mathematically as a field.  VLSI field computers were first implemented at Indiana University's Analog VLSI and Robotics Laboratory. They are currently being applied as artificial neural field networks, silicon retinas and controllers for Stiquito and Robozoa robots, morphogenesis simulators, controllers for the IU cyclotron, and matrix preconditioners.
+
+
+ Associated Faculty: 
+Jonathan W. Mills, Gerard Allwein, Randall Bramley
+
+ Associated Graduate Students: 
+Jason A. Almeter, David A. Braun, Jay A. Kasberger. Students who want to do research in this area should send mail to Jonathan W. Mills
+
+ Affiliated Projects: 
+
+Continuous Computing, Bruce A. MacLennan, University of Tennessee, Knoxville
+
+ Support: 
+
+NSF Graduate Research Traineeship Program Award, 1995-1999
+
+ For more information 
+
+Modern Analog Field Computing | Related Projects | Analog VLSI and Robotics Laboratory
+
+ Return to Computer Science Research Page  
+
+

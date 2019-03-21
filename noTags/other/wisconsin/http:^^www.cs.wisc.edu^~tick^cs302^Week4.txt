@@ -1,0 +1,431 @@
+Date: Wed, 11 Dec 1996 22:34:20 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 27 Sep 1996 18:31:11 GMT
+Content-length: 14558
+
+
+
+CS 302 Section 70 Lecture Notes - Week 4
+
+
+ Lecture Notes - Week 4
+
+
+Topic:
+   User-defined functions and subroutines. Input and output arguments.
+Text:
+   Chp. 6.1 - 6.6, 6.8
+Notes:
+   
+
+
+User-Defined Functions
+
+
+FORTRAN has pre-defined or built-in mathematical functions.
+      
+	X = SQRT(Y) * SIN(X*Y) + NINT(3.2)
+      
+Functions are small independent program modules that compute commonly used values.  Highly reusable.
+      
+	             +----------+
+	 In          |          |      Out
+	 Y=9.0 ----> |  SQRT(Y) | ----> 3.0
+	             |          |
+	             +----------+
+      
+Functions take one or more input values called arguments, to produce a single output value called the result.
+      
+	Y = COS(X)
+	C = MOD(A, B)
+			
+	Function    Arguments    Result
+	--------    ---------    ------
+	COS         X            cosine of X
+	MOD         A, B         remainder of A/B
+      
+Functions simplify or break-down a larger problem into a series of smaller problems, called top-down design.
+   
+User-Defined Functions
+
+Can define your own functions and use them in your program.
+      Resemble mini-programs.  Very similar structure.
+      
+	Function Header
+	Argument Declarations
+	Local Variable Declarations
+	Main Executable Section
+	RETURN
+	END
+      
+	Example: compute the area of a circle.
+      
+	      REAL FUNCTION AREAC (RADIUS)
+	C     Computes the area of a circle with
+	C     a radius of RADIUS.
+
+	C     Declare RADIUS argument
+	      REAL RADIUS
+
+	C     Declare local variables/constants
+	      REAL PI
+	      PARAMETER (PI = 3.14159)
+
+	C     Compute result
+	      AREAC = PI * (RADIUS ** 2)
+
+	      RETURN
+	      END
+      
+
+Calling User-Defined Functions
+
+User-defined functions are written after the main program.
+      
+	      PROGRAM TEST
+	C     ------------------------------------
+	C                 Main program
+	C     ------------------------------------
+	      REAL TWRAD, TWAREA, AREAC
+
+	      PRINT *, 'Enter radius of tower'
+	      READ *, TWRAD
+	      PRINT *, 'Area is ', AREAC(TWRAD)
+
+	      STOP
+	      END
+
+
+	C     ------------------------------------
+	C              User-defined Functions
+	C     ------------------------------------
+	      REAL FUNCTION AREAC (RADIUS)
+	      ...
+	      RETURN
+	      END
+      
+User-defined functions are called from the main program just like any other function; i.e. part of an arithmetic expression.
+      User-defined functions can be called from inside other functions.
+   Exception: functions cannot call themselves (called recursion).
+      Important: Function type must be declared like a variable in the main program (or wherever it is called from).
+      
+	      REAL ..., AREAC
+      
+
+Function Header
+
+The function header specifies the name of the function, the type of value it returns, and the name and number of input arguments.
+      
+	functype FUNCTION funcname (arguments)
+
+	REAL FUNCTION AREAC (RADIUS)
+	INTEGER FUNCTION MOD (DIVID, DIVIS)
+      
+Can also have zero arguments, but unusual.
+      
+	INTEGER FUNCTION FOO ( )
+      
+Only the argument names are listed in the function header.
+   
+Argument Declarations
+
+The type of the arguments is specified immediately after the function header but before any local variables.
+      Declare arguments just like declaring variables.
+      
+	REAL RADIUS
+	INTEGER DIVID, DIVIS
+      
+Also called dummy arguments.
+   
+Actual Arguments
+
+The value of the dummy arguments are initialized to the corresponding values in the function call, called the actual arguments.
+      
+	...
+	Y = 10
+	X = AREAC(Y)
+	PRINT *, AREAC(3 * Y + 3)
+	STOP
+	END
+
+	REAL FUNCTION AREAC (RADIUS)
+	...
+	RETURN
+	END
+
+
+	Actual Argument      Dummy Argument
+	---------------      --------------
+	Y                    RADIUS = 10
+	3 * Y + 3            RADIUS = 33
+      
+Number and type of actual arguments must correspond to number and type of dummy arguments.  Specified in same order.
+      Actual arguments may be variables, literals or expressions.
+   
+Local Variables
+
+As with the main program, user-defined functions may need to store intermediate results in variables.
+      Variables declared within a function are called local variables because they can only be used locally within the function.
+      Important: Variables declared in another function or in the main program cannot be used within a function!
+      Do not re-assign argument variables within a function (called side-effects).
+      
+	INTEGER FUNCTION FACT (N)
+	INTEGER N
+	INTEGER COUNT, TEMP
+      
+
+   Right:
+      
+	TEMP = 1
+	DO COUNT = 1, N
+	   TEMP = TEMP * COUNT
+	END DO
+	FACT = TEMP
+      
+   Wrong:
+      
+	DO COUNT = 1, N-1
+	   N = N * COUNT
+	END DO
+	FACT = N
+      
+
+Function Result
+
+The purpose of a function is to compute and return a result.
+      The result of a function is the last value assigned to the function name using a normal assignment statement.
+      
+	funcname = value
+
+
+	INTEGER FUNCTION FACT (N)
+	...
+	FACT = TEMP
+	RETURN
+	END
+      
+
+RETURN Statement
+
+The RETURN statement exits the function and resumes execution in the main program (or wherever it was called from).
+      Normally the last statement in a function before the END.
+   
+END Statement
+
+Always the last statement in a function.
+      Specifies the end of the function definition.
+   
+Order of Execution
+
+Program executes all the statements from program header to END.
+      
+	PROGRAM FOO                                          |
+	...                                                  |
+	END                                                  V
+      
+IF statement branches to execute different sections of code.
+      
+	IF (BAR .NE. 0) THEN                                 |
+	   ...                                           .---o---.
+	ELSE                                             |       |
+	   ...                                            --> <--
+	END IF                                               |
+	                                                     V
+      
+DO loop goes back and re-executes code.
+      
+	DO BAR = 1, 10                                       |
+	   ...                                               + <-.
+	END DO                                               |   |
+	                                                     +---
+	                                                     |
+ 	                                                     V
+     
+When call a function, jumps down and execute all the function statements.  Return back to the main program on RETURN.
+      
+	PRINT *, FACT(Y)                    Main        Function
+	STOP                                 |        ...> |
+	END                                  |       .     |
+	                                     * ......      |
+	REAL FUNCTION FACT (N)               | <.....      |
+	...                                  |       .     |
+	RETURN                               V        .... V
+      
+
+
+
+Subroutines
+
+
+Functions return a single value, usually a number, and implement some mathematical function.
+      
+	      INTEGER FUNCTION FACT (N)
+	C     Computes the factorial of N
+      
+Subroutines can return any number of values and can perform any sort of operation.
+      
+	      SUBROUTINE GRAPH (MIN, MAX, POWER)
+	C     Print a graph of Y = X^POWER from X=MIN to X=MAX
+      
+Subroutines also take one or more input values (i.e. arguments) but may or may not return any results.
+      
+	                +----------+
+	MIN=0     In    |          | 
+	MAX=10   ---->  |  GRAPH   | 
+	POWER=2         |          |
+	                +----------+
+      
+
+User-Defined Subroutines
+
+Subroutines resemble functions.
+      
+	Subroutine Header
+	Argument Declarations
+	Local Variable Declarations
+	Main Executable Section
+	RETURN
+	END
+      
+Note: Subroutine header does not return a value.
+      Example: split a REAL number into to its whole and fractional parts.
+      
+	      SUBROUTINE BREAK (X, WHOLE, FRAC)
+	C     Break a real number into its
+	C     whole and fractional parts
+	
+	C     Declare arguments
+	      REAL X, FRAC
+	      INTEGER WHOLE
+
+	      WHOLE = INT(X)
+	      FRAC = X - REAL(INT(X))
+
+	      RETURN
+	      END
+      
+
+Calling Subroutines
+
+Subroutines are written with functions after the main program.
+      Subroutines are explicitly called from the main program using the CALL statement.
+      
+	CALL GRAPH(1, 10, 2)
+	CALL BREAK(10.3, IPART, FPART)
+      
+Subroutines can be called from inside other subroutines or functions (but no recursion).
+   
+Subroutine Header
+
+The subroutine header specifies the name of the subroutine and the name and number of arguments.
+      
+	SUBROUTINE subname (arguments)
+
+
+	SUBROUTINE GRAPH (MIN, MAX, POWER)
+	SUBROUTINE BREAK (X, WHOLE, FRAC)
+      
+Can also have zero arguments, not unusual.
+      
+	SUBROUTINE MENU ( )
+      
+
+Argument Declarations
+
+As with functions, the type of the arguments is specified immediately after the subroutine header.
+   
+Local Variables
+
+As with functions, subroutines may need to store intermediate results in variables.
+      Local variables can only be used locally within the subroutine.
+   
+Subroutine Results
+
+Some subroutines do not return any values; e.g. GRAPH just draws a graph on the screen.
+      Other subroutines return one or more values; e.g. BREAK takes one input value and returns two output values.
+      A result is returned to the main program when the arguments are re-assigned inside the subroutine.  Arguments pass values both into the subroutine as well as out of it.
+      
+	                +----------+
+	MIN=0     In    |          | 
+	MAX=10   ---->  |  GRAPH   | 
+	POWER=2         |          |
+	                +----------+
+
+	                +----------+
+	          In    |          |   Out   WHOLE=10
+	X=10.3   ---->  |   BREAK  |  ---->  FRAC=0.3
+	                |          |
+	                +----------+
+      
+Note: Unlike functions, the subroutine name is not assigned a value.
+   
+Input Arguments
+
+Input arguments pass values into the subroutine, just like functions.
+      Input arguments should not be re-assigned.
+      As with functions, the actual arguments in the subroutine call may be literals, variables or expressions.
+      
+	CALL GRAPH(X-10, X+10, 2)
+	CALL BREAK(10.3, ...)
+      
+
+Output Arguments
+
+Output arguments pass values back out to the main program. Similar to function results except multiple values can be passed.
+      Unlike input arguments, output arguments must be re-assigned to a new value to pass it back out.
+      VERY IMPORTANT: The actual arguments in the subroutine call must always be variables.
+      These variables are re-assigned inside the subroutine, hence the new values get passed back out to the main program.
+      
+	CALL BREAK(10.3, IPART, FPART)
+	PRINT *, IPART, FPART	(10   0.3)
+	STOP
+	END
+
+
+	SUBROUTINE BREAK (X, WHOLE, FRAC)
+	...
+	WHOLE = INT(X)
+	FRAC = X - REAL(WHOLE)
+	RETURN
+	END
+      
+When the dummy arguments WHOLE and FRAC are re-assigned, the actual arguments IPART and FPART are re-assigned too.
+      Actual and dummy argument names do not need to have the same name.
+      Output arguments only pass values out.  The original values of IPART and FPART, if any, are ignored.
+   
+Input/Output Arguments
+
+Some arguments can pass values both into and out of the subroutine.  Called input/output arguments.
+      
+	      SUBROUTINE SORT (NUM1, NUM2)
+	C     Sorts two numbers so that NUM1<=NUM2
+
+	C     Input/Output Arguments
+	      INTEGER NUM1, NUM2
+
+	C     Local Variables
+	      INTEGER TEMP
+
+	C     Sort the numbers
+	      IF (NUM1 .GT. NUM2) THEN
+	         TEMP = NUM1
+	         NUM1 = NUM2
+	         NUM2 = TEMP
+	      END IF
+
+	      RETURN
+	      END
+
+
+	Input arguments:   NUM1, NUM2
+	Output arguments:  NUM1, NUM2
+      
+
+
+
+
+
+Copyright © 1996 Modified fromGareth S. Bestor (bestor@cs.wisc.edu).  Last modified September 27, 1996.
+
+

@@ -1,0 +1,116 @@
+Date: Tue, 26 Nov 1996 00:49:03 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3506
+Last-modified: Mon, 18 Nov 1996 17:56:46 GMT
+
+
+
+ Software Engineering Group 
+
+
+
+
+
+
+
+
+
+
+
+
+
+The group, led by Paul G. Sorenson,
+Professor & Chairman,
+is involved in research in Software Engineering.
+The group investigates tools, methodologies, theories,
+techniques, and processes to support the development of software.
+
+
+
+People
+
+
+ Press here to see photographs, pronunciations, names, and pointers to the home pages
+of Faculty, Staff, and Graduate Students (this may take a few moments).
+
+ Press here to see names and pointers to the home pages of Faculty, Staff, and Graduate Students.
+
+
+Research Activities
+
+Research Projects
+
+
+
+Metaview project, aiming at the automatic generation
+of software development environments using a metasystem approach
+(a meta-CASE system).
+
+SEAF
+(Size-Engineering Application Framework) project.
+
+
+Namima project, aiming at building an integrated environment for
+software evolution.
+
+
+
+Papers, Reports, and Theses, completed or in progress.
+
+
+Other research (includes latest
+conferences, presentations, notes).
+
+
+Software Engineering Laboratory
+
+
+General Information
+
+
+Hardware
+
+Software
+
+
+Related Information
+
+
+Software Engineering related conferences
+
+
+
+Software Engineering Group Vault (for group members only)
+
+
+
+Software Engineering Group Meetings
+
+
+Visitors to the Software Engineering Laboratory
+
+Attended Conferences
+
+
+
+Lab User Reference Manual
+
+
+
+
+
+
+
+
+
+
+For more information, contact:
+softeng@cs.ualberta.ca.
+
+
+
+Last updated: November 1996
+
+
+

@@ -1,0 +1,151 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:38:10 GMT
+Content-Type: text/html
+Content-Length: 6416
+Last-Modified: Saturday, 12-Oct-96 00:57:01 GMT
+
+
+
+
+Yama's Den
+
+
+
+
+
+Yama's Den : Hell!
+According to Hindu mythology, Yama is the God of Death. He comes down
+to earth to give a ride to those who are on their way to Heaven or Hell.
+Though he's kind of impartial, its better not to mess with him.....
+Amith
+Yamasani
+M.Engg (95/96) 
+Department of Computer Science 
+Cornell University 
+Ithaca, New York
+
+I make money at:
+Sun Microsystems, Inc. 
+2550, Garcia Avenue 
+Mountain View, CA 94043 
+MailStop: UCUP01-102 
+(408) 343 1857 
+(Cupertino - JavaSoft) 
+
+I watch TV at:
+1571, Warburton Avenue, Apt #9 
+Santa Clara, CA 95050 
+(408) 296 8507 
+
+E-Mail: Amith.Yamasani@Eng.Sun.COM
+
+
+
+I am currently
+employed with JavaSoft (Sun Microsystems, Inc.) in Cupertino, California. I'm working
+in the JavaMedia group
+Education
+
+Fall '95 Courses
+VLSI : EE439/539
+
+Multimedia : CS631
+
+Software Engineering : CS501
+
+
+
+Spring '96 Courses
+VLSI : EE439/539
+
+High Performance Computer Systems : CS516
+
+Computer Graphics : CS417
+/ CS418
+
+
+
+Projects 
+
+
+CS418 - Ride to Heaven 
+
+This is a train ride simulation for the 418 graphics final project.
+
+
+The MPEG (3.9M) 
+The description 
+
+CS516 - Parallel Ray Tracing in CC++ 
+
+Proposal 
+Virtual Reality RailRoad Simulation 
+This is my Masters project. It involves the simulation of a railroad
+system including the trains the tracks, the switches, stations, landscape,
+and user interaction in a two-wall CAVE environment with Stereo vision.
+The simulation is done on a 20 processor SGI Onyx system. The software
+is written in C++, using the OpenInventor
+3D graphics library from Silicon Graphics
+. The simulation includes on-the-fly landscape generation, dynamics of
+the train and the environment and fly throughs. 
+Document
+Image Compression Chip
+Developed an Image Compression chip for the VLSI course. The chip basically
+compresses any 8 bit data stream using the LZW compression algorithm. This
+algorithm is better suited for images. The chip controls an external cache
+CAM (content addressable memory) where it stores patterns from the input
+stream in the hope that the patterns might occur again. The chip is capable
+of compressing data at the rate of 1 byte in 80 nano seconds. There's no
+way a software routine can compress data at that speed. 
+
+Snap of the chip 
+
+
+Image and Video Transition FX for Rivl
+Proposal
+
+
+Presentation
+and samples 
+
+
+PyraMania 3D
+This is a 3D game developed for the Software Engineering course. Its
+written in C++ and uses Tcl for some of the interface and XLib for the
+3D rendering. You can take a look at a snapshot of the game screen. 
+
+PyraMania 3D 
+Parallelomania 2D
+CS516 HW2 
+
+
+Resume
+HTML
+
+Post
+Script 
+
+
+Memories - past, present and future.....
+
+
+
+Some of my pals.....(with home pages)
+Satya
+Prasad 
+Avinash
+Gupta 
+Kartik
+H. Kapadia 
+Hrishikesh
+Dixit 
+Jose
+Luis Fernandez 
+Vineet
+Ahuja 
+
+
+Bookmarks
+
+

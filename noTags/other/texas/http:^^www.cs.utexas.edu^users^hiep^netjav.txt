@@ -1,0 +1,197 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:34:25 GMT
+Content-Type: text/html
+Content-Length: 7670
+Last-Modified: Wednesday, 15-Nov-95 19:02:14 GMT
+
+
+
+
+
+
+The Netrek-Java Project
+
+
+
+
+
+			The Netrek-Java Project 
+
+				by
+
+	 		    
+			Hiep H Nguyen 
+		http://www.cs.utexas.edu/users/hiep/netjav.html
+
+
+Table Of Contents:
+
+
+  Proposal 
+  Why Netrek? 
+  Why Java? 
+  Methodology 
+  Java's Possible Drawbacks 
+  Who is working on this? 
+  Helping Out (Signing on and Suggestions) 
+  Related Web Sites 
+
+ Proposal 
+
+	We propose the gradual porting and migration from C to Java of
+the client code for Netrek, a popular, interactive, multi-user video
+game on the internet.  This will allow Netrek to run in all
+applications and an on all platforms running Java (i.e. Netscape,
+HotJava, Solaris, WindowsNT). The goal is to produce a pure Java
+application using the graphics, networking and security features of
+Java, and to develop a methodology for gradual code porting from C to
+Java. This project will also demonstrate that Java can handle
+interactive, networked application with real-time graphics. The result
+will be an impressive video-game for the World Wide Web.
+
+
+  Why Netrek? 
+
+	Netrek is one of the most popular, real-time, networked
+video-game on the internet. It has a wide user base, and is an
+excellent demonstration of networking, and of graphics
+capabilities. It has a simple graphics engine, and it is not crucial
+for the graphics to run fast like other commercial video games, since
+it was written with networking in mind. (The true speed bottleneck of
+a game like Netrek is the communication between a Netrek client and
+server). Netrek has also been ported many times to many platforms,
+thus the modular structure is present for gradual code porting. For
+example, the first stage of the code port would involve writing a
+graphics wrapper in Java for the Netrek graphics engine, thus keeping
+all the other C code in tact. Also there the number of files and
+functions in a Netrek client is not trivial. It will be a good test of
+how well Java handles a large application like Netrek.
+
+  Why Java? 
+
+	Java allows portable code, that can be updated without having
+users download new clients for each new release. It also allows better
+graphics (i.e. true images instead of bitmaps, thus we can use a gif
+for all ships and planets). It will already have support for
+networking, and security. It will decrease the need to port Netrek to
+new systems.
+
+
+  Methodology  
+
+We propose the gradual porting of the client code of Netrek to Java,
+by using the facilities for calling native C code from Java. Java
+graphics and networking methods will replace the client code
+equivalent. The process will involve:
+
+
+  Identifying the C functions that must be called from Java.
+
+		In the most trivial instance we can have one wrapper
+		method call the C function main(). In the general case,
+		we will put more and more of the functionality in Java,
+		such as the graphics, and networking. 
+
+	  Identifying Java functions that will replace the client code. 
+
+	  Testing the functionality of the Client Code. 
+		
+		For every migration of a C file to Java, the functionality
+		of Netrek should remain the same.
+	
+	  Repeat the process until all C code has been ported to Java.
+
+
+
+The porting can be broken up into 3 main phases. 
+
+  Port the graphics engine to Java.
+
+	  Port the networking engine to Java.
+
+	  Port the rest of the files to Java.
+
+  Java's Possible Drawbacks  
+
+	The following are possible questions that this project will
+answer directly relevant to Java? We will test these possible
+drawbacks of Java:
+
+
+  Speed:
+
+	In any video game, the drawback is of course, speed. The first
+speed drawback is in starting the game. The client must be downloaded
+to the user when he starts the game. Of course when, using a browser
+like HotJava, cacheing can be turned on thus speeding up the process
+considerably on the next invocation of Netrek. The second Speed
+problem is in the graphics engine. It is not clear how fast Java is
+for graphics. On a Sparc station the speed should be enough, but what
+about on other platforms like the Macintosh and WindowsNT? With
+better hardware, the speed problem should be reduced, but this project
+will truly test the graphics capabilities of Java. The third speed
+problem is in the networking engine. Netrek uses many different methods
+for having smaller and fewer packets in order to increase speed and
+reduce lag. Can this be done in Java?
+	
+	  Security:
+
+	Another consideration is Security. Currently Netrek uses RSA
+security. Will Java provide comparable security? Will the security
+features in Java be to strict, thus forcing difficult work arounds?
+
+	  Size of Code:
+
+The third drawback is size. Will the Java Client be small enough to
+fit on most platforms. Will the Client code take too much resources,
+making multitasking between other tasks and Netrek impossible, on
+smaller systems such as the PC's?
+
+
+  Who is working on this?  
+
+Currently the people working on this project are:
+
+ Jason L. Asbahr (jason@fisher.psych.uh.edu) 
+ Spencer Bishop (sbishop@cs.utexas.edu)
+ Stephen Paul Carl (esteban@cs.utexas.edu)
+ Amanda Chou (achou@cs.utexas.edu)
+ Alec Habig (ahabig@bigbang.astro.indiana.edu)
+ Charles Herring (herring@essayons.ncsa.uiuc.edu)	
+ Ted Hooban (ted.hooban@telos.com)
+ Craig Howland (Craig.Howland@Eng.Sun.COM)
+ Geri Monsen (gmonsen@comet.lbl.gov) 
+ Bach Nguyen (jsbach@ix.netcom.com)
+ Hiep H Nguyen (hiep@cs.utexas.edu)
+ Joey Oravec (joey@gopher.chem.wayne.edu)
+ Matthew Pearson (mpearson@m3.pcix.com)
+ Others: If I forgot your name, 
+
+Please email me (hiep@cs.utexas.edu) 
+
+   Helping Out  
+
+Any help on this project in terms of time, knowledge, comments,
+suggestions or money will be greatly appreciated. This project is
+particularly suited for those interested in Java, Web-Programming and
+real-time video games for the Internet. 
+
+Please email me at
+hiep@cs.utexas.edu  if you have any comments, suggestion or if you
+would like to sign on for this project.
+
+
+  Related Web Site  
+
+
+
+ This document: http://www.cs.utexas.edu/users/hiep/netjav.htm 
+  Java Page: http://java.sun.com 
+  Netrek Page: http://factoryx.factoryx.com 
+  Virtual Reality VRML Page: http://www.sdsc.edu/vrml
+
+
+
+
+

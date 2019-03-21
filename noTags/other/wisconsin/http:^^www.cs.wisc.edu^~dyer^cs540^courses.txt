@@ -1,0 +1,79 @@
+Date: Tue, 05 Nov 1996 00:27:55 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 21 Oct 1996 19:09:37 GMT
+Content-length: 3251
+
+
+
+ Other Intro to AI Courses 
+
+
+ 
+     Other Intro to AI Courses 
+
+
+
+ 
+       Arizona State University 
+ 
+       Brown University
+ 
+       Carnegie-Mellon University 
+ 
+       Cornell University
+ 
+       Duke University
+ 
+       Georgia Tech
+ 
+       Harvard University 
+ 
+       Indiana University 
+ Iowa State
+ 
+       MIT
+ 
+       Purdue University 
+ 
+       Rensselaer Polytechnic Institute 
+ 
+       Rice University
+ 
+       Stanford University
+ 
+       State University of New York at Buffalo
+ 
+       Temple University 
+ 
+       University of California, Irvine 
+ 
+       University of California, Berkeley 
+ 
+       University of Massachusetts
+ 
+       University of Michigan
+ 
+       University of Minnesota
+ 
+       University of Texas
+ 
+       University of Virginia
+ 
+       University of Washington 
+ 
+       University of Wisconsin
+ 
+       Villanova University 
+ 
+       Yale University 
+
+
+
+
+
+
+  Return to Chuck Dyer's University of Wisconsin Introduction
+  to Artificial Intelligence (CS 540) home page
+
+

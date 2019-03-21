@@ -1,0 +1,58 @@
+Date: Tue, 05 Nov 1996 00:27:45 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 01 Nov 1996 15:16:28 GMT
+Content-length: 2192
+
+
+
+What's New in CS 540 (Dyer)?
+
+
+ 
+What's New in CS 540 (Dyer)?
+
+
+
+1 November
+Read Chapter 18.1 - 18.4, 20.8 (RN)
+29 October
+Description of the Award-Winning Heuristics
+Devised for Homework #3
+25 October
+Homework #3 Competition Results
+23 October
+Read Chapter 11 (RN)
+22 October
+Homework #4 assigned (due Wednesday, Nov. 6)
+14 October
+Read Chapter 9 (except 9.7) and 10.1 - 10.6 (RN)
+11 October
+Exam #1 Solution available
+7 October
+Homework #3 assigned (due Monday, Oct. 21)
+2 October
+Exam 1 is next Wednesday, October 9, from 7:15pm to about 9pm
+in Room 22 Ingraham.  There will be no lecture at 11am that day,
+but Dyer will have an office hour then instead.  The exam is
+closed book, but you may bring one 8.5" x 11" sheet of paper with
+notes on both sides.  See the Exams page
+for more information on the material you're responsible for, and 
+copies of old exams.
+18 September
+Homework #2 assigned (due Wed., Oct. 2)
+16 September
+Be sure to frequently consult the HW FAQ
+page for updates on the latest howework assignment
+6 September
+Discussion section room changed to 3425 Sterling.
+Homework #1 assigned (due Wed., Sept. 18)
+4 September
+Course Overview and
+Syllabus handed out.  See also
+information on Getting Started
+and Lisp info, especially the handout 
+Using GNU Common Lisp on Department Workstations
+
+
+

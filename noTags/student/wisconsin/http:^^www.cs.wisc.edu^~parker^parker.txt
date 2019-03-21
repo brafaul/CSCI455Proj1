@@ -1,0 +1,41 @@
+Date: Thu, 07 Nov 1996 19:18:20 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 28 Oct 1996 20:11:32 GMT
+Content-length: 1182
+
+
+
+Steven Parker's Home Page
+
+
+ Steven T. Parker
+ Graduate Student  
+    Computer Sciences Department
+    University of Wisconsin-Madison 
+    1210 West Dayton Street 
+    Madison, Wisconsin 53706  
+
+    Office: 6372 CS&S, (608) 262-6617  
+parker@cs.wisc.edu
+ 
+ Depth Area: 
+Numerical Analysis
+ Employment: 
+PRISM Project
+Fall 1996 Schedule: 
+
+MATH 623:  MWF 9:55 - 10:45 
+CS 564: MWF 11:00 - 12:15 
+CS 799: W 2:30 - 3:30 
+PRISM: MWF 8:00-9:30, 1:00-3:30, TTh 10:30-3:30 
+
+Related Links: 
+UW CS Home Page 
+CS Lab Home Page 
+ 
+ Send mail now 
+    Last modified: Thu Sep 12 1996
+
+
+

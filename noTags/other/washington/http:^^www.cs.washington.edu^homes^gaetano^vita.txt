@@ -1,0 +1,55 @@
+Date: Tue, 10 Dec 1996 14:47:54 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 07 Jun 1996 12:05:18 GMT
+Content-length: 2473
+
+
+Gaetano Borriello - Vita
+Gaetano Borriello's Vita as of January 1996
+
+Research Interests
+
+Computer-aided design of embedded systems; hardware/software co-design; digital system design; programmable logic architectures and tools; mobile computing; special-purpose architectures; user interfaces.
+
+Employment
+
+University of Washington (Seattle, WA) - Department of Computer Science and Engineering
+
+Associate Professor (1993- )
+          Assistant Professor (1988-1993)
+          Visiting Professor, Scuola Superiore Sant'Anna, Pisa, Italy (1995-1996)
+          Visiting Scientist, Inter-University Microelectronics Center, Leuven, Belgium (1992)
+       
+University of California at Berkeley (Berkeley, CA) - Computer Science Division
+
+Research Assistant (1984-1988)
+          Teaching Assistant (1985)
+       
+Xerox Corporation (Palo Alto, CA) - Palo Alto Research Center
+
+Member of Research Staff (1981-1984)
+          Research Intern (1980-1981)
+       
+
+Education
+
+Ph.D. Computer Science, University of California at Berkeley, 1988
+M.S. Electrical Engineering (Computer Systems), Stanford University, 1981
+B.S. Electrical Engineering (Computer Engineering), Polytechnic Institute of New York, 1979
+
+Professional Awards
+
+Fulbright Pisa Chair Award - Scuola Superiore Sant'Anna, Pisa, Italia, 1995-1996
+   Distinguished Teaching Award - University of Washington, 1995
+   Junior Faculty Achievement Award - College of Engineering, University of Washington, 1994
+   Presidential Young Investigator Award - National Science Foundation, 1988
+
+
+
+gaetano@cs.washington.edu
+- - - 
+back to home page
+
+
+

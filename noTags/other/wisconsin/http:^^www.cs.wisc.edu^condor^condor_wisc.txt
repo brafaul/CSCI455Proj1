@@ -1,0 +1,32 @@
+Date: Tue, 05 Nov 1996 21:03:43 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 17:33:22 GMT
+Content-length: 885
+
+
+Condor Pool at the University of Wisconsin, Madison
+
+
+ Examine Condor Pool At : 
+
+
+
+
+
+
+Univ of Wisc - Computer Sciences
+
+
+Univ of Wisc - Computer Aided Engineering
+
+
+Univ of Wisc - Phenomenology Group, Physics
+
+
+
+
+Last Modified September, 1996
+condor-admin@cs.wisc.edu
+
+

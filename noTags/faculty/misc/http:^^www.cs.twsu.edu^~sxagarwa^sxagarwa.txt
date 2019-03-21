@@ -1,0 +1,50 @@
+Date: Mon, 25 Nov 1996 23:29:53 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 1082
+Last-modified: Fri, 16 Feb 1996 01:27:46 GMT
+
+Home Page for Sampada Kodagali
+
+
+
+
+
+
+
+
+
+Sampada Kodagali  
+Instructor 
+Computer Science Department
+Wichita State University 
+Wichita, 
+Kansas 67260-0083
+
+
+
+
+
+
+Office: 238 Science Building 
+E-Mail Address: sxagarwa@cs.twsu.edu
+Click here to send mail 
+Phone: 316-689-3930
+
+Press on the icon to display the new page. 
+  
+
+Education
+
+B.E.(Electronics) 1987, Birla Vishwakarma Mahavidyalaya, India
+M.S. 1992, Computer Science, Wichita State University, Wichita,
+
+
+Interests
+
+ C++
+ Windows Programming, Microsoft Foundation Classes
+ Unix Shell Programming
+ Visual Basic
+ PowerBuider
+

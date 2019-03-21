@@ -1,0 +1,50 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 20:23:08 GMT
+Content-Type: text/html
+Content-Length: 650
+Last-Modified: Friday, 30-Aug-96 01:31:51 GMT
+
+
+cs378netgrade
+
+ Grading 
+
+
+
+
+
+Class participation
+
+
+	10% <--- "participation" is not only attendance
+      
+
+
+
+
+
+
+
+ Paper and presentation
+
+
+        10%
+      
+
+
+
+
+
+
+
+ Assignments
+
+
+        80%
+      
+
+
+
+
+

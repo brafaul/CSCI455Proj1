@@ -1,0 +1,42 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:23:32 GMT
+Content-Type: text/html
+Content-Length: 1857
+Last-Modified: Monday, 08-Apr-96 02:13:59 GMT
+
+Who I am
+Who I Am
+
+I am a Ph.D. student at the 
+Departmant of Computer Science of 
+Cornell University. 
+I work with Professor 
+
+Robert L. Constable. In Fall 1994 I maintained Web page of course
+in 
+Advanced Programming Languages (CS611). This semester I start my work for 
+
+Nuprl project.
+
+I graduated from the 
+
+Department of Mechanics and Mathematics  of
+Moscow State University
+(Moscow
+ ,
+Russia). Under supervision
+of Professor S.Artemov I
+made several publications in Mathematical Logic.
+
+
+
+My wife, Elena, now is a graduate students in Economics at the 
+ State University of New York at Buffalo. 
+We are married more then 4 years and know each other more
+than 10 years because we graduated the same high school in Moscow. (By the way, the
+same school one year after us graduated my classmate at Cornell 
+Eugene Ortenberg.)
+
+
+

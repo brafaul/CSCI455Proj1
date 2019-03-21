@@ -1,0 +1,98 @@
+Date: Tue, 10 Dec 1996 23:02:55 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 21 Jun 1996 18:28:07 GMT
+Content-length: 9812
+
+
+
+
+Curriculum Vita
+
+
+ Jeffrey Dean
+
+Dept. of Computer Science and EngineeringUniversity of WashingtonBox 352350, Seattle, Washington 98195-2350Work: (206) 616-1849Home: (206) 524-6039
+jdean@cs.washington.edu
+http://www.cs.washington.edu/homes/jdean
+ Research Interests
+ Programming language implementation and compilers, object-oriented systems, programming language design, programming environments, software engineering and operating systems.
+ Academic History
+ 1996: Ph.D., Computer Science, University of Washington (expected August 1996)
+  Dissertation: Optimizing Object-Oriented Languages via Whole Program Analysis
+   Advisor: Craig Chambers. 
+ 1993: M.S., Computer Science, University of Washington
+ 1990: B.S., Computer Science & Economics, University of Minnesota, summa cum laude
+ Recent Professional Experience
+  9/92 to present:  Research assistant, Cecil language group, University of Washington.
+
+ Developed and implemented new techniques for optimizing object-oriented languages, including static analysis of class hierarchies [Dean et al. 95a], selective specialization of source routines [Dean et al. 95b], incremental compilation in the face of whole-program analysis [Chambers et al. 94], profile-guided optimization for object-oriented languages [Grove et al. 95], and improved automatic inlining decisions [Dean & Chambers 94].
+
+  6/92 to 9/92: Instructor, Dept. of Computer Science & Engineering, University of Washington.
+ 9/91 to 6/92: Teaching assistant, Dept. of Computer Science & Engineering, Univ. of Washington.
+
+  See below for description of teaching experience.
+
+  6/90 to 9/91: Member of technical staff, Global Programme on AIDS, World Health Organization, Geneva, Switzerland .
+
+    Designed and implemented software for manipulating & analyzing statistical data [Epi Info 6.0].
+
+  Refereed Publications
+[Grove et al. 95] David Grove, Jeffrey Dean, Charles Garrett, and Craig Chambers. Profile-Guided Receiver Class Prediction. In Proceedings of the 1995 ACM Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA '95), Austin, TX, October 1995.
+[Dean et al. 95a] Jeffrey Dean, David Grove, and Craig Chambers. Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis. In Proceedings of the European Conference on Object-Oriented Programming (ECOOP '95), Århus, Denmark, August 1995.
+[Dean et al. 95b] Jeffrey Dean, Craig Chambers, and David Grove. Selective Specialization in Object-Oriented Languages. In Proceedings of the 1995 SIGPLAN Conference on Programming Language Design and Implementation (PLDI '95), La Jolla, CA, June 1995.
+[Chambers et al. 95] Craig Chambers, Jeffrey Dean, and David Grove. A Framework for Selective Recompilation in the Presence of Complex Intermodule Dependencies. In Proceedings of the 17th International Conference on Software Engineering (ICSE '95), pp. 221-230, Seattle, WA, April 1995.
+[Dean & Chambers 94] Jeffrey Dean and Craig Chambers. Towards Better Inlining Decisions using Inlining Trials. In Proceedings of the ACM Symposium on Lisp and Functional Programming Languages (LFP '94), Orlando, FL, June 1994.
+ Refereed Workshop Publications
+[Dean et al. 94] Jeffrey Dean, Craig Chambers, and David Grove. Identifying Profitable Specializations for Object-Oriented Languages. In Proceedings of the ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation (PEPM '94), Orlando, FL, June 1994.
+ Other Publications
+[Dean et al. 91] Andrew Dean, Jeffrey Dean, Anthony Burton and Richard Dicker. "Epi Info: A general-purpose microcomputer program for public health information systems", American Journal of Preventive Medicine, Vol. 7, pp. 178-182, 1991. 
+[Burton et al. 90] Anthony Burton, Jeffrey Dean, and Andrew Dean. "Software for Data Management and Analysis in Epidemiology", World Health Forum, Vol. 11, No. 1, 1990. 
+ Software Distributed
+[UW Cecil 1.0] University of Washington Cecil Language and Vortex Compiler Implementation. One of three primary designers and implementors of Vortex compiler. Vortex is an optimizing compiler for object-oriented languages that implements the techniques described in [Grove et al. 95], [Dean et al. 95a] , [Dean et al. 95b], and [Chambers et al. 95].
+[Epi Info 6.0] Lead developer for Epi Info, a series of programs for entering, analyzing, and manipulating statistical data. Over 100,000 copies of Epi Info have been distributed. Published by Epidemiology Program Office, Centers for Disease Control, 1995, ISBN 1-873937-21-0.
+ Awards
+ 1995: U.S. Department of Health and Human Services Special Recognition Award
+ 1991: U.S. Public Health Service Special Recognition Award
+ 1989: Lando Foundation Fellowship, University of Minnesota
+ 1988: Cargill Corporation Scholarship, University of Minnesota
+ 1986: National Merit Scholarship finalist
+ Teaching Experience
+UW CSE 143: Instructor for Introductory Programming II, Summer '92. Developed curriculum, course projects, lectures and tests, presented lectures to class of 60 students, and supervised two teaching assistants.
+UW CSE 142: Teaching assistant & section leader for Introductory Programming I, Fall '91.
+UW CSE 143: Teaching assistant & section leader for Introductory Programming II, Winter & Spring '92.
+UW CSE 501: Teaching assistant for graduate Compilers course, Winter '95.
+UW CSE 505: Teaching assistant for graduate Programming Languages course, Fall '95.
+UW CSE 590: Co-organizer of graduate  Seminar in Compilers, Spring '95.
+ Professional Activities
+ Referee for SIGPLAN Conference on Programming Language Design and Implementation (PLDI)
+ Undergraduate Admissions Committee member, University of Washington, Department of Computer Science & Engineering, `92
+ References
+ Prof. Craig Chambers
+Dept. of Computer Science and Engineering, Box 352350
+University of Washington
+Seattle, WA 98195-2350
+(206) 685-2094
+chambers@cs.washington.edu
+ Prof. Susan Eggers
+Dept. of Computer Science and Engineering, Box 352350
+University of Washington
+Seattle, WA 98195-2350
+(206) 543-2118
+eggers@cs.washington.edu
+ Prof. Brian Bershad
+Dept. of Computer Science and Engineering, Box 352350
+University of Washington
+Seattle, WA 98195-2350
+(206) 543-6707
+bershad@cs.washington.edu
+ Prof. David Notkin
+Dept. of Computer Science and Engineering, Box 352350
+University of Washington
+Seattle, WA 98195-2350
+(206) 685-3798
+notkin@cs.washington.edu
+
+jdean@cs.washington.edu
+
+

@@ -1,0 +1,66 @@
+Date: Tue, 26 Nov 1996 18:47:40 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Tue, 07 May 1996 21:17:08 GMT
+Content-length: 1792
+
+Artificial Intelligence (Graduate) Home Page
+
+Artificial Intelligence
+G22.2560
+
+Tuesdays 5:00 - 7:00
+
+Room 102, Warren Weaver Hall
+
+
+Professor Ernest Davis
+
+Reaching Me
+
+ e-mail 
+davise@cs.nyu.edu
+ phone: (212) 998-3123
+ office: 429 Warren Weaver Hall
+ office hours: 9:30-11:00 Tuesday and Thursday
+
+ Textbook: 
+Artificial Intelligence: A Modern Approach by Stuart Russell and
+Peter Norvig
+
+ 
+Syllabus
+ 
+Instructions for course email list
+
+Final exam
+ Problem Sets and Solutions
+
+Problem set 1
+
+Solution set 1
+
+Problem set 2
+
+Problem set 3
+
+Problem set 4
+
+Problem set 5
+
+Problem set 6
+ Handouts 
+
+Notes on Propositional Calculus
+
+Notes on Resolution
+Prolog Interpreter Common Lisp
+or Scheme in T
+or Common Lisp (Simplified)
+or Scheme  in T(Simplified))
+or True Scheme (Simplified))
+Unification Code Common Lisp
+or Scheme
+or True Scheme (Simplified))
+Sample Prolog Code Common Lisp
+or Scheme

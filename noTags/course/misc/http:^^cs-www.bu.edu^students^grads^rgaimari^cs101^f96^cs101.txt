@@ -1,0 +1,75 @@
+Date: Wed, 15 Jan 1997 01:46:33 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+CS-101(A1): Introduction to Computers
+
+
+ Boston University / 
+CAS
+ Computer Science Dept
+CAS
+CS-101 (A1): Introduction to Computers
+
+
+ 
+
+CS 101 is a general introduction to computers and their applications
+that assumes no previous knowledge of the subject. CS101 introduces 
+computers and their uses in the arts and sciences -- what they are,
+how they work, how they can be programmed, what they can and cannot
+do. It is for people who read about such topics as microprocessors or
+the WWW and want to understand them, for people who need to have data
+processed on the job, and for people who see the computerization of
+our society and ask about the meaning of it all.
+
+
+Instructor:
+
+    Name: Bob Gaimari
+   Email: rgaimari@cs.bu.edu
+  Office: MCS-223 (ext: 3-1498)
+   Hours: Mon: 10:00am-12:30pm / Thurs: 9:30am-11:00am (or by appointment)
+
+
+Teaching Fellow:
+
+    Name: Arijit Sarcar
+   Email: asarcar@cs.bu.edu
+  Office: MCS-213 (ext: 3-3381)
+   Hours: Wed: 1:00pm-3:00pm (office)
+          Thurs: 2:00pm-3:00pm, 5:30pm-7:30pm (lab)
+          (or by appointment)
+
+
+Class Meeting:
+
+   Time: Mon/Wed/Fri 8:00am-9:00am
+  Place: STO B50
+
+
+
+
+Course Archives:
+
+ 
+     Course Syllabus
+ 
+     Homeworks Archive
+ 
+     Miscellaneous Handouts
+ 
+     Discussion Sections
+ 
+     Student Home Pages 
+  Teaching Fellows Lab Schedule 
+
+ 
+
+This document has been adapted from one prepared by Professor  Azer Bestavros
+<best@cs.bu.edu>.
+
+Created on: August 28, 1996.
+Updated on: December 6, 1996
+
+

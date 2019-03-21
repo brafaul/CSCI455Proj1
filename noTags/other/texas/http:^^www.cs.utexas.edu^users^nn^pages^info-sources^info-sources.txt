@@ -1,0 +1,140 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:45:57 GMT
+Content-Type: text/html
+Content-Length: 6627
+Last-Modified: Wednesday, 27-Nov-96 21:21:37 GMT
+
+
+
+Neural Nets Information Sources
+
+
+
+
+ Information Sources 
+
+
+
+ Journals
+  
+ Annual Reviews
+ 
+       Artificial Intelligence
+ 
+       Behavioral and Brain Science
+  Connection Science
+ 
+       IEEE Transactions in Neural Networks
+  IEEE Transactions on Neural Networks
+ INNS
+ 
+       Journal of Neurophysiology
+ 
+       Journal of Neuroscience
+  Journal List at Pacific Northwest Lab
+  Machine Learning Online 
+ Nature
+ Network
+ 
+       Network:  Computation in Neural Systems (Institute of Physics) 
+ 
+       Neural Computing Surveys
+ 
+       Neural Computation
+
+ 
+	 Neural Computation (Connectionists) 
+   Neural Computation Table of Contents (Old)
+
+  Neural Networks 
+ 
+       Neural Processing Letters
+ Neuron
+  Psycoloquy
+ 
+       Proceedings of the National Academy of Sciences
+ Science
+ Trends in Neurosciences
+ Vision Research
+
+ Publishers
+  
+ Academic Press 
+ 
+       Computational Intelligence Library  
+       (Oxford University Press and the Institute of Physics)
+   Elsevier 
+ Kluwer 
+ MIT Press 
+ Morgan Kaufmann Publishers Inc 
+ O'Reilly 
+ Springer-Verlag New York 
+ 
+       Stanford University's List 
+
+ Research Area Resources
+  
+  Planet Earth Home Page 
+  Neural Web 
+  Virtual WWW Directory for Cognitive Science 
+  
+    Computer Vision Home Page 
+  
+    Neurosciences on the Internet 
+ 
+    Neuroscience Web Search 
+ 
+    The GA+NN mailing list home page 
+  Institute for Neural Computing, Ruhr-University, Bochum, Germany 
+  
+    FTP Site for papers on relevace determination, sensitivity analysis and weight pruning   (University of Nijmegen) 
+   
+    Vienna Center for Computational Intelligence BibTeX database 
+ Game Playing
+    
+  
+	Chesslinks Worldwide
+  Go Web
+  
+  	Computer Shogi Association
+ Gateway to Othello
+
+ Natural Language Processing
+    
+  ACL 
+  CRL 
+  Computational Linguistics 
+  Language and Speech
+    (University of Nijmegen)
+    
+ Robotics tasks
+    
+ 
+  	Table Tennis
+  Robotic soccer
+
+
+ Software Libraries
+  
+  
+  Netlib Library of Mathematical Software 
+  
+  Statlib Library of Statistical Software 
+
+ Web Publications
+  
+ PSC article on LISSOM
+  Lateral Interactions in the Cortex: Structure and Function 
+
+ Other NN Software
+  
+ 
+	PDP++ Home Page
+
+
+
+ Back to UTCS Neural Networks home page 
+
+martym@cs.utexas.edu
+

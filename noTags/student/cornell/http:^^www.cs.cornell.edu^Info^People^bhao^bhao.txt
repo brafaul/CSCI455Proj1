@@ -1,0 +1,98 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:49:54 GMT
+Content-Type: text/html
+Content-Length: 4616
+Last-Modified: Tuesday, 07-Mar-95 05:36:43 GMT
+
+A Simple Homepage
+
+Ben Hao
+Graduate Student
+bhao@cs.cornell.edu
+Cornell University
+Dept. of Computer Science
+5139 Upson Hall
+Ithaca, NY 14853 
+
+Tel: (607) 255-5578 
+Fax: (607) 255-4428
+
+
+From inside Cornell, try the Net Flea.
+
+I'm a forth-year Ph.D. student in
+Computer Science at Cornell,
+working on code synthesis for massively parallel processors.
+
+My advisor is Dr. Richard Zippel whom I first heard from Dr. George Taylor
+when I was at Sun Microsystems.
+
+My family is in the San Francisco Bay Area.  You can find more information about
+the area by reading its local newspapers.
+Don't forget to check out its
+gorgeous weather.
+
+Life at Cornell
+
+What to do at Cornell
+
+
+    Where to eat
+
+    Check Ithaca weather
+
+    Go see a movie
+
+    Study in a library 
+
+ CS dept. home page 
+
+
+
+ Check these out!
+Generally Neat Stuff
+ MIT Stocks
+ MIT Weather
+ UT Maps
+ Interactive Frog Dissection
+Magazines on the Net
+ InterText magazine
+ Wired Magazine
+A Peek into the Galaxy
+ Views of the Solar System
+ Shoemaker Levy
+ Art and Music
+ Le WebLouvre
+ Xmorphia
+ Gallery of Interactive On-Line Geometry
+ Kaleidospace
+ JPOP-Overview(1971-1986)
+ Bonsai-JPOP
+ Seiyuu-JPOP
+ Internet Underground Music Archive
+Network Navigation
+ Global Network Navigator
+ WWW Wanderers and Spiders
+ The Web's Edge
+Library
+ Library of Congress
+ Martial Art
+ Tai-Chi
+
+
+
+ Scientific Computing info
+
+ Tutorials
+
+ Internet info
+
+NIH Internet course
+The InterNIC Info Guide
+CERN Web Seminar
+
+
+
+Last Modified Tue Mar 7 00:35:48 EST 1995
+ Ben Hao / bhao@cs.cornell.edu 

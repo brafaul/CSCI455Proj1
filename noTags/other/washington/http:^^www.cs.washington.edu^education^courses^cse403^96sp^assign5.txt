@@ -1,0 +1,95 @@
+Date: Tue, 10 Dec 1996 16:47:10 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+Assignment 5 - Maintenance
+
+
+
+
+Assignment 5 - Maintenance
+Introduction
+
+This assignment will give you experience modifying an existing code base to
+add functionality.  You will each be given another group's implementation of
+the HTML formatter, as well as the design document for that system.  Your
+assignment is to add the functionality described below and write up the issues
+you encountered.  The writeup will include what aspects of the program made it
+easy to modify and what aspects made it difficult.  (This can include
+non-design issues, like documentation, particularly if the program was
+well documented.)  It should also make recommendations describing how
+the program could be made more modifiable, without changing the entire design.
+
+What to code
+
+Add the following functionality to the formatter:
+
+
+ Add the <HR> (horizontal rule) tag.  The <HR> tag goes to a
+new line (a la <BR>) and outputs a line of dashes (-) across the page.
+The <HR> tag does not need a </HR> tag, and any </HR> tags
+can be ignored.
+   Add a LENGTH attribute to the <HR> tag.  If value of the length
+attribute is an integer, then the length of the line of dashes is
+min(LENGTH, width of output), otherwise it is the width of the
+output.
+   Add a JUSTIFY attribute to the <HR> tag.  The JUSTIFY tag can
+have the values LEFT or CENTER.  The horizontal rule is either left justified
+or center justified appropriately.
+
+Some examples:
+
+(1) Add <HR> tag
+DoOd! horizontal <HR> rulez.
+
+Is output as
+
+DoOd! horizontal
+--------------------------------------------------------------------------------
+rules.
+
+(2) Add LENGTH attribute
+
+This is your invoice:
+<UL>
+<LI> Widgets...... $15.99
+<LI> Gadgets...... $12.97 <HR LENGTH=30>
+<LI> Total........ $28.96
+<UL>
+
+Is output as
+
+This is your invoice:
+  * Widgets....... $15.99
+  * Gadgets....... $12.97
+------------------------------
+  * Total......... $28.96
+
+(3) Add JUSTIFY attribute
+
+This is your brain on invoice... <HR LENGTH=30 JUSTIFY=CENTER>
+AAAAAAAAAAAaaaaaaaaarrrrrrrrggghh!
+
+Is output as
+
+This is your brain on invoice...
+                         ------------------------------
+AAAAAAAAAAAaaaaaaaaarrrrrrrrggghh!
+
+What to write up
+
+The write up should include a discussion of what parts of the program needed
+to be modified to incorporate each new piece of functionality, what changes to
+the interfaces between modules were necessary, and how well the design allowed
+for change overall.  You should describe what changes you would make to the
+program to make it easier to modify, while keeping within the design.  I will
+forward your writeup to the group whose program you modified.
+
+Due Date
+May 31, 1996
+
+
+ Adam Carlson
+

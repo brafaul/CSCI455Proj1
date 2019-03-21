@@ -1,0 +1,57 @@
+Date: Thu, 07 Nov 1996 19:15:30 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 10 May 1996 14:17:54 GMT
+Content-length: 1277
+
+
+
+ Guhan Viswanathan's Home Page 
+
+
+
+
+
+
+ Guhan Viswanathan  (gviswana@cs.wisc.edu) 
+
+Graduate Student
+Department of Computer Sciences
+University of Wisconsin - Madison
+1210 West Dayton Street
+Madison, WI 53706  USA
+
+Advisor:  Jim Larus 
+
+
+
+ Thesis Research  
+My thesis focuses on the design and implementation of data-parallel
+languages. I have been involved in the design of C**, a data-parallel
+language (based on C++) developed locally. I have implemented a C**
+compiler targeting the CM-5, and am investigating how data-parallel
+applications can be executed as efficiently as hand-coded parallel
+programs.
+
+
+
+
+Here's a
+
+more detailed research summary .
+
+
+
+
+Here's a  list of my
+       publications.
+
+
+
+
+ Useful links 
+
+
+ 
+
+

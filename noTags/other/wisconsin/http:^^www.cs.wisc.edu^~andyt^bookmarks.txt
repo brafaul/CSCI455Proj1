@@ -1,0 +1,35 @@
+Date: Tue, 05 Nov 1996 21:47:15 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 05 Nov 1996 09:00:01 GMT
+Content-length: 3977
+
+
+
+Andrew Therber's Bookmarks
+Andrew Therber's Bookmarks
+
+CS 640
+CS 737 Home Page
+Andy Therber's Home Page
+University of Wisconsin - Madison Electronic Library
+GNU Emacs Lisp Reference Manual - Table of Contents
+The Fox Project Home Page
+Database Systems & Logic Programming
+THE OFFICIAL JIMI HENDRIX HOME PAGE
+QBIC Home Page
+http://sulcus.berkeley.edu/mcb165/mcb165_sp96.html
+File Manager For Forms - IRS
+USPS ZIP Code Lookup
+ftp://nis.nsf.net/internet/documents/rfc/rfc0959.txt
+The Linux HOWTO Index
+MAD-3401: IEEE Floating-Point Notes
+Taliesin
+Perl reference materials
+List of USENET FAQs
+Tcl/Tk Information
+DEVise Home Page
+Threads
+Welcome to PeopleSoft!
+Directory of /
+

@@ -1,0 +1,130 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 20:17:24 GMT
+Content-Type: text/html
+Content-Length: 2942
+Last-Modified: Tuesday, 19-Nov-96 16:38:51 GMT
+
+
+
+ 681 The Design and Analysis of Algorithms: Homepage
+ Instructor:  Ronitt Rubinfeld 
+ TA: Evan Moran 
+ Time: MWF 2:30-3:20 
+ Location: Upson  111A 
+ Text:  Kozen, The Design and Analysis of Algorithms, Springer-Verlag.
+
+
+ Handouts:
+
+
+
+Course announcement 
+ 
+
+
+Syllabus
+ 
+
+ Homeworks:
+
+
+
+Homework 1 (last modified 9/5)
+ 
+
+
+Homework 2 (last modified 9/11)
+ 
+
+
+Homework 3 
+ 
+(last modified 9/22)
+
+
+
+Homework 4 
+ 
+(last modified 9/27) 
+
+***see addendum***
+ 
+(last modified 10/2) 
+
+
+
+Homework 5 
+ 
+(last modified 10/11)
+
+***see addendum***
+ 
+(last modified 10/18) 
+
+
+
+Homework 6 
+ 
+***don't see addendum - see new copy of HW***
+
+
+
+Homework 7 
+ 
+(last modified 11/6)
+
+
+
+Homework 8 
+ 
+(last modified 11/13)
+
+
+
+ Solutions:
+
+
+
+Solution 1 
+ 
+
+
+Solution 2 
+ 
+
+
+Solution 3 
+ 
+
+
+Solution 4 
+ 
+
+
+Solution 5 
+ 
+
+
+Solution 6 
+ 
+
+
+Solution 7 
+ 
+
+
+
+ Announcements:
+There will be an exam on Thursday, Nov. 21 at 7 in
+Upson 111/111A.  Talk to
+me or Evan to reschedule if you cannot make it at that time.
+You may refer to the Kozen text, an 8.5x11'' cheat sheet and your 
+class notes/homeworks.
+
+
+Rajeev Motwani's lecture notes on approximations
+ 
+
+PET paper
+ 

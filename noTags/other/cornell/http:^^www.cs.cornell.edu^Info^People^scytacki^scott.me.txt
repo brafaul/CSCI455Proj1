@@ -1,0 +1,37 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 17-Dec-96 00:00:38 GMT
+Content-Type: text/html
+Content-Length: 1053
+Last-Modified: Saturday, 16-Dec-95 07:03:35 GMT
+
+
+
+
+Me,myself,and I
+
+
+
+
+
+ A little about myself
+
+Hello.  I am currently helping out at the 
+
+Cornell Robotics and Vision Lab under the super supervision of 
+
+Ramin Zabih. Well if you read my other page you would know all of that
+already except for the Ramin part.  I'm am a sophmore at Cornell University.
+Originally I'm from 
+Montreal, 
+Quebec,
+Canada.
+  Then my family move to 
+Minneapolis, 
+Minnesota.
+They are now stationed in 
+Kansas City,
+Kansas.
+Well thats all for now.
+
+

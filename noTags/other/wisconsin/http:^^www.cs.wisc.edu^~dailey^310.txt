@@ -1,0 +1,55 @@
+Date: Tue, 05 Nov 1996 00:23:33 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 05 Sep 1996 18:57:10 GMT
+Content-length: 1192
+
+
+
+310 TA page
+
+
+
+ Sara Bauman's TA page 
+
+ CS 310 
+ Problem Solving Using Computers 
+
+
+
+My Office Hours: 
+
+ Thurs 1:30 - 3:00
+	 Fri 2:30 - 3:00
+    
+	or send me email at dailey@cs.wisc.edu
+	to make an appointment at a different time.
+    
+
+
+ The 310 
+	home page has:
+
+ Syllabus
+    Class description
+    Class notes
+    Miscellaneous useful documents
+
+
+ Class/Assignment Announcements: 
+
+9/5/96
+ To avoid losing 5 pts from your homework assignments, please
+put your name and your lab section number (for example: Lab 305) in the
+upper right hand corner of your assignments.  This is how the TA's know
+where to return your assignment. Also, staple your papers in the left hand
+corner (pages can get lost).
+
+
+
+Last modified: Thurs Sept 5, 1996    
+
+dailey@cs.wisc.edu
+
+
+

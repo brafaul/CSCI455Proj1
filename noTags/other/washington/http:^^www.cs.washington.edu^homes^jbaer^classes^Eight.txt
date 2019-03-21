@@ -1,0 +1,53 @@
+Date: Tue, 10 Dec 1996 23:17:58 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 29 Mar 1996 18:18:23 GMT
+Content-length: 1230
+
+
+
+ Eight Puzzle Applet 
+
+
+8-Puzzle
+(Java baby steps)
+
+
+
+Sorry, you are not using a Java compatible browser
+
+
+Click on a tile next to the blank space to move it.
+
+
+History:
+
+
+2/3/96 -- Added custom update method to make redrawing of the puzzle
+iteself happen offscreen to get rid of occasional flicker.
+
+
+2/2/96 -- The randomize button now works, and the Repeat Last button
+currently puts the puzzle back in order.  That will change.
+
+
+1/29/96 -- Note that although buttons now appear for the
+aforementioned functions, they don't actually do anything yet.  Oh
+well, at least I figured out Layouts.
+
+
+1/25/96 -- First put up.  Much more is coming, including a randomize
+button an a couple of AI search algorithms to automatically solve the puzzle.
+
+
+Pretty badly documented source for
+what's here so far
+
+
+Copyright (c) 1996 
+Jeremy Baer
+
+jbaer@cs.washington.edu
+
+
+

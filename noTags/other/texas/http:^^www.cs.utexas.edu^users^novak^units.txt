@@ -1,0 +1,50 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:26:12 GMT
+Content-Type: text/html
+Content-Length: 1125
+Last-Modified: Tuesday, 06-Jun-95 17:39:16 GMT
+
+
+
+
+Unit Conversion Software
+
+
+Unit Conversion Software
+
+
+This software, written in Common Lisp, can convert a given unit of
+measurement into an equivalent unit.  The input can be named units or
+expressions in terms of units.  The software can also simplify
+unit expressions.
+
+(convert 'meters 'feet)
+3.280839895013123
+
+(convert '(/ (* atto parsec)
+             (* micro fortnight))
+         '(/ inch sec))
+1.0034552972545097
+
+(convert '(/ (* mega lbf) acre)
+         'kilopascals)
+1.0991794990738932
+
+(simplifyunit '(/ (* newton meter) (* ampere second)))
+VOLT
+
+(simplifyunit '(/ (* volt volt)
+                  (* lbf (/ (* atto parsec) hour))))
+(* 26250.801011041247 OHM)
+
+
+
+Unit Conversion: On-line
+      Demonstration
+ 
+       FTP directory for software and documentation.
+  ``Conversion of Units of Measurement'' paper.
+ 
+
+

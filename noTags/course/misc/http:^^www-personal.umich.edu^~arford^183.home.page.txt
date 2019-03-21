@@ -1,0 +1,52 @@
+Date: Tue, 26 Nov 1996 19:14:18 GMT
+Server: NCSA/1.5.1
+Content-type: text/html
+
+
+EECS/CS 183 Home Page
+
+
+EECS/CS 183
+Elementary Programming Concepts
+
+EECS/CS 183 is an introductory course in computer programming for
+non-majors.  Starting in the Fall 1996 semester, we will use the C++
+programming language. 
+
+Pre-requisites: none
+
+
+Current Instructor: Ann Ford
+
+E-mail: arford@umich.edu
+
+
+Graduate Student Instructors:
+  Phillip Jewell            E-mail: pjewell@umich.edu
+
+  Greg Lewis                E-mail: gregl@umich.edu
+
+  Baheer Rajalingam         E-mail: baheer@umich.edu
+
+  Christopher Wong          E-mail: chrisv@umich.edu
+
+
+
+This course is not intended for majors in Computer Science or Computer
+Engineering, and as of Fall term 1997, will not serve as a pre-requisite
+for EECS/CS 280.  Concentrators and those who wish to take 280 must take
+EECS/CS 100 as the pre-requisite. 
+
+
+More Information on EECS/CS 183
+ General Course Information
+ Office Hours
+ Discussion Sections
+ Lecture Notes
+ Final Exam Information
+
+Information on the Computer Science Concentration
+ Computer Science & Engineering 
+Home Page
+
+

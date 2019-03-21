@@ -1,0 +1,39 @@
+Date: Wed, 20 Nov 1996 19:14:54 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+Content-length: 1475
+Last-modified: Mon, 04 Dec 1995 18:58:35 GMT
+
+
+Scheme language implementation
+
+Scheme language implementation
+Description: 
+
+The Scheme programming language is the vehicle for much of our programming
+languages research.
+Our work on Scheme implementation serves to further understanding of
+imperative functional language implementation as well as to improve the
+utility of Scheme as a research vehicle.
+Our research includes work on storage management, control
+representation, program analysis, code optimization, register
+allocation, OOP subsystems, and run-time compilation.
+
+
+Associated Faculty:
+R. Kent Dybvig,
+
+Associated Postdocs and Graduate Students:
+Carl Bruggeman,
+Robert G. Burger,
+Oscar Waddell,
+John Zuckerman
+
+Affiliated Projects:
+Scheme 2000,
+Syntactic abstraction,
+IU Scheme Educational
+Infrastructure Project
+
+
+Computer Science Research Page

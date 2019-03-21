@@ -1,0 +1,91 @@
+Date: Mon, 25 Nov 1996 20:10:43 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 21 Mar 1996 15:06:04 GMT
+Content-length: 3654
+
+
+
+ Professor Frank K.H.A. Dehne  
+
+
+ 
+
+ Dr. Frank K.H.A. Dehne
+Associate Professor 
+School of Computer Science, Carleton University, Ottawa, Canada
+
+
+
+
+Dr. Dehne received a M.C.S. degree (Dipl. Inform.) from the 
+Technical University
+ of 
+
+Aachen,
+Germany
+in 1983 and a Ph.D. (Dr. Rer. Nat.) from the 
+University of 
+Wuerzburg, 
+Germany in
+1986. He joined the 
+School of Computer Science at 
+Carleton University,
+Ottawa, 
+Canada,
+in July 1986. 
+
+His  research
+interests include the design and analysis of algorithms, computational
+geometry, parallel processing, parallel computational geometry, and parallel
+image processing.  Dr. Dehne is managing editor of the journal
+
+Information Processing Letters 
+and editor of the journal
+Parallel Algorithms and Applications. He also received a 1992
+University Research Achievement Award.  
+
+For more information consult the following pages: 
+
+
+ 
+
+
+Research
+
+
+
+
+Publications
+
+ 
+
+
+Teaching / Current Courses
+  
+ 
+
+
+Info / Projects / Pointers
+  
+
+
+ E-mail: 
+dehne@scs.carleton.ca
+Mailing Address: School of Computer Science, Carleton
+University, Ottawa, Canada K1S 5B6 Office: room 5332, Herzberg Physics
+Building
+Phone: (613) 520-2600 ext.4027; secretary: (613) 520-4333
+Fax: (613) 520-4334
+WWW: 
+
+http://www.scs.carleton.ca/scs/faculty/dehne.html
+
+
+Number of visitors so far: 
+
+
+
+Copyright ©1996 Dr. Frank Dehne
+
+

@@ -1,0 +1,42 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:07:49 GMT
+Content-Type: text/html
+Content-Length: 2138
+Last-Modified: Wednesday, 14-Dec-94 14:05:21 GMT
+
+
+A Distributed HTTP Server - Richard Hsu/Fred Hsu,
+Cornell
+A Distributed HTTP Server
+Jui-Chieh Richard Hsu Jui-Yuan Fred Hsu
+Department of Computer ScienceCornell UniversityIthaca,
+New York
+
+
+Abstract
+The web is growing at an exponential rate.  Companies, academic
+institutions, government, and many other agencies are all moving toward
+this "universal information highway". As the amount of hypermedia
+meterials increases, the burden on top of HTTP servers gets aggravated.
+It is an essential task to find a mechanism in which hypermedia data can
+be collected and stored in a central repository, and requested
+information can be forwarded to outside clients within a reasonable
+period of time. We have proposed, implemented, and tested several
+models. The result shows clearly the superiority distributed HTTP servers over stand-alone servers. Furthermore, HTML document access patterns are discussed, and suggestions for
+future implementation of HTTP are presented . A clever and scalable
+model can be implemented with few changes in the current protocol and
+communication scheme.
+
+Background
+Information
+Technical
+Analysis on HTTP Usage and Performance
+Distributed
+HTTP Server: Project Details
+Conclusion
+
+About AuthorsJui-Chieh Richard Hsu
+
+Jui-Yuan Fred Hsu
+

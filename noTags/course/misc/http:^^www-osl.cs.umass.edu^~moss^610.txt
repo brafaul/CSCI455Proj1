@@ -1,0 +1,72 @@
+Date: Wednesday, 20-Nov-96 23:21:26 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 20-Nov-96 15:19:49 GMT
+Content-length: 2753
+
+
+CMP SCI 610/410(491A) - Translator Design
+
+
+CMP SCI 610/410(491A) - Translator Design - Fall 1996
+
+Instructor:
+    J. Eliot B. Moss, Associate Professor
+    Office: LGRC A217B (across from department main office)
+    Email: moss@cs.umass.edu
+    Phone: (413) 545-4206; Fax: (413) 545-1249
+Teaching Assistant:
+    Karsten Jung
+    Office: LGRT 122
+    Email: jung@cs.umass.edu
+    Phone: 545-1519
+Class schedule:
+    Lectures:   Tu/Th  2:30- 3:45 LGRC A339
+                Fri   11:15-12:05 LGRT 1322 (610 and honors only)
+    Discussion: M/W   11:15-12:05 LGRT 1322
+Class Documents:
+
+General information files
+
+    Syllabus, schedule, requirements, etc.
+
+    Latest 610 course news ("welcome" file)
+
+    Definition of Mini-Pascal (language compiled in project)
+
+Lecture related files
+Friday lecture 09/27/96: context-free grammar algorithms
+
+postscript 2-up (save paper!);
+
+postscript 1-up
+Friday lecture 11/08/96: value numbering
+
+postscript 2-up (save paper!);
+
+postscript 1-up
+
+Homework related files
+
+    Homework assignment #1; solution
+(postscript)
+
+    Homework assignment #2
+
+    Homework assignment #3
+
+    Homework assignment #4
+
+Project related files
+
+    Project assignment #1
+
+    Project assignment #2
+
+    Project assignment #3
+
+    Project assignment #4
+
+
+

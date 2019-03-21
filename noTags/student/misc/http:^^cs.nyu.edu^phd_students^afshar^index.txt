@@ -1,0 +1,69 @@
+Date: Tue, 26 Nov 1996 03:46:22 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Tue, 19 Nov 1996 15:17:12 GMT
+Content-length: 2013
+
+
+
+ Nick Afshartous
+   Nick Afshartous
+
+ 
+
+
+  Ph.D. Candidate
+Department of Computer Science
+ Courant Institute of Mathematical Sciences
+New York University.
+
+
+
+ Email: afshar@cs.nyu.edu
+ Room 1005, 715 Broadway
+       NY NY 10012
+
+   Voice: (212) 998-3363
+
+ 
+
+
+Research
+
+Concurrent Languages and Systems
+
+The concurrency constructs of a prototyping language
+called 
+Griffin. 
+
+My advisor is 
+Ben Goldberg. 
+
+Publications 
+
+
+Afshartous, N. and M. Harrison. "Expressing Concurrency in Griffin."
+In Proceedings ICPADS-96, Tokyo, Japan.  
+International Conference on Parallel
+and Distributed Systems, June 1996. 
+
+Background 
+
+B.S. 1986, Computer Science, 
+University of Massachusetts at Amherst. 
+
+M.S. 1989, Computer Science, New York University
+
+
+Computer Science pages I've found useful
+
+Lycos search index at CMU
+Glimpse search index at Arizona
+CS search index at Indiana
+Object-Oriented search index at 
+Berne
+General Computer Science
+Resources
+
+
+

@@ -1,0 +1,73 @@
+Date: Tue, 10 Dec 1996 22:21:18 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Fri, 06 Dec 1996 17:34:24 GMT
+Content-length: 3384
+
+
+Univ. of Washington Electrical Engineering
+
+
+
+
+Search EE Web pages for:
+
+
+Welcome to the WWW home page for the Department of Electrical Engineering,
+College of Engineering,
+University of Washington.
+Please see our Contact Information page for
+our mailing address and how to find us.
+
+
+ Academic Affairs
+Classes,
+Time and Finals Schedule,
+Course Descriptions,
+EE Tutorial Center,
+Teaching Assistants,
+Faculty Teaching Assignments,
+Graduate Studies,
+Graduate Admissions,
+Graduate Exam Notices,
+Undergraduate Studies,
+Undergraduate Admissions
+
+ People & Organizations
+Faculty,
+Staff,
+Research Laboratories,
+Student Organizations,
+UW
+Engineering Alumni Association.
+Faculty and Staff Directory.
+ Seminars, Colloquia, Conferences and Noteworthy 
+Events Updated 15 Nov 96 
+ Faculty Positions Available 
+ Research
+ The on-line version of
+Research in Electrical Engineering,
+our guide to the various research projects in EE.
+A 
+subject index of faculty interests.
+Pointers to information provided by the various labs.
+ General Information
+ Where to go, who to see, what to do,  and when to do it.
+EE Stores,
+EE Computing Services,
+Construction Updates,
+Planning information,
+Departmental History,
+EE Alumni Newsletter,
+What's New.
+
+ Employment Opportunities for Graduates and 
+Alumni 
+ Other 
+Information Services
+ Pointers to other networked information systems, including
+WWW search tools and libraries.
+
+
+Last updated: 4 December 1996 Autumn Blanchard autumn@ee.washington.edu
+

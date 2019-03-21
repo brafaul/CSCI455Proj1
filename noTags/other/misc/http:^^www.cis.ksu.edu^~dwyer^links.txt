@@ -1,0 +1,59 @@
+Date: Tue, 14 Jan 1997 23:55:52 GMT
+Server: NCSA/1.5.2
+Last-modified: Fri, 06 Sep 1996 13:51:49 GMT
+Content-type: text/html
+Content-length: 2660
+
+
+
+
+Matt Dwyer's Links Page
+
+
+
+
+
+ Software Engineering, Programming Language, and Compiler Resources
+
+We have a Master of Software Engineering program at Kansas State University.
+We have an active programming languages research group at Kansas State University.
+The SEI maintains a list of interesting software engineering topics.
+Some other good sources of information are the WWW virtual library entries for
+software engineering and
+concurrent systems.
+When in doubt you can poke around the software engineering links
+at Yahoo.
+If you program in Ada you should know about this collection of information.
+If you want to try to mix formal specification with C++ code check out
+the Larch/C++ Project.
+A self-paced course in software engineering has been developed as have some
+courses in other areas of computer science.
+A lot of interesting links to programming language research are collected 
+here. 
+
+
+ Some Useful Web Resources
+
+The CTAN-Web Page is the ultimate TeX source.
+The glimpse server is a queriable repository of computer science bibliographic entries.
+The Lycos Home Page: Hunting WWW Information
+Yahoo
+
+
+All the news that's fit to link ...
+
+The Kansas City Star
+The Boston Globe
+USA Today
+ESPN Sportzone
+
+
+
+
+
+
+Matt Dwyer (dwyer@cis.ksu.edu)
+Last updated 6 Sep 1996.
+
+
+

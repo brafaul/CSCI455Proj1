@@ -1,0 +1,39 @@
+Date: Tue, 10 Dec 1996 03:25:28 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+The Indigo Algorithm
+
+
+The Indigo Algorithm
+
+
+Authors: Alan Borning, Richard Anderson, and Bjorn Freeman-Benson
+
+
+
+Published as UW Tech Report 96-05-01.
+
+
+
+Abstract
+
+Inequality constraints are useful for specifying various aspects of user
+interfaces, such as constraints that one window is to the left of another,
+or that an object is contained within a rectangle.  However, current local
+propagation constraint solvers can't handle inequality constraints.  We
+present Indigo, an efficient local propagation algorithm for satisfying
+acyclic constraint hierarchies, including inequality constraints.
+
+
+
+
+
+Click 
+here to get the postscript file.
+
+
+
+Return to Constraints home page

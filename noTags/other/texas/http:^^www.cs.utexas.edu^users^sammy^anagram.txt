@@ -1,0 +1,30 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:22:18 GMT
+Content-Type: text/html
+Content-Length: 596
+Last-Modified: Saturday, 03-Aug-96 21:12:59 GMT
+
+
+
+
+Sam's Anagram Server
+
+
+ Sam's Anagram Server 
+
+
+Enter a string (omit spaces), and click the button to get a list of
+anagrams. If you don't know what an anagram is, check the dictionary.
+
+    
+
+
+
+
+
+Back to my  home page .
+
+ sammy@cs.utexas.edu 
+
+

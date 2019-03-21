@@ -1,0 +1,75 @@
+Date: Wednesday, 20-Nov-96 19:49:27 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tuesday, 12-Nov-96 02:12:16 GMT
+Content-length: 3301
+
+OSL and SAA Home Page
+ Object Systems Laboratory  and    
+Systems for Advanced Architectures 
+
+
+The Systems for Advanced Architecture and the Object Systems Laboratories are
+part of the Computer Science Department
+at the University of Massachusetts,
+Amherst.  The principal  investigators are:
+
+
+ Kathryn McKinley 
+ Eliot
+Moss. 
+
+
+ Papers 
+Our primary research areas are:
+
+  Compiler architectures 
+  Compiler optimizations  (in particular for enhancing parallelism and memory system performance)
+  Memory management  (both compiler and runtime issues)
+  Memory system performance 
+  Persistent programming languages--design and implementation 
+  Persistent object stores 
+  Information retrieval 
+  Transactional memory 
+
+ Research Projects 
+
+ Scale 
+ Mneme
+ Optimizing object-oriented languages
+ Garbage collection
+ Analytical models for object allocation and deallocation behavior
+ Loop optimizations
+ Distributed support for information retrieval
+
+ Graduate Students 
+
+ Brendan Cahoon 
+ John Cavazos 
+ Jim Doyle 
+ Jim Havlicek 
+ Karsten Jung 
+ Sharad Singhai 
+ Darko Stefanovic 
+ Cindy Stein 
+ Glen Weaver 
+ Eric Wright 
+
+ Recent Graduates 
+
+ Eric Brown 
+ Amer Diwan 
+ Tony Hosking 
+
+
+ Memoranda    
+The  OSL and SAA
+memoranda  are a collection of reports describing work in progress.
+
+
+
+ This page is frequently updated. Please visit again! 
+ Maintained by Sharad Singhai.
+singhai@cs.umass.edu
+  Last updated Nov. 8, 1996

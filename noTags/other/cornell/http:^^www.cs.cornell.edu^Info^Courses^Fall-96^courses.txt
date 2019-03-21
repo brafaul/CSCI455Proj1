@@ -1,0 +1,231 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:37:02 GMT
+Content-Type: text/html
+Content-Length: 9968
+Last-Modified: Friday, 13-Sep-96 15:48:57 GMT
+
+
+
+Cornell CS Course Home Pages Fall 1996 
+
+
+
+Course Home Pages - Fall 1996
+
+
+
+
+These are links to the home pages for a number of CS courses for Fall 1996.
+In many cases there are class notes, problem sets, and other course
+information available, although they may be available only to registered
+members of the course.
+
+Course Home Pages for some courses taught during previous semesters 
+can be found using the links at the bottom of this page.
+
+
+
+
+        CS100A Introduction to Computer Programming
+
+An introduction to elementary computer programming concepts. Emphasis
+is on techniques of problem analysis and the development of algorithms
+and programs. The subject of the course is programming, not a
+particular programming language. The principal programming language is
+C. The course does not presume previous programming experience.
+Programming assignments are tested and run on interactive, stand-alone
+microcomputers.
+
+Standard version of COM S 100.  No college-level mathematics is assumed.
+
+
+
+        CS100B Introduction to Computer Programming
+
+An introduction to elementary computer programming concepts. Emphasis
+is on techniques of problem analysis and the development of algorithms
+and programs. The subject of the course is programming, not a
+particular programming language. The principal programming language is
+C. The course does not presume previous programming experience.
+Programming assignments are tested and run on interactive, stand-alone
+microcomputers.
+
+Alternative version of COM S 100, emphasizing examples and
+applications involving continuous mathematics, including trigonometry
+and calculus.
+
+
+
+        CS211 Computers and Programming
+
+Intermediate programming in a high-level language and introduction to
+computer science.  Topics include program development, proofs of
+program correctness, program structure, recursion, abstract data
+types, object- oriented programming, data structures, and analysis of
+algorithms.  Java and Gofer are the principal programming languages.
+
+
+
+
+        CS212 Structure and Interpretation of Computer Programs
+
+An introduction to programming languages and computer science.  Topics covered
+include functional programming (including recursive and higher-order
+functions), object-oriented programming, analysis and understanding of
+algorithms, and correctness of programs.  Several substantial sized
+programming projects are done using Dylan, a dynamic object-oriented
+programming language.  The aim of the course is to expose students to a wide
+range of interesting and challenging concepts in computing, using programming
+as a tool.
+
+
+
+
+        CS280 Discrete Structures
+
+Covers mathematical aspects of programming and computing.  Topics will be
+chosen from the following:  mathematical induction; logical proof;
+propositional and predicate calculus; combinatorics and discrete
+mathematics covering manipulation of sums, recurrence relations, and 
+generating-function techniques; basic number theory; sets, functions, and
+relations; partially ordered sets; graphs.
+
+
+CS314 Introduction to Digital Systems and
+		Computer Organization
+
+	Web course material includes course info, lecture notes, homeworks, 
+	project info, and hopefully even lecture videos.
+	
+	Topics covered in the course include: representation of
+	information; machine/assembly languages, in particular PowerPC;
+	processor organization; interrupts and I/O; memory hierarchies;
+	combinatorial and sequential circuits; data path and control
+	unit design; RTL; and microprogramming.
+	
+
+
+        CS401 Programming Languages and Software Engineering
+
+
+An introduction to the programming languages, tools, and methods used
+in modern software development. Programming methodologies: modularity,
+data abstraction, object-oriented programming. Programming tools,
+software libraries, and interface definition languages. General
+techniques will be complemented with programming experience.
+
+
+
+        CS410 Data Structures
+
+Lists, trees, graphs, arrays, and other forms of data structure and
+their implementation. Relationship between language and data
+structure, emphasizing abstract data types. Dynamic storage allocation
+and memory management. Detailed study of searching and sorting
+methods. Analysis to determine the more efficient algorithm in a given
+situation.
+
+
+
+        CS414 Systems Programming and Operating Systems
+
+An introduction to the logical design of systems programs, with
+emphasis on multiprogrammed operating systems. Topics include
+process synchronization, deadlock, memory management, input-output
+methods, information sharing, protection and security, and file
+systems. The impact of network and distributed computing  
+environments on operating systems is also discussed. This is a
+fast-paced subject requiring constant attention. 
+
+
+
+        CS472 Foundations of Artificial Intelligence
+
+A challenging introduction to the major subareas and current research
+directions in artificial intelligence. Topics
+include knowledge representation, search, problem solving,
+natural-language processing, vision, robotics, logic and
+deduction, planning, and machine learning. 
+
+
+
+
+        CS481 Automata and Computability Theory
+
+        An introduction to the modern theory of computing: automata theory,
+        formal languages, and effective computability.  A faster-moving
+        and deeper version of CS381.  Credit will not be given for both.
+        Corrective transfers between CS381 and CS481 are encouraged during
+        the first few weeks of instruction.
+
+
+
+        CS537 Advanced Database Systems
+
+CS 537 (Advanced Database Systems) is intended to give students a solid 
+background in the design and development of database management systems 
+(DBMS's). While a DBMS is in one sense a giant application program, there 
+are surprisingly many principles behind its development and use. The 
+database research community is also active, and there are always new 
+problems to be addressed because of the explosive amounts of data that 
+people wish to access. This course forms essential background for anyone 
+who wants to (a) become a systems engineer at a database development company, 
+or (b) become an informed user of database systems, or (c) become a database 
+systems researcher, or (d) develop systems in any domain that manipulate 
+large amounts of data, or (e) find out how a teller machine really works!
+A number of "advanced fundamental" DBMS concepts will be covered. 
+Although this is not intended to be an introductory course, the discussion 
+of various topics will begin with a quick review of basic material.
+In terms of workload, the course involves two exams, a small survey 
+paper, and a C++ programming project. 
+
+See http://www.cs.cornell.edu/Info/People/praveen for more details.
+
+
+
+        CS611 Advanced Programming Languages
+
+A study of programming paradigms: functional, imperative, concurrent
+and logic programming. Models of programming languages, including the
+lambda calculus. Type systems, polymorphism, modules, and other
+object-oriented constructs.  Program transformations, programming
+logic, and applications to programming methodology.
+
+
+
+        CS631 Multimedia Systems
+
+Hardware and software issues involved in computer manipulation of
+audio, video, and images. Topics include media capture,
+representation, compression, editing, processing, storage, and
+transportation. Special emphasis on the processing of digital video,
+including algorithms for special effects and automatic extraction of
+content, and applications of parallel architectures to video
+processing.
+
+
+
+        CS681 Analysis of Algorithms
+
+Methodology for developing efficient algorithms, primarily for graph
+theoretic problems.  Understanding of the inherent complexity of natural
+problems via polynomial-time algorithms, randomized algorithms, 
+NP-completeness, randomized reducibilities.  Additional topics such as
+parallel algorithms and efficient data structures.
+
+
+
+Information from previous semesters
+Information from previous semesters may be retained for a while, but don't be surprised if certain links don't work.
+
+
+Fall 1994
+Spring 1995
+Summer 1995
+Fall 1995
+Spring 1996
+Summer 1996
+
+
+

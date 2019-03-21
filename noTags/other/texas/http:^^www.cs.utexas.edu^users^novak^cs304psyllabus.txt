@@ -1,0 +1,36 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 20:06:33 GMT
+Content-Type: text/html
+Content-Length: 1406
+Last-Modified: Wednesday, 23-Aug-95 20:21:24 GMT
+
+
+
+
+CS 304P: Computer Science I: Syllabus
+
+
+CS 304P: Computer Science I: Syllabus
+
+
+CS 304P is an introduction to Computer Science and programming for
+students with no previous university CS coursework.
+
+This section of CS 304P will use the programming language Scheme, a
+dialect of Lisp.  The Scheme implementation we will use is called
+Gambit and runs on Macintosh computers.  Toward the end of the
+semester, we will quickly learn Pascal for compatibility with later
+CS classes.
+
+This course is intended to move faster than the regular CS 304P course
+and to emphasize CS concepts more than programming language syntax.
+We will do more programming and probably work harder than the regular
+CS 304P course, and we will hopefully learn more and have more fun.
+
+
+
+
+
+Gordon S. Novak Jr.
+

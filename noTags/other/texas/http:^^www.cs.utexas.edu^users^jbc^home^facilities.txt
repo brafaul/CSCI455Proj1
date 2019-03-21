@@ -1,0 +1,195 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:05:39 GMT
+Content-Type: text/html
+Content-Length: 5577
+Last-Modified: Wednesday, 27-Nov-96 17:28:00 GMT
+
+
+
+
+John B. Chambers: UTCS Computer Facilities
+
+
+
+UTCS: Computer Facilities
+
+
+I've been tinkering with Unix systems since 1977, 
+and have been involved with 
+USENIX
+and the greater Unix community on and off since 1982.
+Along the way, I've worked at the Geotronics Corporation (Austin),
+the 
+
+University of Texas Medical Branch
+(Galveston),
+the
+
+MCC research consortium
+(Austin),
+and as an independent software contractor.
+
+
+Since 1987 I've been employed at the
+Department of Computer Sciences
+at
+The University of Texas at Austin
+as a
+
+Senior Operating Systems Specialist
+in the Unix facilities group.
+Among other projects, I wrote, and still maintain, custom DBMS software
+for the departmental user and inventory databases.
+I've also administered our DEC systems (MIPS/Ultrix and Alpha/OSF1),
+and I've been the acting UTCS webmaster
+since January 1995.
+
+
+
+The full-time technical staff at UTCS are:
+
+
+    Patti Spencer,
+	Technical Coordinator for Equipment and Facilities
+
+
+
+John Chambers,
+	Senior Operating Systems Specialist
+
+    Alan Haggard,
+	Microcomputer Applications Specialist
+
+    Pat Horne,
+	Computer Systems Development Specialist
+
+    Fletcher Mattox,
+	Senior Operating Systems Specialist
+
+    Tommy McGuire,
+	Computer Programmer
+
+    Boyd Merworth,
+	Senior Operating Systems Specialist
+
+Kay Nettle,
+	Operating Systems Specialist
+
+Toren Smith,
+	Computer Equipment Maintenance Specialist
+
+    Scott Sutcliffe,
+	Senior Computer Equipment Maintenance Technician
+
+
+
+Some 
+
+facilities information and frequently asked questions
+may be found on the departmental WWW server.
+If you have other Unix facilities questions or problems, 
+you can reach us by email at 
+unix@cs.utexas.edu.
+For help with other problems, you should send e-mail to the appropriate
+UTCS support mailing list (all are @cs.utexas.edu, of course):
+
+
+
+
+
+gripe
+ General problems in no obvious category
+
+
+
+help
+ Undergraduate instructional laboratories
+
+
+
+machelp
+ Macintosh software problems
+
+
+
+oracle-admin
+ Help with Oracle, downtime for oracle.cs, etc.
+
+
+
+public
+ Unix software installed in /public or /p
+
+
+
+shop
+ Any computer hardware; CS department PBX
+
+
+
+udb
+ Accounts, passwords, groups, mail aliases
+
+
+
+unix
+ Unix o/s and software installed in /lusr
+
+
+
+
+It may take much longer for your mail to be routed to the right 
+person(s) if you mail to individual staff members instead of using a
+mailing list.
+
+
+The UTCS department staff does not deal with the University facilities.
+Such problems must be handled by calling the UT Physical Plant:
+
+
+
+
+
+
+471.7221
+
+
+    Physical Plant planning and scheduling,
+    for problems with UT buildings, plumbing, flooding,
+    heating and cooling, light bulbs, insects, etc.
+    
+    Also:
+    
+
+
+
+          Fax
+          TxMail
+          Internet
+          Campus
+
+
+          471.8788
+          PPHLP
+
+          pphlp@utxdp.dp.utexas.edu
+          PP1 1.120  H7015
+
+
+
+
+
+
+
+471.2020
+
+
+    If such problems are urgent and must be reported
+    outside normal working hours.
+  
+
+
+
+
+ 

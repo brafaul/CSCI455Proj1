@@ -1,0 +1,81 @@
+Date: Tue, 10 Dec 1996 16:48:20 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE373 Course Web Page
+
+
+CSE373: Data Structures and Algorithms
+Winter 1996
+
+Meeting Time:	MWF 1230-120
+Meeting Place:	Sieg 226
+
+
+Instructor: Linda Shapiro
+
+Office:		214 Sieg
+Telephone:	543-2196
+Email:		shapiro@cs.washington.edu
+Office Hours:	MF 10:30-11:20 and W 1:30-2:20
+
+TA: Denise Pinnel
+
+Office:		429 Sieg
+Telephone:	543-5129
+Email:		denisep@cs.washington.edu
+Office Hours:	TR 1:30-3:00 and W 2:30-4:00
+
+
+Syllabus
+
+Transparencies
+
+
+Homework Assignments
+
+Homework 1
+
+Answers to Homework 1
+
+Homework 2
+Homework 3
+
+
+Programming Assignments
+
+Programming Assignment 1
+
+Test File 1
+Test File 2
+Test File 3
+Test File 4
+
+Programming Assignment 2
+Note: The data sets are set up as follows:  A line beginning with an 'I'
+indicates an insertion into the B+ tree.  The key is next enclosed in
+quotes.  As stated in the assignment these are 10 characters long.
+Next comes an integer that indicates the length of the associated
+value.  And finally the string value, also enclosed in quotes. A line
+beginning with an 'S' indicates doing a find or search.  It is
+followed by the search key, enclosed in quotes.
+
+Test File 1
+Test File 2
+Test File 3
+
+Programming Assignment 3
+
+Object Model Graph
+Image Graph
+
+
+
+Review Lists
+
+Final Study Sheet
+
+
+

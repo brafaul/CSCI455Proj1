@@ -1,0 +1,171 @@
+Date: Wed, 15 Jan 1997 01:31:37 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 10 Dec 1996 04:47:30 GMT
+Content-length: 8553
+
+
+
+Hierarchical JPEG
+
+Hierarchical Coding 
+
+To investigate the effectiveness of
+hierarchical coding (or layered coding) for congestion control
+in ATM Networks, I have implemented the sequential DCT-based 
+hierarchical mode of JPEG using the existing baseline JPEG code from the Independent
+JPEG group.  Below is a short tutorial on the hierarchical mode of JPEG.
+
+
+
+The JPEG Still Image Compression Standard Overview
+The Hierarchical Mode of the JPEG Standard
+Difference between Progressive Mode and Hierarchical Mode
+References
+
+
+
+The JPEG Still Image Compression Standard Overview
+
+The JPEG (Joint Photographic Experts Group) standard was developed under the auspices of
+ISO (ISO 10918-1 JPEG Draft International Standard) and CCITT  (CCITT Recommendation 
+T.81), and supports both lossy and lossless compression.  The lossy methods are based on the 
+Discrete Cosine Transform (DCT). The standard specifies four modes of operation: sequential, 
+lossless, progressive, and hierarchical encoding[1].
+The progressive and hierarchical modes allow for decompression of a partially received signal.
+
+
+
+Even though this standard was developed with still images in mind, it is also used for video 
+transmission by providing intraframe compression only (often referred to as motion JPEG).  
+Intraframe compression provides much lower compression ratios for video than combined intra and 
+interframe compressio frames. 
+
+
+
+Sequential encoding is probably the most common mode for most applications. 
+It involves encoding each image component in a single left-to-right top-to-bottom scan. 
+The most widely used mode of JPEG is the baseline mode which is a subset of the sequential encoding based 
+on the Discrete Cosine Transform (DCT).  In the baseline encoding algorithm, each component of the 
+source image is divided into 8x8 pixels of non-overlapping blocks.  The pixel values in each such 
+block are first level-shifted from unsigned to signed integers and then input to the forward 
+DCT.  The resulting 64 DCT coefficient values can be regarded as the relative amount of 2D 
+spatial frequencies contained in the input image. The DC coefficient is a measure of the average 
+value of the 64 image pixels.
+
+
+
+The next step is to quantize the DCT coefficients. The purpose of this step is to achieve further 
+compression by quantizing high-frequency components with a larger step size (i.e., more 
+coarsely). This is because high spatial frequencies require less detailed coding. 
+This step discards visually unimportant information and thus makes the approach "lossy." 
+These quantized coefficients are then entropy encoded, with the DC coefficients being treated specially. 
+Since the DC coefficients are a measure of the average value of the pixels in the block, they are 
+expected to show less variation within the same component, and therefore, are differentially 
+encoded.
+
+
+The quantized AC coefficients are ordered in a zigzag sequence starting from the top-left corner 
+and traversing the nearest cells first. This ordering puts the low-frequency coefficients before the 
+high-frequency ones, and thus facilitates entropy coding. 
+The coefficients are first run-length encoded and then coded using Huffman or arithmetic coding. 
+
+
+The output from the entropy encoder is the output of the JPEG encoder. 
+The JPEG decoder simply reverses this process, using an entropy decoder, dequantizer, and the 
+inverse DCT to reconstruct the image.
+
+
+
+The Hierarchical Mode of the JPEG Standard
+
+The hierarchical encoding mode of JPEG (HJPEG) encodes an image at multiple resolutions,
+each differing from its adjacent level by a factor of two in the horizontal or vertical directions, or 
+both. The image is first bandsplit on the basis of spatial frequency and subsampled by the desired 
+number of multiples of two in either or both dimensions. For sequential DCT-based HJPEG this new 
+reduced size image (called a frame in JPEG terminology) is encoded using the sequential mode described 
+previously. Then, the encoded reduced-size image is decoded, interpolated and upsampled by two
+horizontally and/or vertically. This upsampled image is then used as a prediction of the original 
+image at this resolution and the difference image is computed. 
+The difference image (called a differential frame) is then encoded using the sequential mode. 
+Finally, the last two steps are repeated until the original image at full resolution has been encoded.
+
+
+
+Difference between Progressive Mode and Hierarchical Mode
+
+In the progressive mode, the 8x8 DCT coefficients blocks are encoded in multiple scans.  Like 
+the hierarchical mode, the progressive mode requires an image-sized buffer for storing the 
+coefficients between quantizer and the entropy coder.  Two procedures,   spectral selection  
+ and  successive approximation, are defined for encoding the quantized coefficients in the
+buffer.  Spectral selection  encodes  a specified band of coefficients in each scan.    
+ Successive approximation  encodes  the most significant bits in the first scan and 
+then the less significant bits in each subsequent scan.
+
+
+
+The hierarchical mode, as described previously[2], provides a progressive presentation with 
+increasing spatial resolution between progressive stages.  The image quality at extremely low 
+bit rates is reported to be superior to any other modes of JPEG including the progressive mode[3].
+
+
+
+Both the progressive and the hierarchical mode allow the progression of image, from coarse to refined.  However, the 
+multiple resolutions in the hierarchical mode provide an edge over the progressive mode in the following 
+two cases.  
+
+
+
+Heterogeneous end user devices:  When a user has a low resolution display device, 
+a maximum resolution for that device is always possible without receiving 
+unnecessary data for higher resolution if the hierarchical mode is used.  Both the 
+required bandwidth and the transmission time are reduced for a lower resolution
+display device.  In the case of the progressive mode, a user can still see the progression 
+of an image, however, the total transmission time is fixed for the full-resolution.  
+Therefore,  the progressive mode does not attend to various user devices efficiently.   
+The extended use of network bandwidth (and transmission time if progressed to the 
+full-resolution completely) incurs an unnecessary cost if the devices have lower 
+resolutions than the coded image.
+
+
+
+Multimedia data storage:  Thumbnail images are feasible in the hierarchical mode.  
+However, the separation of an image by layer for storing in a different storage 
+device is not justified in the progressive mode, since a progression up to full-resolution
+may be necessary regardless of image sizes.
+
+
+Note also that the hierarchical mode can use other modes of JPEG for the progression.  Thus, even a finer granularity of the progression is possible if the 
+progressive mode is used  instead of sequential mode.  On the other hand, the progressive mode of JPEG does not have any overhead in bit rate over the sequential
+mode of JPEG, whereas the hierarchical mode does.
+
+
+
+
+References
+[1] G.K. Wallace. "The JPEG Still Picture Compression Standard,"
+ Communications of the ACM, 34(4):30--44, July 1991.
+
+
+[2] 
+J. K. Han and G. C. Polyzos, "Networking Applications of Hierarchical
+JPEG,"   1996 IEEE International Phoenix Conference on Computers and
+Communications , IPCCC'96, Phoenix, AZ, March 1996.
+Plaintext Abstract,
+PostScript (7 pages, 1.6M)
+
+(also Technical Report CS95-425, Dept. of Computer Science and
+Engineering, University of California, San Diego, La Jolla, CA, May 1995)
+
+[3] W.B. Pennebaker and J.L. Mitchell.
+"JPEG Still Image Data Compression Standard," Van Nostrand Reinhold, 1993.
+
+
+
+Last updated: December 12, 1995
+
+[Top]
+[Back to Home Page]
+
+
+

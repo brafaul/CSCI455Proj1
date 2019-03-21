@@ -1,0 +1,95 @@
+Date: Tue, 26 Nov 1996 03:45:57 GMT
+Server: NCSA/1.5.2
+Last-modified: Mon, 04 Nov 1996 14:08:36 GMT
+Content-type: text/html
+Content-length: 2777
+
+
+
+Brian Haberman's Home Page
+
+
+
+
+Brian Haberman's Homepage
+
+
+
+
+
+ For every problem, there is a solution that is neat, elegant, simple, and wrong! 
+
+
+
+
+ Welcome to my little corner of the Web.  The contents of the following may not be as they
+appear.  Some settling of contents may have occurred during network transmission.
+
+
+
+The Never-ending Academic Life
+
+
+I am currently working on a Master's of Science degree in Computer Science at
+North Carolina State University.  My research 
+interests include : 
+
+
+Multicast Routing
+
+
+Switching networks 
+
+
+High-speed networks
+
+
+Object-oriented systems
+My thesis committee chairman is George Rouskas.  The other members of my advisory committee are
+Douglas Reeves and 
+Harry Perros.
+
+
+I earned my Bachelor's of Science degree in Computer Science at Clemson University.  My main area of focus was in software design and
+verification.  My advisor was Jeff Offutt.
+
+
+
+
+Work, work, work
+
+
+
+I currently work in IBM's Network Division.  What exactly do I do there???
+
+
+LAN Protocols
+
+
+ATM LAN Emulation
+
+
+Bridge Development
+
+
+Performance
+
+
+
+My Free Time???
+
+
+
+With my work schedule and school, I have very little free time.  But, I always
+make time for Tory.  For those of you who like to surf,
+check out some of these places.
+
+
+Brian Haberman
+
+North Carolina State University
+
+
+This page was last modified on Oct 31, 1996
+
+

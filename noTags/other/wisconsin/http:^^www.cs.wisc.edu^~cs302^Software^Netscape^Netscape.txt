@@ -1,0 +1,30 @@
+Date: Tue, 05 Nov 1996 20:48:43 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 06 Mar 1995 16:48:13 GMT
+Content-length: 924
+
+
+
+Hints for Netscape
+
+
+Hints for Netscape
+Netscape is another World Wide Web browser like Mosaic.  There are
+a few differences between Netscape and Mosaic, but very few should
+have any impact on using the Web for this course.  
+
+Netscape is made by Netscape
+Communications Corporation.  For more information about their
+software, check out their on line information.
+
+ You may find the Bookmarks
+feature of Netscape to be very useful to keep track of your
+instructor's page, assignments, or anything else you might discover.
+
+Last modified: Mon Mar  6 10:48:13 1995 by Michael Lee
+
+michaell@cs.wisc.edu
+
+
+

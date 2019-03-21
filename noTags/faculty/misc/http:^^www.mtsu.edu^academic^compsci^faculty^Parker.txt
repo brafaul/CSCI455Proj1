@@ -1,0 +1,118 @@
+Date: Mon, 25 Nov 1996 21:52:31 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 24 Jul 1995 19:44:25 GMT
+Content-length: 4574
+
+About Mrs. Brenda Parker
+
+Mrs. Brenda Parker
+Assistant Professor
+
+Educational Background
+
+B.S., 1969, Middle Tennessee State University;
+M.S., 1982, Vanderbilt University.  Areas of expertise:
+computer architecture, computers:  high school, 
+computer algorithms.
+
+A List Classes Taught by Dr. Parker
+
+CSCI 100, Computer Literacy
+           CSCI 115, Computer Orientation
+           CSCI 116, Introduction to Computer Science
+           CSCI 117, Computer Science I
+           CSCI 217, Computer Science II
+           CSCI 301, BASIC and FORTRAN programming
+           CSCI 305, Data Structures 
+           CSCI 311, Data Structures 
+           CSCI 313, Introduction to Computer Architecture
+           CSCI 325, Operating Systems I
+           CSCI 405, Data Structures II
+           CSCI 460, Independent Study in Computer Science
+
+
+GRANTS:
+
+               1994, Applied for and received a Faculty Research
+               Grant from MTSU in cooperation with Dr. Judy
+               Hankins to study "The Impact of Accrediation on CS1
+               and CS2"
+               AMOUNT:  $2025.00
+               
+               1994, Applied for and received a Non-Instructional
+               Grant from MTSU to re-evaluate our Computer
+               Architecture, CS313, course
+               AMOUNT:  my regular pay for Spring semester       
+               
+               1993, Applied for and received grant funding from
+               the Board of Regents to support our Middle
+               Tennessee Computing Teachers Alliance
+               AMOUNT: $213.00
+               
+               1992, Applied for and received a Instructional
+               Development  grant along with Dr. Sung Yoo from
+               MTSU to buy software to improve lab facilities,
+               AMOUNT:  $683.00
+               
+               1992, Applied for and received grant funding from
+               the Board of Regents to support our Middle
+               Tennessee Computing Teachers Alliance
+               AMOUNT: $820.00
+
+
+PUBLICATIONS:
+ 
+     Advising Manual          1989
+               Wrote computer science advising manual to be given
+               to all CSCI majors 
+               
+     CSCI 100 Lab Manual      1989-1993
+               Wrote computer science lab manual each year to be
+               used by CSCI 100 students
+
+               
+     Lab Manuals for CS1      1992-1994
+               Wrote lab manuals (3) to be used in closed labs for
+               CS1 students.  To be published by West Publishing
+               Company in 1995
+               
+     Paper                    1993
+               Submitted paper to NECC'94 on K-12 computing
+               education
+               
+     Papers                   1994
+               Submitted three papers to ACM SIGCSE 1995
+               
+     CS brochure              1990
+               Revised, updated and completed the new MTSU
+               computer science brochure
+               
+     NEWSLETTER               1991-present
+               Editor of MTCT alliance NEWSLETTER which is
+               distributed biannually to K-12 computing teachers
+               
+     Lab Manual for CS2       1992
+               Wrote revisions for CS2 closed lab manual
+               
+     Master's Thesis          1986
+               Submitted my research for Master degree.  Thesis
+               was a survey of parallel processing as it has
+               developed over the years and a presentation of its 
+               usage in future computer systems.
+
+
+How to Contact Mrs. Parker
+
+ By E-mail csbrenda@knuth.mtsu.edu
+ By Phone  (615)898-2389
+ In Person:  Kirksey Old Main, Room 353
+
+
+
+
+
+
+
+
+

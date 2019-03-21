@@ -1,0 +1,87 @@
+Date: Thu, 21 Nov 1996 20:32:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+The Chaotic Routing Project
+
+
+ 
+ The Chaotic Routing Project
+
+
+Computer Science & Engineering Department 
+University of Washington,
+     Box 352350 
+Seattle, WA 98195-2350 USA
+
+
+ 
+
+
+
+ Chaos is a friend of mine.
+ -Bob Dylan 
+
+
+
+ 
+
+  Chaotic People
+
+All sorts of  people work on the Chaotic Routing project.
+
+
+
+   Research Papers and Technical Reports 
+
+A repository of all of the research papers
+and technical reports  of the Chaotic
+Routing project is available.
+
+  Chaos Router Chip 
+
+The 
+Chaos Router Chip  is an implementation of the chaos routing algorithm in hardware.  It 
+has been built and tested in 1.2 micron CMOS, and redesigned in a 0.8 micron process for 
+better performance.
+
+  Simulator 
+
+The 
+Chaos Router Simulator  is a powerful simulator which can simulate all
+sorts of networks and routing algorithms.  It includes a very nice  graphical
+front end!
+
+
+  Standards for Presentation of Results 
+
+At  PCRCW '94,  we discussed the presentation
+of simulation results for routing algorithms.  We were able to come up
+with some  guidelines
+ for presentation of results.
+
+  Other Research Groups 
+
+We're building a list of all  research groups  that
+have webs describing research in routing and/or interconnection networks.
+
+  Parallel Computer Routing and Communication Workshop (PCRCW) '94 
+
+PCRCW '94 was held at the Univeristy of Washington in Seattle in May
+1994.  Proceedings are available now.
+
+
+
+
+
+
+
+
+The University of Washington CSE home Page 
+
+
+kwb@cs.washington.edu
+
+

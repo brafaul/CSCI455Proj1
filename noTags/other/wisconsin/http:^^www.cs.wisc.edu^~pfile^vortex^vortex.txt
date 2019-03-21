@@ -1,0 +1,100 @@
+Date: Tue, 05 Nov 1996 00:25:42 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Aug 1995 22:55:22 GMT
+Content-length: 3994
+
+
+
+Vortex: Semi-custom hardware for a Typhoon prototype 
+
+
+Vortex/Typhoon-Zero
+
+
+
+Vortex is a standard-width MBUS board designed to work with a dual
+hyperSparc processor module. It provides tag services on up to 128M of
+physical memory, as well as a dispatch mechanism for message and
+memory block access fault handler code.
+
+When installed in each 
+COW node, Vortex will
+allow Tempest codes to run with hardware assisted block access
+control/message dispatch, which allows memory to be shared on a
+cache-line (32-byte) basis across nodes. The COW + Vortex is
+referred to as Typhoon-Zero, and is intended as a prototype/feasibilty study for Typhoon, a more sophisticated hardware platform for Tempest codes. The
+board does not implement any kind of DSM protocol; instead it provides
+hardware assistance for the Tempest mechanisms, giving the user the
+freedom to implement whatever policies are desired.
+
+
+Here is a paper describing more than you ever wanted to know about Vortex:
+
+
+PostScript (1.6MB) (beware, 150 pages!)
+
+
+Gzipped PostScript (347KB), (150 pages!)
+
+
+PostScript (1.4MB) (no source code; 60 pages)
+
+
+Gzipped PostScript (302KB), (no source code; 60 pages)
+
+
+BinHexed Stuffed PostScript (Macintosh) (412KB) (no source code; 60 pages)
+
+
+HTML (Browseable Online Version) (no source code)
+
+
+
+ Sorry Windoze & DOS lunatics, no .lzh or .zip here! 
+
+Status
+
+Verilog code started, Sep 94
+Initial Vortex logic finished (verilog), Nov 94
+Intra-FPGA timing goals met Nov 94 
+Repartitioned for inter-FPGA timing, Dec 94
+Exhaustive simulation testing (against Viking model) Jan-Feb 95
+PC board design Feb-Mar 95
+4 boards fabbed 21 Mar 95
+1 board stuffed (minus FPGAs) 22 Mar 95
+Clock generation circuits test OK 22 Mar 95
+Test on hold; waiting for FPGAs
+5 FPGAs delivered from Altera 4 Apr 95
+Final board assembly 5 Apr 95
+PLL bug fixed 5 Apr 95
+Good test of uncacheable registers & tags  5 Apr 95
+Good test of cacheable registers & master CI 6 Apr 95
+Good test of master CRI (user tag downgrade) 7 Apr 95
+Good test of Tempest snooping (CR to RO/Inv only) 7 Apr 95
+schip msh_ bug fixed 8 Apr 95
+Good test of all Vortex functions against hyperSparc in SS-10 12 Apr 95
+Good test against hyperSparc in SS-20 (50MHz) 17 Apr 95
+Random test program exposes snooping bug, fixed 28 Apr 95
+Snooping bug fix creates block buffer bug, fixed 6 May 95
+Board passes random test 9 May 95
+Second board built 10 May 95
+Second board passes random test 11 May 95
+Working Tempest port to Typhoon-Zero (Steve Reinhardt) 3 Jun 95
+
+
+Pictures
+ Click here for a
+large picture of the bare Vortex board.
+ Click here for a
+large picture of the partially-stuffed prototype board.
+ 
+This is Vortex Rev. A, S/N 001, Mod Level B.
+
+Thanks to Soeren Christensen for the pictures. 
+ back to rob pfile's home page
+
+ Last Changed: 30 Aug 95 
+
+
+

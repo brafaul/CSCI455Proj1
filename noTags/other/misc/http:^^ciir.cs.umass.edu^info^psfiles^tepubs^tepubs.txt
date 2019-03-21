@@ -1,0 +1,130 @@
+Date: Tue, 14 Jan 1997 21:50:08 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 06 Jan 1997 16:27:57 GMT
+Content-length: 9595
+
+
+
+
+CIIR Information Extraction Publications
+
+
+
+Center for Intelligent Information Retrieval
+Online Information Extraction Bibliography
+
+This list includes only those IE publications that are available
+online for downloading. Additional IE publications can be found in
+the full CIIR Bibliography.
+(Just look for the publications marked with "TE" numbers).
+
+
+ (1993) Lehnert, W. 
+"Natural Language Processing Overview" (from the 1993 Research Brochure for the 
+Department of Computer Science at the University of Massachusetts, Amherst). [411,768 bytes]
+
+
+TE-2: (1991) Lehnert, W. "Symbolic/Subsymbolic
+Sentence Analysis:  Exploiting the Best of Two Worlds"   In Advances in Connectionist and Neural Computation
+Theory, Vol. I.  John A. Barnden and Jordan Pollack (eds.), Ablex
+Publishing, Norwood, New Jersey,  135-164. [1,841,598 bytes]
+
+TE-5:  (1991) Lehnert, W. and Sundheim,
+B., "A Performance Evaluation of Text-Analysis Technologies," AI
+Magazine, 81-94. [5,000,107 bytes] Note: a shorter version of this
+paper without graphics can be found here [462,043 bytes]
+
+TE-10: (1992) Fisher D. and Riloff E., 
+"Applying 
+Statistical Methods to Small Corpora: Benefiting from a Limited Domain," 
+AAAI Symposium on Probabilistic Approaches to Natural Language,
+47-53. [146,181 bytes]
+
+TE-18:  (1994) Lehnert, W.G., Cardie, C., Fisher, D., McCarthy, J., Riloff, E., and Soderland, S.,  "Evaluating an
+Information Extraction System," Journal of Integrated
+Computer-Aided Engineering, 1(6). [5,432,753 bytes] Note: a shorter
+version of this paper without graphics can be found here [723,510 bytes]
+
+TE-19:       (1993) Cardie, C., "A
+Case-Based Approach to Knowledge Acquisition for Domain-Specific
+Sentence Analysis,"  Proceedings of the Eleventh National
+Conference on Artificial Intelligence, 798-803. [130,572 bytes]
+
+TE-21:       (1993) Riloff, E., 
+"Automatically Constructing a Dictionary for Information Extraction
+Tasks," Proceedings of the Eleventh National Conference on Artificial
+Intelligence, 811-816. [66,388 bytes]
+
+TE-24: (1994) Riloff, E. and Lehnert, W.G.,
+  "Information Extraction as a Basis for High-Precision Text
+Classification," ACM Transactions on Information Systems, 296-333. [1,159,585 bytes]
+
+
+TE-26:       (1994) Soderland, S. and Lehnert, W. G., "Corpus-Driven Knowledge Acquisition for
+Discourse Analysis," Proceedings of the Twelfth National
+Conference on Artificial Intelligence, 827 -832. [195,305 bytes]
+
+TE-30:  (1993) Lehnert, W., McCarthy, J.,
+Soderland, S., Riloff, E., Cardie, C., Peterson, J., Feng, F.,Dolan,
+C., and Goldman, S., "UMASS/HUGHES:  Description of the CIRCUS System Used for MUC-5," Proceedings of the Fifth Message Understanding Conference,pp. 277-291. [1,730,199 bytes]
+
+TE-32: (1994)  "Inductive Text Classification for Medical Applications", W. Lehnert, S.
+Soderland, D. Aronow, F. Feng, and A. Shmueli, to appear in the Journal for
+Experimental and Theoretical Artificial Intelligence (JETAI). 7(1), pp. 49-80, 1994.
+
+TE-33:  (1994)   Lehnert, W.G. "Cognition,
+Computers and Car Bombs: How Yale Prepared Me for the
+90's",  in Beliefs, Reasoning, and Decision Making: Psycho-logic in
+Honor of Bob Abelson (eds: Schank & Langer), Lawrence Erlbaum
+Associates, Hillsdale, NJ. pp. 143-173. [3,533,386 bytes] Note: a shorter version of this paper without graphics can be found here [1,233,582 bytes]
+
+TE-34: (1994) S. Soderland and
+W. Lehnert, "Wrap Up:  a Trainable
+Discourse Module for Information Extraction,"Journal of Artificial Intelligence Research.  [442,608 bytes]
+94-074: (1994) C. Cardie "Domain-specific Knowledge Acquisition for Conceptual Sentence Analysis," PhD Thesis. Dept. of Computer Science Technical Report.
+
+95-004: (1995) E. Riloff, "Information Extraction as a Basis for Portable Text Classification Systems," PhD Thesis. Dept. of Computer Science Technical Report.
+
+TE-35: (1995) S. Soderland and W. Lehnert, "Learning Domain-Specific Discourse Rules for Information Extraction" 1995 AAAI Spring Symposium on Empirical Methods in Discourse Interpretation and Generation. [161,729 bytes] 
+
+TE-36: (1995) J. McCarthy and W. Lehnert,
+"Using Decision Trees for Coreference
+Resolution," 
+Proceedings of the Fourteenth International Joint Conference on
+Artificial Intelligence.
+
+TE-37: (1995) 
+S. Soderland, D. Fisher, J. Aseltine, W. Lehnert,
+"Issues in Inductive Learning of 
+Domain-Specific Text Extraction Rules," 
+Proceedings of the Workshop on New Approaches to Learning for
+Natural Language Processing at the Fourteenth International Joint Conference on
+Artificial Intelligence.
+
+TE-38: (1995) S. Soderland, D. Fisher, J. Aseltine, W. Lehnert,
+"CRYSTAL: Inducing a Conceptual Dictionary,"
+ Proceedings of the Fourteenth International Joint Conference on
+Artificial Intelligence, pp. 1314-1319.
+
+TE-39: (1995) S. Soderland, D. Aronow, D. Fisher, J.  Aseltine, W. Lehnert, "Machine Learning of Text Analysis Rules for Clinical Records,"  CIIR Technical Report.
+
+TE-40: (1996) D. Fisher, S. Soderland, J. McCarthy, F. Feng and W. Lehnert, "Description of the UMass Systems as Used for MUC-6," Proceedings of the 6th Message Understanding Conference, 1996. Columbia, MD.
+ 
+
+TE-43: (1996) S. Soderland. "CRYSTAL: Learning Domain-specific Text Analysis Rules," CIIR Technical Report
+
+
+96-078: (1996) J. McCarthy, "A Trainable Approach to Coreference Resolution for Information Extraction," PhD Thesis. Dept. of Computer Science Technical Report.
+
+96-087: (1996) S. Soderland. "Learning Text Analysis Rules for Domain-specific Natural Language Processing," PhD Thesis. Dept. of Computer Science Technical Report.
+
+
+
+Visit the complete CIIR Bibliography.
+
+ 
+Comments: Peter Richards, richards@cs.umass.edu.
+
+
+

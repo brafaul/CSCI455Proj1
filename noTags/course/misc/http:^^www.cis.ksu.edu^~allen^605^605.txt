@@ -1,0 +1,56 @@
+Date: Wed, 20 Nov 1996 22:39:26 GMT
+Server: NCSA/1.5.1
+Last-modified: Sat, 16 Nov 1996 21:24:28 GMT
+Content-type: text/html
+Content-length: 1990
+
+
+
+CIS 605
+
+
+CIS 605 -- Programming Languages
+Semester: Fall 1996
+Instructor: Allen Stoughton
+
+Course syllabus
+Course calendar
+E-mail messages
+sml605
+Programming Problems
+
+Programming Problem 1
+Programming Problem 2
+Programming Problem 3
+Programming Problem 4
+Programming Problem 5
+
+Exercise Sets
+
+Exercise Set 1
+Model answers to Exercise Set 1 (Exercises 1 and 2)
+Model answers to Exercise Set 1 (Exercises 3 and 4)
+
+Examinations
+
+Last semester's Mid-term Examination
+Model answers to last semester's Mid-term Examination
+Last semester's Final Examination
+Model answers to last semester's Final Examination
+Mid-term Examination
+Model answers to Mid-term Examination
+
+Emacs support for ML
+Resources
+
+Supplement to course textbook
+Description of the ML Library
+Further information about ML
+
+
+
+Allen Stoughton
+(allen@cis.ksu.edu)
+
+
+

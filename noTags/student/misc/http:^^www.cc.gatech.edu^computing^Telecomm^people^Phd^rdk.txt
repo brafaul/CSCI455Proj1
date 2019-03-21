@@ -1,0 +1,177 @@
+Date: Thu, 21 Nov 1996 22:14:05 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 6456
+Last-modified: Fri, 15 Nov 1996 17:03:29 GMT
+
+
+
+Bobby� Krupczak Information Page 
+
+
+Bobby� Krupczak
+
+
+Bobby� Krupczak is a PhD student in the 
+College of Computing, at
+theGeorgia Institute
+of Technology.
+
+He is a member of the Telecommunications/Networking Group.
+Bobby�'s research interests include network
+protocols, protocol environments, operating systems, distributed
+computing, and network management.  The 
+Protocol Playground has more information on his current work.
+
+
+Bobby� received a B.S.C.S in Engineering from the
+University of Florida along time ago.  After working for a 3 letter
+computer company that got bought by a 3 letter long-distance company
+(and then sold again) (and getting married to a fabulous babe), Bobby�
+returned to pursue PhD studies, here at the College of Computing.  He
+was awarded a M.S. in Computer Science in June of 1993.  He is
+currently pursing a PhD and had hoped to be out of here by the Olympics
+but that (obviously) didn't happen.  Bobby� does
+not like to be called 'Robert', 'Bob�', 'Rob', or 'Robby'.  He
+simply prefers Bobby�.
+
+
+
+Publications:
+
+Bobby� Krupczak, Ken Calvert, Mostafa Ammar.
+"Protocol Portability through Module Encapsulation",
+Proceedings of the International Conference on Network Protocols
+(ICNP-96), Columbus, Ohio, October 29 - November 1, 1996. pg 56-63.
+
+
+Bobby� Krupczak, Ken Calvert, Mostafa Ammar.
+
+"Protocol Portability through Module Encapsulation",Technical
+Report GIT-CC-96-12, Georgia Institute of Technology, April, 1996.
+
+Bobby� Krupczak, Mostafa Ammar, Ken Calvert.
+"Multi-Subsystem Protocol Architectures: Motivation and Experience
+with an Adapter-Based Approach", Proceedings of the IEEE INFOCOM
+'96
+
+Bobby� Krupczak, Mostafa Ammar, Ken Calvert.
+"Multi-Subsystem Protocol Architectures: Motivation and Experience
+with an Adapter-Based Approach (Extended Abstract)",Proceedings of
+the Third Workshop on High-Performance Communications Subsystems
+(HPCS-95)
+
+Bobby� Krupczak, Mostafa Ammar, Ken Calvert.
+
+"Multi-Subsystem Protocol Architectures: Motivation and Experience
+with an Adapter-Based Approach",Technical Report GIT-CC-95-08,
+Georgia Institute of Technology, Februrary, 1995.
+
+Bert Lindgren, Bobby� Krupczak, Mostafa Ammar, and
+Karsten Schwan. 
+
+"An architecture and toolkit for parallel and configurable protocols.",
+Proceedings of the International Conference on Network Protocols
+(ICNP-93), Sept. 1993.
+
+Bert Lindgren, Bobby� Krupczak, Mostafa Ammar, and
+Karsten Schwan. "Parallelism and Configurability in High Performance
+Protocol Architectures.",Proceedings of the Second Workshop on
+High-Performance Communications Subsystems (HPCS-93)
+
+Bobby� Krupczak
+"UNIX Systems Management via SNMP", Proceedings of the IFIP
+TC6/WG6.6 Third International Symposium on Integrated Network
+Management, April 1993. 
+
+
+Bobby� Krupczak
+"Systems Management and the Internet Management Framework",
+ConneXions, Volume 9, No. 8, August 1995.
+
+
+Bobby� Krupczak and Steve Hultquist "Managing the 
+InteropNet�" ConneXions, Volume 10, No. 5, May 1996.
+
+
+
+Dissertation Work:
+
+Please refer to the protocol
+playground for more information.
+
+
+
+My advisors are 
+Mostafa Ammar and 
+Ken Calvert.
+
+
+
+
+
+
+
+
+ 
+Before grad school.
+
+
+After 3 years of grad school.
+
+
+After 5 years of grad school**.
+
+
+My House, Tarleton
+
+
+Below are video clips of it during the course of its construction.
+
+
+What it looked like near completion
+(1.4meg MPEG)
+The foundation (2.8meg MPEG)
+The framed basement (1.6meg MPEG)
+The framed 1st floor (1.2meg MPEG)
+
+
+Brandon's Homepage
+
+Brandon Robert Krupczak was born May 15th, 1996 at 4:53pm.  Below are
+some pictures in chronological order.
+
+
+
+
+
+
+
+
+
+
+
+
+Contact information:
+College of Computing
+801 Atlantic Drive
+Georgia Institute of Technology
+Atlanta, Georgia 30332-0280
+404.894.6739
+404.894.0272 (fax)
+E-mail :
+rdk@cc.gatech.edu
+rdk@empiretech.com
+
+*Bob and its derivatives are trademarks of the 
+Microsoft Corporation
+
+**Photo of me after 5 years of grad school courtesy of McDonalds Corporation.  (Just
+kidding, its not really me.)
+
+
+My Hotlist or Bookmarks
+Last updated by rdk
+Tue Nov 12 14:56:48 EST 1996
+
+

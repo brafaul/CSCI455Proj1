@@ -1,0 +1,49 @@
+Date: Mon, 02 Dec 1996 15:12:20 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 567 Online Documentation
+
+
+CSE 567: Principles of Digital Systems Design 
+Carl Ebeling, Fall 1996 
+
+Notes on synthesis for homework #3.
+
+Cadence online documentation.
+To get to the Cadence online documenation, run "openbook".  You'll
+probably have to source the $UW_VLSI_TOOLS/setups/cadence.cshrc file
+first.  We use Verilog-XL simulator for all our simulation.  The
+documentation you might want to look at are under "HDL
+Tools->Verilog-XL Simulation":
+
+Verilog-XL Reference
+Verilog-XL Tutorial 
+Verilog-XL User Guide
+
+
+Synopsys online documentation.
+To get to the Synopsys online documentation, run "iview".  You'll
+probably have to source the $UW_VLSI_TOOLS/setups/synopsys.cshrc file
+first.  The Synopsys documentation of interest includes:
+
+Synthesis:
+   
+HDL Compiler for Verilog Reference Manual
+   FPGA Compiler Reference Manua
+   
+Tutorials:
+   
+DesignSource Tutorial for Verilog
+   
+
+
+
+
+
+ebeling@cs.washington.edu
+
+
+

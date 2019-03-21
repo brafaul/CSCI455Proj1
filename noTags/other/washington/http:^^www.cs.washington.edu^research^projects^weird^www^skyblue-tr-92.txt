@@ -1,0 +1,57 @@
+Date: Tue, 10 Dec 1996 03:26:02 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+The SkyBlue Constraint Solver
+
+
+The SkyBlue Constraint Solver
+
+
+Author: Michael Sannella
+
+
+
+Published as UW Tech Report 92-07-02.
+
+
+
+Abstract
+
+A constraint describes a relationship that should be maintained, for
+example that the equality A+B=C holds between three variables, that a set
+of displayed objects are aligned, or that the elements in a data structure
+are consistent with a graphic display of this structure.  Constraint
+solvers have been successfully applied to problems in computer graphics
+including geometric design and user interface construction.  This paper
+presents the SkyBlue constraint solver, an efficient incremental algorithm
+that uses local propagation to maintain sets of required and preferential
+constraints.  SkyBlue is a successor to the DeltaBlue algorithm, which was
+used as the constraint solver in the ThingLab II user interface development
+environment.  DeltaBlue has two limitations: cycles of constraints are
+prohibited, and the procedures used to satisfy a constraint can only have a
+single output.  SkyBlue relaxes these restrictions, allowing cycles of
+constraints to be constructed (although SkyBlue may not be able to satisfy
+all of the constraints in a cycle) and supporting multi-output methods.
+The SkyBlue algorithm has been incorporated into Multi-Garnet, an extended
+version of the Garnet user interface development system that supports
+multi-way constraints.  Multi-Garnet has been used to build several user
+interfaces exploiting the features of SkyBlue that would have been
+difficult to build within Garnet.  This paper describes the basic SkyBlue
+algorithm and outlines several techniques that significantly improve its
+performance for large constraint graphs.  Performance measurements are
+presented demonstrating that SkyBlue is efficient enough to use in
+interactive user interfaces.
+
+
+
+
+
+Click 
+here to get the postscript file.
+
+
+
+Return to Constraints home page

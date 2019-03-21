@@ -1,0 +1,83 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:27:05 GMT
+Content-Type: text/html
+Content-Length: 2760
+Last-Modified: Friday, 26-Apr-96 04:38:31 GMT
+
+
+
+
+
+
+
+Find Properties of Horus Stacks
+
+
+
+Find Properties of Horus Stacks
+
+
+See also
+Validating the Horus Protocols
+
+
+
+The tool below allows you to build Horus stacks and see interactively
+what kind of communications properties they will give you.
+
+
+In ``Add/delete'' mode,
+click on a ``network'' button (lower right-hand side of the applet)
+to define or redefine which network you'll be working over.
+Click on the ``layers'' buttons at the right to drop new layers
+on top of the stack.
+Click on layers in the stack to delete them.
+Look on the left side to see what kind of properties the designer
+of a user application over this stack might want to provide,
+and the properties that the protocol stack will provide when the
+application provides the checked-off properties.
+(If you see checkboxes, you can click on them to experiment with 
+providing or not providing the requested properties.)
+
+
+In ``Document'' mode, clicking on the name of a layer or property
+will produce a window describing the layer or property.
+
+
+Try stacking the SIGN and NAK layers on top of UDP.
+Notice that it makes a big difference in which order the layers are
+stacked.
+Notice that CHKSUM and NAK over UDP is not very good (because
+the stack is subject to attacks by an intruder), but if you replace
+UDP with a physically secure network (called Secure in this demo)
+you do better.
+
+ 
+Notice that you can remove the MaxSend application requirement by
+adding the appropriate-sized FRAG layer on top of NAK.  
+This is the usual approach.
+A less usual approach is to put FRAG directly over the network,
+and layer SIGN (or CHKSUM, depending on the security of your network)
+and NAK on top of that.  Try it.
+
+
+(The interactive Horus stack property-finder should appear
+in this space.  You must not have the ability to run Java applets.
+Too bad!)
+
+
+
+See also
+Validating the Horus Protocols
+
+
+
+Copyright Fri Apr 26 00:03:12 EDT 1996 by Cornell University. 
+Maintained by
+David A. Karr.
+Send corrections to
+karr@cs.cornell.edu.
+
+
+

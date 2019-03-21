@@ -1,0 +1,111 @@
+Date: Tue, 26 Nov 1996 00:10:00 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 08 Apr 1996 17:38:33 GMT
+Content-length: 4796
+
+
+
+
+Rice Compiler Group
+
+
+
+Rice Compiler Group
+
+
+Members of the Rice Compiler Group focus on compiling imperative programs for modern computer architectures. Projects in the Compiler Group include (1) the Massively Scalar Compiler Project (MSCP), which concentrates on compilers for advanced microprocessors, and (2) the Fortran Parallel Programming Systems, or Fortran Tools, project, which concentrates on compilers and tools to support machine-independent parallel programming in Fortran. 
+
+
+ Projects
+
+ Massively Scalar Compilier Project (MSCP)
+ Fortran Parallel Programming Systems
+
+
+ People
+
+ Faculty
+ Research Scientists
+ Staff
+ Graduate Students
+ Undergraduate Students
+ "Alumni"
+
+
+ Related Links
+
+ Rice University home page
+ Rice Computer Science home page
+ Center for Research on Parallel Computation (CRPC) home page
+
+
+
+
+
+ Faculty
+
+ Keith Cooper
+ Ken Kennedy
+ John Mellor-Crummey
+ Linda Torczon
+ Scott Warren
+
+ Research Scientists
+
+ Vikram Adve
+ Alan Carle
+ Gil Hansen
+ Chuck Koelbel
+
+ Staff
+
+ Ellen Butler
+ Debbie Campbell
+ Tim Harvey
+ Lisa Thomas
+ Lei Zhou
+
+ Graduate Students
+
+ Mark Anderson
+ Linlong Jiang
+ John Lu
+ Nat McIntosh
+ Nenad Nedeljkovic
+ Mike Paleczny
+ Jerry Roth
+ Phillip Schielke
+ Ajay Sethi
+ Taylor Simpson
+ Edmar Wienskoski
+
+ Undergraduate Students
+
+ Christine Patton
+ Scott Royston
+
+ "Alumni"
+
+ Preston Briggs
+ Cliff Click, Hewlett Packard
+ Mary Hall, Caltech 
+ Reinhard von Hanxleden, Daimler Benz AG, Germany
+ Paul Havlak, University of Maryland, College Park
+ Seema Hiranandani, Silicon Graphics
+ Uli Kremer
+ Lorie Liebrock
+ Kathryn McKinley
+ Hariklia Tsalapatas
+ Chau-Wen Tseng, University of Maryland, College Park 
+
+
+
+
+
+Rice University - Rice Computer Science - Center for Research on Parallel Computation (CRPC)
+
+
+
+
+http://www.cs.rice.edu/CS/compilers/

@@ -1,0 +1,100 @@
+Date: Fri, 13 Dec 1996 14:49:37 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 23 May 1996 14:30:37 GMT
+Content-length: 5181
+
+ 
+
+
+Susan Calcari's Home Page
+
+
+ Susan Calcari
+Manager, Net Scout Services
+Computer Sciences Department
+University of Wisconsin - Madison
+scal@cs.wisc.edu
+My title is Internet Scout, and I manage  Net Scout Services from the  Computer Sciences Department at the  University of Wisconsin-Madison. Scout
+Services is a project of the InterNIC
+and is supported by the National Science
+Foundation. Net Scout Services supports Internet users in the
+higher-education community by providing timely information about the best
+resources and tools on the Internet. Our goal is to help researchers and
+educators use the Internet effectively in their work. Each week we filter 
+hundreds of items about the Internet, edit and organize the most 
+important, and present the information in multiple usable formats.
+ Services include the Scout Report, the Scout Toolkit, Net-happenings, and coming soon
+the Scout Sprouts Report, a newsletter written by kids for kids. 
+
+Over 35,000 people receive the Scout Report each week via email, and
+thousands more read it on the Web. The Scout Report is an annotated
+listing of the best new and newly discovered Internet resources and tools,
+and it is the only publication of its kind devoted to the research and
+education community.  The Scout Report is very selective in the items
+included in each issue.  Over 10,000 people receive Net-happenings
+postings every weekday, and again, thousands more read it via the Web or
+the newsgroup each day.  See the Net Scout Services page for more
+information on these and other services. 
+
+ Professional Background 
+ I have been involved in nation-wide Internet projects since 1989 when
+I joined Merit, Inc., in Ann Arbor, the organization that managed the
+NSFNET backbone project from 1987-1995. I worked in the Information
+Services division of the project, and spent three years speaking to
+national and international higher-education audiences about the Internet
+and its resources. I also developed and produced the Merit Network Seminar
+Series, the first national seminar series focused on the needs of Internet
+end-users. 
+
+ Later I became the Director of Network Information Services for
+CERFnet, a respected Internet provider based in San Diego. While there I
+co-wrote the proposal which resulted in the award of part of the InterNIC
+project under a 5 year cooperative agreement with the National Science
+Foundation (NSF). In the third year of the agreement, NSF terminated the
+portion of the InterNIC based in San Diego, but chose to continue the work
+of the Internet Scout. At that time I elected to relocate to Wisconsin and
+requested that NSF approve the relocation of the Scout project to the
+Computer Sciences department at UW - Madison, to which they heartily
+agreed. 
+
+ Future Plans for Scout Services
+At this time the Scout Services staff includes Jack Solock, Special
+Librarian, and myself. During May the project will expand with the
+addition of 2 FTE, including an open  System
+Administrator position and an open  Special
+Librarian position. On June 6 Matthew Livesey will join the staff as a
+Project Assistant. Goals for the new staff will include expansion of the
+Scout Toolkit and the addition of discipline-specific services, such as
+Scout Reports and Web pages devoted to specific areas of study. 
+
+During 1996 Scout Services will also branch into one or more research
+areas in collaboration with InterNIC Support Services and with groups at 
+UW-Madison and other U.S. campuses. Potential research topics include
+network information discovery and retrieval (NIDR), and
+discipline-oriented information gathering and publication. Depending on
+the nature of the research, additional staff will be hired and will
+include
+computer science researchers at the graduate and undergraduate levels.
+
+ For More Information
+ Visit our Web site to find out more about Scout Services or to join any of
+our mailing lists.  If
+you are interested in applying for any of our open positions, see the
+online job descriptions for the  System
+Administrator or  Special Librarian and send a
+resume and a writing sample to the address below.  Or feel free to contact
+me via telephone or email.
+
+Susan Calcari
+Internet Scout 
+Computer Sciences Department
+University of Wisconsin - Madison
+1210 W. Dayton Street  Rm. 3379
+Madison, WI  53706
+scal@cs.wisc.edu
+ 608.265.8042
+
+
+
+

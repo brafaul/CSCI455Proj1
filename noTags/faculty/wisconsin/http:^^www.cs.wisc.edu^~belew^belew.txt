@@ -1,0 +1,78 @@
+Date: Thu, 07 Nov 1996 19:09:46 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 26 Sep 1996 16:10:14 GMT
+Content-length: 3453
+
+
+Rik Belew
+
+
+    
+ Next:  Introduction
+ 
+
+Richard K. Belew 
+Cognitive Computer Science Research Group
+Computer Science Dept.
+Univ. Wisconsin - Madison
+belew@cs.wisc.edu
+ April, 1996
+
+
+
+
+
+
+I am an associate professor of Computer Science, with special research
+interests in machine learning and free-text information retrieval.
+Virtually all of this work has been done with students, as part of a
+research group we call the Cognitive Computer
+Science Research Group.  I've tried to give an overview of the
+research we've done in the sections below.  If you are looking for a
+particular paper, you can proceed directly to the References
+section, where a number of them can be found online.
+
+
+  Recent activities at U. Wisc.  
+
+ CS838 (F'96): Finding Out About 
+Information Retrieval and other technologies for seeking knowledge
+
+ Course home page
+
+
+ Adaptive Individuals in Evolving Populations
+
+Information about, and portions of, book, 
+editted with Melanie Mitchell (Santa Fe Inst.) to be published May, 1996.
+
+
+Slides from Overview talk given to U. Wisc. 
+Complex Systems Seminar, 27 Sept 95.
+
+
+
+
+  Research Interests 
+
+  Introduction
+  Adaptive information retrieval
+
+  Programmed and learned knowledge
+  IR issues
+  Electronic artifacts
+
+  Genetic algorithms
+
+  GA adaptation
+  Evolution of Neural Networks
+  Artificial Life
+
+  Conclusion
+ References
+
+
+
+
+rik@cs.ucsd.edu

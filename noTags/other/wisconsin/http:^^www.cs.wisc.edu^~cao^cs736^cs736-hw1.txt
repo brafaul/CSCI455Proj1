@@ -1,0 +1,63 @@
+Date: Mon, 11 Nov 1996 17:32:15 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 25 Jan 1996 08:02:16 GMT
+Content-length: 2384
+
+
+
+ CS 736 Assignment #1 (Spring 96)
+
+
+ CS 736 Assignment #1 (Spring 96)
+Here is an informal description of assignment #1.
+Step 1: 
+Download lmbench from here; 
+Unpack it, /bin/sh each part;
+Build the benchmark and run it, get results; 
+Step 2: 
+Read the benchmark source and documents;
+
+Step 3: 
+Build and run lmbench on a different operating system;
+
+Step 4: 
+Write your own routine measuring the following:
+
+How long does it take to do an integer add op?  (doesn't have
+   to be complicated; you can ignore pipeline or other hardware details.)
+How long does a null procedure call take?  Vary the number of arguments passed;
+Measure system call latency using three different system calls other than write;
+Measure context switch overhead using semaphores, instead of pipes;
+Measure signal handling cost (hint. you can use mprotect);
+Measure page fault handling cost for zero-filled pages, instead of mmaped pages;
+Measure file open/close, creation/deletion latency in directories containing
+	16, 64, 256 and 1024 files, on local file systems and AFS or NFS file
+	systems;
+Measure the latency of file read/write using different approaches:
+	. UNIX read/write system call;
+	. stream io library (i.e. stdio);
+	. mmap;
+   Vary the size of each read/write.
+
+Write a simulator for memory server using TCP/IP and UDP/IP, in which the
+	the client send a request asking for certain buffer page, and the
+	server respond by sending out a page.  Measure the latency of such
+	operations, for page sizes of 4K, 8K and 32K bytes.
+With two or more clients simultaneously asking for service from the
+    simulated memory server, measure the average response time of page requests.
+
+Step 5:
+Read the log-structured file system paper (Rosenblum & Ousterhout), 
+section 5.1, reproduce the microbenchmark results on Sun OS.
+
+Bonus points:
+Measure anythings that interests you, and report your results.
+
+
+What to submit:
+A brief description of what you measured, and how you did it;
+A list of your results; use graphs when appropriate;
+The benchmark routines, with a Makefile showing how to build and run them.
+
+

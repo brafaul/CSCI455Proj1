@@ -1,0 +1,52 @@
+Date: Tue, 14 Jan 1997 18:52:55 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 07 Nov 1996 22:15:37 GMT
+Content-length: 2478
+
+
+People in the CSDL
+   CSDL Staff
+
+Senior faculty and staff
+Prof. Richard Furuta
+(furuta@bush.cs.tamu.edu)
+Prof. John Leggett (leggett@bush.cs.tamu.edu)
+Dr. Frank Shipman (shipman@bush.cs.tamu.edu)
+Graduate Students
+Donald Brenner (dbrenner@bush.cs.tamu.edu)
+ Hao-Wei Hsieh
+(haowei@bush.cs.tamu.edu)
+Shueh-Cheng Hu (shuehu@bush.cs.tamu.edu)
+David Kingery (kingery@bush.cs.tamu.edu)
+Vassilis Kostovassilis (vkostov@bush.cs.tamu.edu)
+Vijay Kumar (vijayk@bush.cs.tamu.edu)
+Tom McCollum (thomas@bush.cs.tamu.edu)
+Dave Minnigerode (minniger@bush.cs.tamu.edu)
+Peter Nürnberg (pnuern@bush.cs.tamu.edu)
+
+Matthias Richter (richter@bush.cs.tamu.edu)
+Erich Schneider (erich@bush.cs.tamu.edu)
+S. Augustine Su (su@bush.cs.tamu.edu)
+Bin Xiao (b0x9330@bush.cs.tamu.edu)
+
+Affiliated Faculty and Researchers
+Leland Ellis (leland@straylight.tamu.edu)
+Stephan L. Hatch (s-hatch@tamu.edu)
+James Manhart (manhart@bio.tamu.edu)
+Catherine Marshall (marshall@parc.xerox.com)
+J. Alfredo Sánchez (alfredo@cca.pue.udlap.mx)
+John L. Schnase (schnase@mobot.org)
+Eduardo Urbina (e-urbina@tamu.edu)
+Hugh Wilson (wilson@bio.tamu.edu)
+Visiting Scholars
+
+Klaus Tochtermann (tochterm@bush.cs.tamu.edu)
+
+Graduated Students
+
+Flavio Azevedo (fazevedo@garnet.berkeley.edu)
+Holly Patterson (hollyp@falcon.tamucc.edu)
+
+
+

@@ -1,0 +1,149 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:37:29 GMT
+Content-Type: text/html
+Content-Length: 5209
+Last-Modified: Friday, 15-Nov-96 18:50:35 GMT
+
+
+
+CS381/481 Fall 96 Course Information
+
+
+
+CS381/481 Fall 1996
+Automata and Computability Theory
+Course Information
+
+
+Table of Contents
+
+Personnel
+Time and Place
+Office Hours
+Sources
+Homework and Exams
+CS381 vs. CS481
+
+
+Personnel
+Instructors
+
+381: David Pearson
+pearson@cs.cornell.edu
+Upson 5133
+255-9189
+
+
+
+481: Dexter Kozen
+kozen@cs.cornell.edu
+Upson 5143
+255-9209
+
+
+Teaching Assistants
+
+381: Francis Chu
+fcc@cs.cornell.edu
+5153 Upson 
+255-1237
+
+
+
+481: Nikolay Mateev
+mateev@cs.cornell.edu
+4156 Upson
+255-5033
+
+
+Time and Place
+
+381: MWF 9:05-9:55 Olin 245
+481: MWF 9:05-9:55 Snee 1120 
+
+
+Office Hours
+
+ Kozen: Upson 5143, TTh 10-11:30am 
+ Pearson: Upson 5133, MWF 10-11am
+ Chu: Upson 5153, TuTh 2:30-4:00pm
+ Mateev: Upson 343B, MWF 2:30-3:30pm
+
+
+Sources
+Texts
+
+There is no required text.  The entire course is covered by the
+lecture notes, which are accessible online from the course home page.
+The notes are also available in hardcopy for $7 from Linda Mardel,
+5147 Upson.
+
+You may also find the following supplementary texts useful.  They are
+on reserve in the Engineering Library, Carpenter Hall.
+
+
+ J. E. Hopcroft and J. D. Ullman. Introduction to Automata
+Theory, Languages, and Computation.  Addison-Wesley, 1979.
+ H. Lewis and C. Papadimitriou. Elements of the Theory of
+Computation.  Prentice-Hall, 1981.
+ M. A. Harrison. Introduction to Formal Language Theory.
+Addison-Wesley, 1978.
+ N. J. Cutland. Computability. Cambridge Univ. Press, 1980.
+
+Handouts
+
+All handouts, homework sets, etc. will be available online.  They are
+accessible from the course home page.  Most of the notes are in
+postscript format, so you will need access to a postscript previewer
+such as "ghostview" or postscript printer.  All the printers in the
+undergraduate labs handle postscript.  Please contact us if you
+experience difficulties.
+
+ Homework sets and handouts will be posted periodically.  It is
+your responsibility to check for new postings.  New postings will be
+announced in the newsgroup cornell.class.cs481.
+
+Public Newsgroup
+
+A public newsgroup cornell.class.cs481 has been created for
+technical discussions, questions, and announcements concerning 381 and
+481.  Please feel free to use this group as you would any newsgroup or
+bulletin board.  Free-ranging technical discussions are especially
+encouraged.  We will try to respond to questions posted to this group
+within one working day.
+
+
+Homework and Exams
+
+There will be weekly homework assignments consisting of 4-6 problems,
+due Wednesday at 4pm.  You can pass it in in class on Wednesday
+morning, or get it to the appropriate TA before 4pm without penalty.
+You must pass it in to the TA, not to the instructor, secretary, or
+undergrad office.  Slip it under his door if he's not there; he'll
+collect them shortly after 4pm.  No late homework will be accepted
+without a good excuse.  Please clear it with the TA in advance if
+possible.  We will have the homework graded and back to you by Friday.
+Homework must be submitted in hardcopy form; no email, please.
+Homework assignments and solutions will be available online and
+accessible from the course home page.
+
+ There will be two 50-minute prelim exams and one 100 minute
+(cumulative) final exam.  Exams are open book and notes.
+
+ The prelims, final and homework will each be worth approximately a
+third of your grade.
+
+
+CS381 vs. CS481
+
+CS381 and CS481 follow roughly the same syllabus, but 481 is
+faster-paced and goes into more depth.  It is meant for more
+theoretically inclined students, grad students, and undergrads bound
+for grad school.  Corrective shifting is encouraged in the first few
+weeks.  If you are not sure which course is right for you, please come
+talk to us.
+
+
+
+CS381/481 home page

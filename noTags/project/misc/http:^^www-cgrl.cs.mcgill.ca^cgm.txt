@@ -1,0 +1,79 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 26-Nov-96 01:00:13 GMT
+Content-Type: text/html
+Content-Length: 2552
+Last-Modified: Tuesday, 19-Nov-96 19:34:50 GMT
+
+
+
+
+Computational Geometry Lab at McGill
+
+
+The Computational  Geometry Lab at McGill
+Welcome to the slightly refurbished web page of the computational geometry
+lab at McGill. We are part of the School
+of Computer Science here at McGill.
+Some things you might be looking for:
+
+How to reach us
+Faculty
+Visitors and Postdoctoral
+Researchers
+Students and alumni
+Some information
+about our research
+The computational
+geometry bibliography
+ Cryptography related files
+
+
+
+How reach us
+By mail or courier
+
+Computational Geometry Laboratory 
+School of Computer Science
+McGill University
+3480 University Street , Suite 318
+Montreal, Quebec H3A 2A7
+CANADA
+
+By Electronic Mail
+
+cgm-help@cgm.cs.mcgill.ca
+
+By phone
+
+(514) 398-4838
+
+
+
+Faculty
+
+Professor David Avis
+Professor Luc Devroye
+Professor Godfried Toussaint
+Professor Sue Whitesides
+
+
+
+Visitors and Postdoctoral
+Researchers
+
+Dr. Sylvain Lazard 
+Dr. Naixun Pei 
+Dr. Suneeta Ramaswami 
+Dr. Stephen Wismath
+
+
+Students and Alumni
+
+David Bremner 
+ Min Kong 
+ Alain Turki 
+
+
+
+
